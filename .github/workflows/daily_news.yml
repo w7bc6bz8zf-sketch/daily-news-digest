@@ -26,8 +26,8 @@ jobs:
       - name: Run news digest
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GMAIL_USER:        ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_USER:        ${{ secrets.EMAIL_USER }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:   ${{ secrets.RECIPIENT_EMAIL }}
           MAX_STORIES:       "12"
           HOURS_BACK:        "24"
