@@ -27,24 +27,32 @@ HOURS_BACK         = int(os.environ.get("HOURS_BACK", "24"))    # look-back wind
 # Each tuple: (source_name, category, feed_url)
 FEEDS = [
     # World & Politics
-    ("Reuters",          "🌍 World",      "https://feeds.reuters.com/reuters/topNews"),
-    ("AP News",          "🌍 World",      "https://feeds.apnews.com/rss/apf-topnews"),
-    ("BBC World",        "🌍 World",      "http://feeds.bbci.co.uk/news/world/rss.xml"),
-    ("The Guardian",     "🌍 World",      "https://www.theguardian.com/world/rss"),
+    ("Reuters",          "🌍 Мир",            "https://feeds.reuters.com/reuters/topNews"),
+    ("AP News",          "🌍 Мир",            "https://feeds.apnews.com/rss/apf-topnews"),
+    ("BBC World",        "🌍 Мир",            "http://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("The Guardian",     "🌍 Мир",            "https://www.theguardian.com/world/rss"),
 
     # Economics & Markets
-    ("Reuters Business", "📈 Economy",    "https://feeds.reuters.com/reuters/businessNews"),
-    ("The Economist",    "📈 Economy",    "https://www.economist.com/latest/rss.xml"),
-    ("FT",               "📈 Economy",    "https://www.ft.com/rss/home/uk"),
+    ("Reuters Business", "📈 Экономика",      "https://feeds.reuters.com/reuters/businessNews"),
+    ("The Economist",    "📈 Экономика",      "https://www.economist.com/finance-and-economics/rss.xml"),
+    ("The Economist W.", "🌍 Мир",            "https://www.economist.com/international/rss.xml"),
+    ("FT",               "📈 Экономика",      "https://www.ft.com/rss/home/uk"),
+    ("Bloomberg",        "📈 Экономика",      "https://feeds.bloomberg.com/markets/news.rss"),
 
     # Technology & AI
-    ("MIT Tech Review",  "💡 Tech & AI", "https://www.technologyreview.com/feed/"),
-    ("Ars Technica",     "💡 Tech & AI", "https://feeds.arstechnica.com/arstechnica/index"),
-    ("The Verge",        "💡 Tech & AI", "https://www.theverge.com/rss/index.xml"),
+    ("MIT Tech Review",  "💡 Технологии",     "https://www.technologyreview.com/feed/"),
+    ("Ars Technica",     "💡 Технологии",     "https://feeds.arstechnica.com/arstechnica/index"),
+    ("The Verge",        "💡 Технологии",     "https://www.theverge.com/rss/index.xml"),
 
-    # Business & FMCG
-    ("HBR",              "💼 Business",   "http://feeds.hbr.org/harvardbusiness"),
-    ("Forbes",           "💼 Business",   "https://www.forbes.com/innovation/feed/"),
+    # Business, Marketing & FMCG
+    ("HBR",              "💼 Бизнес",         "http://feeds.hbr.org/harvardbusiness"),
+    ("Forbes",           "💼 Бизнес",         "https://www.forbes.com/innovation/feed/"),
+    ("Adweek",           "📣 Маркетинг",      "https://www.adweek.com/feed/"),
+    ("Marketing Week",   "📣 Маркетинг",      "https://www.marketingweek.com/feed/"),
+    ("The Drum",         "📣 Маркетинг",      "https://www.thedrum.com/rss.xml"),
+    ("Retail Dive",      "🛒 FMCG & Ритейл", "https://www.retaildive.com/feeds/news/"),
+    ("Food Dive",        "🛒 FMCG & Ритейл", "https://www.fooddive.com/feeds/news/"),
+    ("Grocery Dive",     "🛒 FMCG & Ритейл", "https://www.grocerydive.com/feeds/news/"),
 ]
 
 
@@ -84,33 +92,33 @@ def fetch_recent_entries(hours_back: int = 24) -> list[dict]:
 
 # ── Claude synthesis ──────────────────────────────────────────────────────────
 
-CLUSTER_PROMPT = """You are a senior world editor. Below is a JSON list of news entries from the past 24 hours.
+CLUSTER_PROMPT = """Ты — опытный редактор международного новостного дайджеста. Ниже — JSON-список новостных записей за последние 24 часа из источников: Reuters, AP, BBC, The Economist, FT, Bloomberg, HBR, Forbes, MIT Tech Review, Adweek, Marketing Week, The Drum, Retail Dive, Food Dive, Grocery Dive и других.
 
-Your tasks:
-1. Identify the {max_stories} most important, globally significant stories.
-2. For each story, group all entries that cover the same event (even if from different sources).
-3. Return a JSON array (no markdown, no extra text) with exactly this shape:
+Твои задачи:
+1. Выбери {max_stories} самых важных и интересных историй. Обязательно включи новости из категорий: геополитика, экономика, технологии/AI, бизнес-тренды, маркетинг, FMCG и ритейл.
+2. Для каждой истории сгруппируй все записи об одном событии (даже если они из разных источников).
+3. Верни JSON-массив (без markdown, без лишнего текста) строго в таком формате:
 
 [
   {{
-    "category": "🌍 World",        // use the most fitting category from the entries
-    "headline": "Short punchy headline",
-    "summary": "2–3 sentence synthesis combining perspectives from multiple sources. Be factual, balanced, mention disagreements if any.",
+    "category": "🌍 Мир",
+    "headline": "Короткий ёмкий заголовок на русском",
+    "summary": "2–3 предложения на русском: синтез нескольких источников, фактически и сбалансированно. Если источники расходятся во мнениях — упомяни это. Пиши живо, как для умного читателя.",
     "sources": [
       {{"name": "Reuters", "url": "https://..."}},
-      {{"name": "BBC",     "url": "https://..."}}
+      {{"name": "The Economist", "url": "https://..."}}
     ]
   }}
 ]
 
-Rules:
-- Prefer stories covered by 2+ sources — that signals real importance.
-- Avoid entertainment, sports, and celebrity gossip.
-- Prioritise: geopolitics, macro-economy, AI/tech breakthroughs, major business moves, FMCG & consumer trends.
-- Write summaries in English, neutral tone.
-- Include real URLs from the entries.
+Правила:
+- Предпочитай истории, которые освещают 2+ источника — это признак реальной значимости.
+- Исключи: развлечения, спорт, светская хроника, локальные новости без мирового значения.
+- Обязательно включи хотя бы 2–3 истории про маркетинг, бизнес-тренды или FMCG/ритейл, если они есть в данных.
+- Заголовки и резюме — только на русском языке. Названия компаний, брендов и собственные имена — в оригинале или общепринятой русской транскрипции.
+- Используй реальные URL из записей.
 
-Entries:
+Записи:
 {entries_json}
 """
 
@@ -189,11 +197,11 @@ def render_html(stories: list[dict], generated_at: str) -> str:
   <div style="background:linear-gradient(135deg,#1e3a8a 0%,#2563eb 100%);padding:40px 32px 32px;">
     <div style="max-width:640px;margin:0 auto;">
       <div style="font-size:11px;letter-spacing:2px;color:#93c5fd;text-transform:uppercase;
-                  margin-bottom:8px;">Your Daily Briefing</div>
+                  margin-bottom:8px;">Ежедневный дайджест</div>
       <h1 style="margin:0 0 6px;font-size:28px;font-weight:800;color:#fff;">
-        🌐 World News Digest
+        🌐 Мировые новости
       </h1>
-      <div style="font-size:13px;color:#bfdbfe;">{generated_at} · Top {len(stories)} stories</div>
+      <div style="font-size:13px;color:#bfdbfe;">{generated_at} · {len(stories)} главных историй</div>
     </div>
   </div>
 
@@ -204,9 +212,9 @@ def render_html(stories: list[dict], generated_at: str) -> str:
     <!-- Footer -->
     <div style="text-align:center;padding-top:16px;border-top:1px solid #e2e8f0;">
       <p style="font-size:12px;color:#94a3b8;margin:0;">
-        Sources: Reuters · AP · BBC · The Economist · FT · MIT Tech Review · Ars Technica ·
-        The Verge · HBR · Forbes · The Guardian<br>
-        Generated automatically via GitHub Actions + Claude
+        Reuters · AP · BBC · The Economist · FT · Bloomberg · MIT Tech Review ·
+        HBR · Forbes · Adweek · Marketing Week · The Drum · Retail Dive · Food Dive<br>
+        Автоматически собирается через GitHub Actions + Claude
       </p>
     </div>
   </div>
