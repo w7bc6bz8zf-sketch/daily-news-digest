@@ -21,7 +21,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install feedparser anthropic
+        run: pip install feedparser anthropic trafilatura requests
 
       - name: Run news digest
         env:
