@@ -1,31 +1,37 @@
 #!/usr/bin/env python3
 """
-Daily News Digest — fetches top stories from premium RSS feeds,
-synthesises multi-source summaries via Claude, and sends an HTML email.
+Daily News Digest — двухпроходный агрегатор:
+  Проход 1: отбор топ-историй из RSS по заголовкам
+  Проход 2: загрузка полного текста → глубокий анализ Claude
 """
 
 import os
 import json
-import time
 import random
 import smtplib
 import feedparser
 import anthropic
+import trafilatura
+import requests
 from datetime import datetime, timezone, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from typing import Optional
 
 # ── Config ────────────────────────────────────────────────────────────────────
 RECIPIENT_EMAIL    = os.environ.get("RECIPIENT_EMAIL", "sullaro@yandex.ru")
-GMAIL_USER         = os.environ.get("EMAIL_USER")
-GMAIL_APP_PASSWORD = os.environ.get("EMAIL_APP_PASSWORD")
+EMAIL_USER         = os.environ.get("EMAIL_USER")
+EMAIL_APP_PASSWORD = os.environ.get("EMAIL_APP_PASSWORD")
 ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY")
-MAX_STORIES        = int(os.environ.get("MAX_STORIES", "35"))   # stories in digest
-HOURS_BACK         = int(os.environ.get("HOURS_BACK", "24"))    # look-back window
+MAX_STORIES        = int(os.environ.get("MAX_STORIES", "35"))
+HOURS_BACK         = int(os.environ.get("HOURS_BACK", "24"))
+FULL_TEXT_CHARS    = 3000   # символов полного текста на источник
+FETCH_TIMEOUT      = 12     # секунд на загрузку страницы
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; NewsDigestBot/1.0)"
+}
 
 # ── RSS feeds ─────────────────────────────────────────────────────────────────
-# Each tuple: (source_name, category, feed_url)
 FEEDS = [
     # World & Politics
     ("Reuters",           "🌍 Мир",            "https://feeds.reuters.com/reuters/topNews"),
@@ -73,128 +79,180 @@ FEEDS = [
     ("Food Dive",         "🛒 FMCG & Ритейл", "https://www.fooddive.com/feeds/news/"),
     ("Grocery Dive",      "🛒 FMCG & Ритейл", "https://www.grocerydive.com/feeds/news/"),
     ("Consumer Goods",    "🛒 FMCG & Ритейл", "https://www.consumergoods.com/rss.xml"),
-    ("Nielsen IQ Blog",   "🛒 FMCG & Ритейл", "https://nielseniq.com/global/en/insights/feed/"),
 ]
 
 
-# ── Feed fetching ─────────────────────────────────────────────────────────────
+# ── Проход 1: сбор RSS ────────────────────────────────────────────────────────
 
-def fetch_recent_entries(hours_back: int = 24) -> list[dict]:
-    """Fetch all RSS entries from the last `hours_back` hours."""
+def fetch_rss_entries(hours_back: int) -> list[dict]:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_back)
     entries = []
 
     for source, category, url in FEEDS:
         try:
             feed = feedparser.parse(url)
-            for e in feed.entries[:20]:   # limit per feed
+            for e in feed.entries[:20]:
                 published = None
                 for attr in ("published_parsed", "updated_parsed"):
                     if hasattr(e, attr) and getattr(e, attr):
                         published = datetime(*getattr(e, attr)[:6], tzinfo=timezone.utc)
                         break
-                # include if within window OR timestamp unavailable (keep recent-looking items)
                 if published and published < cutoff:
                     continue
                 entries.append({
                     "source":   source,
                     "category": category,
                     "title":    e.get("title", "").strip(),
-                    "summary":  e.get("summary", e.get("description", ""))[:600].strip(),
+                    "snippet":  e.get("summary", e.get("description", ""))[:300].strip(),
                     "link":     e.get("link", ""),
-                    "published": published.isoformat() if published else "",
                 })
         except Exception as ex:
-            print(f"[WARN] Failed to fetch {source}: {ex}")
+            print(f"[WARN] RSS {source}: {ex}")
 
-    print(f"[INFO] Fetched {len(entries)} entries from {len(FEEDS)} feeds")
-    return entries
+    print(f"[INFO] Собрано {len(entries)} записей из {len(FEEDS)} фидов")
+
+    # Перемешиваем, чтобы ни один источник не доминировал при обрезке
+    random.shuffle(entries)
+    return entries[:500]
 
 
-# ── Claude synthesis ──────────────────────────────────────────────────────────
+# ── Проход 1: отбор топ-историй Claude ───────────────────────────────────────
 
-CLUSTER_PROMPT = """Ты — опытный редактор международного новостного дайджеста. Ниже — JSON-список новостных записей за последние 24 часа из источников: Reuters, AP, BBC, The Economist, FT, Bloomberg, HBR, Forbes, MIT Tech Review, Adweek, Marketing Week, The Drum, Retail Dive, Food Dive, Grocery Dive и других.
+SELECT_PROMPT = """Ты — редактор мирового новостного дайджеста. Ниже JSON-список новостных записей за 24 часа.
 
-Твои задачи:
-1. Выбери {max_stories} самых важных и интересных историй. Обязательно включи новости из категорий: геополитика, экономика, технологии/AI, бизнес-тренды, маркетинг, FMCG и ритейл.
-2. Для каждой истории сгруппируй все записи об одном событии (даже если они из разных источников).
-3. Верни JSON-массив (без markdown, без лишнего текста) строго в таком формате:
+Задача: выбери {max_stories} самых важных историй и сгруппируй их по событию.
+Для каждой истории верни список URL всех источников, которые её освещают.
 
+Верни JSON-массив (без markdown, без лишнего текста):
 [
   {{
     "category": "🌍 Мир",
-    "headline": "Короткий ёмкий заголовок на русском",
-    "summary": "2–3 предложения на русском: синтез нескольких источников, фактически и сбалансированно. Если источники расходятся во мнениях — упомяни это. Пиши живо, как для умного читателя.",
+    "working_title": "Рабочий заголовок события",
     "sources": [
       {{"name": "Reuters", "url": "https://..."}},
-      {{"name": "The Economist", "url": "https://..."}}
+      {{"name": "BBC",     "url": "https://..."}}
     ]
   }}
 ]
 
-Правила:
-- Предпочитай истории, которые освещают 2+ источника — это признак реальной значимости.
-- Исключи: развлечения, спорт, светская хроника, локальные новости без мирового значения.
-- Обязательно включи хотя бы 2–3 истории про маркетинг, бизнес-тренды или FMCG/ритейл, если они есть в данных.
-- Заголовки и резюме — только на русском языке. Названия компаний, брендов и собственные имена — в оригинале или общепринятой русской транскрипции.
-- Используй реальные URL из записей.
+Правила отбора:
+- Предпочитай истории, освещённые 2+ источниками.
+- Исключи: спорт, светскую хронику, развлечения, локальные новости.
+- Обязательно включи истории из категорий: маркетинг, бизнес-тренды, FMCG/ритейл, технологии/AI — если они есть.
+- Используй только реальные URL из данных.
 
 Записи:
 {entries_json}
 """
 
-
-def synthesise_with_claude(entries: list[dict]) -> list[dict]:
-    """Use Claude to cluster, rank and summarise the entries."""
+def select_stories(entries: list[dict]) -> list[dict]:
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
-    # Trim payload to avoid token limits
-    trimmed = [
-        {"source": e["source"], "category": e["category"],
-         "title": e["title"], "summary": e["summary"][:300], "link": e["link"]}
-        for e in entries
-    ]
-    # Cap at 400 entries max; shuffle so no single source dominates the cutoff
-    if len(trimmed) > 400:
-        random.shuffle(trimmed)
-        trimmed = trimmed[:400]
+    payload = [{"source": e["source"], "category": e["category"],
+                "title": e["title"], "snippet": e["snippet"], "url": e["link"]}
+               for e in entries]
 
-    prompt = CLUSTER_PROMPT.format(
+    prompt = SELECT_PROMPT.format(
         max_stories=MAX_STORIES,
-        entries_json=json.dumps(trimmed, ensure_ascii=False, indent=2)
+        entries_json=json.dumps(payload, ensure_ascii=False)
     )
 
-    print("[INFO] Calling Claude for synthesis …")
-    message = client.messages.create(
-        model="claude-haiku-4-5-20251001",   # fast + cheap for daily automation
+    print("[INFO] Проход 1: отбор историй …")
+    msg = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=8000,
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    raw = msg.content[0].text.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+    selected = json.loads(raw)
+    print(f"[INFO] Отобрано {len(selected)} историй")
+    return selected
+
+
+# ── Проход 2: загрузка полного текста ────────────────────────────────────────
+
+def fetch_full_text(url: str) -> str:
+    """Загружает полный текст статьи через trafilatura."""
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=FETCH_TIMEOUT)
+        text = trafilatura.extract(resp.text, include_comments=False,
+                                   include_tables=False, no_fallback=False)
+        if text:
+            return text[:FULL_TEXT_CHARS]
+    except Exception as ex:
+        print(f"[WARN] Не удалось загрузить {url}: {ex}")
+    return ""
+
+def enrich_with_full_text(selected: list[dict]) -> list[dict]:
+    """Добавляет полный текст к каждому источнику каждой истории."""
+    for story in selected:
+        for src in story.get("sources", []):
+            print(f"[INFO] Загружаю: {src['name']} — {src['url'][:70]}")
+            src["full_text"] = fetch_full_text(src["url"])
+    return selected
+
+
+# ── Проход 2: глубокий анализ Claude ─────────────────────────────────────────
+
+ANALYSE_PROMPT = """Ты — аналитик мирового уровня, пишущий ежедневный дайджест для образованного читателя.
+
+Ниже — JSON с отобранными историями. Для каждой истории есть полный текст из нескольких источников.
+
+Напиши финальный дайджест. Верни JSON-массив (без markdown):
+[
+  {{
+    "category": "🌍 Мир",
+    "headline": "Точный, информативный заголовок на русском (не кликбейт)",
+    "summary": "4–6 предложений на русском. Объясни: что произошло, почему это важно, какие последствия, как оценивают разные источники. Пиши аналитически — добавляй контекст, причины, возможные сценарии развития. Тон: умный журнал уровня The Economist, но на русском.",
+    "sources": [
+      {{"name": "Reuters", "url": "https://..."}},
+      {{"name": "BBC",     "url": "https://..."}}
+    ]
+  }}
+]
+
+Правила:
+- Используй всю глубину полных текстов — цифры, цитаты, детали.
+- Если источники расходятся во мнениях — покажи обе стороны.
+- Заголовок и резюме — только на русском. Названия брендов/компаний — в оригинале.
+- Сохрани исходную категорию и URL источников.
+
+Истории с полными текстами:
+{stories_json}
+"""
+
+def analyse_stories(selected: list[dict]) -> list[dict]:
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+
+    prompt = ANALYSE_PROMPT.format(
+        stories_json=json.dumps(selected, ensure_ascii=False)
+    )
+
+    print("[INFO] Проход 2: глубокий анализ …")
+    msg = client.messages.create(
+        model="claude-haiku-4-5-20251001",
         max_tokens=16000,
         messages=[{"role": "user", "content": prompt}]
     )
 
-    raw = message.content[0].text.strip()
-    # strip possible markdown code fences
-    if raw.startswith("```"):
-        raw = "\n".join(raw.split("\n")[1:])
-        if raw.endswith("```"):
-            raw = raw[:-3]
-
+    raw = msg.content[0].text.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
     stories = json.loads(raw)
-    print(f"[INFO] Claude returned {len(stories)} stories")
+    print(f"[INFO] Готово {len(stories)} аналитических историй")
     return stories
 
 
-# ── HTML template ─────────────────────────────────────────────────────────────
+# ── HTML-шаблон ───────────────────────────────────────────────────────────────
 
 def render_html(stories: list[dict], generated_at: str) -> str:
     story_cards = ""
     for s in stories:
         sources_html = "".join(
             f'<a href="{src["url"]}" style="display:inline-block;margin:3px 6px 3px 0;'
-            f'padding:3px 10px;background:#f0f4ff;border-radius:20px;color:#2563eb;'
+            f'padding:4px 12px;background:#f0f4ff;border-radius:20px;color:#2563eb;'
             f'text-decoration:none;font-size:12px;font-weight:500;">{src["name"]}</a>'
             for src in s.get("sources", [])
         )
-
         story_cards += f"""
       <div style="background:#fff;border-radius:12px;padding:24px 28px;margin-bottom:20px;
                   box-shadow:0 1px 4px rgba(0,0,0,.08);border-left:4px solid #2563eb;">
@@ -202,87 +260,89 @@ def render_html(stories: list[dict], generated_at: str) -> str:
                     text-transform:uppercase;margin-bottom:8px;">{s.get('category','')}</div>
         <h2 style="margin:0 0 12px;font-size:18px;font-weight:700;color:#0f172a;
                    line-height:1.35;">{s.get('headline','')}</h2>
-        <p style="margin:0 0 16px;font-size:15px;color:#334155;line-height:1.7;">
+        <p style="margin:0 0 16px;font-size:15px;color:#334155;line-height:1.75;">
           {s.get('summary','')}
         </p>
         <div>{sources_html}</div>
       </div>"""
 
     return f"""<!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Daily Digest</title>
+  <title>Ежедневный дайджест</title>
 </head>
 <body style="margin:0;padding:0;background:#f1f5f9;font-family:-apple-system,BlinkMacSystemFont,
              'Segoe UI',Helvetica,Arial,sans-serif;">
 
-  <!-- Header -->
   <div style="background:linear-gradient(135deg,#1e3a8a 0%,#2563eb 100%);padding:40px 32px 32px;">
-    <div style="max-width:640px;margin:0 auto;">
+    <div style="max-width:660px;margin:0 auto;">
       <div style="font-size:11px;letter-spacing:2px;color:#93c5fd;text-transform:uppercase;
                   margin-bottom:8px;">Ежедневный дайджест</div>
-      <h1 style="margin:0 0 6px;font-size:28px;font-weight:800;color:#fff;">
-        🌐 Мировые новости
-      </h1>
-      <div style="font-size:13px;color:#bfdbfe;">{generated_at} · {len(stories)} главных историй</div>
+      <h1 style="margin:0 0 6px;font-size:28px;font-weight:800;color:#fff;">🌐 Мировые новости</h1>
+      <div style="font-size:13px;color:#bfdbfe;">{generated_at} · {len(stories)} историй</div>
     </div>
   </div>
 
-  <!-- Body -->
-  <div style="max-width:640px;margin:0 auto;padding:28px 16px 48px;">
+  <div style="max-width:660px;margin:0 auto;padding:28px 16px 48px;">
     {story_cards}
-
-    <!-- Footer -->
     <div style="text-align:center;padding-top:16px;border-top:1px solid #e2e8f0;">
       <p style="font-size:12px;color:#94a3b8;margin:0;">
-        Reuters · AP · BBC · The Economist · FT · Bloomberg · MIT Tech Review ·
-        HBR · Forbes · Adweek · Marketing Week · The Drum · Retail Dive · Food Dive<br>
+        Reuters · AP · BBC · The Economist · FT · Bloomberg · WSJ · MIT Tech Review ·
+        Wired · TechCrunch · HBR · Forbes · McKinsey · Adweek · Marketing Week ·
+        The Drum · Ad Age · Retail Dive · Food Dive · Grocery Dive и др.<br>
         Автоматически собирается через GitHub Actions + Claude
       </p>
     </div>
   </div>
-
 </body>
 </html>"""
 
 
-# ── Email sending ─────────────────────────────────────────────────────────────
+# ── Отправка письма ───────────────────────────────────────────────────────────
 
 def send_email(html_body: str, subject: str) -> None:
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
-    msg["From"]    = GMAIL_USER
+    msg["From"]    = EMAIL_USER
     msg["To"]      = RECIPIENT_EMAIL
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
-    print(f"[INFO] Sending email to {RECIPIENT_EMAIL} …")
+    print(f"[INFO] Отправляю на {RECIPIENT_EMAIL} …")
     with smtplib.SMTP_SSL("smtp.yandex.ru", 465) as server:
-        server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
-        server.sendmail(GMAIL_USER, RECIPIENT_EMAIL, msg.as_string())
-    print("[INFO] Email sent ✓")
+        server.login(EMAIL_USER, EMAIL_APP_PASSWORD)
+        server.sendmail(EMAIL_USER, RECIPIENT_EMAIL, msg.as_string())
+    print("[INFO] Письмо отправлено ✓")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    now_utc   = datetime.now(timezone.utc)
-    # Display time in Moscow (UTC+3)
-    moscow_tz = timezone(timedelta(hours=3))
-    now_moscow = now_utc.astimezone(moscow_tz)
-    date_str  = now_moscow.strftime("%A, %d %B %Y · %H:%M MSK")
-    subject   = f"📰 Daily Digest — {now_moscow.strftime('%d %b %Y')}"
+    moscow_tz  = timezone(timedelta(hours=3))
+    now_moscow = datetime.now(timezone.utc).astimezone(moscow_tz)
+    date_str   = now_moscow.strftime("%A, %d %B %Y · %H:%M МСК")
+    subject    = f"📰 Дайджест — {now_moscow.strftime('%d %b %Y')}"
 
-    entries = fetch_recent_entries(HOURS_BACK)
+    # 1. Сбор RSS
+    entries = fetch_rss_entries(HOURS_BACK)
     if not entries:
-        print("[WARN] No entries fetched — aborting.")
+        print("[WARN] Нет записей — выходим.")
         return
 
-    stories = synthesise_with_claude(entries)
-    html    = render_html(stories, date_str)
+    # 2. Отбор топ-историй
+    selected = select_stories(entries)
+
+    # 3. Загрузка полных текстов
+    selected = enrich_with_full_text(selected)
+
+    # 4. Глубокий анализ
+    stories = analyse_stories(selected)
+
+    # 5. Рендер и отправка
+    html = render_html(stories, date_str)
     send_email(html, subject)
-    print("[DONE] Digest delivered.")
+    print("[DONE] Дайджест доставлен.")
 
 
 if __name__ == "__main__":
