@@ -7,6 +7,7 @@ synthesises multi-source summaries via Claude, and sends an HTML email.
 import os
 import json
 import time
+import random
 import smtplib
 import feedparser
 import anthropic
@@ -20,39 +21,59 @@ RECIPIENT_EMAIL    = os.environ.get("RECIPIENT_EMAIL", "sullaro@yandex.ru")
 GMAIL_USER         = os.environ.get("EMAIL_USER")
 GMAIL_APP_PASSWORD = os.environ.get("EMAIL_APP_PASSWORD")
 ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY")
-MAX_STORIES        = int(os.environ.get("MAX_STORIES", "12"))   # stories in digest
+MAX_STORIES        = int(os.environ.get("MAX_STORIES", "35"))   # stories in digest
 HOURS_BACK         = int(os.environ.get("HOURS_BACK", "24"))    # look-back window
 
 # ── RSS feeds ─────────────────────────────────────────────────────────────────
 # Each tuple: (source_name, category, feed_url)
 FEEDS = [
     # World & Politics
-    ("Reuters",          "🌍 Мир",            "https://feeds.reuters.com/reuters/topNews"),
-    ("AP News",          "🌍 Мир",            "https://feeds.apnews.com/rss/apf-topnews"),
-    ("BBC World",        "🌍 Мир",            "http://feeds.bbci.co.uk/news/world/rss.xml"),
-    ("The Guardian",     "🌍 Мир",            "https://www.theguardian.com/world/rss"),
+    ("Reuters",           "🌍 Мир",            "https://feeds.reuters.com/reuters/topNews"),
+    ("AP News",           "🌍 Мир",            "https://feeds.apnews.com/rss/apf-topnews"),
+    ("BBC World",         "🌍 Мир",            "http://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("The Guardian",      "🌍 Мир",            "https://www.theguardian.com/world/rss"),
+    ("Al Jazeera",        "🌍 Мир",            "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("Foreign Policy",    "🌍 Мир",            "https://foreignpolicy.com/feed/"),
+    ("Politico",          "🌍 Мир",            "https://www.politico.com/rss/politicopicks.xml"),
 
     # Economics & Markets
-    ("Reuters Business", "📈 Экономика",      "https://feeds.reuters.com/reuters/businessNews"),
-    ("The Economist",    "📈 Экономика",      "https://www.economist.com/finance-and-economics/rss.xml"),
-    ("The Economist W.", "🌍 Мир",            "https://www.economist.com/international/rss.xml"),
-    ("FT",               "📈 Экономика",      "https://www.ft.com/rss/home/uk"),
-    ("Bloomberg",        "📈 Экономика",      "https://feeds.bloomberg.com/markets/news.rss"),
+    ("Reuters Business",  "📈 Экономика",      "https://feeds.reuters.com/reuters/businessNews"),
+    ("The Economist",     "📈 Экономика",      "https://www.economist.com/finance-and-economics/rss.xml"),
+    ("The Economist W.",  "🌍 Мир",            "https://www.economist.com/international/rss.xml"),
+    ("The Economist B.",  "💼 Бизнес",         "https://www.economist.com/business/rss.xml"),
+    ("FT",                "📈 Экономика",      "https://www.ft.com/rss/home/uk"),
+    ("Bloomberg",         "📈 Экономика",      "https://feeds.bloomberg.com/markets/news.rss"),
+    ("Bloomberg Tech",    "💡 Технологии",     "https://feeds.bloomberg.com/technology/news.rss"),
+    ("WSJ",               "📈 Экономика",      "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"),
 
     # Technology & AI
-    ("MIT Tech Review",  "💡 Технологии",     "https://www.technologyreview.com/feed/"),
-    ("Ars Technica",     "💡 Технологии",     "https://feeds.arstechnica.com/arstechnica/index"),
-    ("The Verge",        "💡 Технологии",     "https://www.theverge.com/rss/index.xml"),
+    ("MIT Tech Review",   "💡 Технологии",     "https://www.technologyreview.com/feed/"),
+    ("Ars Technica",      "💡 Технологии",     "https://feeds.arstechnica.com/arstechnica/index"),
+    ("The Verge",         "💡 Технологии",     "https://www.theverge.com/rss/index.xml"),
+    ("Wired",             "💡 Технологии",     "https://www.wired.com/feed/rss"),
+    ("TechCrunch",        "💡 Технологии",     "https://techcrunch.com/feed/"),
 
-    # Business, Marketing & FMCG
-    ("HBR",              "💼 Бизнес",         "http://feeds.hbr.org/harvardbusiness"),
-    ("Forbes",           "💼 Бизнес",         "https://www.forbes.com/innovation/feed/"),
-    ("Adweek",           "📣 Маркетинг",      "https://www.adweek.com/feed/"),
-    ("Marketing Week",   "📣 Маркетинг",      "https://www.marketingweek.com/feed/"),
-    ("The Drum",         "📣 Маркетинг",      "https://www.thedrum.com/rss.xml"),
-    ("Retail Dive",      "🛒 FMCG & Ритейл", "https://www.retaildive.com/feeds/news/"),
-    ("Food Dive",        "🛒 FMCG & Ритейл", "https://www.fooddive.com/feeds/news/"),
-    ("Grocery Dive",     "🛒 FMCG & Ритейл", "https://www.grocerydive.com/feeds/news/"),
+    # Business, Strategy & Trends
+    ("HBR",               "💼 Бизнес",         "http://feeds.hbr.org/harvardbusiness"),
+    ("Forbes",            "💼 Бизнес",         "https://www.forbes.com/innovation/feed/"),
+    ("McKinsey",          "💼 Бизнес",         "https://www.mckinsey.com/insights/rss"),
+    ("Fast Company",      "💼 Бизнес",         "https://www.fastcompany.com/latest/rss"),
+    ("Inc.",              "💼 Бизнес",         "https://www.inc.com/rss"),
+    ("Business Insider",  "💼 Бизнес",         "https://feeds.businessinsider.com/custom/all"),
+
+    # Marketing & Advertising
+    ("Adweek",            "📣 Маркетинг",      "https://www.adweek.com/feed/"),
+    ("Marketing Week",    "📣 Маркетинг",      "https://www.marketingweek.com/feed/"),
+    ("The Drum",          "📣 Маркетинг",      "https://www.thedrum.com/rss.xml"),
+    ("Campaign",          "📣 Маркетинг",      "https://www.campaignlive.co.uk/rss"),
+    ("Ad Age",            "📣 Маркетинг",      "https://adage.com/rss"),
+
+    # FMCG & Retail
+    ("Retail Dive",       "🛒 FMCG & Ритейл", "https://www.retaildive.com/feeds/news/"),
+    ("Food Dive",         "🛒 FMCG & Ритейл", "https://www.fooddive.com/feeds/news/"),
+    ("Grocery Dive",      "🛒 FMCG & Ритейл", "https://www.grocerydive.com/feeds/news/"),
+    ("Consumer Goods",    "🛒 FMCG & Ритейл", "https://www.consumergoods.com/rss.xml"),
+    ("Nielsen IQ Blog",   "🛒 FMCG & Ритейл", "https://nielseniq.com/global/en/insights/feed/"),
 ]
 
 
@@ -66,7 +87,7 @@ def fetch_recent_entries(hours_back: int = 24) -> list[dict]:
     for source, category, url in FEEDS:
         try:
             feed = feedparser.parse(url)
-            for e in feed.entries[:15]:   # limit per feed
+            for e in feed.entries[:20]:   # limit per feed
                 published = None
                 for attr in ("published_parsed", "updated_parsed"):
                     if hasattr(e, attr) and getattr(e, attr):
@@ -130,9 +151,13 @@ def synthesise_with_claude(entries: list[dict]) -> list[dict]:
     # Trim payload to avoid token limits
     trimmed = [
         {"source": e["source"], "category": e["category"],
-         "title": e["title"], "summary": e["summary"][:400], "link": e["link"]}
+         "title": e["title"], "summary": e["summary"][:300], "link": e["link"]}
         for e in entries
     ]
+    # Cap at 400 entries max; shuffle so no single source dominates the cutoff
+    if len(trimmed) > 400:
+        random.shuffle(trimmed)
+        trimmed = trimmed[:400]
 
     prompt = CLUSTER_PROMPT.format(
         max_stories=MAX_STORIES,
@@ -142,7 +167,7 @@ def synthesise_with_claude(entries: list[dict]) -> list[dict]:
     print("[INFO] Calling Claude for synthesis …")
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",   # fast + cheap for daily automation
-        max_tokens=4096,
+        max_tokens=16000,
         messages=[{"role": "user", "content": prompt}]
     )
 
