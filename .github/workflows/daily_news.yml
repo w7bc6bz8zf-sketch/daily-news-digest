@@ -21,11 +21,12 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install feedparser anthropic trafilatura requests
+        run: pip install feedparser trafilatura requests
 
       - name: Run news digest
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          YANDEX_API_KEY:   ${{ secrets.YANDEX_API_KEY }}
+          YANDEX_FOLDER_ID: ${{ secrets.YANDEX_FOLDER_ID }}
           EMAIL_USER:        ${{ secrets.EMAIL_USER }}
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:   ${{ secrets.RECIPIENT_EMAIL }}
