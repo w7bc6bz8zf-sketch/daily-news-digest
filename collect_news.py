@@ -54,7 +54,33 @@ BOT_CHECK_SIGNALS = [
     "enable js", "enable javascript", "please make sure your browser",
     "click the box below", "not a robot", "please enable js",
     "just a moment", "cloudflare ray",
+    # TASS bot-check format: "Datetime: 2026-07-02 ... IP: ... ID: ... not a bot"
+    "not a bot", "if you are not a",
+    # Sky News / Akamai
+    "access denied", "you don't have permission to access",
+    # Bloomberg "please click the box"
+    "please click the box",
 ]
+
+# Russian stop words — prevents common function words from creating false clusters
+RUSSIAN_STOP_WORDS = frozenset([
+    "в", "и", "на", "с", "что", "по", "к", "за", "от", "для",
+    "не", "но", "или", "то", "а", "же", "как", "так", "до",
+    "при", "после", "это", "этот", "эта", "эти", "также",
+    "только", "уже", "был", "была", "были", "будет", "чтобы",
+    "если", "когда", "где", "который", "которая", "которые",
+    "его", "её", "их", "он", "она", "они", "оно", "мы", "вы",
+    "я", "ты", "нас", "вам", "нам", "себя", "свой", "своя",
+    "все", "весь", "вся", "очень", "более", "ещё", "ещe",
+    "об", "о", "из", "со", "во", "над", "под", "перед",
+    "со", "чем", "тем", "тот", "тех", "тем", "том", "ту",
+    "те", "та", "им", "их", "ими", "ему", "ей", "мне",
+    "который", "которого", "которой", "которых", "которым",
+    "потому", "поэтому", "потом", "тогда", "здесь", "там",
+    "теперь", "тут", "сейчас", "очень", "весьма", "сам",
+    "сама", "само", "сами", "один", "одна", "одно", "одни",
+    "своего", "своей", "своих", "своим", "своими",
+])
 
 SOURCE_PRIORITY = [
     "Reuters", "AP News", "BBC World", "FT", "The Economist",
@@ -300,31 +326,47 @@ def get_excerpt(entry: dict) -> str:
 
 # ── TF-IDF Clustering ─────────────────────────────────────────────────────────
 
-def cluster_entries(entries: list[dict]) -> list[list[dict]]:
-    texts = [f"{e['title']} {e['snippet']}" for e in entries]
-
-    vec    = TfidfVectorizer(stop_words="english", max_features=15000,
-                             ngram_range=(1, 2), sublinear_tf=True, min_df=1)
-    matrix = vec.fit_transform(texts)
-    sim    = cosine_similarity(matrix)
-
+def _cluster_group(entries: list[dict], stop_words, threshold: float) -> list[list[dict]]:
+    """Cluster a group of same-language entries with given stop words and threshold."""
+    if not entries:
+        return []
+    texts    = [f"{e['title']} {e['snippet']}" for e in entries]
+    sw       = stop_words if isinstance(stop_words, str) else list(stop_words)
+    vec      = TfidfVectorizer(stop_words=sw, max_features=15000,
+                               ngram_range=(1, 2), sublinear_tf=True, min_df=1)
+    matrix   = vec.fit_transform(texts)
+    sim      = cosine_similarity(matrix)
     assigned = [False] * len(entries)
     clusters = []
-
     for i in range(len(entries)):
         if assigned[i]:
             continue
         cluster    = [entries[i]]
         assigned[i] = True
         for j in range(i + 1, len(entries)):
-            if not assigned[j] and sim[i][j] >= CLUSTER_THRESHOLD:
+            if not assigned[j] and sim[i][j] >= threshold:
                 cluster.append(entries[j])
                 assigned[j] = True
         clusters.append(cluster)
+    return clusters
+
+
+def cluster_entries(entries: list[dict]) -> list[list[dict]]:
+    """
+    Cluster entries separately by language to avoid false cross-language similarity.
+    English uses English stop words and threshold 0.15.
+    Russian uses Russian stop words and a stricter threshold 0.30 (fewer false positives).
+    """
+    en_entries = [e for e in entries if e.get("lang") != "ru"]
+    ru_entries = [e for e in entries if e.get("lang") == "ru"]
+
+    clusters  = _cluster_group(en_entries, "english", CLUSTER_THRESHOLD)
+    clusters += _cluster_group(ru_entries, RUSSIAN_STOP_WORDS, 0.30)
 
     clusters.sort(key=lambda c: len(c), reverse=True)
     multi_source = sum(1 for c in clusters if len({e["source"] for e in c}) >= 2)
-    print(f"[INFO] {len(clusters)} clusters total, {multi_source} already have ≥2 sources")
+    print(f"[INFO] {len(clusters)} clusters total ({len(en_entries)} EN, {len(ru_entries)} RU), "
+          f"{multi_source} already have ≥2 sources")
     return clusters
 
 
