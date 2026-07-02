@@ -60,6 +60,10 @@ BOT_CHECK_SIGNALS = [
     "access denied", "you don't have permission to access",
     # Bloomberg "please click the box"
     "please click the box",
+    # France 24 / NBC video embeds
+    "blocking the video player", "browser extensions seems to be blocking",
+    # Generic paywalls / subscribe walls (not useful as excerpts)
+    "subscribe to unlock", "subscribe to read",
 ]
 
 # Russian stop words — prevents common function words from creating false clusters
