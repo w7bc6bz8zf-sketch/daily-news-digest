@@ -1,9 +1,51 @@
 {
-  "collected_at": "2026-07-02T14:17:37.583718+00:00",
+  "collected_at": "2026-07-02T14:30:40.448390+00:00",
   "total_sources": 59,
-  "total_entries": 834,
+  "total_entries": 839,
   "story_count": 40,
   "stories": [
+    {
+      "category": "🌍 World",
+      "headline_en": "Daredevil Couple Arrested After Climbing the Empire State Building: What We Know",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Daredevil Couple Arrested After Climbing the Empire State Building: What We Know",
+          "excerpt": "A daredevil Russian couple were arrested and charged after scaling the Empire State Building in New York City on Wednesday, in what appeared to be an elaborate and risky marriage proposal. The New York Police Department identified them as Ivan Kuznetsov, 32, and Angelina Nikolau, 33, self-proclaimed “rooftoppers” who climb and pose atop the highest buildings without safety nets or permission.…",
+          "url": "https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "New York: Marriage proposal atop the Empire State Building ends in arrest",
+          "excerpt": "One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.",
+          "url": "https://www.france24.com/en/video/20260702-new-york-marriage-proposal-atop-the-empire-state-building-ends-in-arrest"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Who climbed the Empire State Building? Here's what we know.",
+          "excerpt": "Who climbed the Empire State Building? Here's what we know. The two people arrested for climbing New York City's Empire State Building where they apparently got engaged Wednesday afternoon have been identified as Ivan Kuznetsov, 32, and Angelina Nikolau, 33 — well known as the \"Skywalkers\" featured in a popular Netflix documentary. They live in East Orange, N.J.…",
+          "url": "https://www.cbsnews.com/news/empire-state-building-climbers-ivan-kuznetsov-angela-nikolau/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Couple Who Climbed Empire State Building Face Multiple Charges",
+          "excerpt": "Victor Willis, Lead Singer of The Village People, Dies at 74 02:22 Navy Crew Member Missing After Helicopter Crash in Arabian Sea 00:26 Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00:31 Now Playing Couple Who Climbed Empire State Building Face Multiple Charges 02:27 UP NEXT Trump Made 327 Stock Trades 1 Day Before Tariff Pause: Filings 02:09 Record-Setting Travel Underway Ahe…",
+          "url": "https://www.today.com/video/bodycam-captures-arrest-of-empire-state-building-climbers-266064453544"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "2 arrested after apparent Empire State Building proposal",
+          "excerpt": "2 arrested after apparent Empire State Building proposal July 1, 2026Two masked individuals climbed to the top of the Empire State Building's antenna in New York City on Wednesday, where they displayed a banner promoting peace before making their way back down and eventually being arrested.…",
+          "url": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
     {
       "category": "💡 Tech & AI",
       "headline_en": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
@@ -17,13 +59,6 @@
           "url": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/"
         },
         {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Sony to end physical PlayStation game disc production in 2028",
-          "excerpt": "Sony announced Wednesday that it will stop producing physical discs for all new PlayStation games starting in January 2028, marking a move into an all-digital future. After that, every new release will be sold digitally through the PlayStation Store and other retailers. Games released before the cutoff will continue to be available on disc.…",
-          "url": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/"
-        },
-        {
           "source": "Engadget",
           "lang": "en",
           "headline": "Sony will stop making disc-based PlayStation games starting 2028",
@@ -31,144 +66,151 @@
           "url": "https://www.engadget.com/2205792/sony-will-stop-making-disc-based-playstation-games-starting-2028/"
         },
         {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Sony to stop making PlayStation game discs as of 2028",
-          "excerpt": "Sony to stop making PlayStation game discs as of 2028 July 1, 2026Sony announced on Wednesday that it would only release PlayStation games in digital formats, no longer producing any physical discs, from January 2028.…",
-          "url": "https://www.dw.com/en/sony-to-stop-making-playstation-game-discs-as-of-2028/a-77790883?maca=en-rss-en-all-1573-rdf"
-        },
-        {
           "source": "Ars Technica",
           "lang": "en",
           "headline": "Sony announces end of PlayStation discs, parts of digital store in the same day",
           "excerpt": "Some gamers are concerned about the future of game ownership after Sony’s announcement today that it won’t produce physical discs for PlayStation games as of January 2028. On that date, “new games will be available on PlayStation Store and at retailers in digital formats only,” Sony said in a blog post.…",
           "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US economy undershoots forecasts with 57,000 jobs added in June",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "US economy undershoots forecasts with 57,000 jobs added in June",
-          "excerpt": "US economy undershoots forecasts with 57,000 jobs added in June Subscribe to unlock this article Try unlimited access Only $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digital access to quality FT journalism on any device.…",
-          "url": "https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea"
         },
         {
-          "source": "Bloomberg",
+          "source": "Forbes",
           "lang": "en",
-          "headline": "US Adds Fewer Jobs Than Expected in June, Unemployment Rate Falls",
-          "excerpt": "US hiring slowed sharply in June as nonfarm payrolls increased 57,000 last month after downward revisions to the prior two months, according to Bureau of Labor Statistics data out Thursday. Michael McKee reports on Bloomberg Television. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-02/us-adds-fewer-jobs-than-expected-jobless-rate-falls-video"
+          "headline": "Sony’s PlayStation Disc Decision Is Its Biggest Scandal In 20 Years",
+          "excerpt": "Sony has stepped in it now, announcing plans to stop selling new PlayStation disc copies of games when 2028 begins, ending an era of physical gaming media that has existed since the medium’s inception. The pushback is not just swift and vehement among fans. It appears this situation might be the most outraged gamers have been at PlayStation in 20 years, if not ever.…",
+          "url": "https://www.forbes.com/sites/paultassi/2026/07/02/sonys-playstation-disc-decision-is-its-biggest-scandal-in-20-years/"
         },
         {
-          "source": "NPR News",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "U.S. job market slows in June",
-          "excerpt": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
-          "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-          "excerpt": "The U.S. economy saw job creation cool sharply heading into the summer, the Bureau of Labor Statistics reported Thursday. Nonfarm payrolls for June increased by a seasonally adjusted 57,000 for the month, slower than the downwardly revised 129,000 added in May and worse than the 115,000 Dow Jones consensus forecast.…",
-          "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Employers added 57,000 jobs in June, far below forecasts",
-          "excerpt": "Employers added 57,000 jobs in June, far below forecasts as hiring slowed U.S. employers added 57,000 jobs in June, far below analysts' forecasts and signaling that hiring may be losing momentum. By the numbers Economists polled by FactSet had predicted the economy would add 100,000 jobs last month. The unemployment rate was 4.2% in June, down from 4.3% in May.…",
-          "url": "https://www.cbsnews.com/news/june-jobs-report-57000-jobs-hiring-slows/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google lost its final E.U. appeal over a €4.1 billion Android antitrust fine",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Google lost its final E.U. appeal over a €4.1 billion Android antitrust fine",
-          "excerpt": "Europe's top court upheld the penalty, which was originally imposed in 2018 for anti-competitive practices tied to the Android operating system",
-          "url": "https://qz.com/google-alphabet-eu-android-antitrust-fine-appeal-070226"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Google must pay record €4.1 billion fine, top EU court rules",
-          "excerpt": "Google must pay record €4.1 billion fine, top EU court rules July 2, 2026Google will have to pay a record €4.125 billion ($4.67 billion) antitrust fine over anti-competitive practices after the European Union's top court ruled against an appeal by the tech giant on Thursday.…",
-          "url": "https://www.dw.com/en/google-must-pay-record-€4-1-billion-fine-top-eu-court-rules/a-77794948?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
-          "excerpt": "Google loses final appeal over $4.7 billion EU Android antitrust fine The decade-long saga is finally at an end, but Google faces further sanctions in the EU. Europe's highest court of appeal has upheld a record-setting €4.1 billion ($4.67 billion) fine imposed on Google back in 2018 for antitrust violations around its Android operating system.…",
-          "url": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Google Loses EU Top Court Fight Over €4.1 Billion Android Fine",
-          "excerpt": "Google lost its long-running fight against a €4.1 billion ($4.7 billion) European Union antitrust fine after the bloc’s top judges said regulators were right to punish the US giant for abusing Android’s market power.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Google loses fight over record $4.7 billion EU antitrust fine",
-          "excerpt": "Europe's top court on Thursday upheld Google's fine of around 4.1 billion euros ($4.67 billion) over alleged anti-competitive practices. In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance to give unfair advantage to its own apps via pre-installation deals with smartphone makers.…",
-          "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
+          "headline": "The funeral for PlayStation discs has begun",
+          "excerpt": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony’s recent announcement that it will stop making discs for new games starting January 2028. “It’s sad to see. This decision is only a negative for gamers.…",
+          "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Four die in Mexico City World Cup celebrations",
-      "coverage": 5,
+      "headline_en": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
+      "coverage": 6,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Four die in Mexico City World Cup celebrations",
-          "excerpt": "Four die in Mexico City World Cup celebrations - Published A 19-year-old woman is among three people to have died from suffocation during World Cup celebrations in Mexico City on Tuesday. A 48-year-old woman and a 44-year-old man also died after crowds descended on the city following the country's 2-0 victory over Ecuador, the capital's health authority said on Wednesday.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
+          "headline": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
+          "excerpt": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
+          "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "The Guardian",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
-          "excerpt": "Four people died, three from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat said in the early hours of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to celebrate Mexico’s 2-0 victory over Ecuador in the last 32.…",
-          "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
+          "headline": "New Details Emerge on Taylor Swift-Travis Kelce NYC Wedding",
+          "excerpt": "Why Martin Guitars Strike a Chord With Music’s Biggest Stars 05:25 Top Summer Toys to Beat the Heat or Have Fun in the Sun 05:30 See the Winner of MLB’s Patriotic All-Star Food Taste Test 02:13 ‘Baywatch’ Reboot Teaser Previews New Lifeguard Crew 00:38 Jonas Brothers Welcome New Arrivals in ‘Camp Rock 3’ Teaser 00:55 Did Anne Hathaway Wear Her Dress Backwards on Purpose? 00:35 Now Playing New Deta…",
+          "url": "https://www.today.com/video/new-details-emerge-on-taylor-swift-travis-kelce-nyc-wedding-266065477528"
         },
         {
-          "source": "Wired",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
-          "excerpt": "The ground literally shook after the two goals that secured Mexico’s victory over Ecuador in the round of 32 of the 2026 World Cup on Tuesday.…",
-          "url": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/"
+          "headline": "Key details before Taylor Swift and Travis Kelce get married",
+          "excerpt": "Key details before Taylor Swift and Travis Kelce get married Fans around the world are preparing for Taylor Swift and Travis Kelce's wedding. Here's what to know before what some are calling the wedding of the century. CBS News' Jo Ling Kent reports.",
+          "url": "https://www.cbsnews.com/video/key-details-before-taylor-swift-and-travis-kelce-get-married/"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "How Much Is an Invite to Taylor Swift’s Wedding Worth? 8 Percent of This Group Says They Would Spend Over $10,000",
+          "excerpt": "The pop star and Travis Kelce are allegedly tying the knot this weekend. Fans of the duo are eager for an opportunity to witness the event.",
+          "url": "https://www.inc.com/victoria-salves/how-much-is-an-invite-to-taylor-swift-worth-new-study/91368304"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Clock ticks down to Taylor Swift and Travis Kelce's wedding",
+          "excerpt": "Clock ticks down to Taylor Swift and Travis Kelce's wedding ABC News' Aaron Katersky has more on the festivities at Madison Square Garden and how many people are expected to attend.…",
+          "url": "https://abcnews.com/video/134368787/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "USMNT moves ahead in FIFA World Cup",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "USMNT moves ahead in FIFA World Cup",
+          "excerpt": "Latest U.S. Iran War Heat Wave World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
+          "url": "https://www.cbsnews.com/video/usmnt-moves-on-in-fifa-world-cup/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "The Myth of the National Team",
+          "excerpt": "After the U.S. Men’s National Soccer Team’s (USMNT) emphatic victory over Paraguay and then dominating defeat of Australia, a historically soccer-ambivalent American public is suddenly paying attention—and reaching for explanations about the team’s surprising success.…",
+          "url": "https://time.com/article/2026/07/01/the-myth-of-the-national-team/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
+          "excerpt": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium Late VAR penalty leads to fury as Senegal blows 2-0 lead, loses 3-2 to Belgium in dramatic World Cup round of 32 exit.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/2/controversial-penalty-ends-senegals-fifa-world-cup-run-against-belgium?traffic_source=rss"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "3 die during Mexico City World Cup celebrations",
-          "excerpt": "3 die during Mexico City World Cup celebrations July 1, 2026Three people died in Mexico City on Tuesday night after being caught in a crowd crush during celebrations of host Mexico's World Cup victory over Ecuador.…",
-          "url": "https://www.dw.com/en/3-die-during-mexico-city-world-cup-celebrations/a-77791673?maca=en-rss-en-all-1573-rdf"
+          "headline": "Does football need FIFA and its World Cup?",
+          "excerpt": "Does football need FIFA and its World Cup? July 2, 2026The eyes of the world are, once again, glued to the World Cup. Overwhelmingly, they are on Lionel Messi's goal-scoring record, a Cape Verdean goalkeeper who shot to fame or viral clips of fans. It's a familiar and understandable diversion of attention from the issues that dominated the buildup.…",
+          "url": "https://www.dw.com/en/does-football-need-fifa-and-its-world-cup/a-77677338?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Euronews",
+          "source": "Business Insider",
           "lang": "en",
-          "headline": "Three die in Mexico City World Cup street celebrations",
-          "excerpt": "Emergency crews were called to the Juárez area of the capital after three people were reported to be unconscious. Three people have died in Mexico City as locals celebrated Mexico's 2-0 win over Ecuador in the World Cup, authorities said. A 44-year-old man, a 48-year-old woman, and a 19-year-old woman died from asphyxiation, according to the city's health secretary.…",
-          "url": "http://www.euronews.com/2026/07/01/three-die-in-mexico-city-world-cup-street-celebrations"
+          "headline": "Lenovo's Emily Ketchen shares how the brand is powering the FIFA World Cup, and the communities that surround it",
+          "excerpt": "Lenovo's Emily Ketchen spoke to CMO Insider about how its tech is powering the FIFA World Cup, and about its Work for Humankind community initiative",
+          "url": "https://www.businessinsider.com/lenovo-cmo-emily-ketchen-cannes-lions-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "OpenAI proposes handing Trump administration 5% stake",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "OpenAI proposes handing Trump administration 5% stake",
+          "excerpt": "OpenAI proposes handing Trump administration 5% stake Subscribe to unlock this article Try unlimited access Only $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.…",
+          "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+          "excerpt": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. OpenAI floats giving Trump administration 5 percent cut of AI boom A government stake could help the company avoid onerous regulation.…",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
+          "excerpt": "OpenAI has proposed handing the U.S. government a 5% stake in the company, the Financial Times reported Thursday, as the artificial intelligence startup seeks to defuse mounting political pressure in Washington. A 5% holding would be worth roughly $42.6 billion, after the AI lab closed a record-breaking funding round in March at a post-money valuation of $852 billion.…",
+          "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
+          "excerpt": "OpenAI has begun preliminary discussions about giving the US government a 5% stake in the ChatGPT-developer, the Financial Times reported, citing two people familiar with the talks.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "OpenAI is offering the Trump administration a 5% stake to seed an AI wealth fund",
+          "excerpt": "OpenAI CEO Sam Altman reportedly discussed the potential government stake with Trump, Commerce Secretary Howard Lutnick, and Treasury Secretary Scott Bessent",
+          "url": "https://qz.com/openai-5-percent-stake-us-government-ai-wealth-fund-070226"
         }
       ]
     },
@@ -192,11 +234,11 @@
           "url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession"
         },
         {
-          "source": "Sky News",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Eight Thai monks killed as 11-year-old boy crashes pickup truck into pilgrimage walk",
-          "excerpt": "Access Denied You don't have permission to access \"http://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765\" on this server. Reference #18.2751db17.1783001943.2c2ef27f https://errors.edgesuite.net/18.2751db17.1783001943.2c2ef27f",
-          "url": "https://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765"
+          "headline": "Thailand: Child crashes vehicle into group of monks",
+          "excerpt": "Thailand: Child crashes vehicle into group of monks July 2, 2026A child drove his parents' pickup truck into a group of Buddhist monks on a pilgrimage walk in northeastern Thailand on Thursday, police said.…",
+          "url": "https://www.dw.com/en/thailand-child-crashes-vehicle-into-group-of-monks/a-77796829?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "Al Jazeera",
@@ -206,81 +248,214 @@
           "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss"
         },
         {
-          "source": "DW English",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "Thailand: Child crashes vehicle into group of monks",
-          "excerpt": "Thailand: Child crashes vehicle into group of monks July 2, 2026A child drove his parents' pickup truck into a group of Buddhist monks on a pilgrimage walk in northeastern Thailand on Thursday, police said.…",
-          "url": "https://www.dw.com/en/thailand-child-crashes-vehicle-into-group-of-monks/a-77796829?maca=en-rss-en-all-1573-rdf"
+          "headline": "Nine Thai monks killed as 11-year-old boy crashes pickup truck into pilgrimage walk",
+          "excerpt": "An 11-year-old boy crashed a pickup truck into a group of monks on a pilgrimage walk in northeastern Thailand on Thursday, killing nine, officials said.",
+          "url": "https://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Задержания по факту хищения нефтепродуктов в Дагестане показали на видео",
-      "coverage": 4,
+      "headline_en": "US blocks long-term renewal of North American trade deal",
+      "coverage": 5,
       "perspectives": [
         {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Задержания по факту хищения нефтепродуктов в Дагестане показали на видео",
-          "excerpt": "Datetime: 2026-07-02 14:19:06 +0000 IP: 172.215.209.105 ID: 6JMuTd8dp8c1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/proisshestviya/27879773"
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US blocks long-term renewal of North American trade deal",
+          "excerpt": "US blocks long-term renewal of North American trade deal - Published The US has declined to renew the landmark US-Mexico-Canada Agreement (USMCA) in its current form, according to a senior US official. This decision means the trilateral trade pact will miss out on an automatic 16-year extension.…",
+          "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Туристка устроила дебош в отеле на Бали, была закована в наручники и попала на видео",
-          "excerpt": "Туристка устроила пьяный дебош в отеле на индонезийском острове Бали, была закована в наручники и попала на видео. Кадры и подробности публикует Daily Mail. Уточняется, что 55-летняя Белл Алекс Эндра Линдси из Австралии отдыхала в отеле Casa Dasa в Легиане, на западном побережье Бали. В гостинице она устроила пьяный дебош, в ходе которого накричала на других гостей и персонал.…",
-          "url": "https://lenta.ru/news/2026/07/02/turistka-ustroila-debosh-v-otele-na-bali-byla-zakovana-v-naruchniki-i-popala-na-video/"
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+          "excerpt": "Donald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years. Wednesday was the deadline built into the United States-Mexico-Canada Agreement (USMCA) for the three countries to jointly decide its fate, which is set to expire in 2036.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
         },
         {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "«М.Видео» объединит сайт и приложение «Эльдорадо» со своей онлайн-платформой",
-          "excerpt": "Консолидация онлайн-каналов позволяет сосредоточить ресурсы на развитии маркетплейса на базе сильного бренда «М.Видео». При этом бренд «Эльдорадо» сохраняет свою роль в нашей экосистеме: его онлайн-инфраструктура будет использоваться для тестирования новых решений и сервисов, которые в дальнейшем могут масштабироваться на всю платформу.",
-          "url": "https://vc.ru/marketplace/3005837-obedineniye-mvideo-i-eldorado?from=rss"
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking.",
+          "excerpt": "USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking. The White House hopes that annual reviews will curb the United States’ trade deficit with Mexico and Canada. Welcome to FP Free Week. To celebrate America’s 250th birthday, our entire site is completely unlocked this week only. Enjoy the article.…",
+          "url": "https://foreignpolicy.com/2026/07/01/usmca-renewal-us-canada-mexico-trade-deficit-annual-reviews/"
         },
         {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Россия заявила, что на территории посольства в Швеции упал дрон с «имитацией самодельного взрывного устройства»",
-          "excerpt": "Посольство РФ в Швеции сообщило 2 июля, что беспилотник сбросил на его территорию контейнер с красной краской. Кроме того, на территории посольства упал еще один дрон, «к которому была прикреплена имитация самодельного взрывного устройства».",
-          "url": "https://meduza.io/news/2026/07/02/rossiya-zayavila-chto-na-territorii-posolstva-v-shvetsii-upal-dron-s-imitatsiey-samodelnogo-vzryvnogo-ustroystva"
+          "source": "DW English",
+          "lang": "en",
+          "headline": "US declines to renew USMCA trade pact with Mexico, Canada",
+          "excerpt": "US declines to renew USMCA trade pact with Mexico, Canada July 2, 2026The United States on Wednesday decided not to renew the US-Mexico-Canada Agreement (USMCA), in its current form, US trade Representative Jamieson Greer said in a statement \"The United States will continue to engage with Mexico and Canada to address the agreement's shortcomings and our trade deficits with these countries,\" Greer …",
+          "url": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Why has Trump refused to renew the USMCA, and what will that mean?",
+          "excerpt": "Why has Trump refused to renew the USMCA, and what will that mean? Trade ambassador says US will not approve trilateral agreement with Canada and Mexico ‘in its current form’.…",
+          "url": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
-      "coverage": 4,
+      "headline_en": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
+      "coverage": 5,
       "perspectives": [
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
-          "excerpt": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses Sam Altman is in talks with the US government in a bid to clear political hurdles, says the Financial Times. OpenAI's Sam Altman has reportedly been in talks with the US government to ensure his company's path towards achieving its goals remains free of political hurdles.…",
-          "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/"
+          "headline": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
+          "excerpt": "Google loses final appeal over $4.7 billion EU Android antitrust fine The decade-long saga is finally at an end, but Google faces further sanctions in the EU. Europe's highest court of appeal has upheld a record-setting €4.1 billion ($4.67 billion) fine imposed on Google back in 2018 for antitrust violations around its Android operating system.…",
+          "url": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/"
         },
         {
-          "source": "Quartz",
+          "source": "DW English",
           "lang": "en",
-          "headline": "OpenAI is offering the Trump administration a 5% stake to seed an AI wealth fund",
-          "excerpt": "OpenAI CEO Sam Altman reportedly discussed the potential government stake with Trump, Commerce Secretary Howard Lutnick, and Treasury Secretary Scott Bessent",
-          "url": "https://qz.com/openai-5-percent-stake-us-government-ai-wealth-fund-070226"
+          "headline": "Google must pay record €4.1 billion fine, top EU court rules",
+          "excerpt": "Google must pay record €4.1 billion fine, top EU court rules July 2, 2026Google will have to pay a record €4.125 billion ($4.67 billion) antitrust fine over anti-competitive practices after the European Union's top court ruled against an appeal by the tech giant on Thursday.…",
+          "url": "https://www.dw.com/en/google-must-pay-record-€4-1-billion-fine-top-eu-court-rules/a-77794948?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "The Verge",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-          "excerpt": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. OpenAI floats giving Trump administration 5 percent cut of AI boom A government stake could help the company avoid onerous regulation.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
+          "headline": "Google loses fight over record $4.7 billion EU antitrust fine",
+          "excerpt": "Europe's top court on Thursday upheld Google's fine of around 4.1 billion euros ($4.67 billion) over alleged anti-competitive practices. In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance to give unfair advantage to its own apps via pre-installation deals with smartphone makers.…",
+          "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
         },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "OpenAI Proposes Giving 5% Stake to US Government: FT",
-          "excerpt": "OpenAI has begun preliminary discussions about giving the US government a 5% stake in the ChatGPT-developer. The Financial Times reported that executives proposed the move as part of a broader arrangement under which Washington would hold 5% of each of the leading American AI developers. Matthew Bloxham of Bloomberg Intelligence has more. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-02/openai-proposes-giving-5-stake-to-us-government-ft-video"
+          "headline": "Google Loses EU Top Court Fight Over €4.1 Billion Android Fine",
+          "excerpt": "Google lost its long-running fight against a €4.1 billion ($4.7 billion) European Union antitrust fine after the bloc’s top judges said regulators were right to punish the US giant for abusing Android’s market power.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Google lost its final E.U. appeal over a €4.1 billion Android antitrust fine",
+          "excerpt": "Europe's top court upheld the penalty, which was originally imposed in 2018 for anti-competitive practices tied to the Android operating system",
+          "url": "https://qz.com/google-alphabet-eu-android-antitrust-fine-appeal-070226"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US economy undershoots forecasts with 57,000 jobs added in June",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "US economy undershoots forecasts with 57,000 jobs added in June",
+          "excerpt": "US economy undershoots forecasts with 57,000 jobs added in June Subscribe to unlock this article Try unlimited access Only $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digital access to quality FT journalism on any device.…",
+          "url": "https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "U.S. economy adds just 57,000 jobs in June, a worrying sign as wage growth remains slow",
+          "excerpt": "The U.S. economy added just 57,000 jobs in June, a worrying sign for labor market stability as wage growth tracked below inflation for a third consecutive month. In June, average hourly earnings increased by 3.5%, which remains far below the most recent inflation reading of 4.2%. The unemployment rate ticked down to 4.2% from 4.3%.…",
+          "url": "https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "The economy added just 57,000 jobs last month — a big miss",
+          "excerpt": "The jobs report leaves Fed officials with little additional guidance as they continue to debate the direction of interest rates",
+          "url": "https://qz.com/us-jobs-report-june-2026-payrolls-unemployment-070226"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Daily Spotlight: Payrolls Rise 57,000",
+          "excerpt": "Argus • Jul 02, 2026 Daily Spotlight: Payrolls Rise 57,000 Market Outlook Bullish - Short Summary The Bureau of Labor Statistics (BLS) released the Employment Situation for June, showing that the U.S. added 57,000 nonfarm jobs. There was strength in professional and business services; social assistance; and the stalwart Healthcare sector. Employment in leisure and hospitality declined.…",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47503_MarketOutlook_1782998454000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Employers added 57,000 jobs in June, far below forecasts",
+          "excerpt": "Employers added 57,000 jobs in June, far below forecasts as hiring slowed U.S. employers added 57,000 jobs in June, far below analysts' forecasts and signaling that hiring may be losing momentum. By the numbers Economists polled by FactSet had predicted the economy would add 100,000 jobs last month. The unemployment rate was 4.2% in June, down from 4.3% in May.…",
+          "url": "https://www.cbsnews.com/news/june-jobs-report-57000-jobs-hiring-slows/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "'Most massive' Russian attack on Kyiv kills at least 20",
+          "excerpt": "'Most massive' Russian attack on Kyiv kills at least 20 - Published Russian forces launched a major drone and missile attack on Kyiv overnight, killing 20 people, in what the city's mayor has described as the \"most massive attack\" on the Ukrainian capital. Vitaly Klitschko said around 90 people were injured.…",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18",
+          "excerpt": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Smoke rises over Kyiv after Russian overnight strikes",
+          "excerpt": "Smoke rises across Kyiv after a large-scale Russian missile and drone attack overnight, with footage showing scenes from several parts of the Ukrainian capital. Thick plumes drift above the skyline while damaged residential areas continue to burn.…",
+          "url": "http://www.euronews.com/video/2026/07/02/smoke-rises-over-kyiv-after-russian-overnight-strikes"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Russia launches attacks on Kyiv, killing at least 20 and injuring scores",
+          "excerpt": "Russian attack on Kyiv kills at least 20, injures scores July 2, 2026At least 20 people were killed and more than 90 people were injured after Russian drones and missiles hit residential buildings in Kyiv as part of a broader wave of Russian attacks overnight on the Ukrainian capital.…",
+          "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-20-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Ukraine: Russia pounds Kyiv in massive drone, missile strike",
+          "excerpt": "One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.",
+          "url": "https://www.france24.com/en/video/20260702-ukraine-russia-pounds-kyiv-in-massive-drone-missile-strike"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Tesla delivered 480,000 vehicles last quarter, blowing past Wall Street expectations",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Tesla delivered 480,000 vehicles last quarter, blowing past Wall Street expectations",
+          "excerpt": "The strong quarter comes as Tesla attempts to turn around a two-year run of falling annual sales",
+          "url": "https://qz.com/tesla-q2-2026-deliveries-production-070226"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Tesla&#8217;s Q2 sales jump 25 percent",
+          "excerpt": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. Tesla’s Q2 sales jump 25 percent The 480K vehicle deliveries were significantly higher than the same period last year. The 480K vehicle deliveries were significantly higher than the same period last year.…",
+          "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
+          "excerpt": "Electric vehicle makers Rivian Automotive and Lucid Group reported second-quarter delivery results Thursday with mixed results. Rivian raised its 2026 delivery guidance range after seeing stronger-than-expected demand for its electric vehicles during the second quarter, while Lucid missed Wall Street expectations and its new CEO Silvio Napoli announced a shakeup of the company's leadership team.…",
+          "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Tesla saw a massive sales jump in the second quarter",
+          "excerpt": "Tesla delivered more than 480,000 vehicles in the second quarter of this year, an increase of more than 120,000 from the first quarter, in a sign that the company is still able to attract new buyers for its EVs despite a downturn in the U.S. market. The company said Thursday that it built 451,758 in the second quarter, 442,936 of which were Model 3 sedans and Model Y SUVs.…",
+          "url": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/"
         }
       ]
     },
@@ -304,137 +479,32 @@
           "url": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism"
         },
         {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Catholic Church excommunicates 6 bishops from ultra-conservative society",
-          "excerpt": "Catholic Church says 6 bishops from ultra-conservative SSPX society excommunicated as decades-old feud reopens Rome — The Vatican announced Thursday that six bishops associated with the ultra-conservative Society of Saint Pius X (SSPX) have been excommunicated following the unauthorized consecration of four new bishops the previous day in Écône, Switzerland.…",
-          "url": "https://www.cbsnews.com/news/catholic-church-sspx-excommunication-bishops-vatican-feud/"
-        },
-        {
           "source": "DW English",
           "lang": "en",
           "headline": "Vatican excommunicates rebel SSPX bishops",
           "excerpt": "Vatican excommunicates rebel SSPX bishops July 2, 2026The Vatican on Thursday imposed some of the highest penalties available under the Catholic Church's canon law on a breakaway group that consecrated four bishops in defiance of the pope.…",
           "url": "https://www.dw.com/en/vatican-excommunicates-rebel-sspx-bishops/a-77798543?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US fans celebrate World Cup last-16 spot",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US fans celebrate World Cup last-16 spot",
-          "excerpt": "Fans celebrated outside the stadium in Santa Clara, California, after the United States secured a 2-0 victory over Bosnia and Herzegovina to reach the World Cup last 16. Folarin Balogun opened the scoring before being sent off in the second half, leaving the hosts to play with 10 men. Malik Tillman doubled the lead with a free-kick in the 82nd minute to seal the win.…",
-          "url": "http://www.euronews.com/video/2026/07/02/us-fans-celebrate-world-cup-last-16-spot"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Breaking down U.S. win against Bosnia and Herzegovina, controversial red card and next match",
-          "excerpt": "Breaking down U.S. win against Bosnia and Herzegovina, controversial red card and next match Nigel Reo-Coker, an analyst for CBS Sports Golazo, joins \"CBS Mornings\" to break down the United States' big win against Bosnia and Herzegovina in the World Cup, its chances against Belgium and more.",
-          "url": "https://www.cbsnews.com/video/breaking-down-u-s-win-against-bosnia-and-herzegovina-controversial-red-card-and-next-match/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "After biggest World Cup win in decades, the U.S. must go again without its star forward",
-          "excerpt": "SANTA CLARA, Calif. — Blood pooled near Malik Tillman’s toes as he stood over a free kick Wednesday evening. The U.S. midfielder’s boot had been stepped on and split open during the World Cup’s round of 32 match against Bosnia-Herzegovina. The puncture left a hole in his sock between his big and middle toes, where a red stain formed. But the 82nd minute of a knockout game, with the U.S.…",
-          "url": "https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Watch World Cup Day 21: Late goals see England and Belgium reach last 16",
-          "excerpt": "Watch World Cup Day 21: Late goals see England and Belgium reach last 16 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 2 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-          "url": "https://www.aljazeera.com/video/2026/7/2/video-world-cup-2026-highlights?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "WATCH:  Clock ticks down to Taylor Swift and Travis Kelce's wedding",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Clock ticks down to Taylor Swift and Travis Kelce's wedding",
-          "excerpt": "Clock ticks down to Taylor Swift and Travis Kelce's wedding ABC News' Aaron Katersky has more on the festivities at Madison Square Garden and how many people are expected to attend.…",
-          "url": "https://abcnews.com/video/134368787/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "How Much Is an Invite to Taylor Swift’s Wedding Worth? 8 Percent of This Group Says They Would Spend Over $10,000",
-          "excerpt": "The pop star and Travis Kelce are allegedly tying the knot this weekend. Fans of the duo are eager for an opportunity to witness the event.",
-          "url": "https://www.inc.com/victoria-salves/how-much-is-an-invite-to-taylor-swift-worth-new-study/91368304"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Key details before Taylor Swift and Travis Kelce get married",
-          "excerpt": "Key details before Taylor Swift and Travis Kelce get married Fans around the world are preparing for Taylor Swift and Travis Kelce's wedding. Here's what to know before what some are calling the wedding of the century. CBS News' Jo Ling Kent reports.",
-          "url": "https://www.cbsnews.com/video/key-details-before-taylor-swift-and-travis-kelce-get-married/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "New Details Emerge on Taylor Swift-Travis Kelce NYC Wedding",
-          "excerpt": "Why Martin Guitars Strike a Chord With Music’s Biggest Stars 05:25 Top Summer Toys to Beat the Heat or Have Fun in the Sun 05:30 See the Winner of MLB’s Patriotic All-Star Food Taste Test 02:13 ‘Baywatch’ Reboot Teaser Previews New Lifeguard Crew 00:38 Jonas Brothers Welcome New Arrivals in ‘Camp Rock 3’ Teaser 00:55 Did Anne Hathaway Wear Her Dress Backwards on Purpose? 00:35 Now Playing New Deta…",
-          "url": "https://www.today.com/video/new-details-emerge-on-taylor-swift-travis-kelce-nyc-wedding-266065477528"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
-          "excerpt": "U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.",
-          "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US-Iran parallel talks in Qatar end with pledge to keep talking",
-          "excerpt": "Holding separate meetings in Qatar, the US and Iran made progress and agreed that the next meeting would be after Khamenei's funeral, host Qatar confirmed.",
-          "url": "http://www.euronews.com/2026/07/02/us-iran-parallel-talks-in-qatar-end-with-pledge-to-keep-talking"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
-          "excerpt": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress What to know about the Iran war today: - Qatari and Pakistani mediators said Thursday that the next meetings between Iranian and U.S. negotiators would be scheduled \"at the earliest possible time\" after funeral commemorations for Iran's former supreme leader.…",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "US-Iran talks in Doha: What were the outcomes and what’s next?",
-          "excerpt": "US-Iran talks in Doha: What were the outcomes and what’s next? Qatar said that the next meeting will take place after funeral processions for Iran’s former Supreme Leader Ali Khamenei.…",
-          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss"
+          "headline": "Catholic Church excommunicates 6 bishops from ultra-conservative society",
+          "excerpt": "Catholic Church says 6 bishops from ultra-conservative SSPX society excommunicated as decades-old feud reopens Rome — The Vatican announced Thursday that six bishops associated with the ultra-conservative Society of Saint Pius X (SSPX) have been excommunicated following the unauthorized consecration of four new bishops the previous day in Écône, Switzerland.…",
+          "url": "https://www.cbsnews.com/news/catholic-church-sspx-excommunication-bishops-vatican-feud/"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "headline_en": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
       "coverage": 4,
       "perspectives": [
         {
-          "source": "Wired",
+          "source": "VentureBeat",
           "lang": "en",
-          "headline": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-          "excerpt": "The Trump administration lifted export controls on Anthropic’s Claude Fable 5 AI model after the company agreed to extend an existing guardrail to prevent users from trying to access certain restricted capabilities, according to two people familiar with the matter.…",
-          "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
+          "headline": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+          "excerpt": "Anthropic is restoring global access to its most powerful generally released AI model yet, Claude Fable 5, today, after the U.S. Department of Commerce last night withdrew the emergency export controls it had issued previously around the model. The U.S.…",
+          "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
         },
         {
           "source": "Ars Technica",
@@ -461,85 +531,92 @@
     },
     {
       "category": "🌍 World",
-      "headline_en": "ФАС завела дело из-за рекламы букмекерской конторы Fonbet",
-      "coverage": 3,
+      "headline_en": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+      "coverage": 4,
       "perspectives": [
         {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "ФАС завела дело из-за рекламы букмекерской конторы Fonbet",
-          "excerpt": "Кампания содержит признаки нарушения законодательства",
-          "url": "https://tass.ru/ekonomika/27879813"
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+          "excerpt": "U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar"
         },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Шаляпин пристыдил журналистов за вопрос о деньгах",
-          "excerpt": "Певец и шоумен Прохор Шаляпин прокомментировал сообщения о значительном росте своих гонораров. Его комментарий приводит «Газета.Ru». «Некрасиво считать чужие деньги», — коротко ответил Шаляпин на вопрос корреспондентов. Ранее издание KP.RU со ссылкой на организаторов мероприятий сообщило, что гонорар Шаляпина достиг двух миллионов рублей на фоне возросшего спроса.…",
-          "url": "https://lenta.ru/news/2026/07/02/shalyapin-pristydil-zhurnalistov-za-vopros-o-dengah/"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Говорю Ozempic, думаю Zepbound: Eli Lilly не успела первой выйти на рынок лекарственного похудения, но обошла конкурента за счёт гибкости и «нетерпеливого» гендиректора",
-          "excerpt": "Из-за «патентного обрыва» Eli Lilly, как и любая другая фармкомпания, которой удалось выпустить препарат-«блокбастер», рано или поздно столкнётся с конкуренцией. Тем более на Mounjaro и Zepbound в 2025 году пришлось 56% общей выручки Eli Lilly, а это опасная зависимость, по сути, от одного препарата, отмечает Bloomberg.…",
-          "url": "https://vc.ru/money/3005530-eli-lilly-oboshla-novo-nordisk-v-borbe-za-rynok-preparatov-dlya-pohudeniya?from=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Фестиваль \"Русское лето. Za Россию\" пройдет в 12 городах России с 1 августа по 13 сентября",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Фестиваль \"Русское лето. Za Россию\" пройдет в 12 городах России с 1 августа по 13 сентября",
-          "excerpt": "Datetime: 2026-07-02 14:19:51 +0000 IP: 172.215.209.105 ID: pJMnql9dHmI1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/kultura/27879761"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "День 1590: около трети россиян в 2026 году сократили число туристических поездок",
-          "excerpt": "За пять месяцев 2026 года дневной охват Telegram снизился на 49,4%, следует из данных ГК «Родная речь». При этом у Discord и Instagram* показатель вырос примерно на 20%, а у Threads* — на 88,3%, до 300,7 тысяч, отмечает компания. Впрочем, опрошенные «Ъ» эксперты отмечают, что из-за широкого использования VPN оценить реальную аудиторию соцсетей в России «сложно».…",
-          "url": "https://vc.ru/money/3007014-snizhenie-turisticheskikh-poezdok-rossiyan?from=rss"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Постсоветская страна попросила Россию о поставках топлива",
-          "excerpt": "Киргизия попросила Россию обеспечить стабильные поставки топлива из опасений дефицита. Об этом заявили в Минэнерго постсоветской страны. Помимо России, республика обратилась также к Белоруссии, Казахстану, Азербайджану, Узбекистану и Туркменистану. Ближайших соседей просят помочь с поставками бензина.…",
-          "url": "https://lenta.ru/news/2026/07/02/postsovetskaya-strana-poprosila-rossiyu-o-postavkah-topliva/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Two arrested after unfurling 'power of love' banner on Empire State Building antenna",
-      "coverage": 3,
-      "perspectives": [
         {
           "source": "Euronews",
           "lang": "en",
-          "headline": "Two arrested after unfurling 'power of love' banner on Empire State Building antenna",
-          "excerpt": "Office workers wondered how the pair managed to get to the antenna of a high-profile building where visitors are screened and told not to bring large packages, sports equipment, costumes or masks, among other items.…",
-          "url": "http://www.euronews.com/2026/07/01/two-arrested-after-unfurling-power-of-love-banner-on-empire-state-building-antenna"
+          "headline": "US-Iran parallel talks in Qatar end with pledge to keep talking",
+          "excerpt": "Holding separate meetings in Qatar, the US and Iran made progress and agreed that the next meeting would be after Khamenei's funeral, host Qatar confirmed. US and Iran negotiators have met separately on Wednesday with Qatari and Pakistani mediators, with “positive progress made,” and agreed to continue discussions, host Qatar said.…",
+          "url": "http://www.euronews.com/2026/07/02/us-iran-parallel-talks-in-qatar-end-with-pledge-to-keep-talking"
         },
         {
-          "source": "France 24",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "New York: Marriage proposal atop the Empire State Building ends in arrest",
-          "excerpt": "One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.",
-          "url": "https://www.france24.com/en/video/20260702-new-york-marriage-proposal-atop-the-empire-state-building-ends-in-arrest"
+          "headline": "US-Iran talks in Doha: What were the outcomes and what’s next?",
+          "excerpt": "US-Iran talks in Doha: What were the outcomes and what’s next? Qatar said that the next meeting will take place after funeral processions for Iran’s former Supreme Leader Ali Khamenei.…",
+          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Security questions after 2 people climb to the top of the Empire State Building",
-          "excerpt": "Security questions after 2 people climb to the top of the Empire State Building There's security questions after two Russian climbers made it to the top of the Empire State Building in New York City on Wednesday and appeared to get engaged. They also unfurled a pro-peace banner. Tom Hanson reports.",
-          "url": "https://www.cbsnews.com/video/security-questions-after-2-people-climb-to-the-top-of-the-empire-state-building/"
+          "headline": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
+          "excerpt": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress What to know about the Iran war today: - Qatari and Pakistani mediators said Thursday that the next meetings between Iranian and U.S. negotiators would be scheduled \"at the earliest possible time\" after funeral commemorations for Iran's former supreme leader.…",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Here Are the Key Takeaways From the US Jobs Report for June",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Here Are the Key Takeaways From the US Jobs Report for June",
+          "excerpt": "Here are the key takeaways from the June US employment report released Thursday:",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-jobs-report-june-2026-key-takeaways-on-employment-payrolls"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Gold prices today, Thursday, July 2, 2026: Prices break above $4,100 following a disappointing June jobs report",
+          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. Gold (GC=F) August futures opened at $4,049.20 per troy ounce on Thursday, July 2, 2026, down 0.8% from Wednesday's closing price. The price of gold moved up this morning, trading at $4,140.90 as of 9:44 a.m. ET.…",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-2-2026-prices-break-above-4100-following-a-disappointing-june-jobs-report-120224733.html"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+          "excerpt": "My top 10 things to watch Thursday, July 2 1. The June jobs report came in weaker than expected, with nonfarm payrolls up 57,000 versus the Dow Jones consensus of 115,000. Stock futures are strengthening in response, and the yield on the Fed-sensitive 2-year Treasury is falling. The market is taking this as a sign that the central bank won't need to be as hawkish near term.…",
+          "url": "https://www.cnbc.com/2026/07/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "US Adds Fewer Jobs Than Expected in June, Unemployment Rate Falls",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "US Adds Fewer Jobs Than Expected in June, Unemployment Rate Falls",
+          "excerpt": "US hiring slowed sharply in June as nonfarm payrolls increased 57,000 last month after downward revisions to the prior two months, according to Bureau of Labor Statistics data out Thursday. Michael McKee reports on Bloomberg Television. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-02/us-adds-fewer-jobs-than-expected-jobless-rate-falls-video"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "U.S. job market slows in June",
+          "excerpt": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+          "excerpt": "The U.S. economy saw job creation cool sharply heading into the summer, the Bureau of Labor Statistics reported Thursday. Nonfarm payrolls for June increased by a seasonally adjusted 57,000 for the month, slower than the downwardly revised 129,000 added in May and worse than the 115,000 Dow Jones consensus forecast.…",
+          "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
         }
       ]
     },
@@ -558,9 +635,9 @@
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
-          "excerpt": "DETROIT — Ford Motor on Thursday reported a 10.3% decline in its second-quarter U.S. new vehicle sales as the company battled a supplier issue for its F-Series pickup trucks and a significant decline in all-electric vehicles. The Detroit automaker said its pure EV sales fell by 40.7% during the quarter compared with a year earlier.…",
-          "url": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html"
+          "headline": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
+          "excerpt": "DETROIT — Second-quarter U.S. vehicle sales are turning into a tale of haves and have nots, as automakers that have hybrid models are outperforming those that don't amid high gas prices and a decline in demand for all-electric vehicles.…",
+          "url": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html"
         },
         {
           "source": "Yahoo Finance",
@@ -572,282 +649,30 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "В Литве удовлетворили просьбу экс-банкира Антонова об отсрочке отбытия наказания",
+      "category": "📈 Economy",
+      "headline_en": "AI agents will soon be able to match human traders, Robinhood CEO tells CNBC",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "В Литве удовлетворили просьбу экс-банкира Антонова об отсрочке отбытия наказания",
-          "excerpt": "Datetime: 2026-07-02 14:20:02 +0000 IP: 172.215.209.105 ID: 2KMf34Ad7iE1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/obschestvo/27879849"
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "AI agents will soon be able to match human traders, Robinhood CEO tells CNBC",
+          "excerpt": "AI agents will soon have the ability to match the capabilities of human traders, Robinhood CEO Vlad Tenev predicts. The power of agentic technology — AI that can carry out tasks for users — has been touted as potentially transformational by many in the tech sector, with industry giants including OpenAI and Anthropic racing to develop such products.…",
+          "url": "https://www.cnbc.com/2026/07/02/robinhood-ceo-ai-agents.html"
         },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Стали известны финансовые требования Дзюбы по контракту с новым клубом",
-          "excerpt": "Стали известны финансовые требования нападающего Артема Дзюбы, который ищет новый клуб. Об этом сообщает Metaratings. По информации источника, футболист хочет зарабатывать 800-900 тысяч евро в год. Минимальный срок контракта — один сезон.…",
-          "url": "https://lenta.ru/news/2026/07/02/stali-izvestny-finansovye-trebovaniya-dzyuby-po-kontraktu-s-novym-klubom/"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Банки Беларуси, Казахстана и Кыргызстана стали брать комиссию до 5% за приём наличных рублей через кассы банков и банкоматы",
-          "excerpt": "Вероятно, причина — слишком большой объём российской валюты, которой местным банкам столько не нужно. Источник: istockphoto Так, в Беларуси комиссию от 2% до 5% ввели восемь банков — «Альфа-банк», «Беларусбанк», «БелВЭБ», «БНБ-банк», «МТбанк», «Сбер», «Технобанк», «Цептер Банк», пишет РБК. В Казахстане один — «Центркредит». В Кыргызстане тоже один — «Экоисламикбанк».…",
-          "url": "https://vc.ru/money/3005290-komissiya-bankov-belarusi-kazakhstana-i-kyrgyzstana-za-nalichnye-rubli?from=rss"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Rivian is raising its 2026 delivery forecast",
-      "coverage": 3,
-      "perspectives": [
         {
           "source": "Quartz",
           "lang": "en",
-          "headline": "Rivian is raising its 2026 delivery forecast",
-          "excerpt": "The EV maker delivered 12,194 vehicles in the second quarter, topping its own forecast of 9,000 to 11,000 units",
-          "url": "https://qz.com/rivian-q2-2026-deliveries-guidance-raised-070226"
+          "headline": "Robinhood's CEO says AI will trade stocks as well as humans",
+          "excerpt": "Robinhood has introduced two agentic products that let customers connect third-party AI agents to the platform",
+          "url": "https://qz.com/robinhood-ai-agent-trading-credit-card-070226"
         },
         {
-          "source": "TechCrunch",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Rivian raises EV sales forecast as Q2 production ramps up",
-          "excerpt": "Rivian is telling investors that it might see a better sales year than it expected, despite the many headwinds working against electric vehicles in the U.S. right now. Rivian previously said it would ship between 62,000 and 67,000 vehicles this year, but the company now expects to deliver between 65,000 and 70,000 vehicles, the company said on Thursday.…",
-          "url": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
-          "excerpt": "Electric vehicle makers Rivian Automotive and Lucid Group reported second-quarter delivery results Thursday with mixed results. Rivian raised its 2026 delivery guidance range after seeing stronger-than-expected demand for its electric vehicles during the second quarter, while Lucid missed Wall Street expectations and its new CEO Silvio Napoli announced a shakeup of the company's leadership team.…",
-          "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-          "excerpt": "Elon Musk’s SpaceX has shown investors a prototype of a “handset-like” AI device, reports The Wall Street Journal. The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it’s something between a small touchscreen phone and a Rabbit R1.…",
-          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
-          "excerpt": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false' The purported gadget was reported to offer a way to access xAI's models without having to use a smartphone. SpaceX, the newly-public satellite internet company that also dabbles in rockets and CSAM-generating chatbots, might be building its own AI hardware.…",
-          "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
-          "excerpt": "Elon Musk says a report about a SpaceX AI phone prototype is “utterly false.” The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a “handset-like prototype” to some investors before launching its record-breaking initial public offering in June.…",
-          "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Alleged Scattered Spider hacker arrested in Finland",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Alleged Scattered Spider hacker arrested in Finland",
-          "excerpt": "Alleged Scattered Spider hacker arrested in Finland - Published A teenager has been arrested for alleged involvement with the Scattered Spider hacking group, the US Department of Justice (DoJ) has said. Peter Stokes, 19, was arrested in Finland in April and extradited to the US following an Interpol Red Notice.…",
-          "url": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Alleged member of hacking group 'Scattered Spider' arrested in Finland",
-          "excerpt": "Scattered Spider, also known as “Octo Tempest,” “UNC3944,” or “0ktapus,” is a group of criminal cyber actors that attempts to extort ransoms from companies. An alleged member of the \"Scattered Spider\" hacking group has been arrested and extradited to the United States, US authorities announced on Wednesday.…",
-          "url": "http://www.euronews.com/2026/07/02/alleged-member-of-hacking-group-scattered-spider-arrested-in-finland"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Alleged member of hacking group Scattered Spider arrested",
-          "excerpt": "Access Denied You don't have permission to access \"http://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690\" on this server. Reference #18.2751db17.1783002004.2c323ffb https://errors.edgesuite.net/18.2751db17.1783002004.2c323ffb",
-          "url": "https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "'Most massive' Russian attack on Kyiv kills at least 20",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "'Most massive' Russian attack on Kyiv kills at least 20",
-          "excerpt": "'Most massive' Russian attack on Kyiv kills at least 20 - Published Russian forces launched a major drone and missile attack on Kyiv overnight, killing 20 people, in what the city's mayor has described as the \"most massive attack\" on the Ukrainian capital. Vitaly Klitschko said around 90 people were injured.…",
-          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18",
-          "excerpt": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
-          "url": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Russia launches attacks on Kyiv, killing at least 18 and injuring scores",
-          "excerpt": "Russian attack on Kyiv kills at least 18, injures scores July 2, 2026At least 18 people were killed and more than 90 people were injured after Russian drones and missiles hit residential buildings in Kyiv as part of a broader wave of Russian attacks overnight on the Ukrainian capital.…",
-          "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-18-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-          "excerpt": "From friendship bracelets to wedding rings: A Taylor and Travis timeline - Published It looks official: Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend. Speculation about the ceremony has been rife ever since the couple announced their engagement in an Instagram post last August.…",
-          "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Taylor Swift’s Rumored Wedding Planner Breaks a Major Industry Rule—and It’s Likely Why She Hired Him",
-          "excerpt": "The man allegedly behind the most anticipated wedding of the year takes a shocking approach to his business. His bet appears to have paid off.",
-          "url": "https://www.inc.com/amaya-nichole/taylor-swift-wedding-planner-mark-seed-breaks-major-industry-rule/91367914"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Taylor Swift spent two decades selling a fairy tale. Her wedding is the payoff.",
-          "excerpt": "As the Fourth of July weekend approaches, America's 250th birthday is being overshadowed by another major world event: Taylor Swift and Travis Kelce's wedding.…",
-          "url": "https://www.businessinsider.com/taylor-swift-travis-kelce-wedding-hype-love-story-lyrics-explained-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-          "excerpt": "Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan. There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amadou Coulibaly, added.…",
-          "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "59 killed in floods and fears number of dead could rise",
-          "excerpt": "Access Denied You don't have permission to access \"http://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592\" on this server. Reference #18.2751db17.1783002015.2c32e3bc https://errors.edgesuite.net/18.2751db17.1783002015.2c32e3bc",
-          "url": "https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ivory Coast: Nearly 60 people killed in flooding since May",
-          "excerpt": "Ivory Coast: Nearly 60 people killed in flooding since May July 1, 2026A \"particularly heavy\" rainy season that started in mid-May has led to deadly flooding, Ivory Coast government spokesperson Amadou Coulibaly told a cabinet meeting on Wednesday.…",
-          "url": "https://www.dw.com/en/ivory-coast-nearly-60-people-killed-in-flooding-since-may/a-77793180?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Более 500 подростков из РСО будут летом помогать пассажирам на железнодорожных вокзалах",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Более 500 подростков из РСО будут летом помогать пассажирам на железнодорожных вокзалах",
-          "excerpt": "Datetime: 2026-07-02 14:20:18 +0000 IP: 172.215.209.105 ID: IKMFOQAdYGk1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/obschestvo/27879413"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Мощное землетрясение произошло в европейской стране",
-          "excerpt": "Мощное землетрясение произошло у берегов острова Карпатос в Греции. Об этом сообщают специалисты Европейско-средиземноморского сейсмического центра (EMSC). Подземные толчки зафиксировали в четверг, 2 июля, в 14:06 по местному времени (совпадает с московским). Их магнитуда достигала 5,2 — это сейсмологи считают сильным землетрясением, которое способно привести к умеренным разрушениям.…",
-          "url": "https://lenta.ru/news/2026/07/02/moschnoe-zemletryasenie-proizoshlo-v-evropeyskoy-strane/"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Эстония ограничивает возможности граждан РФ и Белоруссии покупать недвижимость в стране",
-          "excerpt": "Эстония ограничивает возможности граждан РФ и Белоруссии покупать недвижимость в стране Москва. 2 июля.…",
-          "url": "https://www.interfax.ru/world/1100779"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ukrainian charged in Germany over Nord Stream blasts",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Ukrainian charged in Germany over Nord Stream blasts",
-          "excerpt": "Ukrainian charged in Germany over Nord Stream blasts - Published German prosecutors have filed charges against a Ukrainian national over the blowing up of the Nord Stream pipelines under the Baltic Sea in 2022.…",
-          "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Nord Stream blast ordered by Ukraine, say German prosecutors",
-          "excerpt": "Nord Stream blast ordered by Ukraine, say German prosecutors July 2, 2026Ukrainian state authorities were behind the 2022 sabotage of the Nord Stream gas pipelines linking Russia with Europe, German prosecutors said on Thursday. In a statement detailing the charges brought against suspect Serhii K.…",
-          "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "<a href=\"https://news.sky.com/story/ukraine-war-latest-live-putin-kyiv-zelenskyy-12541713?postid=11981252#liveblog-body\">Ukrainian man charged with war crimes over Nord Stream pipeline explosions</a>",
-          "excerpt": "Access Denied You don't have permission to access \"http://news.sky.com/story/ukrainian-man-charged-with-war-crimes-over-nord-stream-pipeline-explosions-13559773\" on this server. Reference #18.2751db17.1783002020.2c331f6a https://errors.edgesuite.net/18.2751db17.1783002020.2c331f6a",
-          "url": "https://news.sky.com/story/ukrainian-man-charged-with-war-crimes-over-nord-stream-pipeline-explosions-13559773"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Huge Russian strike on Ukraine's capital kills at least 17, officials say",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Huge Russian strike on Ukraine's capital kills at least 17, officials say",
-          "excerpt": "Russia unleashes biggest attack yet on Kyiv, killing at least 17 people, officials say Kyiv, Ukraine — Russia hit Ukraine's capital overnight with the biggest attack since Moscow launched its full-scale invasion of the neighboring country more than four years ago, Kyiv's mayor said Thursday. The State Emergency Service said at least 17 people were killed in the capital.…",
-          "url": "https://www.cbsnews.com/news/ukraine-russia-war-heavy-attack-kyiv-deaths-injuries/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ukraine: Russia pounds Kyiv in massive drone, missile strike",
-          "excerpt": "One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.",
-          "url": "https://www.france24.com/en/video/20260702-ukraine-russia-pounds-kyiv-in-massive-drone-missile-strike"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace",
-          "excerpt": "Russia on Thursday launched a large-scale missile and drone attack on Ukraine, targeting Kyiv and other regions across the country.…",
-          "url": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html"
+          "headline": "Robinhood CEO on AI, Expansion & Trump Accounts",
+          "excerpt": "Robinhood Markets is expanding in the UK and Europe with a new offering of agentic AI and perpetual futures, a type of derivative investment, with crypto trading expected to come to the UK \"soon\". It's part of a broader international push, even as the field of fin-tech apps in the UK and the EU grows increasingly competitive.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-02/robinhood-ceo-on-ai-expansion-trump-accounts-video"
         }
       ]
     },
@@ -880,17 +705,38 @@
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "Kroger to buy regional grocer Giant Eagle in $1.65 billion deal",
+      "category": "🌍 World",
+      "headline_en": "Alleged Scattered Spider hacker arrested in Finland",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "Fast Company",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Kroger to buy regional grocer Giant Eagle in $1.65 billion deal",
-          "excerpt": "Kroger said Wednesday it plans to buy regional grocer and pharmacy retailer Giant Eagle in a deal valued at $1.65 billion. Giant Eagle, which is privately held, has 197 supermarkets and 11 stand-alone pharmacies across northern Ohio, western Pennsylvania, West Virginia, Maryland, and Indiana. They would continue to operate under the Giant Eagle name under the terms of the deal.…",
-          "url": "https://www.fastcompany.com/91568399/kroger-giant-eagle"
+          "headline": "Alleged Scattered Spider hacker arrested in Finland",
+          "excerpt": "Alleged Scattered Spider hacker arrested in Finland - Published A teenager has been arrested for alleged involvement with the Scattered Spider hacking group, the US Department of Justice (DoJ) has said. Peter Stokes, 19, was arrested in Finland in April and extradited to the US following an Interpol Red Notice.…",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Alleged member of hacking group Scattered Spider arrested",
+          "excerpt": "A teenager alleged to be a member of the criminal cyber hacking group Scattered Spider - which was linked to attacks on M&amp;S and Transport for London - has been arrested, according to US authorities.",
+          "url": "https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Alleged member of hacking group 'Scattered Spider' arrested in Finland",
+          "excerpt": "Scattered Spider, also known as “Octo Tempest,” “UNC3944,” or “0ktapus,” is a group of criminal cyber actors that attempts to extort ransoms from companies. An alleged member of the \"Scattered Spider\" hacking group has been arrested and extradited to the United States, US authorities announced on Wednesday.…",
+          "url": "http://www.euronews.com/2026/07/02/alleged-member-of-hacking-group-scattered-spider-arrested-in-finland"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Kroger Just Struck a $1.65 Billion Deal to Buy a Family-Owned Grocery Chain. Experts Are Already Sounding the Alarm",
+      "coverage": 3,
+      "perspectives": [
         {
           "source": "Inc.",
           "lang": "en",
@@ -904,42 +750,112 @@
           "headline": "Kroger to acquire Giant Eagle for $1.65B",
           "excerpt": "Dive Brief: - Kroger announced Wednesday that it plans to acquire supermarket chain Giant Eagle for $1.65 billion. - The deal, which the companies expect to close in 2027, includes $1.25 billion in cash plus the assumption of $400 million in liabilities. The grocers expect to make “limited” divestitures of Giant Eagle stores in order to receive regulatory approval.…",
           "url": "https://www.grocerydive.com/news/kroger-acquiring-giant-eagle-deal/824184/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Kroger to buy regional grocer Giant Eagle in $1.65 billion deal",
+          "excerpt": "Kroger said Wednesday it plans to buy regional grocer and pharmacy retailer Giant Eagle in a deal valued at $1.65 billion. Giant Eagle, which is privately held, has 197 supermarkets and 11 stand-alone pharmacies across northern Ohio, western Pennsylvania, West Virginia, Maryland, and Indiana. They would continue to operate under the Giant Eagle name under the terms of the deal.…",
+          "url": "https://www.fastcompany.com/91568399/kroger-giant-eagle"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "headline_en": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
       "coverage": 3,
       "perspectives": [
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-          "excerpt": "Donald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years. Wednesday was the deadline built into the United States-Mexico-Canada Agreement (USMCA) for the three countries to jointly decide its fate, which is set to expire in 2036.…",
-          "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
+          "headline": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+          "excerpt": "Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan. There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amadou Coulibaly, added.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "Why has Trump refused to renew the USMCA, and what will that mean?",
-          "excerpt": "Why has Trump refused to renew the USMCA, and what will that mean? Trade ambassador says US will not approve trilateral agreement with Canada and Mexico ‘in its current form’.…",
-          "url": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss"
+          "headline": "59 killed in floods and fears number of dead could rise",
+          "excerpt": "At least 59 people have been killed in flooding in Ivory Coast, according to a government spokesman,",
+          "url": "https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "US declines to renew USMCA trade pact with Mexico, Canada",
-          "excerpt": "US declines to renew USMCA trade pact with Mexico, Canada July 2, 2026The United States on Wednesday decided not to renew the US-Mexico-Canada Agreement (USMCA), in its current form, US trade Representative Jamieson Greer said in a statement \"The United States will continue to engage with Mexico and Canada to address the agreement's shortcomings and our trade deficits with these countries,\" Greer …",
-          "url": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686?maca=en-rss-en-all-1573-rdf"
+          "headline": "Ivory Coast: Nearly 60 people killed in flooding since May",
+          "excerpt": "Ivory Coast: Nearly 60 people killed in flooding since May July 1, 2026A \"particularly heavy\" rainy season that started in mid-May has led to deadly flooding, Ivory Coast government spokesperson Amadou Coulibaly told a cabinet meeting on Wednesday.…",
+          "url": "https://www.dw.com/en/ivory-coast-nearly-60-people-killed-in-flooding-since-may/a-77793180?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "What Borrowers Should Know as Sweeping Student Loan Changes From Trump's Big Beautiful Bill Take Effect",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "What Borrowers Should Know as Sweeping Student Loan Changes From Trump's Big Beautiful Bill Take Effect",
+          "excerpt": "Sweeping changes to federal student loans included in President Donald Trump’s One Big Beautiful Bill are taking effect on Wednesday, with implications for millions of borrowers.…",
+          "url": "https://time.com/article/2026/07/01/student-loan-limits-repayment-plans-trump-big-beautiful-bill/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Student-loan borrowers are getting their first batch of notices to switch repayment plans",
+          "excerpt": "The SAVE exodus has officially begun. The first batch of notices to student-loan borrowers enrolled in the SAVE repayment plan went out on July 1, informing them of their 90-day timeframe to switch to a new plan and begin making payments.…",
+          "url": "https://www.businessinsider.com/when-will-save-plan-notices-come-student-loan-borrowers-repayment-2026-7"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
+          "excerpt": "Student loan borrowers don't need to worry about losing eligibility for Public Service Loan Forgiveness based on their employer, after two federal judges blocked a Trump administration rule. On Tuesday, U.S. District Judge Amir Ali struck down the regulation adding new restrictions to PSLF, which were going to start July 1. On the same day, U.S.…",
+          "url": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukrainian charged in Germany over Nord Stream blasts",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Ukrainian charged in Germany over Nord Stream blasts",
+          "excerpt": "Ukrainian charged in Germany over Nord Stream blasts - Published German prosecutors have filed charges against a Ukrainian national over the blowing up of the Nord Stream pipelines under the Baltic Sea in 2022.…",
+          "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "<a href=\"https://news.sky.com/story/ukraine-war-latest-live-putin-kyiv-zelenskyy-12541713?postid=11981252#liveblog-body\">Ukrainian man charged with war crimes over Nord Stream pipeline explosions</a>",
+          "excerpt": "Ukrainian man charged with war crimes over Nord Stream pipeline explosions",
+          "url": "https://news.sky.com/story/ukrainian-man-charged-with-war-crimes-over-nord-stream-pipeline-explosions-13559773"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Nord Stream blast ordered by Ukraine, say German prosecutors",
+          "excerpt": "Nord Stream blast ordered by Ukraine, say German prosecutors July 2, 2026Ukrainian state authorities were behind the 2022 sabotage of the Nord Stream gas pipelines linking Russia with Europe, German prosecutors said on Thursday. In a statement detailing the charges brought against suspect Serhii K.…",
+          "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Apple is reportedly planning a visual refresh of the entry-level MacBook Pro next year",
+      "headline_en": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
       "coverage": 3,
       "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+          "excerpt": "Apple reportedly has plans to release several new iPad Pros and a new MacBook Pro in the first half of next year. The company is currently working on four models of the new tablet with faster chips, Bloomberg reported. It is also developing a new “entry-level” MacBook Pro, which is internally referred to as K104, the outlet writes.…",
+          "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/"
+        },
         {
           "source": "Engadget",
           "lang": "en",
@@ -953,202 +869,146 @@
           "headline": "Apple’s entry-level MacBook Pro could be up for a redesign",
           "excerpt": "Apple is working on a “revamped” version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on “internal improvements.” Apple’s entry-level MacBook Pro could be up for a redesign The company is also reportedly updating the iPad Pro next year.…",
           "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+          "excerpt": "Four people died, three from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat said in the early hours of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to celebrate Mexico’s 2-0 victory over Ecuador in the last 32.…",
+          "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
+        },
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+          "excerpt": "The ground literally shook after the two goals that secured Mexico’s victory over Ecuador in the round of 32 of the 2026 World Cup on Tuesday.…",
+          "url": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "3 die during Mexico City World Cup celebrations",
+          "excerpt": "3 die during Mexico City World Cup celebrations July 1, 2026Three people died in Mexico City on Tuesday night after being caught in a crowd crush during celebrations of host Mexico's World Cup victory over Ecuador.…",
+          "url": "https://www.dw.com/en/3-die-during-mexico-city-world-cup-celebrations/a-77791673?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Breaking down U.S. win against Bosnia and Herzegovina, controversial red card and next match",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Breaking down U.S. win against Bosnia and Herzegovina, controversial red card and next match",
+          "excerpt": "Breaking down U.S. win against Bosnia and Herzegovina, controversial red card and next match Nigel Reo-Coker, an analyst for CBS Sports Golazo, joins \"CBS Mornings\" to break down the United States' big win against Bosnia and Herzegovina in the World Cup, its chances against Belgium and more.",
+          "url": "https://www.cbsnews.com/video/breaking-down-u-s-win-against-bosnia-and-herzegovina-controversial-red-card-and-next-match/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "After biggest World Cup win in decades, the U.S. must go again without its star forward",
+          "excerpt": "SANTA CLARA, Calif. — Blood pooled near Malik Tillman’s toes as he stood over a free kick Wednesday evening. The U.S. midfielder’s boot had been stepped on and split open during the World Cup’s round of 32 match against Bosnia-Herzegovina. The puncture left a hole in his sock between his big and middle toes, where a red stain formed. But the 82nd minute of a knockout game, with the U.S.…",
+          "url": "https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "US fans celebrate World Cup last-16 spot",
+          "excerpt": "Fans celebrated outside the stadium in Santa Clara, California, after the United States secured a 2-0 victory over Bosnia and Herzegovina to reach the World Cup last 16. Folarin Balogun opened the scoring before being sent off in the second half, leaving the hosts to play with 10 men. Malik Tillman doubled the lead with a free-kick in the 82nd minute to seal the win.…",
+          "url": "http://www.euronews.com/video/2026/07/02/us-fans-celebrate-world-cup-last-16-spot"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+          "excerpt": "Elon Musk says a report about a SpaceX AI phone prototype is “utterly false.” The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a “handset-like prototype” to some investors before launching its record-breaking initial public offering in June.…",
+          "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
+          "excerpt": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false' The purported gadget was reported to offer a way to access xAI's models without having to use a smartphone. SpaceX, the newly-public satellite internet company that also dabbles in rockets and CSAM-generating chatbots, might be building its own AI hardware.…",
+          "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/"
         },
         {
           "source": "TechCrunch",
           "lang": "en",
-          "headline": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-          "excerpt": "Apple reportedly has plans to release several new iPad Pros and a new MacBook Pro in the first half of next year. The company is currently working on four models of the new tablet with faster chips, Bloomberg reported. It is also developing a new “entry-level” MacBook Pro, which is internally referred to as K104, the outlet writes.…",
-          "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/"
+          "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "excerpt": "Elon Musk’s SpaceX has shown investors a prototype of a “handset-like” AI device, reports The Wall Street Journal. The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it’s something between a small touchscreen phone and a Rabbit R1.…",
+          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Couple Who Climbed Empire State Building Face Multiple Charges",
-      "coverage": 3,
+      "headline_en": "More Than Half the US on Alert for Extreme Heat: What to Know",
+      "coverage": 2,
       "perspectives": [
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Couple Who Climbed Empire State Building Face Multiple Charges",
-          "excerpt": "Victor Willis, Lead Singer of The Village People, Dies at 74 02:22 Navy Crew Member Missing After Helicopter Crash in Arabian Sea 00:26 Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00:31 Now Playing Couple Who Climbed Empire State Building Face Multiple Charges 02:27 UP NEXT Trump Made 327 Stock Trades 1 Day Before Tariff Pause: Filings 02:09 Record-Setting Travel Underway Ahe…",
-          "url": "https://www.today.com/video/bodycam-captures-arrest-of-empire-state-building-climbers-266064453544"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Daredevil Couple Arrested After Climbing the Empire State Building: What We Know",
-          "excerpt": "A daredevil Russian couple were arrested and charged after scaling the Empire State Building in New York City on Wednesday, in what appeared to be an elaborate and risky marriage proposal. The New York Police Department identified them as Ivan Kuznetsov, 32, and Angelina Nikolau, 33, self-proclaimed “rooftoppers” who climb and pose atop the highest buildings without safety nets or permission.…",
-          "url": "https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/"
+          "headline": "More Than Half the US on Alert for Extreme Heat: What to Know",
+          "excerpt": "Victor Willis, Lead Singer of The Village People, Dies at 74 02:22 Navy Crew Member Missing After Helicopter Crash in Arabian Sea 00:26 Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00:31 Couple Who Climbed Empire State Building Face Multiple Charges 02:27 Trump Made 327 Stock Trades 1 Day Before Tariff Pause: Filings 02:09 Record-Setting Travel Underway Ahead of July 4 Holiday…",
+          "url": "https://www.today.com/video/heat-dome-blankets-half-of-us-what-to-know-for-july-4-266059845962"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Who climbed the Empire State Building? Here's what we know.",
-          "excerpt": "Who climbed the Empire State Building? Here's what we know. The two people arrested for climbing New York City's Empire State Building where they apparently got engaged Wednesday afternoon have been identified as Ivan Kuznetsov, 32, and Angelina Nikolau, 33 — well known as the \"Skywalkers\" featured in a popular Netflix documentary. They live in East Orange, N.J.…",
-          "url": "https://www.cbsnews.com/news/empire-state-building-climbers-ivan-kuznetsov-angela-nikolau/"
+          "headline": "Intense heat continues across U.S., impacting some Fourth of July plans",
+          "excerpt": "Intense heat continues across U.S., impacting some Fourth of July plans Multiple cities are expecting triple-digit temperatures over the Fourth of July weekend and some are scaling back their celebrations. CBS News meteorologist Rob Marciano has the latest forecast.",
+          "url": "https://www.cbsnews.com/video/intense-heat-continues-across-us-impacting-some-fourth-of-july-plans/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "В Киеве 52 тысячи человек ночевали в метро из-за удара России. Так много еще не было",
+      "headline_en": "Democratic socialists pose a challenge for the party as midterms approach",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "В Киеве 52 тысячи человек ночевали в метро из-за удара России. Так много еще не было",
-          "excerpt": "В Киеве 52 тысячи человек ночевали в метро из-за удара России. Так много еще не было 52,5 тысячи жителей Киева, в том числе 4,5 тысячи детей, укрывались на станциях городского метрополитена во время массированной атаки России в ночь на 2 июля, сообщили власти столицы Украины. Как отмечает Киевский метрополитен, это самый высокий показатель за последние годы войны. Точный период там не указали.…",
-          "url": "https://meduza.io/news/2026/07/02/v-kieve-52-tysyacham-zhiteley-prishlos-nochevat-v-metro-iz-za-rossiyskogo-massirovannogo-udara"
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Democratic socialists pose a challenge for the party as midterms approach",
+          "excerpt": "A string of high-profile victories by democratic socialists is posing a challenge for Democrats as they look ahead to midterms and seek a path back to the majority in Congress.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5877755/democratic-socialists-pose-a-challenge-for-the-party-as-midterms-approach"
         },
         {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Министр обороны Украины накануне удара возмездия выступил с докладом «Небо защищено»",
-          "excerpt": "Министр обороны Украины Михаил Федоров накануне массированного удара возмездия выступил с докладом «Украинское небо защищено». Кадры с мероприятия опубликовал в Telegram депутат Верховной Рады Максим Бужанский. Парламентарий опубликовал фотографию с публичного мероприятия, которое прошло 1 июня. На кадрах Федоров стоит на сцене, а позади него крупная надпись на слайде «Небо Украины защищено».…",
-          "url": "https://lenta.ru/news/2026/07/02/ministr-oborony-ukrainy-nakanune-udara-vozmezdiya-vystupil-s-dokladom-nebo-zaschischeno/"
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "There’s Nothing Democratic About These Socialists",
+          "excerpt": "There’s Nothing Democratic About These Socialists The DSA was formed in opposition to the very thing it has become. Updated at 1:22 p.m. ET on July 1, 2026 The general idea that Democratic Party loyalists seem to have about members of the Democratic Socialists of America is that they’re a lot like Democrats, but perhaps a bit more passionate.…",
+          "url": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/?utm_source=feed"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Portugal vs Croatia: FIFA World Cup – Ronaldo-Modric, prediction, team news",
+      "headline_en": "Explosion in Damascus cafe causes casualties",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Portugal vs Croatia: FIFA World Cup – Ronaldo-Modric, prediction, team news",
-          "excerpt": "Portugal vs Croatia: FIFA World Cup – Ronaldo-Modric, prediction, team news A last-16 meeting against either Spain or Austria awaits the winners of the round of 32 clash in Toronto. How can your team reach the final and win World Cup 2026? Click here to find out.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/2/portugal-vs-croatia-world-cup-last-32-preview-prediction-team-news-ronald-modric?traffic_source=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "USMNT moves ahead in FIFA World Cup",
-          "excerpt": "Latest U.S. Iran War Heat Wave World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
-          "url": "https://www.cbsnews.com/video/usmnt-moves-on-in-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Глава ВОЗ заявил, что вспышку хантавируса на лайнере можно считать завершившейся",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Глава ВОЗ заявил, что вспышку хантавируса на лайнере можно считать завершившейся",
-          "excerpt": "Datetime: 2026-07-02 14:20:28 +0000 IP: 172.215.209.105 ID: SKMgGgAdd8c1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/obschestvo/27879791"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Абхазия призвала Грузию признать сложившиеся реалии в регионе",
-          "excerpt": "Абхазия призвала Грузию признать сложившиеся реалии в регионе Москва. 2 июля. INTERFAX.RU - Абхазия призывает к мирному решению вопросов взаимоотношений с Грузией на основе сложившихся реалий в регионе, заявил глава МИД республики Олег Барциц Абхазскому государственному телевидению после 67-го раунда международных дискуссий в Швейцарии по безопасности и стабильности в Закавказье.…",
-          "url": "https://www.interfax.ru/world/1100789"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "В Белгородской области при атаке дрона ВСУ на грузовик пострадал человек",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "В Белгородской области при атаке дрона ВСУ на грузовик пострадал человек",
-          "excerpt": "Datetime: 2026-07-02 14:20:31 +0000 IP: 172.215.209.105 ID: VKMr2kAdwGk1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/proisshestviya/27879731"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Брянские власти подтвердили атаку БПЛА на автобус, ехавший из Белоруссии",
-          "excerpt": "Брянские власти подтвердили атаку БПЛА на автобус, ехавший из Белоруссии Москва. 2 июля. INTERFAX.RU - Временно исполняющий обязанности губернатора Брянской области Егор Ковальчук подтвердил данные белорусских СМИ об атаке БПЛА на туристический автобус и о двоих пострадавших.…",
-          "url": "https://www.interfax.ru/russia/1100781"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Сына гендиректора уральского завода \"Умекон\" задержали",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Сына гендиректора уральского завода \"Умекон\" задержали",
-          "excerpt": "Datetime: 2026-07-02 14:20:33 +0000 IP: 172.215.209.105 ID: XKMglmAdOqM1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/proisshestviya/27879845"
-        },
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Бывшего топ-менеджера «Роснано» Ирину Рапопорт заочно приговорили к 15 годам по делу о растрате",
-          "excerpt": "Бывшего топ-менеджера «Роснано» Ирину Рапопорт заочно приговорили к 15 годам по делу о растрате Пресненский районный суд Москвы заочно приговорил к 15 годам колонии бывшего топ-менеджера «Роснано» Ирину Рапопорт, которую обвинили в растрате и коммерческом подкупе, пишет «Коммерсант».…",
-          "url": "https://meduza.io/news/2026/07/02/byvshego-top-menedzhera-rosnano-irinu-rapoport-zaochno-prigovorili-k-15-godam-po-delu-o-rastrate"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Россия нанесла массированный удар по Киеву ракетами и беспилотниками. Погибли не менее 10 человек, пострадали более 50",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Россия нанесла массированный удар по Киеву ракетами и беспилотниками. Погибли не менее 10 человек, пострадали более 50",
-          "excerpt": "Россия нанесла массированный удар по Киеву ракетами и беспилотниками. Погибли не менее 10 человек, пострадали более 50 Обновлено. Число погибших выросло до 13 человек, сообщили в Государственной службе по чрезвычайным ситуациям Украины. Российские войска в ночь на 2 июля атаковали Киев баллистическими ракетами и беспилотниками.…",
-          "url": "https://meduza.io/news/2026/07/02/rossiya-nanesla-massirovannyy-udar-po-kievu-raketami-i-bespilotnikami-pogibli-ne-menee-10-chelovek-postradali-bolee-50"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Не менее четырех человек погибли при взрыве в центре Дамаска",
-          "excerpt": "Не менее четырех человек погибли при взрыве в центре Дамаска Москва. 2 июля. INTERFAX.RU - По меньшей мере четыре человека стали жертвами взрыва в сирийской столице, передает в четверг агентство SANA. Ранее сообщалось, что взрыв произошел в четверг в кафе на улице Ан-Насер в районе Аль-Марджа в центре Дамаска недалеко от Дворца правосудия.…",
-          "url": "https://www.interfax.ru/world/1100791"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Пятнадцать лет по договору поручительства // Заочно осуждена бывший топ-менеджер «Роснано»",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Пятнадцать лет по договору поручительства // Заочно осуждена бывший топ-менеджер «Роснано»",
-          "excerpt": "Пятнадцать лет по договору поручительства Заочно осуждена бывший топ-менеджер «Роснано» Суд в Москве вынес заочный приговор бывшему управляющему директору «Роснано» Ирине Рапопорт. По версии следствия, она вместе с сообщниками путем оформления договоров займа и поручительства вывела инвестированные в уставный капитал компании средства на сумму 1,6 млрд руб.…",
-          "url": "https://www.kommersant.ru/doc/8781899"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Суд в Москве вынес приговор обвиняемым в хищении почти 460 млн руб. у АСВ",
-          "excerpt": "Суд в Москве вынес приговор обвиняемым в хищении почти 460 млн руб. у АСВ Москва. 2 июля. INTERFAX.RU - Суд в Москве приговорил группу обвиняемых в хищении почти 460 млн рублей у ГК \"Агентство по страхованию вкладов\" (АСВ) к длительным срокам, сообщили в прокуратуре столицы в четверг.…",
-          "url": "https://www.interfax.ru/moscow/1100788"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "At least five killed in explosion inside central Damascus cafe",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "At least five killed in explosion inside central Damascus cafe",
-          "excerpt": "At least five killed in explosion inside central Damascus cafe Blast at a cafe in Damascus reportedly kills five and wounds more than a dozen people. An explosion at a cafe in central Damascus has killed at least five people and injured 16, according to Syria’s Ministry of Health.…",
-          "url": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss"
+          "headline": "Explosion in Damascus cafe causes casualties",
+          "excerpt": "Explosion in Damascus cafe causes casualties Explosion in Damascus cafe causes casualties An explosion inside a cafe in Damascus’s Hejaz district has caused casualties, according to Syrian state media. The cause of the blast is unclear and authorities are investigating. Published On 2 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss"
         },
         {
           "source": "France 24",
@@ -1160,23 +1020,191 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "The economics of women’s weight",
+      "category": "💡 Tech & AI",
+      "headline_en": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "FT",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "The economics of women’s weight",
-          "excerpt": "The economics of women’s weight Subscribe to unlock this article Try unlimited access Only $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.…",
-          "url": "https://www.ft.com/content/a7a9bfbf-9743-473b-897f-6a91ad3fa0a9"
+          "headline": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+          "excerpt": "AOL is public again — sort of. Its owner Bending Spoons, the 13-year-old Italian company that has been quietly acquiring beloved but ailing internet brands for the past decade, went public on the Nasdaq today, opening at an over $18 billion valuation, with the stock then popping 40% by market close.…",
+          "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/"
         },
         {
-          "source": "CBS News",
+          "source": "The Economist B.",
           "lang": "en",
-          "headline": "\"Here for the peptides\": Unapproved weight-loss drug sold at Brooklyn bodega",
-          "excerpt": "\"Here for the peptides\": Unapproved weight-loss drug sold at Brooklyn bodega Behind the counter of a convenience store in Brooklyn, a cashier rang up a tiny vial of a peptide the store advertised as retatrutide — an experimental weight-loss drug whose sale is generally prohibited by federal law. Here's what CBS News correspondent Adam Yamaguchi found.",
-          "url": "https://www.cbsnews.com/video/experimental-weight-loss-drug-retatrutide-sold-convenience-store/"
+          "headline": "Can Bending Spoons thrive as a listed company?",
+          "excerpt": "A rare Italian software star uses the private-equity playbook",
+          "url": "https://www.economist.com/business/2026/07/01/can-bending-spoons-thrive-as-a-listed-company"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "'Beautiful and terrible' - the world's thoughts on the US at 250",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "'Beautiful and terrible' - the world's thoughts on the US at 250",
+          "excerpt": "'Beautiful and terrible' - the world's thoughts on the US at 250 As the US marks 250 years since independence, the BBC asked people in Brazil, Egypt, India, Australia, Canada and the UK what they think of America today, revealing a mix of admiration, criticism and reflection of its place in the world.…",
+          "url": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "What Would Mark Twain Think of America at 250?",
+          "excerpt": "What Would Mark Twain Think of America at 250? The country’s greatest satirist loved technology and hated corruption. He’d have plenty to say about both in 2026. So what would Mark Twain—a man never at a loss for opinions—make of America on the 250th anniversary of its birth? He wouldn’t be surprised to be asked, or bashful about answering. As he once wrote in his notebook, “I am not an American.…",
+          "url": "https://www.theatlantic.com/ideas/2026/07/mark-twain-america-anniversary-critique/687718/?utm_source=feed"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Meet Melat Kiros, the Democratic Socialist Who Won Colorado's Primary",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Meet Melat Kiros, the Democratic Socialist Who Won Colorado's Primary",
+          "excerpt": "Melat Kiros, a 29-year-old Democratic Socialist, defeated Rep. Diana DeGette of Colorado in Tuesday's primary election, ending the Denver congresswoman’s nearly three-decade hold on the seat. Kiros’s victory over DeGette and fellow challenger Wanda James marked the latest sign of the progressive wing's deepening influence over the Democratic Party.…",
+          "url": "https://time.com/article/2026/06/30/melat-kiros-democratic-socialist-colorado-congressional-race/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Kiros ousts 15-term Colorado U.S. Rep. DeGette",
+          "excerpt": "Progressive upstart Melat Kiros completed a monumental upset over U.S. Rep. Diana DeGette , defeating the 15-time incumbent on Tuesday to secure the Democratic nomination in Colorado's 1st Congressional District, the AP reports .…",
+          "url": "https://www.axios.com/local/denver/2026/07/01/colorado-primary-results-melat-kiros-beats-diana-degette"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Amazon is designing its own AI chips for Echo and Fire TV — and hints at on-the-go devices",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Amazon is designing its own AI chips for Echo and Fire TV — and hints at on-the-go devices",
+          "excerpt": "Hardware chief Panos Panay says Amazon builds end-to-end silicon for its most critical devices and hints a portable AI gadget is coming soon",
+          "url": "https://qz.com/amazon-custom-ai-chips-echo-fire-tv-devices-070226"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Amazon is designing its own AI chips for Echo, Fire TV and future devices, exec tells CNBC",
+          "excerpt": "Amazon is focusing on building chips for its \"critical\" consumer devices, the company's top hardware executive told CNBC.…",
+          "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
+          "excerpt": "A new ethnic unity law has come into effect in China despite warnings from Taiwan, the United Nations and rights groups that it could threaten freedoms, especially for minorities. The Law on Promoting Ethnic Unity and Progress aims to forge a “shared” national identity among ethnic groups, for example by strengthening the status of Mandarin as the official language.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "What’s China’s new ethnic unity law, and what does it mean for minorities?",
+          "excerpt": "What’s China’s new ethnic unity law, and what does it mean for minorities? Critics say it could hasten the forced assimilation of minorities and lead to the targeting of critics outside China. Beijing, however, rejects these accusations.…",
+          "url": "https://www.aljazeera.com/news/2026/7/2/whats-chinas-new-ethnic-unity-law-and-what-does-it-mean-for-minorities?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Microsoft Mobilizes 6,000 Workers to Help Customers Adopt AI",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Microsoft Mobilizes 6,000 Workers to Help Customers Adopt AI",
+          "excerpt": "Microsoft Corp. is setting up a new organization with 6,000 employees to help businesses with the technical and strategic work of deploying artificial intelligence.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
+          "excerpt": "Microsoft is investing $2.5 billion into a new group focused on assisting clients with AI implementations, becoming the latest tech company to commit hefty resources to helping businesses understand and adopt emerging artificial intelligence technologies.…",
+          "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Meta Looks to Make Money From Its AI Spending Binge",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Meta Looks to Make Money From Its AI Spending Binge",
+          "excerpt": "The company is considering a cloud computing business to help generate revenue from AI",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-02/meta-considers-cloud-business-to-make-money-from-ai-capacity"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins",
+          "excerpt": "Meta CEO Mark Zuckerberg appears poised to make a big bet on a potentially big market, but one that commands much slimmer margins than his company's dominant online ad business. Cloud infrastructure has proven to be highly lucrative for hyperscaler peers Amazon, Microsoft and Google, and Zuckerberg has hinted of late that Meta could be headed in that direction.…",
+          "url": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+          "excerpt": "While virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the Democratic Republic of the Congo the Bundibugyo virus, the root of the current Ebola outbreak (currently more than 1,250 cases and at least 362 deaths), was smouldering under the radar.…",
+          "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Authorities race to contain spread of Ebola in eastern DR Congo",
+          "excerpt": "Authorities race to contain spread of Ebola in eastern DR Congo Africa To display this content from YouTube, you must enable advertisement tracking and audience measurement. One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.…",
+          "url": "https://www.france24.com/en/tv-shows/focus/20260702-authorities-race-to-contain-spread-of-ebola-in-eastern-dr-congo"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "German coalition agrees on sweeping reform package in key breakthrough",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "German coalition agrees on sweeping reform package in key breakthrough",
+          "excerpt": "German coalition agrees on sweeping reform package in key breakthrough Under fire amid surge in far right, German chancellor unveils tax and pension reform package in bid to revive economy. German Chancellor Friedrich Merz’s ruling coalition has unveiled a sweeping package of tax, labour and pension reforms aimed at reviving Europe’s largest economy and countering a surge by the far right.…",
+          "url": "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Germany news: Coalition agrees package to boost growth",
+          "excerpt": "Germany news: Coalition agrees package to boost growth Published July 2, 2026last updated July 2, 2026What you need to know - Chancellor Friedrich Merz says his coalition has approved a 'catalogue of significant reforms' after coalition talks in Berlin - The package includes €10 billion in income tax relief, an end to phone-based sick notes and plans to implement pension reforms - Germany's Federa…",
+          "url": "https://www.dw.com/en/germany-news-coalition-agrees-package-to-boost-growth/live-77795988?maca=en-rss-en-all-1573-rdf"
         }
       ]
     }
