@@ -1,34 +1,90 @@
 {
-  "collected_at": "2026-07-02T13:14:53.240705+00:00",
-  "total_sources": 38,
-  "total_entries": 312,
+  "collected_at": "2026-07-02T13:54:31.649413+00:00",
+  "total_sources": 44,
+  "total_entries": 438,
   "story_count": 20,
   "stories": [
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "Squarespace Promo Codes: 20% Off in July 2026",
-      "coverage": 4,
+      "category": "🌍 World",
+      "headline_en": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "Wired",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Squarespace Promo Codes: 20% Off in July 2026",
-          "excerpt": "Squarespace helps small businesses and regular Joe Schmoes to get software help to build their own websites (for both personal and business), even including the commerce side of things with point of sale, inventory, and customer data features (both online or in person).…",
-          "url": "https://www.wired.com/story/squarespace-promo-code/"
+          "headline": "'Most massive' Russian attack on Kyiv kills at least 20",
+          "excerpt": "'Most massive' Russian attack on Kyiv kills at least 20 - Published Russian forces launched a major drone and missile attack on Kyiv overnight, killing 20 people, in what the city's mayor has described as the \"most massive attack\" on the Ukrainian capital. Vitaly Klitschko said around 90 people were injured.…",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "At least 20 dead as Russia launches massive drone and missile attack on Kyiv",
+          "excerpt": "At least 20 people have been killed and dozens injured overnight in Kyiv, local authorities have said as Russia launched its latest massive drone and missile attack on the Ukrainian capital. Fires were burning at sites across Kyiv as dawn broke on Thursday, with strikes or debris hitting residential buildings in several districts and a hotel on one of the central boulevards.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18",
+          "excerpt": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Nine Thai monks killed after 11-year-old driver collides with procession",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Nine Thai monks killed after 11-year-old driver collides with procession",
+          "excerpt": "Nine Thai monks killed after 11-year-old driver collides with procession - Published Nine Buddhist monks were killed and several others in their procession injured when they were hit by an 11-year-old boy driving his parents' pickup truck in north-east Thailand, police said.…",
+          "url": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "At least nine monks killed in Thailand after boy drives truck into procession",
+          "excerpt": "An 11-year-old boy has driven his parents’ truck into a Buddhist procession in Thailand, killing at least nine monks. CCTV footage shared by a local rescue group showed the moment the monks, wearing orange robes, were run over as they walked in procession along a road. The timestamp on the footage was shortly before 11am local time on Thursday.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Eight Thai monks killed after child drives truck into procession",
+          "excerpt": "Eight Thai monks killed after child drives truck into procession Police say 11-year-old boy who took his parents’ vehicle without permission is now in custody and will be questioned. Eight Thai monks have been killed and other people injured after a child drove his family’s pick-up truck into a Buddhist procession.…",
+          "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Walmart Promo Codes: Up to 65% Off for July 2026",
-      "coverage": 4,
+      "headline_en": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "Wired",
+          "source": "VentureBeat",
           "lang": "en",
-          "headline": "Walmart Promo Codes: Up to 65% Off for July 2026",
-          "excerpt": "After living in big cities like San Francisco and New York, when I set foot in Wally World in the Midwest, I heard angels sing. Rows and rows of fluorescent lights highlighted any and every product needed for your house in one place. Screw the mom-and-pop bodega—I missed this level of convenience.…",
-          "url": "https://www.wired.com/story/top-walmart-promo-codes/"
+          "headline": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+          "excerpt": "Anthropic is restoring global access to its most powerful generally released AI model yet, Claude Fable 5, today, after the U.S. Department of Commerce last night withdrew the emergency export controls it had issued previously around the model. The U.S.…",
+          "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "How Anthropic Made Its Powerful Fable 5 Model Safe to Deploy Again, Ending a Global Shutdown",
+          "excerpt": "Anthropic’s Claude Fable 5 was blocked shortly after its release because of a ‘national security concern.’",
+          "url": "https://www.inc.com/hazel-gandhi/how-anthropic-made-its-powerful-fable-5-model-safe-to-deploy-again-ending-a-global-shutdown/91368517"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Anthropic's Fable 5 is back after the Trump administration lifted export controls",
+          "excerpt": "Anthropic's Fable 5 model came back online for users on Wednesday, after the Trump administration lifted an export control late Tuesday. Why it matters: It's the most powerful publicly available AI tool — so capable that the U.S. government decided Anthropic had to add further safety measures in order to make it broadly available.…",
+          "url": "https://www.axios.com/2026/07/01/anthropic-fable-5-back-online-trump-export-controls-lifted"
         }
       ]
     },
@@ -48,7 +104,7 @@
           "source": "Inc.",
           "lang": "en",
           "headline": "How Much Is an Invite to Taylor Swift’s Wedding Worth? 8 Percent of This Group Says They Would Spend Over $10,000",
-          "excerpt": "Please enable JS and disable any ad blocker",
+          "excerpt": "The pop star and Travis Kelce are allegedly tying the knot this weekend. Fans of the duo are eager for an opportunity to witness the event.",
           "url": "https://www.inc.com/victoria-salves/how-much-is-an-invite-to-taylor-swift-worth-new-study/91368304"
         },
         {
@@ -61,44 +117,44 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Four die in Mexico City World Cup celebrations",
+      "category": "💡 Tech & AI",
+      "headline_en": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Four die in Mexico City World Cup celebrations",
-          "excerpt": "Four die in Mexico City World Cup celebrations - Published A 19-year-old woman is among three people to have died from suffocation during World Cup celebrations in Mexico City on Tuesday. A 48-year-old woman and a 44-year-old man also died after crowds descended on the city following the country's 2-0 victory over Ecuador, the capital's health authority said on Wednesday.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
+          "headline": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
+          "excerpt": "OpenAI has begun preliminary discussions about giving the US government a 5% stake in the ChatGPT-developer, the Financial Times reported, citing two people familiar with the talks.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says"
         },
         {
-          "source": "The Guardian",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
-          "excerpt": "Four people died, three from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat said in the early hours of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to celebrate Mexico’s 2-0 victory over Ecuador in the last 32.…",
-          "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
+          "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+          "excerpt": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. OpenAI floats giving Trump administration 5 percent cut of AI boom A government stake could help the company avoid onerous regulation.…",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "headline_en": "Vatican excommunicates all members of ultra-conservative rebel group SSPX",
       "coverage": 2,
       "perspectives": [
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-          "excerpt": "Donald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years. Wednesday was the deadline built into the United States-Mexico-Canada Agreement (USMCA) for the three countries to jointly decide its fate, which is set to expire in 2036.…",
-          "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
+          "headline": "Vatican excommunicates all members of ultra-conservative rebel group SSPX",
+          "excerpt": "The Vatican has excommunicated a rebel group of ultra-conservative Catholics who defied Pope Leo by ordaining bishops without his consent, creating a schism in the Roman Catholic church.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/vatican-excommunicates-all-members-of-ultra-conservative-rebels-sspx"
         },
         {
-          "source": "Foreign Policy",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking.",
-          "excerpt": "USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking. The White House hopes that annual reviews will curb the United States’ trade deficit with Mexico and Canada. Welcome to FP Free Week. To celebrate America’s 250th birthday, our entire site is completely unlocked this week only. Enjoy the article.…",
-          "url": "https://foreignpolicy.com/2026/07/01/usmca-renewal-us-canada-mexico-trade-deficit-annual-reviews/"
+          "headline": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+          "excerpt": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
+          "url": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup"
         }
       ]
     },
@@ -124,121 +180,37 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Explosion heard in Syria’s capital Damascus: state media",
+      "category": "💼 Business",
+      "headline_en": "Kroger to buy regional grocer Giant Eagle in $1.65 billion deal",
       "coverage": 2,
       "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Explosion heard in Syria’s capital Damascus: state media",
-          "excerpt": "At least four killed in explosion inside busy Damascus cafe Blast at a cafe in Damascus reportedly wounded several people.…",
-          "url": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
-          "excerpt": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat' Trump says record boats leaving Hormuz, calls communism ‘biggest threat’ US President Donald Trump arrived in North Dakota aboard ‘the Freedom 250 Train’ for the Theodore Roosevelt Presidential Library dedication.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss"
-        },
         {
           "source": "Fast Company",
           "lang": "en",
-          "headline": "Visitors are the stars in the new Theodore Roosevelt presidential library",
-          "excerpt": "Please enable JS and disable any ad blocker",
-          "url": "https://www.fastcompany.com/91568422/theodore-roosevelt-presidential-library"
+          "headline": "Kroger to buy regional grocer Giant Eagle in $1.65 billion deal",
+          "excerpt": "Kroger said Wednesday it plans to buy regional grocer and pharmacy retailer Giant Eagle in a deal valued at $1.65 billion. Giant Eagle, which is privately held, has 197 supermarkets and 11 stand-alone pharmacies across northern Ohio, western Pennsylvania, West Virginia, Maryland, and Indiana. They would continue to operate under the Giant Eagle name under the terms of the deal.…",
+          "url": "https://www.fastcompany.com/91568399/kroger-giant-eagle"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Kroger Just Struck a $1.65 Billion Deal to Buy a Family-Owned Grocery Chain. Experts Are Already Sounding the Alarm",
+          "excerpt": "The acquisition will hand Kroger control of nearly 200 Giant Eagle supermarkets across the Midwest.",
+          "url": "https://www.inc.com/amaya-nichole/kroger-billion-dollar-deal-to-buy-giant-eagle-experts-sounding-alarm/91368219"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "OpenAI proposes handing Trump administration 5% stake",
+      "headline_en": "Sony announces end of PlayStation discs, parts of digital store in the same day",
       "coverage": 2,
       "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "OpenAI proposes handing Trump administration 5% stake",
-          "excerpt": "OpenAI proposes handing Trump administration 5% stake Subscribe to unlock this article Try unlimited access Only $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.…",
-          "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-          "excerpt": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. OpenAI floats giving Trump administration 5 percent cut of AI boom A government stake could help the company avoid onerous regulation.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ronaldo fever hits Toronto ahead of Portugal vs Croatia World Cup clash",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Ronaldo fever hits Toronto ahead of Portugal vs Croatia World Cup clash",
-          "excerpt": "Ronaldo fever hits Toronto ahead of Portugal vs Croatia World Cup clash The last time the football icon was in Toronto was August 2009 when Real Madrid played a friendly against Toronto FC.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/2/ronaldo-fever-hits-toronto-portugal-vs-croatia-world-cup-2026?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Banks Get Bids on $49 Billion Paramount Debt Well Before Sale",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Banks Get Bids on $49 Billion Paramount Debt Well Before Sale",
-          "excerpt": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message please contact our support team and provide the reference ID below.…",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/banks-get-bids-on-49-billion-paramount-debt-well-before-sale"
-        },
         {
           "source": "Ars Technica",
           "lang": "en",
-          "headline": "UK likely to intervene in Paramount takeover of Warner Bros. Discovery",
-          "excerpt": "The British government could intervene in the $111 billion takeover of Warner Bros. Discovery by Paramount Skydance, citing concerns around the need for a plurality of views in news as well as media ownership in the UK. UK culture secretary Lisa Nandy said on Tuesday that she was “minded to intervene” in the deal, which would create one of the world’s largest media and entertainment groups.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz",
-          "excerpt": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message please contact our support team and provide the reference ID below.…",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/saudi-oil-exports-approach-pre-war-levels-as-hormuz-flows-rise"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-          "excerpt": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft’s plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to digitize their existing physical game collections.…",
-          "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection"
+          "headline": "Sony announces end of PlayStation discs, parts of digital store in the same day",
+          "excerpt": "Some gamers are concerned about the future of game ownership after Sony’s announcement today that it won’t produce physical discs for PlayStation games as of January 2028. On that date, “new games will be available on PlayStation Store and at retailers in digital formats only,” Sony said in a blog post.…",
+          "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/"
         },
         {
           "source": "TechCrunch",
@@ -250,114 +222,233 @@
       ]
     },
     {
-      "category": "📈 Economy",
-      "headline_en": "US Hiring Slows Sharply, Curbing Recent Job-Market Momentum",
+      "category": "💼 Business",
+      "headline_en": "Tesla delivered 480,000 vehicles last quarter, blowing past Wall Street's expectations",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "Quartz",
           "lang": "en",
-          "headline": "US Hiring Slows Sharply, Curbing Recent Job-Market Momentum",
-          "excerpt": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message please contact our support team and provide the reference ID below.…",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-hiring-slows-sharply-curbing-recent-momentum-in-job-growth"
+          "headline": "Tesla delivered 480,000 vehicles last quarter, blowing past Wall Street's expectations",
+          "excerpt": "Analysts had expected roughly 406,000 deliveries; Tesla also produced 451,758 vehicles in the quarter",
+          "url": "https://qz.com/tesla-q2-2026-deliveries-production-070226"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Tesla saw a massive sales jump in the second quarter",
+          "excerpt": "Tesla delivered more than 480,000 vehicles in the second quarter of this year, an increase of more than 120,000 from the first quarter, in a sign that the company is still able to attract new buyers for its EVs despite a downturn in the U.S. market. The company said Thursday that it built 451,758 in the second quarter, 442,936 of which were Model 3 sedans and Model Y SUVs.…",
+          "url": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "В Туапсинском округе объявили беспилотную опасность",
+      "headline_en": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "В Туапсинском округе объявили беспилотную опасность",
-          "excerpt": "Datetime: 2026-07-02 13:15:13 +0000 IP: 172.185.54.245 ID: DFLnGGXtC0U1 If you are not a bot, please copy the report and send it to our support team. Copy",
-          "url": "https://tass.ru/proisshestviya/27879519"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
-      "coverage": 2,
-      "perspectives": [
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
+          "excerpt": "A new ethnic unity law has come into effect in China despite warnings from Taiwan, the United Nations and rights groups that it could threaten freedoms, especially for minorities. The Law on Promoting Ethnic Unity and Progress aims to forge a “shared” national identity among ethnic groups, for example by strengthening the status of Mandarin as the official language.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups"
+        },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
-          "excerpt": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium Late VAR penalty leads to fury as Senegal blows 2-0 lead, loses 3-2 to Belgium in dramatic World Cup round of 32 exit.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/2/controversial-penalty-ends-senegals-fifa-world-cup-run-against-belgium?traffic_source=rss"
+          "headline": "What’s China’s new ethnic unity law, and what does it mean for minorities?",
+          "excerpt": "What’s China’s new ethnic unity law, and what does it mean for minorities? Critics say it could hasten the forced assimilation of minorities and lead to the targeting of critics outside China. Beijing, however, rejects these accusations.…",
+          "url": "https://www.aljazeera.com/news/2026/7/2/whats-chinas-new-ethnic-unity-law-and-what-does-it-mean-for-minorities?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US blocks long-term renewal of North American trade deal",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US blocks long-term renewal of North American trade deal",
+          "excerpt": "US blocks long-term renewal of North American trade deal - Published The US has declined to renew the landmark US-Mexico-Canada Agreement (USMCA) in its current form, according to a senior US official. This decision means the trilateral trade pact will miss out on an automatic 16-year extension.…",
+          "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+          "excerpt": "Donald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years. Wednesday was the deadline built into the United States-Mexico-Canada Agreement (USMCA) for the three countries to jointly decide its fate, which is set to expire in 2036.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+      "headline_en": "Congo Plans First Stock Market as AI Mineral Boom Draws Interest",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "The Verge",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
-          "excerpt": "Elon Musk says a report about a SpaceX AI phone prototype is “utterly false.” The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a “handset-like prototype” to some investors before launching its record-breaking initial public offering in June.…",
-          "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
+          "headline": "Congo Plans First Stock Market as AI Mineral Boom Draws Interest",
+          "excerpt": "The Democratic Republic of Congo is drawing up plans for its first stock exchange as it seeks to attract more investment to an economy that’s benefiting from soaring demand for minerals critical to the artificial intelligence buildout.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/congo-plans-first-stock-market-as-ai-mineral-boom-draws-interest"
         },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Congo Plans First Stock Market as AI Mineral Boom Draws Interest",
+          "excerpt": "The Democratic Republic of Congo is drawing up plans for its first stock exchange as it seeks to attract more investment to an economy that’s benefiting from soaring demand for minerals critical to the artificial intelligence buildout.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/congo-plans-first-stock-market-as-ai-mineral-boom-draws-interest"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+          "excerpt": "The Trump administration lifted export controls on Anthropic’s Claude Fable 5 AI model after the company agreed to extend an existing guardrail to prevent users from trying to access certain restricted capabilities, according to two people familiar with the matter.…",
+          "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "After spooking Trump into safety testing, Anthropic AI models get global release",
+          "excerpt": "The US has lifted export curbs on Anthropic’s newest Claude models, Fable 5 and Mythos 5, about three weeks after the Trump administration flagged the models as national security risks. As of today, Anthropic confirmed in a blog post, Fable 5 will be available globally, and US organizations have had access restored to Mythos 5 since June 26.…",
+          "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Alibaba to pay $600m to settle illegal drug sales allegations in US probe",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Alibaba to pay $600m to settle illegal drug sales allegations in US probe",
+          "excerpt": "Alibaba to pay $600m to settle illegal drug sales allegations in US probe E-commerce giant admitted it failed to prevent about 80,000 illegal drug product sales, according to US Justice Department.…",
+          "url": "https://www.aljazeera.com/news/2026/7/2/alibaba-to-pay-600mn-to-settle-illegal-drug-sales-allegations-in-us-probe?traffic_source=rss"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Alibaba agrees to pay $600 million to settle DOJ probe into illegal drug sales",
+          "excerpt": "The Chinese e-commerce company and its U.S.-based payment processor admitted to roughly 80,000 unlawful product sales over nearly a decade",
+          "url": "https://qz.com/alibaba-doj-settlement-illegal-drug-sales-600-million-070226"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "US economy undershoots forecasts with 57,000 jobs added in June",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "US economy undershoots forecasts with 57,000 jobs added in June",
+          "excerpt": "US economy undershoots forecasts with 57,000 jobs added in June Subscribe to unlock this article Try unlimited access Only $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digital access to quality FT journalism on any device.…",
+          "url": "https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "The economy added just 57,000 jobs last month — a big miss",
+          "excerpt": "The jobs report leaves Fed officials with little additional guidance as they continue to debate the direction of interest rates",
+          "url": "https://qz.com/us-jobs-report-june-2026-payrolls-unemployment-070226"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Four die in Mexico City World Cup celebrations",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Four die in Mexico City World Cup celebrations",
+          "excerpt": "Four die in Mexico City World Cup celebrations - Published A 19-year-old woman is among three people to have died from suffocation during World Cup celebrations in Mexico City on Tuesday. A 48-year-old woman and a 44-year-old man also died after crowds descended on the city following the country's 2-0 victory over Ecuador, the capital's health authority said on Wednesday.…",
+          "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+          "excerpt": "Four people died, three from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat said in the early hours of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to celebrate Mexico’s 2-0 victory over Ecuador in the last 32.…",
+          "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Can Bending Spoons thrive as a listed company?",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Economist B.",
+          "lang": "en",
+          "headline": "Can Bending Spoons thrive as a listed company?",
+          "excerpt": "A rare Italian software star uses the private-equity playbook",
+          "url": "https://www.economist.com/business/2026/07/01/can-bending-spoons-thrive-as-a-listed-company"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+          "excerpt": "AOL is public again — sort of. Its owner Bending Spoons, the 13-year-old Italian company that has been quietly acquiring beloved but ailing internet brands for the past decade, went public on the Nasdaq today, opening at an over $18 billion valuation, with the stock then popping 40% by market close.…",
+          "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "OpenAI proposes handing Trump administration 5% stake",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "OpenAI proposes handing Trump administration 5% stake",
+          "excerpt": "OpenAI proposes handing Trump administration 5% stake Subscribe to unlock this article Try unlimited access Only $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.…",
+          "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "OpenAI is offering the Trump administration a 5% stake to seed an AI wealth fund",
+          "excerpt": "OpenAI CEO Sam Altman reportedly discussed the potential government stake with Trump, Commerce Secretary Howard Lutnick, and Treasury Secretary Scott Bessent",
+          "url": "https://qz.com/openai-5-percent-stake-us-government-ai-wealth-fund-070226"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "TechCrunch",
           "lang": "en",
           "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
           "excerpt": "Elon Musk’s SpaceX has shown investors a prototype of a “handset-like” AI device, reports The Wall Street Journal. The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it’s something between a small touchscreen phone and a Rabbit R1.…",
           "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "The Download: a startup has a solution for AI’s groupthink problem",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "MIT Tech Review",
-          "lang": "en",
-          "headline": "The Download: a startup has a solution for AI’s groupthink problem",
-          "excerpt": "The Download: a startup has a solution for AI’s groupthink problem Plus: Scientists say they have built a cell from scratch for the first time. This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out.…",
-          "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Nine Thai monks killed after 11-year-old driver collides with procession",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Nine Thai monks killed after 11-year-old driver collides with procession",
-          "excerpt": "Nine Thai monks killed after 11-year-old driver collides with procession - Published Nine Buddhist monks were killed and several others in their procession injured when they were hit by an 11-year-old boy driving his parents' pickup truck in north-east Thailand, police said.…",
-          "url": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Al Jazeera",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "Eight Thai monks killed after child drives truck into procession",
-          "excerpt": "Eight Thai monks killed after child drives truck into procession Police say 11-year-old boy who took his parents’ vehicle without permission is now in custody and will be questioned. Eight Thai monks have been killed and other people injured after a child drove his family’s pick-up truck into a Buddhist procession.…",
-          "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Stocks Rise as Jobs Fuel Bets Fed to Stay on Hold: Markets Wrap",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Stocks Rise as Jobs Fuel Bets Fed to Stay on Hold: Markets Wrap",
-          "excerpt": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message please contact our support team and provide the reference ID below.…",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/asian-stocks-to-decline-as-traders-weigh-ai-warsh-markets-wrap"
+          "headline": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+          "excerpt": "Elon Musk says a report about a SpaceX AI phone prototype is “utterly false.” The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a “handset-like prototype” to some investors before launching its record-breaking initial public offering in June.…",
+          "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
         }
       ]
     }
