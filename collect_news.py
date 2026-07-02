@@ -1,25 +1,30 @@
 #!/usr/bin/env python3
 """
-collect_news.py — Part 1 of 2-part news digest pipeline.
+collect_news.py — Part 1 of news digest pipeline.
 
-Runs on GitHub Actions (cloud, no laptop needed):
-  1. Fetches RSS from 38 sources (EN + RU)
-  2. Clusters articles by topic with TF-IDF + cosine similarity
-  3. Fetches full text for top stories
-  4. Saves news_data.json to disk (GitHub Actions then commits it to the repo)
+For every story, we REQUIRE at least 2 sources with real text.
+If a cluster has only 1 source, we actively search Google News RSS
+(free, no API key) for additional coverage before giving up.
 
-Part 2 (Claude in Cowork Scheduled Task) reads the JSON, translates to Russian,
-generates HTML email, and sends it via Yandex SMTP.
+Flow:
+  1. Fetch RSS from 44 sources
+  2. TF-IDF cluster
+  3. Top candidates with 1 source → search Google News for more coverage
+  4. Fetch full text
+  5. Build stories — skip any with < MIN_PERSPECTIVES real excerpts
+  6. Save news_data.json and commit to repo
 """
 
 import json
 import os
 import random
 import re
+import time
 import feedparser
 import requests
 import trafilatura
 import nltk
+from duckduckgo_search import DDGS
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import Counter
@@ -30,23 +35,35 @@ nltk.download("punkt_tab", quiet=True)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 MAX_STORIES       = int(os.environ.get("MAX_STORIES", "40"))
-HOURS_BACK        = int(os.environ.get("HOURS_BACK", "24"))
-MAX_PERSPECTIVES  = 5      # max sources shown per story
-EXCERPT_CHARS     = 400    # characters per source excerpt
+HOURS_BACK        = int(os.environ.get("HOURS_BACK", "28"))
+MAX_PERSPECTIVES  = 5
+EXCERPT_CHARS     = 400
 FETCH_TIMEOUT     = 10
-CLUSTER_THRESHOLD = 0.18
-MIN_SOURCES       = 2      # skip single-source stories
+CLUSTER_THRESHOLD = 0.15
+MIN_PERSPECTIVES  = 2   # HARD RULE — story skipped if fewer real excerpts
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsDigestBot/1.0)"}
 
+PROMO_KEYWORDS = [
+    "promo code", "coupon code", "discount code", "% off",
+    "deal of the day", "voucher code", "cashback", "best deals",
+    "промокод", "скидка", "купон",
+]
+
+BOT_CHECK_SIGNALS = [
+    "enable js", "enable javascript", "please make sure your browser",
+    "click the box below", "not a robot", "please enable js",
+    "just a moment", "cloudflare ray",
+]
+
 SOURCE_PRIORITY = [
     "Reuters", "AP News", "BBC World", "FT", "The Economist",
-    "Bloomberg", "WSJ", "The Guardian", "Foreign Policy",
+    "Bloomberg", "WSJ", "The Guardian", "Foreign Policy", "NPR News",
     "MIT Tech Review", "Wired", "HBR", "Adweek",
     "ТАСС", "РБК", "Коммерсант",
 ]
 
-# ── RSS feeds ─────────────────────────────────────────────────────────────────
+# ── RSS Feeds (44 sources) ────────────────────────────────────────────────────
 FEEDS = [
     # World & Politics
     ("Reuters",           "🌍 World",          "https://feeds.reuters.com/reuters/topNews"),
@@ -56,6 +73,9 @@ FEEDS = [
     ("Al Jazeera",        "🌍 World",          "https://www.aljazeera.com/xml/rss/all.xml"),
     ("Foreign Policy",    "🌍 World",          "https://foreignpolicy.com/feed/"),
     ("Politico",          "🌍 World",          "https://www.politico.com/rss/politicopicks.xml"),
+    ("NPR News",          "🌍 World",          "https://feeds.npr.org/1001/rss.xml"),
+    ("Time",              "🌍 World",          "https://time.com/feed/"),
+    ("The Atlantic",      "🌍 World",          "https://www.theatlantic.com/feed/all/"),
     # Economics & Markets
     ("Reuters Business",  "📈 Economy",        "https://feeds.reuters.com/reuters/businessNews"),
     ("The Economist",     "📈 Economy",        "https://www.economist.com/finance-and-economics/rss.xml"),
@@ -65,18 +85,21 @@ FEEDS = [
     ("Bloomberg",         "📈 Economy",        "https://feeds.bloomberg.com/markets/news.rss"),
     ("Bloomberg Tech",    "💡 Tech & AI",      "https://feeds.bloomberg.com/technology/news.rss"),
     ("WSJ",               "📈 Economy",        "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"),
+    ("Axios",             "📈 Economy",        "https://api.axios.com/feed/"),
     # Technology & AI
     ("MIT Tech Review",   "💡 Tech & AI",      "https://www.technologyreview.com/feed/"),
     ("Ars Technica",      "💡 Tech & AI",      "https://feeds.arstechnica.com/arstechnica/index"),
     ("The Verge",         "💡 Tech & AI",      "https://www.theverge.com/rss/index.xml"),
     ("Wired",             "💡 Tech & AI",      "https://www.wired.com/feed/rss"),
     ("TechCrunch",        "💡 Tech & AI",      "https://techcrunch.com/feed/"),
+    ("VentureBeat",       "💡 Tech & AI",      "https://venturebeat.com/feed/"),
     # Business & Strategy
     ("HBR",               "💼 Business",       "http://feeds.hbr.org/harvardbusiness"),
     ("Forbes",            "💼 Business",       "https://www.forbes.com/innovation/feed/"),
     ("Fast Company",      "💼 Business",       "https://www.fastcompany.com/latest/rss"),
     ("Inc.",              "💼 Business",       "https://www.inc.com/rss"),
     ("Business Insider",  "💼 Business",       "https://feeds.businessinsider.com/custom/all"),
+    ("Quartz",            "💼 Business",       "https://qz.com/rss"),
     # Marketing & Advertising
     ("Adweek",            "📣 Marketing",      "https://www.adweek.com/feed/"),
     ("Marketing Week",    "📣 Marketing",      "https://www.marketingweek.com/feed/"),
@@ -95,6 +118,25 @@ FEEDS = [
     ("vc.ru",             "💡 Tech & AI",      "https://vc.ru/rss"),
 ]
 
+KNOWN_SOURCES = {s for s, _, _ in FEEDS}
+
+
+# ── Helpers ───────────────────────────────────────────────────────────────────
+
+def is_promo(title: str, snippet: str) -> bool:
+    text = (title + " " + snippet).lower()
+    return any(kw in text for kw in PROMO_KEYWORDS)
+
+
+def is_bot_check(text: str) -> bool:
+    t = text.lower()
+    return any(sig in t for sig in BOT_CHECK_SIGNALS)
+
+
+def clean_snippet(raw: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", raw)
+    return re.sub(r"\s+", " ", text).strip()[:500]
+
 
 # ── RSS Fetching ──────────────────────────────────────────────────────────────
 
@@ -104,7 +146,7 @@ def fetch_rss_entries(hours_back: int) -> list[dict]:
     for source, category, url in FEEDS:
         try:
             feed = feedparser.parse(url)
-            for e in feed.entries[:20]:
+            for e in feed.entries[:30]:
                 published = None
                 for attr in ("published_parsed", "updated_parsed"):
                     if hasattr(e, attr) and getattr(e, attr):
@@ -116,9 +158,8 @@ def fetch_rss_entries(hours_back: int) -> list[dict]:
                 if published and published < cutoff:
                     continue
                 title   = e.get("title", "").strip()
-                snippet = re.sub(r"<[^>]+>", " ", e.get("summary", e.get("description", "")))
-                snippet = re.sub(r"\s+", " ", snippet).strip()[:500]
-                if not title:
+                snippet = clean_snippet(e.get("summary", e.get("description", "")))
+                if not title or is_promo(title, snippet):
                     continue
                 entries.append({
                     "source":    source,
@@ -133,18 +174,88 @@ def fetch_rss_entries(hours_back: int) -> list[dict]:
             print(f"[WARN] RSS {source}: {ex}")
 
     random.shuffle(entries)
-    entries = entries[:600]
-    print(f"[INFO] Fetched {len(entries)} entries from {len(FEEDS)} feeds")
+    entries = entries[:1200]
+    print(f"[INFO] Fetched {len(entries)} entries after promo filter")
     return entries
+
+
+# ── Web search for missing sources ────────────────────────────────────────────
+
+def search_web_news(headline: str, existing_sources: set, category: str) -> list[dict]:
+    """
+    Search the web (DuckDuckGo news) for a headline and return articles
+    from sources NOT already in the cluster.
+    Free, no API key, works from GitHub Actions.
+    """
+    # Clean up query — key nouns from the headline, max 10 words
+    words = re.sub(r"[^\w\s]", " ", headline).split()
+    query = " ".join(words[:10])
+    try:
+        results = []
+        with DDGS() as ddgs:
+            hits = ddgs.news(keywords=query, max_results=15, safesearch="off")
+        for hit in hits:
+            source  = hit.get("source", hit.get("publisher", "Unknown")).strip()
+            title   = hit.get("title", "").strip()
+            snippet = clean_snippet(hit.get("body", ""))
+            url     = hit.get("url", "")
+
+            if not title or not url:
+                continue
+            if source in existing_sources:
+                continue
+            if is_promo(title, snippet):
+                continue
+
+            results.append({
+                "source":    source,
+                "category":  category,
+                "title":     title,
+                "snippet":   snippet,
+                "link":      url,
+                "full_text": "",
+                "lang":      "en",
+            })
+        return results
+    except Exception as ex:
+        print(f"[WARN] DDG search '{query[:40]}': {ex}")
+        return []
+
+
+def boost_single_source_clusters(clusters: list[list[dict]], top_n: int) -> None:
+    """
+    For each top candidate cluster with < 2 unique sources,
+    do a web news search to find additional coverage.
+    Modifies clusters in-place.
+    """
+    candidates = clusters[:top_n]
+    searches   = 0
+    for cluster in candidates:
+        unique = {e["source"] for e in cluster}
+        if len(unique) >= 2:
+            continue
+        headline = cluster[0]["title"]
+        category = cluster[0]["category"]
+        print(f"[SEARCH] Only 1 source — searching web: {headline[:55]}")
+        additional = search_web_news(headline, unique, category)
+        if additional:
+            cluster.extend(additional[:4])
+            print(f"[SEARCH] → found {min(len(additional), 4)} more sources")
+        else:
+            print(f"[SEARCH] → no additional sources found")
+        searches += 1
+        time.sleep(0.5)   # gentle rate limiting
 
 
 # ── Full Text ─────────────────────────────────────────────────────────────────
 
 def fetch_full_text(url: str) -> str:
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=FETCH_TIMEOUT)
-        text = trafilatura.extract(resp.text, include_comments=False, include_tables=False)
-        if text:
+        resp = requests.get(url, headers=HEADERS, timeout=FETCH_TIMEOUT,
+                            allow_redirects=True)
+        text = trafilatura.extract(resp.text, include_comments=False,
+                                   include_tables=False)
+        if text and len(text) > 80 and not is_bot_check(text):
             return text[:3000]
     except Exception as ex:
         print(f"[WARN] Fetch {url[:60]}: {ex}")
@@ -155,28 +266,24 @@ def get_excerpt(entry: dict) -> str:
     text = entry.get("full_text") or entry.get("snippet") or entry.get("title", "")
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
+    if is_bot_check(text):
+        return ""
     if len(text) > EXCERPT_CHARS:
-        cut      = text[:EXCERPT_CHARS]
-        last_dot = cut.rfind(". ")
-        return (cut[:last_dot + 1] if last_dot > 80 else cut) + "…"
+        cut = text[:EXCERPT_CHARS]
+        dot = cut.rfind(". ")
+        return (cut[:dot + 1] if dot > 80 else cut) + "…"
     return text
 
 
 # ── TF-IDF Clustering ─────────────────────────────────────────────────────────
 
 def cluster_entries(entries: list[dict]) -> list[list[dict]]:
-    # Use title + snippet for vectorization
     texts = [f"{e['title']} {e['snippet']}" for e in entries]
 
-    vectorizer = TfidfVectorizer(
-        stop_words="english",
-        max_features=12000,
-        ngram_range=(1, 2),
-        sublinear_tf=True,
-        min_df=1,
-    )
-    matrix   = vectorizer.fit_transform(texts)
-    sim      = cosine_similarity(matrix)
+    vec    = TfidfVectorizer(stop_words="english", max_features=15000,
+                             ngram_range=(1, 2), sublinear_tf=True, min_df=1)
+    matrix = vec.fit_transform(texts)
+    sim    = cosine_similarity(matrix)
 
     assigned = [False] * len(entries)
     clusters = []
@@ -184,7 +291,7 @@ def cluster_entries(entries: list[dict]) -> list[list[dict]]:
     for i in range(len(entries)):
         if assigned[i]:
             continue
-        cluster = [entries[i]]
+        cluster    = [entries[i]]
         assigned[i] = True
         for j in range(i + 1, len(entries)):
             if not assigned[j] and sim[i][j] >= CLUSTER_THRESHOLD:
@@ -192,66 +299,59 @@ def cluster_entries(entries: list[dict]) -> list[list[dict]]:
                 assigned[j] = True
         clusters.append(cluster)
 
-    # Sort by coverage (most sources first), then filter single-source
-    clusters = [c for c in clusters if len(c) >= MIN_SOURCES]
     clusters.sort(key=lambda c: len(c), reverse=True)
-
-    total_articles = sum(len(c) for c in clusters)
-    print(f"[INFO] {len(clusters)} multi-source clusters · {total_articles} total articles")
-    if clusters:
-        print(f"[INFO] Top cluster: {clusters[0][0]['title'][:60]} ({len(clusters[0])} sources)")
+    print(f"[INFO] {len(clusters)} clusters total")
     return clusters
 
 
-# ── Enrich top clusters with full text ───────────────────────────────────────
+# ── Enrich with full text ─────────────────────────────────────────────────────
 
 def enrich_clusters(clusters: list[list[dict]], top_n: int) -> list[list[dict]]:
     top = clusters[:top_n]
     for i, cluster in enumerate(top):
-        print(f"[INFO] [{i+1}/{top_n}] Fetching text: {cluster[0]['title'][:55]}")
+        print(f"[INFO] [{i+1}/{len(top)}] Fetching: {cluster[0]['title'][:55]}")
         for entry in cluster[:MAX_PERSPECTIVES]:
             if entry["link"] and not entry["full_text"]:
                 entry["full_text"] = fetch_full_text(entry["link"])
     return top
 
 
-# ── Build story object ────────────────────────────────────────────────────────
+# ── Build story ───────────────────────────────────────────────────────────────
 
-def build_story(cluster: list[dict]) -> dict:
+def build_story(cluster: list[dict]) -> dict | None:
     def priority(e):
-        try:
-            return SOURCE_PRIORITY.index(e["source"])
-        except ValueError:
-            return len(SOURCE_PRIORITY)
+        try:    return SOURCE_PRIORITY.index(e["source"])
+        except: return len(SOURCE_PRIORITY)
 
-    sorted_cluster = sorted(cluster, key=priority)
-    # Prefer English headline as primary (for Claude to translate)
-    en_entries = [e for e in sorted_cluster if e.get("lang") == "en"]
-    headline_entry = (en_entries or sorted_cluster)[0]
-    headline_en = headline_entry["title"]
-
-    category = Counter(e["category"] for e in cluster).most_common(1)[0][0]
+    sorted_c   = sorted(cluster, key=priority)
+    en_entries = [e for e in sorted_c if e.get("lang") == "en"]
+    headline   = (en_entries or sorted_c)[0]["title"]
+    category   = Counter(e["category"] for e in cluster).most_common(1)[0][0]
 
     seen, perspectives = set(), []
-    for e in sorted_cluster:
+    for e in sorted_c:
         if e["source"] not in seen:
             excerpt = get_excerpt(e)
             if excerpt:
                 perspectives.append({
-                    "source":      e["source"],
-                    "lang":        e.get("lang", "en"),
-                    "headline":    e["title"],
-                    "excerpt":     excerpt,
-                    "url":         e["link"],
+                    "source":   e["source"],
+                    "lang":     e.get("lang", "en"),
+                    "headline": e["title"],
+                    "excerpt":  excerpt,
+                    "url":      e["link"],
                 })
                 seen.add(e["source"])
         if len(perspectives) >= MAX_PERSPECTIVES:
             break
 
+    # HARD RULE: must have real text from at least 2 different sources
+    if len(perspectives) < MIN_PERSPECTIVES:
+        return None
+
     return {
         "category":     category,
-        "headline_en":  headline_en,   # Claude translates this to Russian
-        "coverage":     len(cluster),  # total sources covering this topic
+        "headline_en":  headline,
+        "coverage":     len({e["source"] for e in cluster}),
         "perspectives": perspectives,
     }
 
@@ -259,8 +359,8 @@ def build_story(cluster: list[dict]) -> dict:
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    start_time = datetime.now(timezone.utc)
-    print(f"[START] {start_time.isoformat()} — collecting news for past {HOURS_BACK}h")
+    start = datetime.now(timezone.utc)
+    print(f"[START] {start.isoformat()} | target {MAX_STORIES} stories | {HOURS_BACK}h window")
 
     entries = fetch_rss_entries(HOURS_BACK)
     if not entries:
@@ -268,26 +368,41 @@ def main() -> None:
         return
 
     clusters = cluster_entries(entries)
-    if not clusters:
-        print("[WARN] No multi-source clusters — aborting.")
-        return
 
-    top_clusters = enrich_clusters(clusters, MAX_STORIES)
-    stories      = [build_story(c) for c in top_clusters]
+    # For single-source clusters in top candidates, search Google News
+    boost_single_source_clusters(clusters, top_n=MAX_STORIES * 3)
+
+    # Re-sort after boosting (some clusters grew)
+    clusters.sort(key=lambda c: len({e["source"] for e in c}), reverse=True)
+
+    # Fetch full text for top candidates (3x quota to survive MIN_PERSPECTIVES filter)
+    candidates = enrich_clusters(clusters, top_n=MAX_STORIES * 3)
+
+    # Build stories, enforce hard MIN_PERSPECTIVES rule
+    stories = []
+    for c in candidates:
+        s = build_story(c)
+        if s:
+            stories.append(s)
+        if len(stories) >= MAX_STORIES:
+            break
+
+    print(f"[INFO] {len(stories)} stories with ≥{MIN_PERSPECTIVES} real perspectives")
+    if len(stories) < 20:
+        print("[WARN] Fewer than 20 stories — consider increasing HOURS_BACK or adding sources")
 
     output = {
-        "collected_at":  start_time.isoformat(),
+        "collected_at":  start.isoformat(),
         "total_sources": len(FEEDS),
         "total_entries": len(entries),
         "story_count":   len(stories),
         "stories":       stories,
     }
-
     with open("news_data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    elapsed = (datetime.now(timezone.utc) - start_time).total_seconds()
-    print(f"[DONE] Saved {len(stories)} stories to news_data.json ({elapsed:.0f}s)")
+    elapsed = (datetime.now(timezone.utc) - start).total_seconds()
+    print(f"[DONE] {len(stories)} stories → news_data.json ({elapsed:.0f}s)")
 
 
 if __name__ == "__main__":
