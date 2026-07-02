@@ -3,13 +3,13 @@
 collect_news.py — Part 1 of news digest pipeline.
 
 For every story, we REQUIRE at least 2 sources with real text.
-If a cluster has only 1 source, we actively search Google News RSS
-(free, no API key) for additional coverage before giving up.
+If a cluster has only 1 source, we actively search DuckDuckGo
+for additional coverage before giving up.
 
 Flow:
-  1. Fetch RSS from 44 sources
+  1. Fetch RSS from 55+ sources
   2. TF-IDF cluster
-  3. Top candidates with 1 source → search Google News for more coverage
+  3. Top candidates with 1 source → search DuckDuckGo for more coverage
   4. Fetch full text
   5. Build stories — skip any with < MIN_PERSPECTIVES real excerpts
   6. Save news_data.json and commit to repo
@@ -35,7 +35,7 @@ nltk.download("punkt_tab", quiet=True)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 MAX_STORIES       = int(os.environ.get("MAX_STORIES", "40"))
-HOURS_BACK        = int(os.environ.get("HOURS_BACK", "28"))
+HOURS_BACK        = int(os.environ.get("HOURS_BACK", "36"))
 MAX_PERSPECTIVES  = 5
 EXCERPT_CHARS     = 400
 FETCH_TIMEOUT     = 10
@@ -63,7 +63,7 @@ SOURCE_PRIORITY = [
     "ТАСС", "РБК", "Коммерсант",
 ]
 
-# ── RSS Feeds (44 sources) ────────────────────────────────────────────────────
+# ── RSS Feeds (55+ sources) ────────────────────────────────────────────────────
 FEEDS = [
     # World & Politics
     ("Reuters",           "🌍 World",          "https://feeds.reuters.com/reuters/topNews"),
@@ -76,6 +76,14 @@ FEEDS = [
     ("NPR News",          "🌍 World",          "https://feeds.npr.org/1001/rss.xml"),
     ("Time",              "🌍 World",          "https://time.com/feed/"),
     ("The Atlantic",      "🌍 World",          "https://www.theatlantic.com/feed/all/"),
+    ("CNN World",         "🌍 World",          "http://rss.cnn.com/rss/edition_world.rss"),
+    ("NBC News",          "🌍 World",          "https://feeds.nbcnews.com/nbcnews/public/news"),
+    ("CBS News",          "🌍 World",          "https://www.cbsnews.com/latest/rss/main"),
+    ("ABC News",          "🌍 World",          "https://abcnews.go.com/abcnews/topstories"),
+    ("Sky News",          "🌍 World",          "https://feeds.skynews.com/feeds/rss/world.xml"),
+    ("DW English",        "🌍 World",          "https://rss.dw.com/rdf/rss-en-all"),
+    ("France 24",         "🌍 World",          "https://www.france24.com/en/rss"),
+    ("Euronews",          "🌍 World",          "https://www.euronews.com/rss?format=mrss&level=theme&name=news"),
     # Economics & Markets
     ("Reuters Business",  "📈 Economy",        "https://feeds.reuters.com/reuters/businessNews"),
     ("The Economist",     "📈 Economy",        "https://www.economist.com/finance-and-economics/rss.xml"),
@@ -86,6 +94,8 @@ FEEDS = [
     ("Bloomberg Tech",    "💡 Tech & AI",      "https://feeds.bloomberg.com/technology/news.rss"),
     ("WSJ",               "📈 Economy",        "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"),
     ("Axios",             "📈 Economy",        "https://api.axios.com/feed/"),
+    ("CNBC",              "📈 Economy",        "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+    ("Yahoo Finance",     "📈 Economy",        "https://finance.yahoo.com/news/rssindex"),
     # Technology & AI
     ("MIT Tech Review",   "💡 Tech & AI",      "https://www.technologyreview.com/feed/"),
     ("Ars Technica",      "💡 Tech & AI",      "https://feeds.arstechnica.com/arstechnica/index"),
@@ -93,6 +103,8 @@ FEEDS = [
     ("Wired",             "💡 Tech & AI",      "https://www.wired.com/feed/rss"),
     ("TechCrunch",        "💡 Tech & AI",      "https://techcrunch.com/feed/"),
     ("VentureBeat",       "💡 Tech & AI",      "https://venturebeat.com/feed/"),
+    ("Engadget",          "💡 Tech & AI",      "https://www.engadget.com/rss.xml"),
+    ("ZDNet",             "💡 Tech & AI",      "https://www.zdnet.com/news/rss.xml"),
     # Business & Strategy
     ("HBR",               "💼 Business",       "http://feeds.hbr.org/harvardbusiness"),
     ("Forbes",            "💼 Business",       "https://www.forbes.com/innovation/feed/"),
@@ -116,6 +128,9 @@ FEEDS = [
     ("Коммерсант",        "💼 Business",       "https://www.kommersant.ru/RSS/main.xml"),
     ("ТАСС",              "🌍 World",          "https://tass.ru/rss/v2.xml"),
     ("vc.ru",             "💡 Tech & AI",      "https://vc.ru/rss"),
+    ("Meduza",            "🌍 World",          "https://meduza.io/rss/all"),
+    ("Lenta.ru",          "🌍 World",          "https://lenta.ru/rss"),
+    ("Interfax",          "🌍 World",          "https://www.interfax.ru/rss.asp"),
 ]
 
 KNOWN_SOURCES = {s for s, _, _ in FEEDS}
@@ -168,13 +183,14 @@ def fetch_rss_entries(hours_back: int) -> list[dict]:
                     "snippet":   snippet,
                     "link":      e.get("link", ""),
                     "full_text": "",
-                    "lang":      "ru" if source in ("РБК", "Коммерсант", "ТАСС", "vc.ru") else "en",
+                    "lang":      "ru" if source in ("РБК", "Коммерсант", "ТАСС", "vc.ru",
+                                                    "Meduza", "Lenta.ru", "Interfax") else "en",
                 })
         except Exception as ex:
             print(f"[WARN] RSS {source}: {ex}")
 
     random.shuffle(entries)
-    entries = entries[:1200]
+    entries = entries[:1500]
     print(f"[INFO] Fetched {len(entries)} entries after promo filter")
     return entries
 
@@ -183,17 +199,19 @@ def fetch_rss_entries(hours_back: int) -> list[dict]:
 
 def search_web_news(headline: str, existing_sources: set, category: str) -> list[dict]:
     """
-    Search the web (DuckDuckGo news) for a headline and return articles
+    Search DuckDuckGo news for a headline and return articles
     from sources NOT already in the cluster.
-    Free, no API key, works from GitHub Actions.
+    BUG FIX: iterate hits INSIDE the 'with DDGS()' block so the
+    session is still open when the generator is consumed.
     """
-    # Clean up query — key nouns from the headline, max 10 words
     words = re.sub(r"[^\w\s]", " ", headline).split()
     query = " ".join(words[:10])
     try:
         results = []
         with DDGS() as ddgs:
-            hits = ddgs.news(keywords=query, max_results=15, safesearch="off")
+            # Force evaluation inside context manager — session must be open
+            hits = list(ddgs.news(keywords=query, max_results=20, safesearch="off"))
+
         for hit in hits:
             source  = hit.get("source", hit.get("publisher", "Unknown")).strip()
             title   = hit.get("title", "").strip()
@@ -230,21 +248,26 @@ def boost_single_source_clusters(clusters: list[list[dict]], top_n: int) -> None
     """
     candidates = clusters[:top_n]
     searches   = 0
+    boosted    = 0
     for cluster in candidates:
         unique = {e["source"] for e in cluster}
         if len(unique) >= 2:
             continue
         headline = cluster[0]["title"]
         category = cluster[0]["category"]
-        print(f"[SEARCH] Only 1 source — searching web: {headline[:55]}")
+        print(f"[SEARCH] Only 1 source — searching DDG: {headline[:55]}")
         additional = search_web_news(headline, unique, category)
         if additional:
             cluster.extend(additional[:4])
-            print(f"[SEARCH] → found {min(len(additional), 4)} more sources")
+            boosted += 1
+            print(f"[SEARCH] → found {min(len(additional), 4)} more sources "
+                  f"({', '.join(a['source'] for a in additional[:4])})")
         else:
             print(f"[SEARCH] → no additional sources found")
         searches += 1
-        time.sleep(0.5)   # gentle rate limiting
+        time.sleep(0.3)   # gentle rate limiting
+
+    print(f"[INFO] DDG: {searches} searches, {boosted} clusters boosted")
 
 
 # ── Full Text ─────────────────────────────────────────────────────────────────
@@ -300,7 +323,8 @@ def cluster_entries(entries: list[dict]) -> list[list[dict]]:
         clusters.append(cluster)
 
     clusters.sort(key=lambda c: len(c), reverse=True)
-    print(f"[INFO] {len(clusters)} clusters total")
+    multi_source = sum(1 for c in clusters if len({e["source"] for e in c}) >= 2)
+    print(f"[INFO] {len(clusters)} clusters total, {multi_source} already have ≥2 sources")
     return clusters
 
 
@@ -369,7 +393,7 @@ def main() -> None:
 
     clusters = cluster_entries(entries)
 
-    # For single-source clusters in top candidates, search Google News
+    # For single-source clusters in top candidates, search DuckDuckGo
     boost_single_source_clusters(clusters, top_n=MAX_STORIES * 3)
 
     # Re-sort after boosting (some clusters grew)
@@ -388,8 +412,8 @@ def main() -> None:
             break
 
     print(f"[INFO] {len(stories)} stories with ≥{MIN_PERSPECTIVES} real perspectives")
-    if len(stories) < 20:
-        print("[WARN] Fewer than 20 stories — consider increasing HOURS_BACK or adding sources")
+    if len(stories) < 25:
+        print("[WARN] Fewer than 25 stories — DDG may be rate-limiting or sources are thin today")
 
     output = {
         "collected_at":  start.isoformat(),
