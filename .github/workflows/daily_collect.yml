@@ -1,0 +1,43 @@
+name: Collect News Data
+
+on:
+  schedule:
+    # 06:30 Moscow time = 03:30 UTC  (leaves 30 min for Claude to process at 07:00 MSK)
+    - cron: "30 3 * * *"
+  workflow_dispatch:   # manual "Run workflow" button in GitHub UI
+
+# Allow the workflow to commit news_data.json back to the repo
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser trafilatura requests scikit-learn nltk
+
+      - name: Collect and cluster news
+        env:
+          MAX_STORIES: "40"
+          HOURS_BACK:  "24"
+        run: python collect_news.py
+
+      - name: Commit news_data.json to repo
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add news_data.json
+          # Only commit if the file actually changed
+          git diff --staged --quiet || git commit -m "📰 Daily news data $(date -u +%Y-%m-%d)"
+          git push
