@@ -30,7 +30,7 @@ jobs:
       - name: Collect and cluster news
         env:
           MAX_STORIES: "40"
-          HOURS_BACK:  "24"
+          HOURS_BACK:  "36"
         run: python collect_news.py
 
       - name: Commit news_data.json to repo
