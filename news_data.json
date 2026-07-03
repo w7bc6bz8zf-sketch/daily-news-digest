@@ -1,20 +1,342 @@
 {
-  "collected_at": "2026-07-02T14:41:58.720610+00:00",
+  "collected_at": "2026-07-03T11:55:52.636221+00:00",
   "total_sources": 59,
-  "total_entries": 843,
+  "total_entries": 792,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "New York: Marriage proposal atop the Empire State Building ends in arrest",
+      "headline_en": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
       "coverage": 6,
       "perspectives": [
         {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+          "excerpt": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
+          "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "source": "France 24",
           "lang": "en",
-          "headline": "New York: Marriage proposal atop the Empire State Building ends in arrest",
-          "excerpt": "A couple of Russian daredevils scaled the spire of the Empire State Building on Wednesday where one of them got down on one knee to propose. The couple had earlier unfurled a banner with a message of peace atop the tower. They were later arrested by police.",
-          "url": "https://www.france24.com/en/video/20260702-new-york-marriage-proposal-atop-the-empire-state-building-ends-in-arrest"
+          "headline": "Fans flock to New York ahead of rumoured Taylor Swift wedding",
+          "excerpt": "Fans of Taylor Swift have been flocking to New York City ahead of the stars marriage to Travis Kelce, which is rumoured to be taking place at Madison Square Garden on Friday.",
+          "url": "https://www.france24.com/en/video/20260703-fans-flock-to-new-york-ahead-of-rumoured-taylor-swift-wedding"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Taylor Swift, Travis Kelce set for star-studded New York wedding",
+          "excerpt": "Taylor Swift, Travis Kelce set for New York wedding July 3, 2026Pop superstar Taylor Swift and American football player Travis Kelce are expected to hold their wedding at Madison Square Garden (MSG) in New York over the coming US Independence Day holiday weekend, according to media reports and city permit documents. The couple, who are both 36, have not publicly confirmed the plans.…",
+          "url": "https://www.dw.com/en/taylor-swift-travis-kelce-set-for-star-studded-new-york-wedding/a-77812947?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Taylor Swift and Travis Kelce wedding festivities begin",
+          "excerpt": "Great Americans: A conversation with Eileen Collins 02:21 Daredevil climbers in court after Empire State Building stunt 01:21 72 million expected in holiday travel crush 01:56 Man fatally shot outside Florida Walmart after dispute over parking space 01:21 Now Playing Taylor Swift and Travis Kelce wedding festivities begin 01:57 UP NEXT Heat emergency forces cities to rework plans for holiday weeke…",
+          "url": "https://www.nbcnews.com/nightly-news/video/taylor-swift-and-travis-kelce-wedding-festivities-begin-266104901826"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Wedding festivities kick off for Taylor Swift and Travis Kelce in NYC",
+          "excerpt": "Wedding festivities kick off for Taylor Swift and Travis Kelce in NYC Wedding celebrations are getting underway at Madison Square Garden as pop superstar Taylor Swift and Super Bowl champion Travis Kelce prepare to celebrate their wedding. CBS News' Jo Ling Kent has more.",
+          "url": "https://www.cbsnews.com/video/wedding-festivities-kick-off-taylor-swift-travis-kelce-nyc/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran begins public mourning for Ayatollah killed in February",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Iran begins public mourning for Ayatollah killed in February",
+          "excerpt": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+          "excerpt": "In the small hours of Friday the police roadblocks, stalls, posters and army vans were starting to appear across Tehran as millions of Iranians prepared to attend the long-delayed six-day funeral ceremony for Ali Khamenei’s, Iran’s supreme leader for 36 turbulent years.…",
+          "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Preparations Underway for Funeral of Iran’s Supreme Leader",
+          "excerpt": "Record-Setting July 4 Weekend Travel Underway: What to Expect 01:45 Heat, Storm Threat Could Dampen July 4 Plans Across US 04:21 Sony to End Physical Disc Production for PlayStation in 2028 00:25 Victor Willis, Lead Singer of The Village People, Dies at 74 02:22 Navy Crew Member Missing After Helicopter Crash in Arabian Sea 00:26 Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00…",
+          "url": "https://www.today.com/video/preparations-underway-for-funeral-of-iran-s-supreme-leader-266128965961"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
+          "excerpt": "Khamenei’s coffin readied as Iran prepares for seven-day funeral Khamenei’s coffin readied as Iran prepares for seven-day funeral Iran has begun the funeral processions for former Supreme Leader Ali Khamenei. Seven days of events will officially begin in Tehran, with the coffin travelling through the country before his burial in his hometown of Mashhad on July 9. Published On 3 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "India news: Indian delegation leaves for Khamenei's funeral",
+          "excerpt": "A team of Indian delegates has left for Iran to attend the state funeral of Iran's former supreme leader Ayatollah Ali ​Khamenei. Follow DW for more.",
+          "url": "https://www.dw.com/en/india-news-indian-delegation-leaves-for-khamenei-s-funeral/live-77814828?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Venezuela leader rejects criticism for earthquake response",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Venezuela leader rejects criticism for earthquake response",
+          "excerpt": "Venezuela leader rejects criticism for earthquake response July 3, 2026On Thursday, Venezuela's acting president, Delcy Rodríguez, strongly defended her government's response to the twin earthquakes that have devastated parts of the oil-rich country. \"We did not wait one day, two days or three days. We activated immediately,\" Rodríguez told foreign journalists a week after the earthquakes struck.…",
+          "url": "https://www.dw.com/en/venezuela-leader-rejects-criticism-for-earthquake-response/a-77812839?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Venezuelan leader hits out at 'disgraceful' misinformation over earthquake response",
+          "excerpt": "Venezuela's US-backed acting president Delcy Rodriguez has issued a fiery defence of her government's response to last week's devastating earthquakes - which has claimed the lives of 2,595 people.",
+          "url": "https://news.sky.com/story/venezuelas-interim-president-delcy-rodriguez-defends-earthquake-response-as-more-than-2500-confirmed-dead-13560045"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Rescue teams in Venezuela cling to hope as president defends response",
+          "excerpt": "Rescuers are continuing to dig through rubble in a search for survivors across Venezuela even as the hope of finding anyone alive eight days after two huge earthquakes struck the country become increasingly slim.…",
+          "url": "https://www.france24.com/en/video/20260703-rescue-teams-in-venezuela-cling-to-hope-as-president-defends-response"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Venezuela's interim leader defends earthquake response as death toll tops 2,500",
+          "excerpt": "Delcy Rodríguez has hit back at criticism over her government’s response to the quakes, rejecting accusations of slow rescue efforts and claims that official casualty figures have been under-reported. Venezuela's acting president, Delcy Rodríguez, has defended her government's response to the two devastating 24 June earthquakes.…",
+          "url": "http://www.euronews.com/2026/07/03/venezuelas-interim-leader-defends-earthquake-response-as-death-toll-tops-2500"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+          "excerpt": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack - Published A Ukrainian woman has been identified as the main suspect for a parcel bombing in Monaco that seriously wounded a sanctioned Ukrainian multi-millionaire and two others.…",
+          "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Ukrainian woman suspected in Monaco parcel bombing ‘disguised herself as man’",
+          "excerpt": "The main suspect in a Monaco bomb attack this week that seriously injured a Ukraine-born business tycoon and two of his family members is a Ukrainian woman living in Germany who disguised herself as a man, authorities have said.…",
+          "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Woman wanted over Monaco bombing 'that targeted Ukrainian tycoon' is named",
+          "excerpt": "Interpol has named a woman who is wanted over a bombing in Monaco which reportedly targeted a Ukrainian tycoon with links to Russia.",
+          "url": "https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Monaco IDs suspect in bomb attack on Ukrainian oligarch",
+          "excerpt": "Monaco IDs suspect in bomb attack on Ukrainian oligarch July 3, 2026Monaco authorities have issued an Interpol Red Notice for a Ukrainian woman believed to have carried out a parcel bombing earlier this week that seriously wounded a Ukrainian-born oligarch and two others, including a 13-year-old. An Interpol Red Notice is a request to locate and provisionally arrest a suspect.…",
+          "url": "https://www.dw.com/en/monaco-ids-suspect-in-bomb-attack-on-ukrainian-oligarch/a-77814163?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Jersey Mike's files for IPO, plans NYSE listing under ticker JMKE",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Jersey Mike's files for IPO, plans NYSE listing under ticker JMKE",
+          "excerpt": "The sandwich chain reported net income of $55 million on revenue of $724 million in 2025, up sharply from the year before",
+          "url": "https://qz.com/jersey-mikes-ipo-filing-nyse-jmke-070226"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+          "excerpt": "I can’t tell the exact tipping point from realistic excitement over a new technology, to hype, to aww-come-on — but I’m pretty sure when a sandwich shop with Danny DeVito as its public face talks about AI in its IPO documents, we must be getting close. So it is with Jersey Mike’s.…",
+          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
+          "excerpt": "Sandwich chain Jersey Mike's filed for an initial public offering on Thursday, reporting that its same-store sales cumulatively climbed 50% from 2020 through 2025.…",
+          "url": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "As Other Sandwich Chains Struggle, Jersey Mike’s Makes a Major IPO Move",
+          "excerpt": "After decades as a privately held franchise, Jersey Mike’s is opening itself up to public investors for the first time.",
+          "url": "https://www.inc.com/amaya-nichole/jersey-mikes-files-for-ipo/91369228"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+          "excerpt": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool - Published A former US Olympian has been charged with vandalising the Lincoln Memorial Reflecting Pool in Washington, DC. Authorities say David \"Davey\" Hearn, 67, a three-time Olympic canoeist, was seen reaching into the water last month after renovations to the pool.…",
+          "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Olympian indicted for vandalizing Reflecting Pool",
+          "excerpt": "Former Olympic canoeist David Hearn was indicted Thursday for destroying property after he allegedly reached into Washington D.C.'s Lincoln Memorial Reflecting Pool , per a bench warrant reviewed by Axios.…",
+          "url": "https://www.axios.com/2026/07/02/olympian-indicted-for-allegedly-vandalizing-reflecting-pool"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Former Olympian indicted on felony charge over alleged Reflecting Pool vandalism",
+          "excerpt": "District of Columbia US Attorney Jeanine Pirro said David Hearn ripped up recently installed sealant on pool in “a deliberate act” that caused more than €875 in damage. A former Olympian was indicted on Thursday on a felony charge in what President Donald Trump has called vandalism of the Lincoln Memorial Reflecting Pool in Washington.…",
+          "url": "http://www.euronews.com/2026/07/02/former-olympian-indicted-on-felony-charge-over-alleged-reflecting-pool-vandalism"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Olympian David Hearn indicted in Reflecting Pool destruction of property case",
+          "excerpt": "U.S. Olympian canoeist David Hearn was indicted by a grand jury in Washington, D.C., for destruction of property in connection with allegedly ripping up sealant in the Lincoln Memorial Reflecting Pool, U.S. Attorney Jeanine Pirro said Thursday.…",
+          "url": "https://www.cnbc.com/2026/07/02/reflecting-pool-indictment-david-hearn-destruction-pirro.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Spyware used against MEP investigating Pegasus abuses, report finds",
+          "excerpt": "NSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conducting an investigation of spyware abuses in Europe, according to a new report. Researchers at the Citizen Lab at the University of Toronto said they could not attribute the attacks against Stelios Kouloglou to any particular government operator of Pegasus spyware.…",
+          "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds"
+        },
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
+          "excerpt": "In the summer of 2022, Greek politician Stelios Kouloglou was investigating how intrusive spyware had been used to hack business leaders, law enforcement officials, and politicians. As part of the European Parliament’s PEGA Committee, set up to investigate the use of the notorious Pegasus spyware and other variants, Kouloglou travelled to interview spyware victims and probe high-profile cases.…",
+          "url": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
+          "excerpt": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds. A former member of the European Parliament was hacked with Pegasus spyware while serving on a committee investigating surveillance by the tool’s Israeli creator, a Canadian research group has found.…",
+          "url": "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Greek Politician Investigating Spyware Had Mobile Phone Hacked",
+          "excerpt": "The mobile phone of a Greek politician was repeatedly hacked by spyware while he was working on a European Parliament investigation into sellers of the surveillance technology, new research has found.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+          "excerpt": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan - Published At least 32 people were killed and 16 others injured after an overcrowded passenger bus plunged into a ravine in south-western Pakistan.…",
+          "url": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "At least 40 killed in passenger bus crash in southwest Pakistan",
+          "excerpt": "At least 40 killed in passenger bus crash in southwest Pakistan Bus loses control and falls into rocky ravine near border of Balochistan and Khyber Pakhtunkhwa, officials say. A bus has plunged from a highway into a ravine in southwestern Pakistan, killing 40 people, officials say.…",
+          "url": "https://www.aljazeera.com/news/2026/7/3/at-least-40-killed-in-passenger-bus-crash-in-southwest-pakistan?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "40 killed when speeding, overcrowded bus tumbles into Pakistan ravine, officials say",
+          "excerpt": "40 killed when speeding, overcrowded bus tumbles into Pakistan ravine, officials say Quetta, Pakistan — A speeding, overcrowded passenger bus plunged from a highway into a rocky ravine in southwestern Pakistan early Friday, killing 40 people and injuring eight others in one of the deadliest road accidents in recent years, officials said.…",
+          "url": "https://www.cbsnews.com/news/pakistan-bus-crash-40-dead-ravine/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Pakistan: Bus crashes into ravine, killing at least 40",
+          "excerpt": "Pakistan: Bus crashes into ravine, killing at least 40 July 3, 2026At least 40 people were killed and eight others injured after a passenger bus plunged into a deep ravine in Pakistan's southwestern Balochistan province on Friday, officials said. According to police, the overcrowded bus was likely speeding. An investigation has been launched to determine the exact cause of the crash.…",
+          "url": "https://www.dw.com/en/pakistan-bus-crashes-into-ravine-killing-at-least-40/a-77814864?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "China Urges ‘Unimpeded Passage’ of Hormuz as Fee Chatter Mounts",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "China Urges ‘Unimpeded Passage’ of Hormuz as Fee Chatter Mounts",
+          "excerpt": "China called for the unhindered flow of shipping through the Strait of Hormuz, comments that come as leading European powers are apparently accepting that vessels will have to pay fees to Iran and Oman.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/china-urges-unimpeded-passage-of-hormuz-as-fee-chatter-mounts"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
+          "excerpt": "Oman's reputation for neutrality has earned it the nickname the \"Switzerland of the Middle East.\" But the country, which sits to the south of the Strait of Hormuz, is employing a deliberately opaque diplomatic strategy in discussions about tolls for the critical waterway, and markets have a \"blind spot\" for what could happen next, analysts tell CNBC.…",
+          "url": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Iran and Oman propose fee plan for Strait of Hormuz, sources say",
+          "excerpt": "Iran and Oman have presented the U.S. with a proposal to administer the Strait of Hormuz that includes the joint collection of administrative fees by the two Middle East nations, four sources told NBC News. In a memorandum of understanding signed last month, the U.S.…",
+          "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Daredevil couple charged with felonies for Empire State Building proposal stunt",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Daredevil couple charged with felonies for Empire State Building proposal stunt",
+          "excerpt": "The highest public floor is the 102nd, where there’s an observation deck. Going higher requires a key card, according to the court complaint.…",
+          "url": "http://www.euronews.com/2026/07/02/daredevil-couple-charged-with-felonies-for-empire-state-building-proposal-stunt"
         },
         {
           "source": "Time",
@@ -24,116 +346,242 @@
           "url": "https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/"
         },
         {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "2 arrested after apparent Empire State Building proposal",
-          "excerpt": "2 arrested after apparent Empire State Building proposal July 1, 2026Two masked individuals climbed to the top of the Empire State Building's antenna in New York City on Wednesday, where they displayed a banner promoting peace before making their way back down and eventually being arrested.…",
-          "url": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-rdf"
-        },
-        {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Couple Who Climbed Empire State Building Face Multiple Charges",
-          "excerpt": "Victor Willis, Lead Singer of The Village People, Dies at 74 02:22 Navy Crew Member Missing After Helicopter Crash in Arabian Sea 00:26 Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00:31 Now Playing Couple Who Climbed Empire State Building Face Multiple Charges 02:27 UP NEXT Trump Made 327 Stock Trades 1 Day Before Tariff Pause: Filings 02:09 Record-Setting Travel Underway Ahe…",
-          "url": "https://www.today.com/video/bodycam-captures-arrest-of-empire-state-building-climbers-266064453544"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Couple climbs Empire State Building, gets engaged, then arrested",
-          "excerpt": "Two people climbed to the top of the Empire State Building's antenna in New York on Wednesday, unfurling a banner reading, “When the power of love beats the love of power, the world knows peace.” Helicopter footage showed the pair balancing on the narrow structure more than 440 metres above the city before climbing down to a lower platform, where one appeared to propose and the couple embraced and…",
-          "url": "http://www.euronews.com/video/2026/07/02/couple-climbs-empire-state-building-gets-engaged-then-arrested"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "OpenAI proposes handing Trump administration 5% stake",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "OpenAI proposes handing Trump administration 5% stake",
-          "excerpt": "Sam Altman’s start-up in early talks for a public ownership deal as political pressure rises",
-          "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "OpenAI is offering the Trump administration a 5% stake to seed an AI wealth fund",
-          "excerpt": "OpenAI CEO Sam Altman reportedly discussed the potential government stake with Trump, Commerce Secretary Howard Lutnick, and Treasury Secretary Scott Bessent",
-          "url": "https://qz.com/openai-5-percent-stake-us-government-ai-wealth-fund-070226"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
-          "excerpt": "OpenAI has proposed handing the U.S. government a 5% stake in the company, the Financial Times reported Thursday, as the artificial intelligence startup seeks to defuse mounting political pressure in Washington. A 5% holding would be worth roughly $42.6 billion, after the AI lab closed a record-breaking funding round in March at a post-money valuation of $852 billion.…",
-          "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-          "excerpt": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. OpenAI floats giving Trump administration 5 percent cut of AI boom A government stake could help the company avoid onerous regulation.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
-          "excerpt": "OpenAI has begun preliminary discussions about giving the US government a 5% stake in the ChatGPT-developer, the Financial Times reported, citing two people familiar with the talks.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says"
+          "headline": "Daredevil climbers in court after Empire State Building stunt",
+          "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/daredevil-climbers-in-court-after-empire-state-building-stunt-266107461944"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-      "coverage": 5,
+      "headline_en": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-          "excerpt": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
-          "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
+          "headline": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions",
+          "excerpt": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions Three final Round of 16 spots up for grabs as Argentina, Australia, Cape Verde, Colombia, Egypt, Ghana are in action. The final day of the World Cup Round of 32 takes place on Friday, with three more spots in the Round of 16 still to be decided.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/3/fifa-world-cup-2026-round-of-16-bracket-friday-schedule-predictions?traffic_source=rss"
         },
         {
-          "source": "ABC News",
+          "source": "Euronews",
           "lang": "en",
-          "headline": "WATCH:  Clock ticks down to Taylor Swift and Travis Kelce's wedding",
-          "excerpt": "Clock ticks down to Taylor Swift and Travis Kelce's wedding ABC News' Aaron Katersky has more on the festivities at Madison Square Garden and how many people are expected to attend.…",
-          "url": "https://abcnews.com/video/134368787/"
+          "headline": "US fans celebrate World Cup last-16 spot",
+          "excerpt": "Fans celebrated outside the stadium in Santa Clara, California, after the United States secured a 2-0 victory over Bosnia and Herzegovina to reach the World Cup last 16. Folarin Balogun opened the scoring before being sent off in the second half, leaving the hosts to play with 10 men. Malik Tillman doubled the lead with a free-kick in the 82nd minute to seal the win.…",
+          "url": "http://www.euronews.com/video/2026/07/02/us-fans-celebrate-world-cup-last-16-spot"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "World Cup 2026: Ramos stoppage-time winner sends Portugal past Croatia into last 16",
+          "excerpt": "World Cup 2026: Ramos stoppage-time winner sends Portugal past Croatia into last 16 Portugal booked their place in the World Cup 2026 round of 16 after a 2-1 win over Luka Modric's Croatia in Toronto, decided by a stoppage-time goal from Gonçalo Ramos. Cristiano Ronaldo and his teammates will face Spain on Monday.…",
+          "url": "https://www.france24.com/en/sport/20260703-world-cup-2026-ramos-stoppage-time-winner-sends-portugal-past-croatia-into-last-16"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch World Cup Day 22: Portugal pulls off dramatic win against Croatia",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Watch World Cup Day 22: Portugal pulls off dramatic win against Croatia",
+          "excerpt": "Watch World Cup Day 22: Portugal pulls off dramatic win against Croatia Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 3 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+          "url": "https://www.aljazeera.com/video/2026/7/3/video-world-cup-2026-highlights?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "World Cup 2026: Spain ease past Austria to set up Portugal clash",
+          "excerpt": "European champions Spain cruised into the last 16 of the World Cup on Thursday with a dominant 3-0 win over Austria to set up a potential showdown with Cristiano Ronaldo's Portugal.",
+          "url": "https://www.france24.com/en/video/20260703-world-cup-2026-spain-ease-past-austria-to-set-up-portugal-clash"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
-          "excerpt": "Taylor Swift-Travis Kelce wedding events at Madison Square Garden to include rehearsal dinner, ceremony, late-night celebration, sources say Taylor Swift and Travis Kelce will be celebrating their nuptials with about 1,000 guests this holiday weekend in New York City after days of speculation about the most anticipated celebrity wedding of the year.…",
-          "url": "https://www.cbsnews.com/news/taylor-swift-travis-kelce-wedding-madison-square-garden-rehearsal-dinner/"
+          "headline": "The 2026 FIFA World Cup schedule and how to watch",
+          "excerpt": "The 2026 FIFA Men's World Cup schedule and how to watch Tickets to the 2026 FIFA Men's World Cup may be scarce and very expensive, but there are several ways soccer fans can watch all 104 matches scheduled across the United States, Mexico and Canada in the tournament now underway. \"Imagine, with this World Cup, a Super Bowl every single day for five weeks,\" U.S.…",
+          "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+          "excerpt": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive “gizmos” built from an AI prompt, as reported by Business Insider.…",
+          "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai"
         },
         {
-          "source": "Inc.",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "How Much Is an Invite to Taylor Swift’s Wedding Worth? 8 Percent of This Group Says They Would Spend Over $10,000",
-          "excerpt": "The pop star and Travis Kelce are allegedly tying the knot this weekend. Fans of the duo are eager for an opportunity to witness the event.",
-          "url": "https://www.inc.com/victoria-salves/how-much-is-an-invite-to-taylor-swift-worth-new-study/91368304"
+          "headline": "Meta has released an app for making generative AI games",
+          "excerpt": "Meta has released an app for making generative AI games Vibe-coding right in your Pocket. Meta appears to have soft-launched a new app called Pocket that's aimed at getting people to vibe-code their own minigames.…",
+          "url": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/"
         },
         {
-          "source": "NBC News",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "New Details Emerge on Taylor Swift-Travis Kelce NYC Wedding",
-          "excerpt": "Terry Crews Shares Update on Wife, Talks New Series ‘100 Cooks’ 08:13 My Friend is Throwing a DIY Wedding: Am I Obligated to Help? 05:23 Why Martin Guitars Strike a Chord With Music’s Biggest Stars 05:25 Top Summer Toys to Beat the Heat or Have Fun in the Sun 05:30 See the Winner of MLB’s Patriotic All-Star Food Taste Test 02:13 ‘Baywatch’ Reboot Teaser Previews New Lifeguard Crew 00:38 Jonas Brot…",
-          "url": "https://www.today.com/video/new-details-emerge-on-taylor-swift-travis-kelce-nyc-wedding-266065477528"
+          "headline": "Meta quietly launches vibe-coded gaming app Pocket",
+          "excerpt": "Meta is getting into gaming with the launch of a new app called Pocket, which allows people to generate small, interactive apps and games using AI prompts. The software, a result of Meta’s acquisition of the team at the vibe-coded gaming platform Gizmo earlier this year, describes itself as “a creative platform for making and sharing gizmos,” which is what the interactive experiences are called.…",
+          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
+          "excerpt": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
+          "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Extreme heat wave threatens U.S. power grids and July 4 travel",
+          "excerpt": "A prolonged and dangerous period of extreme heat across the central and eastern U.S. is poised to continue into the Independence Day weekend, exposing pressure points for power markets and transport. Temperatures of up to 105 degrees Fahrenheit (40.5 degrees Celsius) are expected, according to the National Weather Service, with some daily, monthly and all-time records possible.…",
+          "url": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine: Russia strikes kill 4 as Kyiv holds day of mourning",
+          "excerpt": "Ukraine: Russia strikes kill 4 as Kyiv holds day of mourning July 3, 2026At least four people were killed and 10 others injured after Russia launched a series of overnight attacks on Ukraine, officials said Friday. In the Sumy region, near the border with Russia, two women, an elderly man and a girl under the age of 2 were killed when a Russian drone hitting a house, authorities said.…",
+          "url": "https://www.dw.com/en/ukraine-russia-strikes-kill-4-as-kyiv-holds-day-of-mourning/a-77813693?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+          "excerpt": "Canadian boy, 11, dies of rabies after waking to bat on his face - Published An 11-year-old Canadian boy has died from rabies after being awoken by a bat on his nose and mouth. The incident took place while the child was on a visit to a cottage in Ontario with his family in 2024, according to a report in the Canadian Medical Association Journal published on Monday.…",
+          "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Canadian boy dies of rabies after waking to find bat on his face",
+          "excerpt": "Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies, in an “exceedingly rare case” that highlights the need for better public awareness.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "11-year-old boy dies from rabies in Canada after waking up to a bat on his face",
+          "excerpt": "Rabies is a rare but deadly infection usually spread by a bite or scratch from an infected animal. It is almost always fatal after the onset of symptoms, although vaccination and early treatment can help to prevent it. An 11-year-old boy died from rabies in Canada after he woke up to find a bat \"on his nose and mouth,\" according to a report in the Canadian Medical Association Journal.…",
+          "url": "http://www.euronews.com/2026/07/02/11-year-old-boy-dies-from-rabies-in-canada-after-waking-up-to-a-bat-on-his-face"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Tesla sales increase by 25% in Q2 2026",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Tesla sales increase by 25% in Q2 2026",
+          "excerpt": "If the car-buying public had qualms about Tesla, it appears to have gotten over them. This morning, the automaker released its sales and production numbers for the second quarter of the year. And if you’re a fan of activist CEO Elon Musk, it’s good news, as April, May, and June were great months for the company. In total, Tesla sold 480,126 EVs during Q2, a 25 percent year-over-year increase.…",
+          "url": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Tesla&#8217;s Q2 sales jump 25 percent",
+          "excerpt": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. Tesla’s Q2 sales jump 25 percent The 480K vehicle deliveries were significantly higher than the same period last year. The 480K vehicle deliveries were significantly higher than the same period last year.…",
+          "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Tesla Q2 vehicle deliveries are up 25 percent over last year",
+          "excerpt": "Tesla Q2 vehicle deliveries are up 25 percent over last year The company has been gaining traction in Europe. Tesla has been in decline, sales-wise, for a couple of years now. However, that looks to be reversing a bit. The company just announced delivery statistics for the second quarter of 2026 and the news is good for once.…",
+          "url": "https://www.engadget.com/2207032/tesla-q2-vehicle-deliveries-up-25-percent-over-last-year/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+          "excerpt": "South Africa and Ghana in diplomatic row over alleged killing of migrant - Published A diplomatic row has erupted between South Africa and Ghana, over claims that a Ghanaian man was killed during anti-migrant protests, which South African officials deny.…",
+          "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "South Africa, Ghana clash over migrant's death",
+          "excerpt": "South Africa, Ghana spar over migrant's death July 3, 2026A fresh diplomatic spat has erupted between Ghana and South Africa in connection with the killing of a migrant in Cape Town's Khayelitsha township earlier this week. The South African government on Thursday said the death was not linked to the anti-immigrant protests held in the country earlier this week.…",
+          "url": "https://www.dw.com/en/south-africa-ghana-clash-over-migrant-s-death/a-77811811?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "At least 16 killed and 20 injured in South Africa bus crash",
+          "excerpt": "At least 16 people have died and another 20 injured in a bus crash in South Africa.",
+          "url": "https://news.sky.com/story/at-least-16-killed-and-20-injured-in-south-africa-bus-crash-13559802"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Russia’s 11-Hour Assault on Kyiv",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "Russia’s 11-Hour Assault on Kyiv",
+          "excerpt": "Russia’s 11-Hour Assault on Kyiv The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure. Welcome to FP Free Week. To celebrate America’s 250th birthday, our entire site is completely unlocked this week only. Enjoy the article.…",
+          "url": "https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror'",
+          "excerpt": "Russia launched a barrage of drones and missiles at Kyiv in what Ukrainian officials described as a “night of horror” for the capital. At least 25 people have been killed, according to the State Emergency Service of Ukraine, and more than 80 injured. Search and rescue efforts are still underway.…",
+          "url": "https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Russia launches attacks on Kyiv, killing at least 27 and injuring scores",
+          "excerpt": "Russian attack on Kyiv kills at least 27, injures scores July 2, 2026At least 27 people were killed and more than 90 people were injured after Russian drones and missiles hit residential buildings in Kyiv as part of a broader wave of Russian attacks overnight on the Ukrainian capital.…",
+          "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-27-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Nine Thai monks killed after 11-year-old driver collides with procession",
-      "coverage": 5,
+      "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
@@ -150,494 +598,298 @@
           "url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession"
         },
         {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Thailand: Child crashes vehicle into group of monks",
-          "excerpt": "Thailand: Child crashes vehicle into group of monks July 2, 2026A child drove his parents' pickup truck into a group of Buddhist monks on a pilgrimage walk in northeastern Thailand on Thursday, police said.…",
-          "url": "https://www.dw.com/en/thailand-child-crashes-vehicle-into-group-of-monks/a-77796829?maca=en-rss-en-all-1573-rdf"
-        },
-        {
           "source": "Sky News",
           "lang": "en",
           "headline": "Nine Thai monks killed as 11-year-old boy crashes pickup truck into pilgrimage walk",
           "excerpt": "An 11-year-old boy crashed a pickup truck into a group of monks on a pilgrimage walk in northeastern Thailand on Thursday, killing nine, officials said.",
           "url": "https://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Eight Thai monks killed after child drives truck into procession",
-          "excerpt": "Eight Thai monks killed after child drives truck into procession Police say 11-year-old boy who took his parents’ vehicle without permission is now in custody and will be questioned. Eight Thai monks have been killed and other people injured after a child drove his family’s pick-up truck into a Buddhist procession.…",
-          "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "'Most massive' Russian attack on Kyiv kills at least 20",
-      "coverage": 5,
+      "headline_en": "WATCH:  How the US will be celebrating its 250th birthday",
+      "coverage": 2,
       "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "'Most massive' Russian attack on Kyiv kills at least 20",
-          "excerpt": "'Most massive' Russian attack on Kyiv kills at least 20 - Published Russian forces launched a major drone and missile attack on Kyiv overnight, killing 20 people, in what the city's mayor has described as the \"most massive attack\" on the Ukrainian capital. Vitaly Klitschko said around 90 people were injured.…",
-          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18",
-          "excerpt": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
-          "url": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ukraine: Russia pounds Kyiv in massive drone, missile strike",
-          "excerpt": "Explosions lit up the night sky in Kyiv in the early hours of Thursday as Russia launched a major drone and missile attack on Ukraine’s capital. At least 13 people were killed and 86 injured, Ukrainian officials said.",
-          "url": "https://www.france24.com/en/video/20260702-ukraine-russia-pounds-kyiv-in-massive-drone-missile-strike"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror'",
-          "excerpt": "Russia launched a barrage of drones and missiles at Kyiv in what Ukrainian officials described as a “night of horror” for the capital. At least 20 people have been killed, according to a local official, and more than 80 injured. Search and rescue efforts are still underway.…",
-          "url": "https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Russia launches deadly hourslong  attack on Kyiv",
-          "excerpt": "Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00:31 Now Playing Russia launches deadly hourslong attack on Kyiv 01:09 UP NEXT Ukrainian military releases video showing strikes in Russian-held Crimea 00:18 Ukraine launches drone strikes on Moscow 01:04 Ukraine launches drone attacks on major Moscow oil refinery 00:41 Fire engulfs centuries-old Ukrainian monastery after deadly st…",
-          "url": "https://www.nbcnews.com/video/russia-launches-hourslong-attack-on-kyiv-266060357874"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-          "excerpt": "The Trump administration lifted export controls on Anthropic’s Claude Fable 5 AI model after the company agreed to extend an existing guardrail to prevent users from trying to access certain restricted capabilities, according to two people familiar with the matter.…",
-          "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Anthropic's Fable 5 is back after the Trump administration lifted export controls",
-          "excerpt": "Anthropic's Fable 5 model came back online for users on Wednesday, after the Trump administration lifted an export control late Tuesday. Why it matters: It's the most powerful publicly available AI tool — so capable that the U.S. government decided Anthropic had to add further safety measures in order to make it broadly available.…",
-          "url": "https://www.axios.com/2026/07/01/anthropic-fable-5-back-online-trump-export-controls-lifted"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "How Anthropic Made Its Powerful Fable 5 Model Safe to Deploy Again, Ending a Global Shutdown",
-          "excerpt": "Anthropic’s Claude Fable 5 was blocked shortly after its release because of a ‘national security concern.’",
-          "url": "https://www.inc.com/hazel-gandhi/how-anthropic-made-its-powerful-fable-5-model-safe-to-deploy-again-ending-a-global-shutdown/91368517"
-        },
-        {
-          "source": "VentureBeat",
-          "lang": "en",
-          "headline": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
-          "excerpt": "Anthropic is restoring global access to its most powerful generally released AI model yet, Claude Fable 5, today, after the U.S. Department of Commerce last night withdrew the emergency export controls it had issued previously around the model. The U.S.…",
-          "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "After spooking Trump into safety testing, Anthropic AI models get global release",
-          "excerpt": "The US has lifted export curbs on Anthropic’s newest Claude models, Fable 5 and Mythos 5, about three weeks after the Trump administration flagged the models as national security risks. As of today, Anthropic confirmed in a blog post, Fable 5 will be available globally, and US organizations have had access restored to Mythos 5 since June 26.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
-          "excerpt": "Google loses final appeal over $4.7 billion EU Android antitrust fine The decade-long saga is finally at an end, but Google faces further sanctions in the EU. Europe's highest court of appeal has upheld a record-setting €4.1 billion ($4.67 billion) fine imposed on Google back in 2018 for antitrust violations around its Android operating system.…",
-          "url": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Google must pay record €4.1 billion fine, top EU court rules",
-          "excerpt": "Google must pay record €4.1 billion fine, top EU court rules July 2, 2026Google will have to pay a record €4.125 billion ($4.67 billion) antitrust fine over anti-competitive practices after the European Union's top court ruled against an appeal by the tech giant on Thursday.…",
-          "url": "https://www.dw.com/en/google-must-pay-record-€4-1-billion-fine-top-eu-court-rules/a-77794948?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Google loses fight over record $4.7 billion EU antitrust fine",
-          "excerpt": "Europe's top court on Thursday upheld Google's fine of around 4.1 billion euros ($4.67 billion) over alleged anti-competitive practices. In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance to give unfair advantage to its own apps via pre-installation deals with smartphone makers.…",
-          "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Google lost its final E.U. appeal over a €4.1 billion Android antitrust fine",
-          "excerpt": "Europe's top court upheld the penalty, which was originally imposed in 2018 for anti-competitive practices tied to the Android operating system",
-          "url": "https://qz.com/google-alphabet-eu-android-antitrust-fine-appeal-070226"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Google Loses EU Top Court Fight Over €4.1 Billion Android Fine",
-          "excerpt": "Google lost its long-running fight against a €4.1 billion ($4.7 billion) European Union antitrust fine after the bloc’s top judges said regulators were right to punish the US giant for abusing Android’s market power.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Vatican excommunicates all members of ultra-conservative rebel group SSPX",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Vatican excommunicates all members of ultra-conservative rebel group SSPX",
-          "excerpt": "The Vatican has excommunicated a rebel group of ultra-conservative Catholics who defied Pope Leo by ordaining bishops without his consent, creating a schism in the Roman Catholic church.…",
-          "url": "https://www.theguardian.com/world/2026/jul/02/vatican-excommunicates-all-members-of-ultra-conservative-rebels-sspx"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
-          "excerpt": "The Vatican responded Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X in schism and excommunicating its bishops and priests.",
-          "url": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Catholic Church excommunicates 6 bishops from ultra-conservative society",
-          "excerpt": "Catholic Church says 6 bishops from ultra-conservative SSPX society excommunicated as decades-old feud reopens Rome — The Vatican announced Thursday that six bishops associated with the ultra-conservative Society of Saint Pius X (SSPX) have been excommunicated following the unauthorized consecration of four new bishops the previous day in Écône, Switzerland.…",
-          "url": "https://www.cbsnews.com/news/catholic-church-sspx-excommunication-bishops-vatican-feud/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Vatican excommunicates rebel SSPX bishops",
-          "excerpt": "Vatican excommunicates rebel SSPX bishops July 2, 2026The Vatican on Thursday imposed some of the highest penalties available under the Catholic Church's canon law on a breakaway group that consecrated four bishops in defiance of the pope.…",
-          "url": "https://www.dw.com/en/vatican-excommunicates-rebel-sspx-bishops/a-77798543?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Four die in Mexico City World Cup celebrations",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Four die in Mexico City World Cup celebrations",
-          "excerpt": "Four die in Mexico City World Cup celebrations - Published A 19-year-old woman is among three people to have died from suffocation during World Cup celebrations in Mexico City on Tuesday. A 48-year-old woman and a 44-year-old man also died after crowds descended on the city following the country's 2-0 victory over Ecuador, the capital's health authority said on Wednesday.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
-          "excerpt": "Four people died, three from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat said in the early hours of Wednesday. The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to celebrate Mexico’s 2-0 victory over Ecuador in the last 32.…",
-          "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Three die in Mexico City World Cup street celebrations",
-          "excerpt": "Emergency crews were called to the Juárez area of the capital after three people were reported to be unconscious. Three people have died in Mexico City as locals celebrated Mexico's 2-0 win over Ecuador in the World Cup, authorities said. A 44-year-old man, a 48-year-old woman, and a 19-year-old woman died from asphyxiation, according to the city's health secretary.…",
-          "url": "http://www.euronews.com/2026/07/01/three-die-in-mexico-city-world-cup-street-celebrations"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "3 die during Mexico City World Cup celebrations",
-          "excerpt": "3 die during Mexico City World Cup celebrations July 1, 2026Three people died in Mexico City on Tuesday night after being caught in a crowd crush during celebrations of host Mexico's World Cup victory over Ecuador.…",
-          "url": "https://www.dw.com/en/3-die-during-mexico-city-world-cup-celebrations/a-77791673?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike",
-          "excerpt": "US stocks rose as slower-than-expected job growth drove traders to dial-back bets that the Federal Reserve could start raising interest rates as soon as this month.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-stocks-muted-as-traders-wait-on-jobs-data-for-rate-path-clues"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Chip stocks are down everywhere. Oil is back to prewar prices. The jobs report is up next",
-          "excerpt": "A fourth straight month of gains above 100,000 would represent a run of job growth not seen since the start of 2024",
-          "url": "https://qz.com/chip-stocks-sell-off-global-jobs-report-070226"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "South Korean AI Rout Drags Emerging Stocks to Three-Week Low",
-          "excerpt": "Developing-world currencies rallied on Thursday after weaker-than-expected US employment data prompted investors to scale back expectations for an October Federal Reserve interest-rate hike, boosting risk assets as the dollar weakened.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-ai-rout-drags-emerging-stocks-to-three-week-low"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
-          "excerpt": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress What to know about the Iran war today: - Qatari and Pakistani mediators said Thursday that the next meetings between Iranian and U.S. negotiators would be scheduled \"at the earliest possible time\" after funeral commemorations for Iran's former supreme leader.…",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "US-Iran talks in Doha: What were the outcomes and what’s next?",
-          "excerpt": "US-Iran talks in Doha: What were the outcomes and what’s next? Qatar said that the next meeting will take place after funeral processions for Iran’s former Supreme Leader Ali Khamenei.…",
-          "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US-Iran parallel talks in Qatar end with pledge to keep talking",
-          "excerpt": "Holding separate meetings in Qatar, the US and Iran made progress and agreed that the next meeting would be after Khamenei's funeral, host Qatar confirmed.",
-          "url": "http://www.euronews.com/2026/07/02/us-iran-parallel-talks-in-qatar-end-with-pledge-to-keep-talking"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Ford's U.S. vehicle sales fell 10% as model phase-outs and rental drop weighed on the quarter",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Ford's U.S. vehicle sales fell 10% as model phase-outs and rental drop weighed on the quarter",
-          "excerpt": "The automaker sold 549,200 vehicles in the second quarter, hurt by the phase-out of the Escape and Lincoln Corsair and a 69% drop in daily rental sales",
-          "url": "https://qz.com/ford-q2-2026-us-vehicle-sales-decline-070226"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
-          "excerpt": "DETROIT — Ford Motor on Thursday reported a 10.3% decline in its second-quarter U.S. new vehicle sales as the company battled a supplier issue for its F-Series pickup trucks and a significant decline in all-electric vehicles. The Detroit automaker said its pure EV sales fell by 40.7% during the quarter compared with a year earlier.…",
-          "url": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Ford Q2 sales slide 10% on EV drop and model phase-outs; Bronco and Maverick hybrid set records",
-          "excerpt": "Ford (F) reported a 10.3% drop in second-quarter US sales, to 549,200 vehicles, as electric-vehicle demand tumbled, F-Series and SUV volumes slipped, and the automaker worked through the discontinuation of two models. The quarter was down across most of the lineup, and first-half sales fell 9.6% to just over 1 million vehicles.…",
-          "url": "https://finance.yahoo.com/markets/stocks/article/ford-q2-sales-slide-10-on-ev-drop-and-model-phase-outs-bronco-and-maverick-hybrid-set-records-135627404.html"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US Adds Fewer Jobs Than Expected in June, Unemployment Rate Falls",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "US Adds Fewer Jobs Than Expected in June, Unemployment Rate Falls",
-          "excerpt": "US hiring slowed sharply in June as nonfarm payrolls increased 57,000 last month after downward revisions to the prior two months, according to Bureau of Labor Statistics data out Thursday. Michael McKee reports on Bloomberg Television. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-02/us-adds-fewer-jobs-than-expected-jobless-rate-falls-video"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "U.S. job market slows in June",
-          "excerpt": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
-          "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-          "excerpt": "The U.S. economy saw job creation cool sharply heading into the summer, the Bureau of Labor Statistics reported Thursday. Nonfarm payrolls for June increased by a seasonally adjusted 57,000 for the month, slower than the downwardly revised 129,000 added in May and worse than the 115,000 Dow Jones consensus forecast.…",
-          "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "July 4th travel gets heated with higher prices and temperatures",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "July 4th travel gets heated with higher prices and temperatures",
-          "excerpt": "Latest U.S. Iran War Heat Wave World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
-          "url": "https://www.cbsnews.com/video/july-4th-travel-gets-heated-with-higher-prices-and-temperatures/"
-        },
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "WATCH:  Millions are expected to fly for July 4th holiday: TSA",
-          "excerpt": "Millions are expected to fly for July 4th holiday: TSA The Transportation Security Administration is expected to screen more than 3 million passengers on Thursday ahead of an expectant busy travel weekend for Independence Day.…",
-          "url": "https://abcnews.com/video/134403343/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "More Than Half the US on Alert for Extreme Heat: What to Know",
-          "excerpt": "Victor Willis, Lead Singer of The Village People, Dies at 74 02:22 Navy Crew Member Missing After Helicopter Crash in Arabian Sea 00:26 Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00:31 Couple Who Climbed Empire State Building Face Multiple Charges 02:27 Trump Made 327 Stock Trades 1 Day Before Tariff Pause: Filings 02:09 Record-Setting Travel Underway Ahead of July 4 Holiday…",
-          "url": "https://www.today.com/video/heat-dome-blankets-half-of-us-what-to-know-for-july-4-266059845962"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Alleged Scattered Spider hacker arrested in Finland",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Alleged Scattered Spider hacker arrested in Finland",
-          "excerpt": "Alleged Scattered Spider hacker arrested in Finland - Published A teenager has been arrested for alleged involvement with the Scattered Spider hacking group, the US Department of Justice (DoJ) has said. Peter Stokes, 19, was arrested in Finland in April and extradited to the US following an Interpol Red Notice.…",
-          "url": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Alleged member of hacking group 'Scattered Spider' arrested in Finland",
-          "excerpt": "Scattered Spider, also known as “Octo Tempest,” “UNC3944,” or “0ktapus,” is a group of criminal cyber actors that attempts to extort ransoms from companies. An alleged member of the \"Scattered Spider\" hacking group has been arrested and extradited to the United States, US authorities announced on Wednesday.…",
-          "url": "http://www.euronews.com/2026/07/02/alleged-member-of-hacking-group-scattered-spider-arrested-in-finland"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Alleged member of hacking group Scattered Spider arrested",
-          "excerpt": "A teenager alleged to be a member of the criminal cyber hacking group Scattered Spider - which was linked to attacks on M&amp;S and Transport for London - has been arrested, according to US authorities.",
-          "url": "https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
-          "excerpt": "Bad news for fans of physical media: Sony has announced that it is abandoning game discs.…",
-          "url": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Sony’s PlayStation Disc Decision Is Its Biggest Scandal In 20 Years",
-          "excerpt": "Sony has stepped in it now, announcing plans to stop selling new PlayStation disc copies of games when 2028 begins, ending an era of physical gaming media that has existed since the medium’s inception. The pushback is not just swift and vehement among fans. It appears this situation might be the most outraged gamers have been at PlayStation in 20 years, if not ever.…",
-          "url": "https://www.forbes.com/sites/paultassi/2026/07/02/sonys-playstation-disc-decision-is-its-biggest-scandal-in-20-years/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Sony will stop making disc-based PlayStation games starting 2028",
-          "excerpt": "Sony will stop making disc-based PlayStation games starting 2028 Xbox and Nintendo have also been pushing consumers towards digital games. Sony has announced that PlayStation is going all digital, with physical game disc production being discontinued starting January 2028. After this date, you'll only be able to purchase new games digitally on the PlayStation Store and in retailers.…",
-          "url": "https://www.engadget.com/2205792/sony-will-stop-making-disc-based-playstation-games-starting-2028/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "After biggest World Cup win in decades, the U.S. must go again without its star forward",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "After biggest World Cup win in decades, the U.S. must go again without its star forward",
-          "excerpt": "SANTA CLARA, Calif. — Blood pooled near Malik Tillman’s toes as he stood over a free kick Wednesday evening. The U.S. midfielder’s boot had been stepped on and split open during the World Cup’s round of 32 match against Bosnia-Herzegovina. The puncture left a hole in his sock between his big and middle toes, where a red stain formed. But the 82nd minute of a knockout game, with the U.S.…",
-          "url": "https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US fans celebrate World Cup last-16 spot",
-          "excerpt": "Fans celebrated outside the stadium in Santa Clara, California, after the United States secured a 2-0 victory over Bosnia and Herzegovina to reach the World Cup last 16. Folarin Balogun opened the scoring before being sent off in the second half, leaving the hosts to play with 10 men. Malik Tillman doubled the lead with a free-kick in the 82nd minute to seal the win.…",
-          "url": "http://www.euronews.com/video/2026/07/02/us-fans-celebrate-world-cup-last-16-spot"
+          "headline": "WATCH:  How the US will be celebrating its 250th birthday",
+          "excerpt": "How the US will be celebrating its 250th birthday ABC News' Danny New breaks down America 250 celebrations happening this weekend, from big cities to national parks.…",
+          "url": "https://abcnews.com/video/134436067/"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Breaking down U.S. win against Bosnia and Herzegovina, controversial red card and next match",
-          "excerpt": "Breaking down U.S. win against Bosnia and Herzegovina, controversial red card and next match Nigel Reo-Coker, an analyst for CBS Sports Golazo, joins \"CBS Mornings\" to break down the United States' big win against Bosnia and Herzegovina in the World Cup, its chances against Belgium and more.",
-          "url": "https://www.cbsnews.com/video/breaking-down-u-s-win-against-bosnia-and-herzegovina-controversial-red-card-and-next-match/"
+          "headline": "America 250 celebrations in Washington, D.C., deemed national special security event",
+          "excerpt": "America 250 celebrations in Washington, D.C., deemed national special security event Washington, D.C., is bracing for the heat and ramping up security in advance of the nation's 250th birthday celebration on the National Mall. CBS News homeland security correspondent Nicole Sganga reports on the security efforts. Then, Amb. Monica Crowley, U.S.…",
+          "url": "https://www.cbsnews.com/video/america-250-celebrations-washington-dc-national-special-security-event/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Fast-moving wildfire spreads across southern France",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Fast-moving wildfire spreads across southern France",
+          "excerpt": "A major wildfire continues to burn in the Aude department in southern France, where firefighters are still working at daybreak to contain a fast-moving blaze that has spread from neighbouring Hérault. The video shows flames racing across a hillside, thick smoke rising into the sky, and aircraft and ground crews battling the fire.…",
+          "url": "http://www.euronews.com/video/2026/07/02/fast-moving-wildfire-spreads-across-southern-france"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "After heat wave: Wildfires ravage southern France",
+          "excerpt": "After heat wave: Wildfires ravage southern France July 2, 2026Several wildfires scorched southern France on Thursday after weeks of dry weather and record-high temperatures during the recent heat wave. According to local authorities, the largest fires spread in the Aude and Herault regions.…",
+          "url": "https://www.dw.com/en/after-heat-wave-wildfires-ravage-southern-france/a-77810138?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Tesla saw a massive sales jump in the second quarter",
-      "coverage": 3,
+      "headline_en": "The best July 4th deals live now: Save on Anker, Garmin, Apple, and more",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "TechCrunch",
+          "source": "ZDNet",
           "lang": "en",
-          "headline": "Tesla saw a massive sales jump in the second quarter",
-          "excerpt": "Tesla delivered more than 480,000 vehicles in the second quarter of this year, an increase of more than 120,000 from the first quarter, in a sign that the company is still able to attract new buyers for its EVs despite a downturn in the U.S. market. The company said Thursday that it built 451,758 in the second quarter, 442,936 of which were Model 3 sedans and Model Y SUVs.…",
-          "url": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/"
+          "headline": "The best July 4th deals live now: Save on Anker, Garmin, Apple, and more",
+          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
+          "url": "https://www.zdnet.com/article/best-july-4-deals-2026/"
         },
         {
           "source": "The Verge",
           "lang": "en",
-          "headline": "Tesla&#8217;s Q2 sales jump 25 percent",
-          "excerpt": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. Tesla’s Q2 sales jump 25 percent The 480K vehicle deliveries were significantly higher than the same period last year. The 480K vehicle deliveries were significantly higher than the same period last year.…",
-          "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report"
+          "headline": "The best July 4th sales we found so far",
+          "excerpt": "July 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation’s birthday. Best Buy is hosting its own 4th of July sale, for example.…",
+          "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Cloudflare will filter out web crawlers that serve AI companies",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Cloudflare will filter out web crawlers that serve AI companies",
+          "excerpt": "Cloudflare will filter out web crawlers that serve AI companies The hosting platform wants sites to have more control over how AI companies use their content. Cloudflare has announced plans to automatically block mixed-use web crawlers that index websites for search engines and act as AI agents and trainers at the same time.…",
+          "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/"
         },
         {
-          "source": "Quartz",
+          "source": "Time",
           "lang": "en",
-          "headline": "Tesla delivered 480,000 vehicles last quarter, blowing past Wall Street expectations",
-          "excerpt": "The strong quarter comes as Tesla attempts to turn around a two-year run of falling annual sales",
-          "url": "https://qz.com/tesla-q2-2026-deliveries-production-070226"
+          "headline": "OpenAI Woos Trump Administration as Investor",
+          "excerpt": "ChatGPT creator OpenAI is reportedly discussing giving the U.S. government a 5% stake in the company, in an apparent attempt to improve relations with President Donald Trump’s Administration amid political pressures on American artificial intelligence companies.…",
+          "url": "https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Trump’s commemorative Social Security card comes with the ‘Freedom 250’ logo",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Trump’s commemorative Social Security card comes with the ‘Freedom 250’ logo",
+          "excerpt": "Everyone has encountered unnecessary company swag—from branded pens to an endless supply of canvas tote bags. But babies born July 2 through the end of the year may receive a surprising branded moment: a Freedom 250 Social Security card . At a glance, the commemorative card, rolled out as part of the U.S.&#8217;s 250th anniversary celebration, looks like any regular Social Security card.…",
+          "url": "https://www.fastcompany.com/91568826/trump-commemorative-social-security-card-freedom-250"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "How Trump Branded America’s Big Birthday",
+          "excerpt": "How Trump Branded America’s Big Birthday The White House’s Freedom 250 wrested control of a patriotic logo—and spread it everywhere. As the United States neared its 250th birthday in recent months, a new spin on the Stars and Stripes appeared outside homes and on banners dangling from government buildings.…",
+          "url": "https://www.theatlantic.com/culture/2026/07/freedom-250-logo-trump/687793/?utm_source=feed"
+        }
+      ]
+    },
+    {
+      "category": "📣 Marketing",
+      "headline_en": "Here Are the 2nd Quarter of 2026 Evening News Ratings",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Adweek",
+          "lang": "en",
+          "headline": "Here Are the 2nd Quarter of 2026 Evening News Ratings",
+          "excerpt": "Here is TVNewser’s look at the Q2 2026 ratings for evening newscasts and the evening ratings for the week of June 22: Week of June 22 CBS Evening News with Tony Dokoupil finished the last week of June with gains in both total viewers and the Adults 25-54 demo. It crossed the 4 million total viewers mark during this just-concluded week.…",
+          "url": "https://www.adweek.com/tvnewser/here-are-the-2nd-quarter-of-2026-evening-news-ratings/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Latest news bulletin | July 2nd, 2026 – Evening",
+          "excerpt": "Video. Latest news bulletin | July 2nd, 2026 – Evening Copy/paste the link below: Copy/paste the article video embed link below: Updated: Catch up with the most important stories from around Europe and beyond this July 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "url": "http://www.euronews.com/video/2026/07/02/latest-news-bulletin-july-2nd-2026-evening"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "ECB Is 'Comfortable' With Its Base Scenario, Moulin Says",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "ECB Is 'Comfortable' With Its Base Scenario, Moulin Says",
+          "excerpt": "European Central Bank Governing Council member Emmanuel Moulin comments on the outlook for inflation and monetary policy. He talks with Bloomberg's Francine Lacqua at the Aix-en-Provence Economic Forum in France. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/ecb-is-comfortable-with-its-base-scenario-moulin-says-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Allianz's Subran Has Doubts Over Europe's 'AI Dividend'",
+          "excerpt": "Ludovic Subran, chief investment officer and chief economist at Allianz, says there isn't enough evidence to say that the AI trade is in \"bubble\" territory.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/allianz-s-subran-has-doubts-over-europe-s-ai-dividend-video"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Cheers and applause as security guard rescued from rubble",
-      "coverage": 3,
+      "headline_en": "World Cup 2026: Manzambi's brilliance guides Switzerland past Algeria",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Cheers and applause as security guard rescued from rubble",
-          "excerpt": "Watch: Man rescued from rubble eight days after Venezuela earthquake A man has been rescued alive after being trapped for eight days in the rubble of a building that collapsed after twin earthquakes in Venezuela. Emergency workers managed to free HernÃ¡n Gil more than 100 hours after they had first located him under 140 tonnes of rubble.…",
-          "url": "https://www.bbc.co.uk/news/videos/c0lye4xr651o?at_medium=RSS&at_campaign=rss"
+          "headline": "World Cup 2026: Manzambi's brilliance guides Switzerland past Algeria",
+          "excerpt": "World Cup 2026: Manzambi's brilliance guides Switzerland past Algeria Switzerland secured their passage to the last 16 with a disciplined 2-0 victory over Algeria in Vancouver, with goals from Breel Embolo and Dan Ndoye proving decisive. The Nati finally broke their curse in knockout football, while the Fennecs' tournament ended in disappointment after showing early promise.…",
+          "url": "https://www.france24.com/en/sport/20260703-switzerland-beat-algeria-2-0-to-move-into-world-cup-last-16"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style",
+          "excerpt": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style Switzerland remain unbeaten at the 2026 World Cup and will face either Colombia or Ghana in the next game.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/3/switzerland-algeria-fifa-world-cup-2026-score-embolo-ndoye?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "A Short Economic History of the United States",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "A Short Economic History of the United States",
+          "excerpt": "A Short Economic History of the United States From a slave economy to a global empire in 250 years. Welcome to FP Free Week. To celebrate America’s 250th birthday, our entire site is completely unlocked this week only. Enjoy the article.…",
+          "url": "https://foreignpolicy.com/2026/07/02/united-states-economy-slavery-empire-immigration-socialism/"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "A week after the earthquakes, Venezuela still searches for its thousands missing",
-          "excerpt": "Rescue teams in Venezuela are working frantically to free a man that's been trapped in the rubble of a collapsed building for eight days. For the past seventy-two hours - emergency workers from seven countries have worked nonstop trying to free 43-year-old Hernan Gil. He's a security guard buried inside his booth in the coastal city of Catia La Mer. Rescuers say it's a miracle he's still alive.…",
-          "url": "https://www.france24.com/en/a-week-after-the-earthquakes-venezuela-still-searches-for-its-thousands-missing"
+          "headline": "US history gets a presidential makeover for its 250th birthday",
+          "excerpt": "This year, the United States is marking 250 years of independence with celebrations across the country. An historic occasion that US President Donald Trump intends to turn into the crowning achievement of his second term by changing the appearance of Washington DC to his taste – and infusing his vision of American history into national museums, parks and monuments.…",
+          "url": "https://www.france24.com/en/us-history-gets-a-presidential-makeover-for-its-250th-birthday"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Lagarde Won’t Exclude Early ECB Exit to Enter French Politics",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Lagarde Won’t Exclude Early ECB Exit to Enter French Politics",
+          "excerpt": "European Central Bank President Christine Lagarde said she won’t rule out leaving her current position early to participate in French politics.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/ecb-made-right-choice-in-june-rate-hike-lagarde-tells-les-echos"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+          "excerpt": "The European Central Bank's Christine Lagarde has declined to rule out an early end to her term as president, as she mulls a foray into French politics. Lagarde, whose term as ECB President ends in October 2027, told French newspaper Les Echos an early departure is \"possible\" ahead of the country's presidential elections that year.…",
+          "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Venezuelan security guard pulled alive from basement eight days after twin quakes",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Venezuelan security guard pulled alive from basement eight days after twin quakes",
+          "excerpt": "The earthquakes destroyed tens of thousands of buildings across northern Venezuela, killing more than 2,200 people, and leaving La Guaira state as the hardest-hit region in the country.…",
+          "url": "http://www.euronews.com/2026/07/02/venezuelan-security-guard-pulled-alive-from-basement-eight-days-after-twin-quakes"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Venezuelan man rescued alive 8 days after powerful quakes",
+          "excerpt": "Venezuelan man rescued alive 8 days after powerful quakes July 2, 2026A team of international rescuers pulled a man alive from a collapsed building in Venezuela on Thursday, eight days after the country was rocked by magnitude 7.2 and 7.5 earthquakes.…",
+          "url": "https://www.dw.com/en/venezuelan-man-rescued-alive-8-days-after-powerful-quakes/a-77809306?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+          "excerpt": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather - Published France has said it recorded an increase of more than 2,000 deaths during the last week of a record-breaking European heatwave in June as forecasters warn of further extreme temperatures on the continent in the next few days.…",
+          "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "France records 2,025 excess deaths in June heatwave",
+          "excerpt": "France records 2,025 excess deaths in June heatwave France recorded 2,025 excess deaths during the June 22-28 heatwave, the country's health minister said Friday, marking a nearly 30 percent nationwide rise in recorded deaths. In the Paris region, the number of deaths during the same period increased by 62 percent, according to the public health authority.…",
+          "url": "https://www.france24.com/en/france/20260703-france-records-2-025-excess-deaths-in-june-heatwave"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary",
+          "excerpt": "Kuaishou Technology shares rose nearly 7% Friday before trimming gains, after the company announced a capital injection of nearly $2.8 billion into its artificial intelligence subsidiary, Kling AI, with backing from tech giant Tencent. The Beijing-based short video platform disclosed the funding details in a regulatory filing released after the market closed on Thursday.…",
+          "url": "https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Alibaba, Tencent Join $2.8 Billion Funding for Kling AI",
+          "excerpt": "Alibaba Group Holding Ltd. joined a $2.8 billion financing round for Kuaishou Technology’s Kling AI, valuing the creator of one of China’s most popular generative video services at about $15 billion before the investment.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+          "excerpt": "A 43-year-old security guard who survived last week’s devastating earthquakes in Venezuela thanks to a pocket of air in his workstation cabin has been pulled from the collapsed basement of a shopping centre amid huge cheers from international rescue teams.…",
+          "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes"
         },
         {
           "source": "CBS News",
@@ -649,492 +901,149 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-          "excerpt": "Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan. There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amadou Coulibaly, added.…",
-          "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "59 killed in floods and fears number of dead could rise",
-          "excerpt": "At least 59 people have been killed in flooding in Ivory Coast, according to a government spokesman,",
-          "url": "https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ivory Coast: Nearly 60 people killed in flooding since May",
-          "excerpt": "Ivory Coast: Nearly 60 people killed in flooding since May July 1, 2026A \"particularly heavy\" rainy season that started in mid-May has led to deadly flooding, Ivory Coast government spokesperson Amadou Coulibaly told a cabinet meeting on Wednesday.…",
-          "url": "https://www.dw.com/en/ivory-coast-nearly-60-people-killed-in-flooding-since-may/a-77793180?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
       "category": "💡 Tech & AI",
-      "headline_en": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-          "excerpt": "Elon Musk’s SpaceX has shown investors a prototype of a “handset-like” AI device, reports The Wall Street Journal. The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it’s something between a small touchscreen phone and a Rabbit R1.…",
-          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
-          "excerpt": "Elon Musk says a report about a SpaceX AI phone prototype is “utterly false.” The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a “handset-like prototype” to some investors before launching its record-breaking initial public offering in June.…",
-          "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
-          "excerpt": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false' The purported gadget was reported to offer a way to access xAI's models without having to use a smartphone. SpaceX, the newly-public satellite internet company that also dabbles in rockets and CSAM-generating chatbots, might be building its own AI hardware.…",
-          "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "South Africa and Ghana in diplomatic row over killing of migrant",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "South Africa and Ghana in diplomatic row over killing of migrant",
-          "excerpt": "South Africa and Ghana in diplomatic row over killing of migrant - Published A diplomatic row has erupted between South Africa and Ghana, over claims that a Ghanaian man was killed during anti-migrant protests, which South African officials deny.…",
-          "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "At least 16 killed and 20 injured in South Africa bus crash",
-          "excerpt": "At least 16 people have died and another 20 injured in a bus crash in South Africa.",
-          "url": "https://news.sky.com/story/at-least-16-killed-and-20-injured-in-south-africa-bus-crash-13559802"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "South Africa’s Grocery War Shifts From Search to AI Conversation",
-          "excerpt": "South Africa’s online grocery battle is entering a new phase where the competition is no longer just about delivering groceries faster, but rather about making shopping itself almost disappear.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-africa-s-grocery-war-shifts-from-search-to-ai-conversation"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US blocks long-term renewal of North American trade deal",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "US blocks long-term renewal of North American trade deal",
-          "excerpt": "US blocks long-term renewal of North American trade deal - Published The US has declined to renew the landmark US-Mexico-Canada Agreement (USMCA) in its current form, according to a senior US official. This decision means the trilateral trade pact will miss out on an automatic 16-year extension.…",
-          "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-          "excerpt": "Donald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years. Wednesday was the deadline built into the United States-Mexico-Canada Agreement (USMCA) for the three countries to jointly decide its fate, which is set to expire in 2036.…",
-          "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US declines to renew USMCA trade pact with Mexico, Canada",
-          "excerpt": "US declines to renew USMCA trade pact with Mexico, Canada July 2, 2026The United States on Wednesday decided not to renew the US-Mexico-Canada Agreement (USMCA), in its current form, US trade Representative Jamieson Greer said in a statement \"The United States will continue to engage with Mexico and Canada to address the agreement's shortcomings and our trade deficits with these countries,\" Greer …",
-          "url": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US economy undershoots forecasts with 57,000 jobs added in June",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "US economy undershoots forecasts with 57,000 jobs added in June",
-          "excerpt": "Hiring slows after three-month streak of overperformance",
-          "url": "https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Employers added 57,000 jobs in June, far below forecasts",
-          "excerpt": "Employers added 57,000 jobs in June, far below forecasts as hiring slowed U.S. employers added 57,000 jobs in June, far below analysts' forecasts and signaling that hiring may be losing momentum. By the numbers Economists polled by FactSet had predicted the economy would add 100,000 jobs last month. The unemployment rate was 4.2% in June, down from 4.3% in May.…",
-          "url": "https://www.cbsnews.com/news/june-jobs-report-57000-jobs-hiring-slows/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "U.S. economy adds just 57,000 jobs in June, a worrying sign as wage growth remains slow",
-          "excerpt": "The U.S. economy added just 57,000 jobs in June, a worrying sign for labor market stability as wage growth tracked below inflation for a third consecutive month. In June, average hourly earnings increased by 3.5%, which remains far below the most recent inflation reading of 4.2%. The unemployment rate ticked down to 4.2% from 4.3%.…",
-          "url": "https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Apple’s entry-level MacBook Pro could be up for a redesign",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Apple’s entry-level MacBook Pro could be up for a redesign",
-          "excerpt": "Apple is working on a “revamped” version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on “internal improvements.” Apple’s entry-level MacBook Pro could be up for a redesign The company is also reportedly updating the iPad Pro next year.…",
-          "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-          "excerpt": "Apple reportedly has plans to release several new iPad Pros and a new MacBook Pro in the first half of next year. The company is currently working on four models of the new tablet with faster chips, Bloomberg reported. It is also developing a new “entry-level” MacBook Pro, which is internally referred to as K104, the outlet writes.…",
-          "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Apple is reportedly planning a visual refresh of the entry-level MacBook Pro next year",
-          "excerpt": "Apple is reportedly planning a visual refresh of the entry-level MacBook Pro next year Next spring could be a fiesta of new iPads, MacBooks and iPhones. Mark Gurman is back with a new report in Bloomberg about how Apple's device lineup may be evolving over the next 12 months.…",
-          "url": "https://www.engadget.com/2206465/apple-is-reportedly-planning-a-visual-refresh-of-the-entry-level-macbook-pro-next-year/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Kroger to buy regional grocer Giant Eagle in $1.65 billion deal",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Kroger to buy regional grocer Giant Eagle in $1.65 billion deal",
-          "excerpt": "Kroger said Wednesday it plans to buy regional grocer and pharmacy retailer Giant Eagle in a deal valued at $1.65 billion. Giant Eagle, which is privately held, has 197 supermarkets and 11 stand-alone pharmacies across northern Ohio, western Pennsylvania, West Virginia, Maryland, and Indiana. They would continue to operate under the Giant Eagle name under the terms of the deal.…",
-          "url": "https://www.fastcompany.com/91568399/kroger-giant-eagle"
-        },
-        {
-          "source": "Grocery Dive",
-          "lang": "en",
-          "headline": "Kroger to acquire Giant Eagle for $1.65B",
-          "excerpt": "Dive Brief: - Kroger announced Wednesday that it plans to acquire supermarket chain Giant Eagle for $1.65 billion. - The deal, which the companies expect to close in 2027, includes $1.25 billion in cash plus the assumption of $400 million in liabilities. The grocers expect to make “limited” divestitures of Giant Eagle stores in order to receive regulatory approval.…",
-          "url": "https://www.grocerydive.com/news/kroger-acquiring-giant-eagle-deal/824184/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Kroger Just Struck a $1.65 Billion Deal to Buy a Family-Owned Grocery Chain. Experts Are Already Sounding the Alarm",
-          "excerpt": "The acquisition will hand Kroger control of nearly 200 Giant Eagle supermarkets across the Midwest.",
-          "url": "https://www.inc.com/amaya-nichole/kroger-billion-dollar-deal-to-buy-giant-eagle-experts-sounding-alarm/91368219"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Democratic socialists pose a challenge for the party as midterms approach",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Democratic socialists pose a challenge for the party as midterms approach",
-          "excerpt": "A string of high-profile victories by democratic socialists is posing a challenge for Democrats as they look ahead to midterms and seek a path back to the majority in Congress.",
-          "url": "https://www.npr.org/2026/07/02/nx-s1-5877755/democratic-socialists-pose-a-challenge-for-the-party-as-midterms-approach"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "There’s Nothing Democratic About These Socialists",
-          "excerpt": "There’s Nothing Democratic About These Socialists The DSA was formed in opposition to the very thing it has become. Updated at 1:22 p.m. ET on July 1, 2026 The general idea that Democratic Party loyalists seem to have about members of the Democratic Socialists of America is that they’re a lot like Democrats, but perhaps a bit more passionate.…",
-          "url": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/?utm_source=feed"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
-          "excerpt": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium Late VAR penalty leads to fury as Senegal blows 2-0 lead, loses 3-2 to Belgium in dramatic World Cup round of 32 exit.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/2/controversial-penalty-ends-senegals-fifa-world-cup-run-against-belgium?traffic_source=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "USMNT moves ahead in FIFA World Cup",
-          "excerpt": "Latest U.S. Iran War Heat Wave World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
-          "url": "https://www.cbsnews.com/video/usmnt-moves-on-in-fifa-world-cup/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Explosion in Damascus cafe causes casualties",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Explosion in Damascus cafe causes casualties",
-          "excerpt": "Explosion in Damascus cafe causes casualties Explosion in Damascus cafe causes casualties An explosion inside a cafe in Damascus’s Hejaz district has caused casualties, according to Syrian state media. The cause of the blast is unclear and authorities are investigating. Published On 2 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Bomb blast in central Damascus cafe kills several",
-          "excerpt": "Bomb blast in central Damascus cafe kills several An explosion in a cafe in central Damascus killed five people on Thursday and injured 10, Syrian authorities said. Syrian state television said the blast was caused by an explosive device. An explosion in a central Damascus cafe on Thursday that killed five people and wounded 11 was caused by an explosive device, Syrian state television said.…",
-          "url": "https://www.france24.com/en/middle-east/20260702-bomb-blast-in-central-damascus-cafe-kills-several"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Damascus explosion caused by bomb, state TV says, as death toll climbs to five",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Damascus explosion caused by bomb, state TV says, as death toll climbs to five",
-          "excerpt": "The explosion comes a day after the first parliament since the fall of long-time leader Bashar al-Assad began to take shape. A bomb went off at a cafe in central Damascus on Thursday, killing at least five people and wounding 16, Syrian authorities said. The blast took place near the capital's Palace of Justice, a key government building, sparking scenes of panic in the busy area.…",
-          "url": "http://www.euronews.com/2026/07/02/explosion-heard-in-damascus-syrian-state-tv-reports"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Syria explosion live: Bomb blast kills 5 people in Damascus",
-          "excerpt": "Live updatesLive updates, Syria explosion live: Bomb blast kills 5 people in Damascus Published On 2 Jul 2026 - An explosion rocks a cafe in central Damascus near the Palace of Justice with local media reporting at least five people have been killed in a bomb blast. - Ambulances have been seen weaving their way through traffic with sirens blaring as they headed to the scene.",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "They Welcomed 37 Data Centers to Town. Now Their Schools Have to Dim the Lights to Cut Energy Costs",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "They Welcomed 37 Data Centers to Town. Now Their Schools Have to Dim the Lights to Cut Energy Costs",
-          "excerpt": "Henrico County has been home to massive data-center investment. However, now, a 25 percent electricity-rate increase is hitting its government and schools.",
-          "url": "https://www.inc.com/georgia-fearn/welcomed-37-data-centers-now-schools-dim-lights-cut-energy-costs/91368206"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-          "excerpt": "Google reported that its annual electricity consumption rose by 37 percent in 2025—the largest increase in the company’s history as Silicon Valley’s AI data center buildout continues. But the tech giant says it kept operational carbon emissions down by continuing to purchase massive amounts of clean energy.…",
-          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Venezuela earthquakes death toll spikes, details emerge about U.S. deportees reportedly trapped",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Venezuela earthquakes death toll spikes, details emerge about U.S. deportees reportedly trapped",
-          "excerpt": "Venezuela earthquakes death toll spikes, details emerge about U.S. deportees reportedly trapped The death toll in Venezuela continues to grow as rescue efforts continue, and earthquake survivors seek a way forward. CBS News' Camilo Montoya-Galvez reports.",
-          "url": "https://www.cbsnews.com/video/venezuela-earthquakes-death-toll-spikes-details-emerge-about-us-deportees-reportedly-trapped/"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Venezuela's death toll at least 2,295 as medical crisis widens",
-          "excerpt": "Doctors fear a severe medical crisis in Venezuela following the 24 June earthquakes that killed 2,295 and injured more than 11,000. Thousands of displaced survivors are living in crowded shelters without clean water.",
-          "url": "http://www.euronews.com/2026/07/02/venezuela-death-toll-rises-to-2295-as-medical-crisis-widens"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Fed's Daly Sees Inflation Slowing, Warns of Uncertainties",
+      "headline_en": "Won Jumps as Korea Prepares for Currency Flows From Hynix ADRs",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Fed's Daly Sees Inflation Slowing, Warns of Uncertainties",
-          "excerpt": "Federal Reserve Bank of San Francisco President Mary Daly says inflation should start to slow but the economic outlook remains uncertain during a Bank of Spain event in Santander, Spain. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-02/fed-s-daly-sees-slower-inflation-warns-of-uncertainties-video"
+          "headline": "Won Jumps as Korea Prepares for Currency Flows From Hynix ADRs",
+          "excerpt": "South Korea’s won strengthened after a person familiar with the matter said the nation’s officials were preparing for currency flows related to SK Hynix Inc.’s offering of American depositary receipts.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/korea-said-to-prepare-for-currency-flow-from-sk-hynix-us-listing"
         },
         {
-          "source": "Business Insider",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "This startup wants to turn the world into a searchable video feed, starting in San Francisco",
-          "excerpt": "It sounds like the opening scene of a surveillance thriller: a startup is trying to turn San Francisco into a searchable video feed. Orchestra, a 10-month-old company, has set up more than 100 street-facing cameras across the city, giving it live coverage of areas including SoMa, the Tenderloin, North Beach and the Marina.…",
-          "url": "https://www.businessinsider.com/this-startup-wants-to-make-city-streets-searchable-with-ai-2026-7"
+          "headline": "Won Jumps as Korea Prepares for Currency Flows From Hynix ADRs",
+          "excerpt": "South Korea’s won strengthened after a person familiar with the matter said the nation’s officials were preparing for currency flows related to SK Hynix Inc.’s offering of American depositary receipts.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/korea-said-to-prepare-for-currency-flow-from-sk-hynix-us-listing"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "German prosecutors accuse Kyiv of ordering 2022 Nord Stream sabotage",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "German prosecutors accuse Kyiv of ordering 2022 Nord Stream sabotage",
-          "excerpt": "German prosecutors have accused Ukrainian “state authorities” of ordering the 2022 explosives attack on the Nord Stream gas pipelines linking Russia with Europe, a charge likely to ignite tensions between Kyiv and Berlin, its biggest military backer.…",
-          "url": "https://www.theguardian.com/world/2026/jul/02/german-prosecutors-accuse-kyiv-of-ordering-2022-nord-stream-sabotage"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Nord Stream blast ordered by Ukraine, say German prosecutors",
-          "excerpt": "Nord Stream blast ordered by Ukraine, say German prosecutors July 2, 2026Ukrainian state authorities were behind the 2022 sabotage of the Nord Stream gas pipelines linking Russia with Europe, German prosecutors said on Thursday. In a statement detailing the charges brought against suspect Serhii K.…",
-          "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Amazon is ready to deploy the Leo satellite broadband service",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Amazon is ready to deploy the Leo satellite broadband service",
-          "excerpt": "Amazon is ready to deploy the Leo satellite broadband service Thanks to a recent ULA Atlas V launch, Leo now has enough satellites in space. A United Launch Alliance (ULA) Atlas V rocket left for space in the early hours of July 2, bringing 29 Amazon Leo satellites with it.…",
-          "url": "https://www.engadget.com/2206582/amazon-leo-is-ready-to-go/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Amazon has enough satellites to launch its Starlink competitor",
-          "excerpt": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night’s launch, Amazon Leo has 396 satellites deployed, which is “enough to support continuous service across initial latitudes,” according to Chris Weber, VP heading up business and product for Amazon Leo.…",
-          "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Rivian raises EV sales forecast as Q2 production ramps up",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Rivian raises EV sales forecast as Q2 production ramps up",
-          "excerpt": "Rivian is telling investors that it might see a better sales year than it expected, despite the many headwinds working against electric vehicles in the U.S. right now. Rivian previously said it would ship between 62,000 and 67,000 vehicles this year, but the company now expects to deliver between 65,000 and 70,000 vehicles, the company said on Thursday.…",
-          "url": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Rivian is raising its 2026 delivery forecast",
-          "excerpt": "The EV maker delivered 12,194 vehicles in the second quarter, topping its own forecast of 9,000 to 11,000 units",
-          "url": "https://qz.com/rivian-q2-2026-deliveries-guidance-raised-070226"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "FIFA president reacts as Morocco win World Cup match",
+      "headline_en": "Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "FIFA president reacts as Morocco win World Cup match",
-          "excerpt": "FIFA president reacts as Morocco win World Cup match FIFA president reacts as Morocco win World Cup match This clip of FIFA president Gianni Infantino reacting to Morocco knocking the Netherlands out of the World Cup is prompting discussion online. What do you think his response meant? Published On 2 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/fifa-president-reacts-as-morocco-win-world-cup-match?traffic_source=rss"
+          "headline": "Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto",
+          "excerpt": "Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto Crowds in hundreds of Portugal football fans cheered the star team’s World Cup win after the match that eliminated Croatia with a 2-1.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/hundreds-of-fans-cheer-portugals-win-at-star-teams-residence-in-toronto?traffic_source=rss"
         },
         {
-          "source": "DW English",
+          "source": "Euronews",
           "lang": "en",
-          "headline": "Does football need FIFA and its World Cup?",
-          "excerpt": "Does football need FIFA and its World Cup? July 2, 2026The eyes of the world are, once again, glued to the World Cup. Overwhelmingly, they are on Lionel Messi's goal-scoring record, a Cape Verdean goalkeeper who shot to fame or viral clips of fans. It's a familiar and understandable diversion of attention from the issues that dominated the buildup.…",
-          "url": "https://www.dw.com/en/does-football-need-fifa-and-its-world-cup/a-77677338?maca=en-rss-en-all-1573-rdf"
+          "headline": "Portugal fans celebrate World Cup win over Croatia",
+          "excerpt": "Thousands of Portugal supporters gathered at Lisbon's Terreiro do Paço to watch their national team defeat Croatia 2-1 and book a place in the World Cup last 16. Before kick-off, fans illuminated their phone lights to honour Diogo Jota on the first anniversary of the Portugal forward's death. Cristiano Ronaldo equalised from the penalty spot before Gonçalo Ramos headed in a stoppage-time winner.…",
+          "url": "http://www.euronews.com/video/2026/07/03/portugal-fans-celebrate-world-cup-win-over-croatia"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+          "excerpt": "Ahead of a July 2 deadline to submit public comments, advocates are warning the Federal Trade Commission that it must keep close watch over Elon Musk’s X and firmly reject a recent bid to end the agency’s ongoing audits of the platform’s data handling.…",
+          "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Fed’s Warsh Says Inflation Still Too High, but Now Poses Less Risk",
+          "excerpt": "New Federal Reserve Chair Kevin Warsh said Wednesday that inflation remains too high and emphasized the central bank's commitment to staying independent and reining in price increases, despite pressure from President Trump to cut interest rates.…",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-warsh-says-inflation-still-001207516.html"
         }
       ]
     },
     {
       "category": "📣 Marketing",
-      "headline_en": "Here Are the Key Takeaways From the US Jobs Report for June",
+      "headline_en": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "Wired",
           "lang": "en",
-          "headline": "Here Are the Key Takeaways From the US Jobs Report for June",
-          "excerpt": "Here are the key takeaways from the June US employment report released Thursday:",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-jobs-report-june-2026-key-takeaways-on-employment-payrolls"
+          "headline": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
+          "excerpt": "String bikinis? Check. Extra sunscreen? Check. Walls of cameras so millions of Americans can watch your spicy summer flings happen in real time? Check. Love Island USA, where contestants make out, couple up, and fight while lounging around a neon-colored villa in swimwear, is currently nearing the “climax” of its eighth season.…",
+          "url": "https://www.wired.com/story/love-island-usa-app/"
         },
         {
           "source": "Adweek",
           "lang": "en",
-          "headline": "Sports Fans Want Better Experiences, Not Better Algorithms",
-          "excerpt": "This post was created in partnership with EY Studio+ Key takeaways - Sports organizations are inundated with data, which can fuel fan engagement if used properly. - Sports and marketing leaders need to find the right balance between using data and AI tools and maintaining an emotional connection.…",
-          "url": "https://www.adweek.com/brand-marketing/sports-fans-want-better-experiences-not-better-algorithms/"
+          "headline": "Why Peacock’s Love Island USA Makes a Perfect Partner for Advertisers",
+          "excerpt": "Peacock’s Love Island USA continues to bring the heat in Season 8, and advertisers are feeling the love. Love Island USA ranked as the No. 1 series on streaming during its first two weeks of Season 8, according to Nielsen. It garnered a combined 2.3 billion minutes viewed during the weeks of June 1 and June 8, up 50% from the previous season’s first two weeks.…",
+          "url": "https://www.adweek.com/convergent-tv/peacock-love-island-usa-makes-perfect-partner-advertisers/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "headline_en": "Vatican excommunicates followers of global Catholic sect",
       "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-          "excerpt": "China says pilot crashed small plane into skyscraper for 'personal reasons' - Published The pilot who crashed his small plane into Beijing's tallest skyscraper last week was suffering from \"chronic insomnia and anxiety\" and did so for \"personal reasons\", authorities said Thursday. The crash had killed the pilot, officially identified only by his surname Liu, and wounded 13 others.…",
-          "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss"
+          "headline": "Vatican excommunicates followers of global Catholic sect",
+          "excerpt": "Vatican excommunicates followers of global Catholic sect - Published The Vatican has excommunicated followers of a conservative Catholic splinter sect, the Society of Saint Pius X (SSPX), a day after it consecrated four new bishops against Pope Leo XIV's direct instruction.…",
+          "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "France 24",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Pilot who hit Beijing's tallest tower wrote about 'ending his life', officials say",
-          "excerpt": "Pilot who hit Beijing's tallest tower wrote about 'ending his life', officials say The pilot who flew a small plane into Beijing's tallest building wrote in his diary about “ending his life”, Chinese authorities said Thursday, aiming to end speculation swirling around an incident that raised concerns about aviation security in China's capital.…",
-          "url": "https://www.france24.com/en/asia-pacific/20260702-pilot-who-hit-beijing-tallest-tower-wrote-about-ending-his-life-suicide-officials-say"
+          "headline": "Vatican excommunicates rebel SSPX bishops, followers",
+          "excerpt": "Vatican excommunicates rebel SSPX bishops, followers July 2, 2026The Vatican on Thursday imposed some of the highest penalties available under the Catholic Church's canon law on a breakaway group that consecrated four bishops in defiance of the pope.…",
+          "url": "https://www.dw.com/en/vatican-excommunicates-rebel-sspx-bishops-followers/a-77798543?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Ukraine's attacks forcing 'Russians to realise the war is really happening'",
+      "category": "💡 Tech & AI",
+      "headline_en": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "France 24",
+          "source": "Ars Technica",
           "lang": "en",
-          "headline": "Ukraine's attacks forcing 'Russians to realise the war is really happening'",
-          "excerpt": "Ukraine has stepped up long-range drone attacks inside Russia in recent weeks, targeting energy infrastructure and military targets. Russian officials have reported repeated strikes in border regions, while Moscow has said its air defences had intercepted hundreds of drones from Ukraine in recent days.…",
-          "url": "https://www.france24.com/en/ukraine-s-attacks-forcing-russians-to-realise-the-war-is-really-happening"
+          "headline": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
+          "excerpt": "Back in 2018, Google was handed a record-setting 4.34 billion-euro ($4.9 billion) fine in Europe for abusing its monopoly on Android. The company has spent the intervening years challenging that decision, but the continent’s highest court has put a stop to that. The Court of Justice of the European Union has affirmed the penalty, meaning Google is out of options.…",
+          "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/"
         },
         {
-          "source": "Euronews",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "Russia's petrol crisis worsens as citizens feel the bite of Moscow's war in Ukraine",
-          "excerpt": "A third of Russia's refining capacity has been knocked out by Ukrainian drone attacks, causing petrol shortages across more than half of Russia's regions. Russia's unprecedented months-long petrol crisis has made the consequences of the country’s full-scale invasion of Ukraine palpable for ordinary citizens.…",
-          "url": "http://www.euronews.com/2026/07/02/russias-petrol-crisis-worsens-as-citizens-feel-the-bite-of-moscows-war-in-ukraine"
+          "headline": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
+          "excerpt": "Google loses final appeal over $4.7 billion EU Android antitrust fine The decade-long saga is finally at an end, but Google faces further sanctions in the EU. Europe's highest court of appeal has upheld a record-setting €4.1 billion ($4.67 billion) fine imposed on Google back in 2018 for antitrust violations around its Android operating system.…",
+          "url": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Longer Tesla Model Y L Launches In U.S.",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Longer Tesla Model Y L Launches In U.S.",
+          "excerpt": "A longer version of Model Y has launched in the U.S. The Model Y L (long wheelbase) three-row, 6-seater has arrived. The AWD L “Launch Series” starts at $61,990 and is now the priciest Model Y in the lineup – more than the performance version, which starts at $57,990.…",
+          "url": "https://www.forbes.com/sites/brookecrothers/2026/07/02/longer-tesla-model-y-l-launches-in-us/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag",
+          "excerpt": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag Deliveries will begin in September. Tesla has finally launched the Model Y Long Wheelbase in the US and Puerto Rico and has started taking orders for the variant, almost a year after the company released it in China.…",
+          "url": "https://www.engadget.com/2207503/teslas-model-y-long-wheelbase-comes-to-the-us/"
         }
       ]
     }
