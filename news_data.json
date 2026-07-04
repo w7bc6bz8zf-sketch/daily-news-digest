@@ -1,144 +1,270 @@
 {
-  "collected_at": "2026-07-03T11:55:52.636221+00:00",
+  "collected_at": "2026-07-04T10:44:55.785588+00:00",
   "total_sources": 59,
-  "total_entries": 792,
+  "total_entries": 703,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
-      "coverage": 6,
+      "headline_en": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "coverage": 9,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
-          "excerpt": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
-          "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss"
+          "headline": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+          "excerpt": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding - Published Taylor Swift and Travis Kelce's wedding took over New York City on Friday, as the star-studded ceremony drew dozens of fans outside Madison Square Garden.…",
+          "url": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "France 24",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Fans flock to New York ahead of rumoured Taylor Swift wedding",
-          "excerpt": "Fans of Taylor Swift have been flocking to New York City ahead of the stars marriage to Travis Kelce, which is rumoured to be taking place at Madison Square Garden on Friday.",
-          "url": "https://www.france24.com/en/video/20260703-fans-flock-to-new-york-ahead-of-rumoured-taylor-swift-wedding"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Taylor Swift, Travis Kelce set for star-studded New York wedding",
-          "excerpt": "Taylor Swift, Travis Kelce set for New York wedding July 3, 2026Pop superstar Taylor Swift and American football player Travis Kelce are expected to hold their wedding at Madison Square Garden (MSG) in New York over the coming US Independence Day holiday weekend, according to media reports and city permit documents. The couple, who are both 36, have not publicly confirmed the plans.…",
-          "url": "https://www.dw.com/en/taylor-swift-travis-kelce-set-for-star-studded-new-york-wedding/a-77812947?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Taylor Swift and Travis Kelce wedding festivities begin",
-          "excerpt": "Great Americans: A conversation with Eileen Collins 02:21 Daredevil climbers in court after Empire State Building stunt 01:21 72 million expected in holiday travel crush 01:56 Man fatally shot outside Florida Walmart after dispute over parking space 01:21 Now Playing Taylor Swift and Travis Kelce wedding festivities begin 01:57 UP NEXT Heat emergency forces cities to rework plans for holiday weeke…",
-          "url": "https://www.nbcnews.com/nightly-news/video/taylor-swift-and-travis-kelce-wedding-festivities-begin-266104901826"
+          "headline": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+          "excerpt": "Superfans and sleuths appear to have their hunches confirmed on Friday, as dozens of black cars dropped off elegantly dressed guests outside of Madison Square Garden in New York City. The wedding bash is expected to last into Saturday morning.",
+          "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Wedding festivities kick off for Taylor Swift and Travis Kelce in NYC",
-          "excerpt": "Wedding festivities kick off for Taylor Swift and Travis Kelce in NYC Wedding celebrations are getting underway at Madison Square Garden as pop superstar Taylor Swift and Super Bowl champion Travis Kelce prepare to celebrate their wedding. CBS News' Jo Ling Kent has more.",
-          "url": "https://www.cbsnews.com/video/wedding-festivities-kick-off-taylor-swift-travis-kelce-nyc/"
+          "headline": "Empire State Building lights up for Taylor Swift and Travis Kelce's wedding",
+          "excerpt": "The Empire State Building lit up in blue for Taylor Swift and Travis Kelce's wedding Friday night.",
+          "url": "https://www.cbsnews.com/news/taylor-swift-travis-kelce-wedding-empire-state-building-something-blue/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Taylor Swift and Travis Kelce's Madison Square Garden wedding: Everything we know",
+          "excerpt": "It looks like Taylor Swift and Travis Kelce said \"I do\" this weekend in the middle of Manhattan. The Asocciated Press reports that Swift and Kelce married at Madison Square Garden on Friday, surrounded by hundreds (or perhaps thousands) of their closest friends, family, and fans. Welcome to New York, indeed.…",
+          "url": "https://www.businessinsider.com/taylor-swift-travis-kelce-wedding-details-date-location-guest-list-2026-6"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Taylor Swift, Travis Kelce wed in ceremony officiated by Adam Sandler",
+          "excerpt": "The couple first announced their engagement in August 2025.",
+          "url": "https://abcnews.com/GMA/Culture/taylor-swift-travis-kelces-2nd-wedding-event-expected/story?id=134426168"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Iran begins public mourning for Ayatollah killed in February",
-      "coverage": 6,
+      "headline_en": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "coverage": 8,
       "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Iran begins public mourning for Ayatollah killed in February",
-          "excerpt": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
-        },
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
-          "excerpt": "In the small hours of Friday the police roadblocks, stalls, posters and army vans were starting to appear across Tehran as millions of Iranians prepared to attend the long-delayed six-day funeral ceremony for Ali Khamenei’s, Iran’s supreme leader for 36 turbulent years.…",
-          "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran"
+          "headline": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+          "excerpt": "The funeral of the former Iranian supreme leader has begun as the gates of the sprawling Grand Mosalla mosque in central Tehran let in thousands of mourners who had been waiting through the night to enter the grounds. Iran is staging mass funeral processions for Ali Khamenei – whose 37-year reign was brought to an end in February by the first airstrike of the war launched by the US and Israel.…",
+          "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei"
         },
         {
-          "source": "NBC News",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Preparations Underway for Funeral of Iran’s Supreme Leader",
-          "excerpt": "Record-Setting July 4 Weekend Travel Underway: What to Expect 01:45 Heat, Storm Threat Could Dampen July 4 Plans Across US 04:21 Sony to End Physical Disc Production for PlayStation in 2028 00:25 Victor Willis, Lead Singer of The Village People, Dies at 74 02:22 Navy Crew Member Missing After Helicopter Crash in Arabian Sea 00:26 Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00…",
-          "url": "https://www.today.com/video/preparations-underway-for-funeral-of-iran-s-supreme-leader-266128965961"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
-          "excerpt": "Khamenei’s coffin readied as Iran prepares for seven-day funeral Khamenei’s coffin readied as Iran prepares for seven-day funeral Iran has begun the funeral processions for former Supreme Leader Ali Khamenei. Seven days of events will officially begin in Tehran, with the coffin travelling through the country before his burial in his hometown of Mashhad on July 9. Published On 3 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "India news: Indian delegation leaves for Khamenei's funeral",
-          "excerpt": "A team of Indian delegates has left for Iran to attend the state funeral of Iran's former supreme leader Ayatollah Ali ​Khamenei. Follow DW for more.",
-          "url": "https://www.dw.com/en/india-news-indian-delegation-leaves-for-khamenei-s-funeral/live-77814828?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Venezuela leader rejects criticism for earthquake response",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Venezuela leader rejects criticism for earthquake response",
-          "excerpt": "Venezuela leader rejects criticism for earthquake response July 3, 2026On Thursday, Venezuela's acting president, Delcy Rodríguez, strongly defended her government's response to the twin earthquakes that have devastated parts of the oil-rich country. \"We did not wait one day, two days or three days. We activated immediately,\" Rodríguez told foreign journalists a week after the earthquakes struck.…",
-          "url": "https://www.dw.com/en/venezuela-leader-rejects-criticism-for-earthquake-response/a-77812839?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Venezuelan leader hits out at 'disgraceful' misinformation over earthquake response",
-          "excerpt": "Venezuela's US-backed acting president Delcy Rodriguez has issued a fiery defence of her government's response to last week's devastating earthquakes - which has claimed the lives of 2,595 people.",
-          "url": "https://news.sky.com/story/venezuelas-interim-president-delcy-rodriguez-defends-earthquake-response-as-more-than-2500-confirmed-dead-13560045"
+          "headline": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+          "excerpt": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
+          "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "Rescue teams in Venezuela cling to hope as president defends response",
-          "excerpt": "Rescuers are continuing to dig through rubble in a search for survivors across Venezuela even as the hope of finding anyone alive eight days after two huge earthquakes struck the country become increasingly slim.…",
-          "url": "https://www.france24.com/en/video/20260703-rescue-teams-in-venezuela-cling-to-hope-as-president-defends-response"
+          "headline": "15 million people expected to attend former supreme leader's funeral",
+          "excerpt": "Mourners thronged a vast prayer complex in ​Tehran on Saturday as the week-long funeral ceremonies of Iranian Supreme Leader Ayatollah Ali Khamenei began with the national anthem, religious eulogies and readings from the Koran.…",
+          "url": "https://www.france24.com/en/15-million-people-expected-to-attend-former-supreme-leader-s-funeral"
         },
         {
-          "source": "Euronews",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Venezuela's interim leader defends earthquake response as death toll tops 2,500",
-          "excerpt": "Delcy Rodríguez has hit back at criticism over her government’s response to the quakes, rejecting accusations of slow rescue efforts and claims that official casualty figures have been under-reported. Venezuela's acting president, Delcy Rodríguez, has defended her government's response to the two devastating 24 June earthquakes.…",
-          "url": "http://www.euronews.com/2026/07/03/venezuelas-interim-leader-defends-earthquake-response-as-death-toll-tops-2500"
+          "headline": "Mourners chant for revenge as dayslong funeral of Iran's slain leader begins",
+          "excerpt": "U.S.-Iran Latest: Mourners chant for revenge as Iran begins dayslong funeral of slain supreme leader What to know about the Iran war today: - Iran on Saturday officially began several days of public funeral ceremonies for slain Supreme Leader Ayatollah Ali Khamenei.…",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+          "excerpt": "Thousands gather as Khamenei funeral ceremonies open in Tehran Thousands gather as Khamenei funeral ceremonies open in Tehran Thousands of mourners attended the public grand procession of Iran’s late Supreme Leader Ayatollah Ali Khamenei in Tehran.Top Iranian officials and foreign dignitaries are also paying their respects. Published On 4 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "headline_en": "Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US",
+          "excerpt": "President kicked off 250th anniversary events with a preview of a likely line of attack against Democrats in coming elections",
+          "url": "https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump posts video of himself on Mount Rushmore ahead of remarks at the site",
+          "excerpt": "Trump posts video of himself on Mount Rushmore ahead of remarks at the national memorial Trump delivered remarks at the famed national memorial on Friday night. President Donald Trump kicked off a weekend of celebrations for America's 250th birthday with a speech at Mount Rushmore on Friday.…",
+          "url": "https://abcnews.com/Politics/trump-heads-mount-rushmore-kick-off-america-250/story?id=134443201"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump warns of communist ‘threat’ and touts America’s strength at Mount Rushmore",
+          "excerpt": "KEYSTONE, S.D. — On the eve of the 250th anniversary of America’s independence, President Donald Trump spoke at Mt.…",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-speak-mount-rushmore-one-monument-cant-remake-rcna352734"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump warns of \"communist menace\" in July 4th speech",
+          "excerpt": "Trump warns of \"communist menace\" in July Fourth speech at Mount Rushmore President Trump kicked off the 250th anniversary celebrations of July 4th with a patriotic speech at Mount Rushmore extolling American culture and warning of a resurgence of the \"communist menace.\" Set against the backdrop of the granite faces of four of his predecessors, Mr.…",
+          "url": "https://www.cbsnews.com/news/trump-mount-rushmore-speech-july-4-communism/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Trump praises army, rails against communism in US 250th anniversary speech",
+          "excerpt": "At Mount Rushmore Trump warns of &#039;communist menace&#039;, ties rhetoric to immigration ahead of November midterms.",
+          "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
       "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
-          "excerpt": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack - Published A Ukrainian woman has been identified as the main suspect for a parcel bombing in Monaco that seriously wounded a sanctioned Ukrainian multi-millionaire and two others.…",
+          "headline": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+          "excerpt": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler - Published Taylor Swift and Travis Kelce have officially tied the knot at New York's Madison Square Garden, in a star-studded ceremony officiated by actor Adam Sandler. The pair wore Christian Dior, Swift's publicist said, and did not have bridesmaids and groomsmen.…",
+          "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Taylor Swift, Travis Kelce tie knot in star-studded ceremony",
+          "excerpt": "Taylor Swift, Travis Kelce tie knot in star-studded ceremony July 4, 2026Pop superstar Taylor Swift and American football player Travis Kelce are holding their wedding at Madison Square Garden (MSG) in New York on Friday. A spokesperson confirmed to news agencies that the 36-year-old pair was officially married. \"Taylor & Travis did not have bridesmaids or groomsmen.…",
+          "url": "https://www.dw.com/en/taylor-swift-travis-kelce-tie-knot-in-star-studded-ceremony/a-77812947?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Taylor Swift and Travis Kelce officially married",
+          "excerpt": "Latest U.S. Iran War America 250 World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia …",
+          "url": "https://www.cbsnews.com/video/taylor-swift-travis-kelce-married/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "It's a cruel summer heatwave: Taylor Swift and Travis Kelce wedding attracts small crowds as NYC temps spike",
+          "excerpt": "When Taylor Swift and Travis Kelce planned a Madison Square Garden wedding, they probably knew it would be a hot ticket — but they might not have realized it would be this hot. The few fans who gathered outside the Manhattan venue Friday afternoon as temperatures hit 97 degrees appeared vastly outnumbered by journalists eager for an interview or a celebrity sighting.…",
+          "url": "https://www.businessinsider.com/taylor-swift-travis-kelce-wedding-fans-msg-heat-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
+          "excerpt": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
+          "url": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Key takeaways from Round of 32 stage at World Cup 2026",
+          "excerpt": "Key takeaways from Round of 32 stage at World Cup 2026 A thrilling Golden Boot race hots up, France in scintillating form, and Messi and Argentina squeak past Cape Verde. The World Cup, in case we needed reminding, doesn’t truly get going until the knockout rounds. No making up for an off day. No second chances. Crank up the intensity.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/4/key-takeaways-from-round-of-32-stage-at-world-cup-2026?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "World Cup 2026: Argentina survive epic Cape Verde scare after extra-time thriller",
+          "excerpt": "World Cup 2026: Argentina survive epic Cape Verde scare after extra-time thriller Argentina eliminated a heroic Cape Verde side 3-2 in an extraordinary Round of 32 encounter at Miami after a pulsating extra-time period that tested the defending champions to their limit.…",
+          "url": "https://www.france24.com/en/sport/20260704-world-cup-2026-argentina-survive-epic-cape-verde-scare-after-extra-time-thriller"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Should You Buy Rocket Lab Stock Right Now?",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Should You Buy Rocket Lab Stock Right Now?",
+          "excerpt": "Rocket Lab (NASDAQ: RKLB) is a leading player in the space tech industry, and its share price has seen strong bullish momentum over the last year as interest in the category has swelled, the business has delivered strong quarterly results, and it has inked new partnerships and contracts.…",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-rocket-lab-stock-now-092200348.html"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+          "excerpt": "Welcome to Edition 9.01 of the Rocket Report! Back in January, I wrote about the 20 launches and landings we were most excited about in 2026. The list included things that were, at the time, officially scheduled to occur this year. I also gave my own view of the probability of each of these events actually happening before December 31.…",
+          "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Private space pilots are flying orbital missions for the US Space Force",
+          "excerpt": "Militaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasingly seen by the U.S. military as a challenge best handled by the private sector. That’s why two space startups, True Anomaly and Rocket Lab, completed a rendezvous mission for the U.S.…",
+          "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Oil Terminal in Russia’s St. Petersburg Comes Under Attack",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Oil Terminal in Russia’s St. Petersburg Comes Under Attack",
+          "excerpt": "Kyiv’s forces attacked an oil terminal in St. Petersburg, Russia’s second largest city, with drones overnight, local officials said, while Ukraine said a gas production facility was struck by Russia.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+          "excerpt": "Ukraine hits oil and military facilities near Russia’s St Petersburg Kyiv’s drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.…",
+          "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+          "excerpt": "Ukraine strikes oil terminals near St. Petersburg in Russia July 4, 2026Ukrainian drones on Saturday struck Russian oil facilities on the Baltic Sea nearSt. Petersburg, according to the local governor. St. Petersburg Governor Alexander Beglov said Russia's second-largest city had come under a \"large-scale\" drone attack, but there were no casualties.…",
+          "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+          "excerpt": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man' - Published A Ukrainian woman identified as the main suspect for a parcel bombing in Monaco was \"disguised as a man\", according to the city-state's deputy prosecutor.…",
           "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Ukrainian woman suspected in Monaco parcel bombing ‘disguised herself as man’",
+          "headline": "Ukrainian woman suspected of Monaco parcel bombing was ‘disguised as a man’",
           "excerpt": "The main suspect in a Monaco bomb attack this week that seriously injured a Ukraine-born business tycoon and two of his family members is a Ukrainian woman living in Germany who disguised herself as a man, authorities have said.…",
           "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch"
         },
@@ -148,98 +274,42 @@
           "headline": "Woman wanted over Monaco bombing 'that targeted Ukrainian tycoon' is named",
           "excerpt": "Interpol has named a woman who is wanted over a bombing in Monaco which reportedly targeted a Ukrainian tycoon with links to Russia.",
           "url": "https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Monaco IDs suspect in bomb attack on Ukrainian oligarch",
-          "excerpt": "Monaco IDs suspect in bomb attack on Ukrainian oligarch July 3, 2026Monaco authorities have issued an Interpol Red Notice for a Ukrainian woman believed to have carried out a parcel bombing earlier this week that seriously wounded a Ukrainian-born oligarch and two others, including a 13-year-old. An Interpol Red Notice is a request to locate and provisionally arrest a suspect.…",
-          "url": "https://www.dw.com/en/monaco-ids-suspect-in-bomb-attack-on-ukrainian-oligarch/a-77814163?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Jersey Mike's files for IPO, plans NYSE listing under ticker JMKE",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Jersey Mike's files for IPO, plans NYSE listing under ticker JMKE",
-          "excerpt": "The sandwich chain reported net income of $55 million on revenue of $724 million in 2025, up sharply from the year before",
-          "url": "https://qz.com/jersey-mikes-ipo-filing-nyse-jmke-070226"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-          "excerpt": "I can’t tell the exact tipping point from realistic excitement over a new technology, to hype, to aww-come-on — but I’m pretty sure when a sandwich shop with Danny DeVito as its public face talks about AI in its IPO documents, we must be getting close. So it is with Jersey Mike’s.…",
-          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
-          "excerpt": "Sandwich chain Jersey Mike's filed for an initial public offering on Thursday, reporting that its same-store sales cumulatively climbed 50% from 2020 through 2025.…",
-          "url": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "As Other Sandwich Chains Struggle, Jersey Mike’s Makes a Major IPO Move",
-          "excerpt": "After decades as a privately held franchise, Jersey Mike’s is opening itself up to public investors for the first time.",
-          "url": "https://www.inc.com/amaya-nichole/jersey-mikes-files-for-ipo/91369228"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-          "excerpt": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool - Published A former US Olympian has been charged with vandalising the Lincoln Memorial Reflecting Pool in Washington, DC. Authorities say David \"Davey\" Hearn, 67, a three-time Olympic canoeist, was seen reaching into the water last month after renovations to the pool.…",
-          "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Olympian indicted for vandalizing Reflecting Pool",
-          "excerpt": "Former Olympic canoeist David Hearn was indicted Thursday for destroying property after he allegedly reached into Washington D.C.'s Lincoln Memorial Reflecting Pool , per a bench warrant reviewed by Axios.…",
-          "url": "https://www.axios.com/2026/07/02/olympian-indicted-for-allegedly-vandalizing-reflecting-pool"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Former Olympian indicted on felony charge over alleged Reflecting Pool vandalism",
-          "excerpt": "District of Columbia US Attorney Jeanine Pirro said David Hearn ripped up recently installed sealant on pool in “a deliberate act” that caused more than €875 in damage. A former Olympian was indicted on Thursday on a felony charge in what President Donald Trump has called vandalism of the Lincoln Memorial Reflecting Pool in Washington.…",
-          "url": "http://www.euronews.com/2026/07/02/former-olympian-indicted-on-felony-charge-over-alleged-reflecting-pool-vandalism"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Olympian David Hearn indicted in Reflecting Pool destruction of property case",
-          "excerpt": "U.S. Olympian canoeist David Hearn was indicted by a grand jury in Washington, D.C., for destruction of property in connection with allegedly ripping up sealant in the Lincoln Memorial Reflecting Pool, U.S. Attorney Jeanine Pirro said Thursday.…",
-          "url": "https://www.cnbc.com/2026/07/02/reflecting-pool-indictment-david-hearn-destruction-pirro.html"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Spyware used against MEP investigating Pegasus abuses, report finds",
-      "coverage": 4,
+      "headline_en": "Nasa launches mission to save falling space telescope",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "The Guardian",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Spyware used against MEP investigating Pegasus abuses, report finds",
-          "excerpt": "NSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conducting an investigation of spyware abuses in Europe, according to a new report. Researchers at the Citizen Lab at the University of Toronto said they could not attribute the attacks against Stelios Kouloglou to any particular government operator of Pegasus spyware.…",
-          "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds"
+          "headline": "Nasa launches mission to save falling space telescope",
+          "excerpt": "Nasa launches mission to save falling space telescope - Published A Nasa-funded spacecraft has been sent into space to catch a falling telescope. The Swift observatory detects some of the most powerful explosions in the Universe - but is at risk of crashing back to Earth in the coming months.…",
+          "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "NASA launches spacecraft to recover sinking telescope",
+          "excerpt": "NASA launches spacecraft to recover sinking telescope July 3, 2026A recovery mission to rescue NASA's telescope Swift Observatory launched on Friday, with a three-armed spacecraft successfully rocketing into orbit from the Marshall Islands in the Pacific Ocean. The Swift telescope satellite is 1.6 tons (1.4 metric tons) and circling 224 miles (360 kilometers) above Earth.…",
+          "url": "https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Mission launched to rescue a falling space telescope",
+          "excerpt": "Mission launched to save falling Swift space telescope In a low-cost, high-risk gamble, a small company in partnership with NASA and Northrop Grumman launched an experimental space tug Friday to hunt down and grab a falling space telescope that otherwise would plunge back to Earth and burn up by year's end.…",
+          "url": "https://www.cbsnews.com/news/nasa-mission-rescue-falling-swift-telescope/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
+      "coverage": 3,
+      "perspectives": [
         {
           "source": "Wired",
           "lang": "en",
@@ -248,11 +318,11 @@
           "url": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/"
         },
         {
-          "source": "Al Jazeera",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
-          "excerpt": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds. A former member of the European Parliament was hacked with Pegasus spyware while serving on a committee investigating surveillance by the tool’s Israeli creator, a Canadian research group has found.…",
-          "url": "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss"
+          "headline": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+          "excerpt": "Security researchers have confirmed that a European politician had his phone hacked with the Pegasus spyware while serving on an investigatory committee probing abuses of the notorious surveillance tool. This has reignited fresh controversy over governments abusing spyware to collect information about their critics.…",
+          "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/"
         },
         {
           "source": "Bloomberg Tech",
@@ -264,51 +334,394 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
-      "coverage": 4,
+      "category": "💼 Business",
+      "headline_en": "The AI boom that would make AI data centers in space necessary may not last",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Quartz",
           "lang": "en",
-          "headline": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
-          "excerpt": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan - Published At least 32 people were killed and 16 others injured after an overcrowded passenger bus plunged into a ravine in south-western Pakistan.…",
-          "url": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss"
+          "headline": "The AI boom that would make AI data centers in space necessary may not last",
+          "excerpt": "AI infrastructure spending has never been larger. Efficiency gains are eroding the demand assumptions that make orbital data centers worth building",
+          "url": "https://qz.com/ai-compute-demand-space-data-centers-economics-061526"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Time",
           "lang": "en",
-          "headline": "At least 40 killed in passenger bus crash in southwest Pakistan",
-          "excerpt": "At least 40 killed in passenger bus crash in southwest Pakistan Bus loses control and falls into rocky ravine near border of Balochistan and Khyber Pakhtunkhwa, officials say. A bus has plunged from a highway into a ravine in southwestern Pakistan, killing 40 people, officials say.…",
-          "url": "https://www.aljazeera.com/news/2026/7/3/at-least-40-killed-in-passenger-bus-crash-in-southwest-pakistan?traffic_source=rss"
-        },
+          "headline": "How to Make AI Data Centers More Sustainable",
+          "excerpt": "As an AI researcher studying the environmental impacts of this technology, every time I tell someone what I do for a living, I wince a little, expecting to hear a strong opinion about AI’s rapid expansion.…",
+          "url": "https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "40 killed when speeding, overcrowded bus tumbles into Pakistan ravine, officials say",
-          "excerpt": "40 killed when speeding, overcrowded bus tumbles into Pakistan ravine, officials say Quetta, Pakistan — A speeding, overcrowded passenger bus plunged from a highway into a rocky ravine in southwestern Pakistan early Friday, killing 40 people and injuring eight others in one of the deadliest road accidents in recent years, officials said.…",
-          "url": "https://www.cbsnews.com/news/pakistan-bus-crash-40-dead-ravine/"
+          "headline": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
+          "excerpt": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\" President Trump on Friday announced pardons for six people whom he said had been wrongfully prosecuted for \"fixing their car\" in what he called an act of \"weaponization and stupidity\" by federal prosecutors. \"I AM SETTING THEM ALL FREE, RIGHT NOW!,\" Trump wrote in a post on Truth Social.…",
+          "url": "https://www.cbsnews.com/news/trump-announces-pardons-pollution-violators-fixing-their-car/"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Pakistan: Bus crashes into ravine, killing at least 40",
-          "excerpt": "Pakistan: Bus crashes into ravine, killing at least 40 July 3, 2026At least 40 people were killed and eight others injured after a passenger bus plunged into a deep ravine in Pakistan's southwestern Balochistan province on Friday, officials said. According to police, the overcrowded bus was likely speeding. An investigation has been launched to determine the exact cause of the crash.…",
-          "url": "https://www.dw.com/en/pakistan-bus-crashes-into-ravine-killing-at-least-40/a-77814864?maca=en-rss-en-all-1573-rdf"
+          "headline": "US: President Trump pardons 11 people, including Clean Air Act violators",
+          "excerpt": "US: President Trump pardons 11 people July 4, 2026US President Donald Trump on Friday issued pardons for a total of 11 people, including 9 individuals convicted of violating the Clean Air Act by circumventing emission controls on vehicles. Those pardoned also included a former business partner of disgraced Washington lobbyist Jack Abramoff.…",
+          "url": "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss",
+          "excerpt": "Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss The tiny island nation’s colossal performance against reigning world champions leaves supporters feeling incredibly proud.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/4/cape-verde-fans-overjoyed-with-teams-world-cup-run-despite-argentina-loss?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Cape Verde fans stand proud despite Argentina defeat",
+          "excerpt": "Cape Verde fans gathered for a public screening in the capital, Praia, to cheer on their team despite a dramatic 3-2 extra-time defeat to Argentina in the World Cup. Supporters said simply reaching the tournament and pushing the defending champions to the limit was a remarkable achievement for the island nation.…",
+          "url": "http://www.euronews.com/video/2026/07/04/cape-verde-fans-stand-proud-despite-argentina-defeat"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Bus plunges into ravine, killing 40",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Bus plunges into ravine, killing 40",
+          "excerpt": "Forty people have died after an overcrowded passenger bus plunged into a ravine in Pakistan.",
+          "url": "https://news.sky.com/story/bus-plunges-into-ravine-in-pakistan-killing-40-13560085"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Overcrowded bus plunges into ravine in southwest Pakistan, killing 40 passengers",
+          "excerpt": "Pakistan’s President Asif Ali Zardari expressed sorrow over the crash, offered condolences to the families of those killed and wished the injured a speedy recovery.…",
+          "url": "http://www.euronews.com/2026/07/03/overcrowded-bus-plunges-into-ravine-in-southwest-pakistan-killing-40-passengers"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump calls communism a ‘mortal threat’ at US 250th birthday event",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Trump calls communism a ‘mortal threat’ at US 250th birthday event",
+          "excerpt": "Trump calls communism a ‘mortal threat’ at US 250th birthday event Trump calls communism a ‘mortal threat’ at US 250th birthday event US President Donald Trump delivers a nationalist speech saying ‘communism is a mortal threat to American liberty’ ahead of July 4th celebrations. At an event before the Mt.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Trump warns of communist threat as Washington parade cancelled",
+          "excerpt": "\"Communism is a mortal threat to American liberty,\" Trump said during a speech. \"It is the greatest threat to our country\". The US will celebrate the 250th anniversary of American independence on Saturday against a backdrop of political polarisation and a brutal heatwave that's sweeping across parts of the nation.…",
+          "url": "http://www.euronews.com/2026/07/04/trump-warns-of-communist-threat-as-washington-parade-cancelled"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "What J. D. Vance Once Knew",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "What J. D. Vance Once Knew",
+          "excerpt": "What J. D. Vance Once Knew Ten years ago, the vice president wrote that one day, voters would realize the truth about Donald Trump. That day has now arrived. TEN YEARS AGO TODAY, in the middle of the presidential campaign, an essay in The Atlantic set out to explain the appeal of Donald Trump.…",
+          "url": "https://www.theatlantic.com/ideas/2026/07/jd-vance-trump-independence-day/687779/?utm_source=feed"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Trump marks US 250th celebration with speech and Mount Rushmore flyover",
+          "excerpt": "US President Donald ​Trump called on Americans to protect the freedoms the nation's founders envisioned 250 years ago against what he has portrayed as the \"communist\" threat posed by progressive Democrats, speaking on the eve of Independence Day at Mount Rushmore.",
+          "url": "https://www.france24.com/en/trump-marks-us-250th-celebration-with-speech-and-mount-rushmore-flyover"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+          "excerpt": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote - Published Right-wing candidate Keiko Fujimori has been declared the winner of Peru's tight presidential election, nearly a month after the vote took place.…",
+          "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Conservative candidate Keiko Fujimori wins Peru's presidential election in runoff",
+          "excerpt": "Voters were primarily concerned with increasing levels of crime, especially extortion by violent organized crime gangs, and Fujimori pledged to combat crime with an iron fist. Conservative politician Keiko Fujimori was declared the winner of the presidential runoff election in Peru on Friday, which was dominated by people’s concerns over surging crime.…",
+          "url": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Pope calls for 'moderation' in US public discourse on 250th anniversary of independence",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Pope calls for 'moderation' in US public discourse on 250th anniversary of independence",
+          "excerpt": "Pope calls for 'moderation' in US public discourse on 250th anniversary of independence Pope Leo, the first US-born pontiff, called for \"moderation\" in US public discourse and called on Americans to find \"common ground\" in a speech on Friday that coincided with the 250th anniversary of US independence.…",
+          "url": "https://www.france24.com/en/americas/20260703-pope-calls-for-moderation-in-us-public-discourse-on-250th-anniversary-of-independence"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Pope Leo defends US immigrant history at 250th anniversary",
+          "excerpt": "Pope Leo defends US immigrant history at 250th anniversary July 3, 2026Pope Leo XIV defended the history of the United States as that of a nation of immigrants while at an event ahead of the country's 250th birthday. The US will mark July 4, celebrating the day in 1776 when the US ratified its Declaration of Independence from Britain.…",
+          "url": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Venezuela's interim leader defends earthquake response as death toll tops 2,500",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Venezuela's interim leader defends earthquake response as death toll tops 2,500",
+          "excerpt": "Delcy Rodríguez has hit back at criticism over her government’s response to the quakes, rejecting accusations of slow rescue efforts and claims that official casualty figures have been under-reported. Venezuela's acting president, Delcy Rodríguez, has defended her government's response to the two devastating 24 June earthquakes.…",
+          "url": "http://www.euronews.com/2026/07/03/venezuelas-interim-leader-defends-earthquake-response-as-death-toll-tops-2500"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Venezuelan leader hits out at 'disgraceful' misinformation over earthquake response",
+          "excerpt": "Venezuela's US-backed acting president Delcy Rodriguez has issued a fiery defence of her government's response to last week's devastating earthquakes - which has claimed the lives of 2,645 people.",
+          "url": "https://news.sky.com/story/venezuelas-interim-president-delcy-rodriguez-defends-earthquake-response-as-more-than-2500-confirmed-dead-13560045"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "China Urges ‘Unimpeded Passage’ of Hormuz as Fee Chatter Mounts",
-      "coverage": 3,
+      "headline_en": "Extreme heat wave threatens U.S. power grids and July 4 travel",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "China Urges ‘Unimpeded Passage’ of Hormuz as Fee Chatter Mounts",
-          "excerpt": "China called for the unhindered flow of shipping through the Strait of Hormuz, comments that come as leading European powers are apparently accepting that vessels will have to pay fees to Iran and Oman.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/china-urges-unimpeded-passage-of-hormuz-as-fee-chatter-mounts"
+          "headline": "Extreme heat wave threatens U.S. power grids and July 4 travel",
+          "excerpt": "A prolonged and dangerous period of extreme heat across the central and eastern U.S. is poised to continue into the Independence Day weekend, exposing pressure points for power markets and tavel. Temperatures of up to 105 degrees Fahrenheit (40.5 degrees Celsius) are expected, according to the National Weather Service, with some daily, monthly and all-time records possible.…",
+          "url": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Heat wave upends July Fourth celebrations across US",
+          "excerpt": "Heat wave upends July Fourth celebrations across US July 4, 2026A dangerous heat wave disrupted July Fourth celebrations on Friday as searing temperatures scorched the eastern United States. Across the country, \"numerous daily temperature records are expected today and Independence Day, with some consecutive-day, monthly, and all-time records possible,\" the National Weather Service said.…",
+          "url": "https://www.dw.com/en/heat-wave-upends-july-fourth-celebrations-across-us/a-77827949?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
+          "excerpt": "Spot gold prices rose by 1.4% on Friday morning, putting the precious metal on track for its first weekly gain in five weeks after coming under sustained pressure this year. By 4:30 a.m. ET, spot gold was trading at around $4,182.28 an ounce and on course for a 2.3% weekly gain – which would be its first weekly rise since late May. Front-month U.S.…",
+          "url": "https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Dollar heads for biggest weekly drop since April as jobs data dims Fed hike bets",
+          "excerpt": "By Samuel Indyk and Jiaxing Li LONDON, July 3 (Reuters) - The U.S. dollar fell towards its biggest weekly loss in 12 weeks on Friday after a tepid U.S. jobs report cooled market expectations for a near-term Federal Reserve interest rate hike, providing some relief for the embattled Japanese yen.…",
+          "url": "https://finance.yahoo.com/news/dollar-heads-weekly-drop-jobs-015041368.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "At 250, America is still deciding who belongs",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "At 250, America is still deciding who belongs",
+          "excerpt": "At 250, America is still deciding who belongs Birthright citizenship survived, but the fight over who is fully recognised as American is far from over. Last week, days before the nation’s 250-year anniversary, the United States Supreme Court reaffirmed the constitutional right to citizenship to nearly everyone born in the US.…",
+          "url": "https://www.aljazeera.com/opinions/2026/7/4/at-250-america-is-still-deciding-who-belongs?traffic_source=rss"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "These Justices Are Not Impartial",
+          "excerpt": "These Justices Are Not Impartial Why such a slim Supreme Court majority upheld birthright citizenship In 1898, the same Supreme Court that upheld Jim Crow segregation as constitutional also upheld the Fourteenth Amendment’s guarantee of birthright citizenship, by a 6–2 vote.…",
+          "url": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-dissents/687799/?utm_source=feed"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Foreign rescue workers help with recovering Venezuela's quake victims",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Foreign rescue workers help with recovering Venezuela's quake victims",
+          "excerpt": "With little hope of finding loved ones alive, frustrated families of those affected by Venezuela's double earthquakes clamored for help to recover their loved one's bodies Friday as uncertainty grew over the death toll from the tragedy.…",
+          "url": "https://www.france24.com/en/foreign-rescue-workers-help-with-recovering-venezuela-s-quake-victims"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Venezuela quake toll climbs to 2,595 as damage estimates mount after strongest tremor in a century",
+          "excerpt": "The death toll from twin earthquakes that struck Venezuela rose to 2,595, Acting President Delcy Rodríguez said Friday, an increase of 300 from the previous day, as rescue operations continued for more than a week after the country's strongest tremors in over a century.…",
+          "url": "https://www.cnbc.com/2026/07/03/venezuela-earthquakes-death-toll-rises-rescue-efforts-continue.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Hydration Breaks At 2026 World Cup Raise Controversy For FIFA",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Hydration Breaks At 2026 World Cup Raise Controversy For FIFA",
+          "excerpt": "You could call this a heat of the moment decision by FIFA—mandating for the first time these three-minute hydration breaks that you are now seeing during each half of the 2026 FIFA World Cup matches. After all, if you haven’t noticed yet, a lot of the U.S.…",
+          "url": "https://www.forbes.com/sites/brucelee/2026/07/03/hydration-breaks-at-2026-world-cup-raise-controversy-for-fifa/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "These 5 charts show just how unaffordable the 2026 World Cup is for fans",
+          "excerpt": "Tickets for the World Cup were up to seven times as expensive as organizers first said, and compared to previous tournaments. Business Insider analyzed ticket prices, economic data, transit fares, and other travel costs to create five charts that show how expensive it is to attend the World Cup.…",
+          "url": "https://www.businessinsider.com/world-cup-so-expensive-5-charts-ticket-prices-hotels-flights-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Alex Karp says something has 'gone completely wrong' with how OpenAI and Anthropic charge for AI",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Alex Karp says something has 'gone completely wrong' with how OpenAI and Anthropic charge for AI",
+          "excerpt": "The Palantir CEO said the token-based model has left enterprise customers frustrated and empty-handed",
+          "url": "https://qz.com/palantir-karp-openai-anthropic-token-pricing-enterprises-070126"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "From secluded estates to a former monastery, take a look at Palantir CEO Alex Karp's lavish properties",
+          "excerpt": "Tech moguls have been snapping up residential real estate like they're collecting Infinity Stones. Among them is Alex Karp, cofounder and CEO of data-mining giant Palantir Technologies.…",
+          "url": "https://www.businessinsider.com/palantir-ceo-alex-karp-homes-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Record heat disrupts America’s 250th birthday celebrations and travel",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Record heat disrupts America’s 250th birthday celebrations and travel",
+          "excerpt": "A record-setting heat wave is blanketing much of the U.S. as millions of Americans gather for Independence Day, prompting the cancellation of events marking America’s 250th birthday. More than 110 million people are under extreme heat risk, according to the National Weather Service, while more than 150 million remain under heat alerts stretching from Kansas to Maine.…",
+          "url": "https://www.nbcnews.com/weather/heat/heat-wave-july-4-celebrations-rcna352896"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "July 4th celebrations mark America's 250th birthday. Follow live updates.",
+          "excerpt": "July 4th live updates as celebrations across the USA mark America's 250th birthday What to know about July 4th celebrations and America 250: - Historic celebrations are taking place across the United States this Fourth of July as Americans mark 250 years of independence.…",
+          "url": "https://www.cbsnews.com/live-updates/july-4th-america-250-birthday/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Amazon's Fire HD 10 tablet just got a refresh with a bit more RAM",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Amazon's Fire HD 10 tablet just got a refresh with a bit more RAM",
+          "excerpt": "Amazon's Fire HD 10 tablet just got a refresh with a bit more RAM In this memory economy?! We may receive a commission on purchases made from links. Amazon's mid-tier Fire HD 10 tablet just got a surprise refresh. The big news here is that the RAM has increased from 3GB to 4GB. This model has had 3GB of RAM for years and actually launched with just 2GB way back in 2017.…",
+          "url": "https://www.engadget.com/2207669/amazon-fire-hd-10-ram-refresh/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+          "excerpt": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon’s budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now ships with 4GB of RAM, and a small price bump from $139.99 to $154.99.…",
+          "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Apple TV is hitting its stride",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Apple TV is hitting its stride",
+          "excerpt": "Since its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It’s a strategy that has brought comparisons to the HBO of old, and 2026 has featured a particularly strong mix of new hits and returning favorites.…",
+          "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+          "excerpt": "Explosive showdowns at a Texas ranch. Mysterious post-apocalyptic bunkers. Supernatural serial killers that can transform into vapor. And truly terrible neighbors who should make us all grateful for the neighbors we have (unless you, too, have a terrible neighbor inclined to violence and abuse). These and many more great TV shows and movies await your streaming pleasure this 4th of July weekend.…",
+          "url": "https://www.forbes.com/sites/erikkain/2026/07/03/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
+          "excerpt": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
+          "url": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip"
         },
         {
           "source": "CNBC",
@@ -316,90 +729,83 @@
           "headline": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
           "excerpt": "Oman's reputation for neutrality has earned it the nickname the \"Switzerland of the Middle East.\" But the country, which sits to the south of the Strait of Hormuz, is employing a deliberately opaque diplomatic strategy in discussions about tolls for the critical waterway, and markets have a \"blind spot\" for what could happen next, analysts tell CNBC.…",
           "url": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Iran and Oman propose fee plan for Strait of Hormuz, sources say",
-          "excerpt": "Iran and Oman have presented the U.S. with a proposal to administer the Strait of Hormuz that includes the joint collection of administrative fees by the two Middle East nations, four sources told NBC News. In a memorandum of understanding signed last month, the U.S.…",
-          "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Daredevil couple charged with felonies for Empire State Building proposal stunt",
-      "coverage": 3,
+      "headline_en": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Euronews",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Daredevil couple charged with felonies for Empire State Building proposal stunt",
-          "excerpt": "The highest public floor is the 102nd, where there’s an observation deck. Going higher requires a key card, according to the court complaint.…",
-          "url": "http://www.euronews.com/2026/07/02/daredevil-couple-charged-with-felonies-for-empire-state-building-proposal-stunt"
+          "headline": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+          "excerpt": "In the small hours of Friday the police roadblocks, stalls, posters and army vans were starting to appear across Tehran, as millions of Iranians prepared to attend the long-delayed six-day funeral ceremony for Ali Khamenei, Iran’s supreme leader for 36 turbulent years.…",
+          "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran"
         },
         {
-          "source": "Time",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Daredevil Couple Arrested After Climbing the Empire State Building: What We Know",
-          "excerpt": "A daredevil Russian couple were arrested and charged after scaling the Empire State Building in New York City on Wednesday, in what appeared to be an elaborate and risky marriage proposal. The New York Police Department identified them as Ivan Kuznetsov, 32, and Angelina Nikolau, 33, self-proclaimed “rooftoppers” who climb and pose atop the highest buildings without safety nets or permission.…",
-          "url": "https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Daredevil climbers in court after Empire State Building stunt",
-          "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser.…",
-          "url": "https://www.nbcnews.com/nightly-news/video/daredevil-climbers-in-court-after-empire-state-building-stunt-266107461944"
+          "headline": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+          "excerpt": "Iran is staging a six-day funeral procession for Ayatollah Ali Khamenei, the Supreme Leader who led the Islamic Republic for four decades and was killed on the first day of the U.S.-Israeli war in February. The ceremony will begin on July 4, nearly four months after Khamenei was killed, and end on July 9.…",
+          "url": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions",
-      "coverage": 3,
+      "headline_en": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+          "excerpt": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral 1 of 4 - Published Large crowds of black-clad mourners have gathered outside Tehran's main mosque to pay their respects to Iran's former supreme leader on the first day of his funeral comemorations.…",
+          "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+          "excerpt": "In Pictures Millions mourn Iran’s Ali Khamenei amid historic funeral procession Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial. Hundreds of thousands of people have poured into Tehran, with millions expected to attend a week of funeral ceremonies for late Iranian Supreme Leader Ayatollah Ali Khamenei.…",
+          "url": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Why Trump’s ‘Freedom 250’ Logo Is Everywhere",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Why Trump’s ‘Freedom 250’ Logo Is Everywhere",
+          "excerpt": "Why Trump’s ‘Freedom 250’ Logo Is Everywhere A White House–affiliated group wrested control of the trademark. As the United States neared its 250th birthday in recent months, a new spin on the Stars and Stripes appeared outside homes and on banners dangling from government buildings.…",
+          "url": "https://www.theatlantic.com/culture/2026/07/freedom-250-logo-trump/687793/?utm_source=feed"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Trump’s commemorative Social Security card comes with the ‘Freedom 250’ logo",
+          "excerpt": "Everyone has encountered unnecessary company swag—from branded pens to an endless supply of canvas tote bags. But babies born July 2 through the end of the year may receive a surprising branded moment: a Freedom 250 Social Security card . At a glance, the commemorative card, rolled out as part of the U.S.&#8217;s 250th anniversary celebration, looks like any regular Social Security card.…",
+          "url": "https://www.fastcompany.com/91568826/trump-commemorative-social-security-card-freedom-250"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch World Cup Day 23: Argentina and Egypt survive thrillers to advance",
+      "coverage": 2,
       "perspectives": [
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions",
-          "excerpt": "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions Three final Round of 16 spots up for grabs as Argentina, Australia, Cape Verde, Colombia, Egypt, Ghana are in action. The final day of the World Cup Round of 32 takes place on Friday, with three more spots in the Round of 16 still to be decided.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/3/fifa-world-cup-2026-round-of-16-bracket-friday-schedule-predictions?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US fans celebrate World Cup last-16 spot",
-          "excerpt": "Fans celebrated outside the stadium in Santa Clara, California, after the United States secured a 2-0 victory over Bosnia and Herzegovina to reach the World Cup last 16. Folarin Balogun opened the scoring before being sent off in the second half, leaving the hosts to play with 10 men. Malik Tillman doubled the lead with a free-kick in the 82nd minute to seal the win.…",
-          "url": "http://www.euronews.com/video/2026/07/02/us-fans-celebrate-world-cup-last-16-spot"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "World Cup 2026: Ramos stoppage-time winner sends Portugal past Croatia into last 16",
-          "excerpt": "World Cup 2026: Ramos stoppage-time winner sends Portugal past Croatia into last 16 Portugal booked their place in the World Cup 2026 round of 16 after a 2-1 win over Luka Modric's Croatia in Toronto, decided by a stoppage-time goal from Gonçalo Ramos. Cristiano Ronaldo and his teammates will face Spain on Monday.…",
-          "url": "https://www.france24.com/en/sport/20260703-world-cup-2026-ramos-stoppage-time-winner-sends-portugal-past-croatia-into-last-16"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Watch World Cup Day 22: Portugal pulls off dramatic win against Croatia",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Watch World Cup Day 22: Portugal pulls off dramatic win against Croatia",
-          "excerpt": "Watch World Cup Day 22: Portugal pulls off dramatic win against Croatia Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 3 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-          "url": "https://www.aljazeera.com/video/2026/7/3/video-world-cup-2026-highlights?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "World Cup 2026: Spain ease past Austria to set up Portugal clash",
-          "excerpt": "European champions Spain cruised into the last 16 of the World Cup on Thursday with a dominant 3-0 win over Austria to set up a potential showdown with Cristiano Ronaldo's Portugal.",
-          "url": "https://www.france24.com/en/video/20260703-world-cup-2026-spain-ease-past-austria-to-set-up-portugal-clash"
+          "headline": "Watch World Cup Day 23: Argentina and Egypt survive thrillers to advance",
+          "excerpt": "Watch World Cup Day 23: Argentina and Egypt survive thrillers to advance Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 4 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+          "url": "https://www.aljazeera.com/video/2026/7/4/video-world-cup-2026-highlights?traffic_source=rss"
         },
         {
           "source": "CBS News",
@@ -412,400 +818,78 @@
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
-      "coverage": 3,
+      "headline_en": "The AI Trade Is Losing One of Its Key Signals",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "The Verge",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
-          "excerpt": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive “gizmos” built from an AI prompt, as reported by Business Insider.…",
-          "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai"
+          "headline": "The AI Trade Is Losing One of Its Key Signals",
+          "excerpt": "At a time when markets are growing uneasy over whether the enormous sums being poured into artificial intelligence will ever pay off, the prices the sector commands for each unit of usage are drifting lower.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock"
         },
         {
-          "source": "Engadget",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Meta has released an app for making generative AI games",
-          "excerpt": "Meta has released an app for making generative AI games Vibe-coding right in your Pocket. Meta appears to have soft-launched a new app called Pocket that's aimed at getting people to vibe-code their own minigames.…",
-          "url": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Meta quietly launches vibe-coded gaming app Pocket",
-          "excerpt": "Meta is getting into gaming with the launch of a new app called Pocket, which allows people to generate small, interactive apps and games using AI prompts. The software, a result of Meta’s acquisition of the team at the vibe-coded gaming platform Gizmo earlier this year, describes itself as “a creative platform for making and sharing gizmos,” which is what the interactive experiences are called.…",
-          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
+          "headline": "The AI Trade Is Losing One of Its Key Signals",
+          "excerpt": "At a time when markets are growing uneasy over whether the enormous sums being poured into artificial intelligence will ever pay off, the prices the sector commands for each unit of usage are drifting lower.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
-      "coverage": 3,
+      "category": "📈 Economy",
+      "headline_en": "Toronto Stocks Enjoy Broad Gains After New Pipeline Proposal",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "NPR News",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
-          "excerpt": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
-          "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Extreme heat wave threatens U.S. power grids and July 4 travel",
-          "excerpt": "A prolonged and dangerous period of extreme heat across the central and eastern U.S. is poised to continue into the Independence Day weekend, exposing pressure points for power markets and transport. Temperatures of up to 105 degrees Fahrenheit (40.5 degrees Celsius) are expected, according to the National Weather Service, with some daily, monthly and all-time records possible.…",
-          "url": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ukraine: Russia strikes kill 4 as Kyiv holds day of mourning",
-          "excerpt": "Ukraine: Russia strikes kill 4 as Kyiv holds day of mourning July 3, 2026At least four people were killed and 10 others injured after Russia launched a series of overnight attacks on Ukraine, officials said Friday. In the Sumy region, near the border with Russia, two women, an elderly man and a girl under the age of 2 were killed when a Russian drone hitting a house, authorities said.…",
-          "url": "https://www.dw.com/en/ukraine-russia-strikes-kill-4-as-kyiv-holds-day-of-mourning/a-77813693?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-          "excerpt": "Canadian boy, 11, dies of rabies after waking to bat on his face - Published An 11-year-old Canadian boy has died from rabies after being awoken by a bat on his nose and mouth. The incident took place while the child was on a visit to a cottage in Ontario with his family in 2024, according to a report in the Canadian Medical Association Journal published on Monday.…",
-          "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss"
+          "headline": "Toronto Stocks Enjoy Broad Gains After New Pipeline Proposal",
+          "excerpt": "Canada’s stocks benchmark climbed Friday morning after Prime Minister Mark Carney unveiled a new pipeline project to the country’s West Coast.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canadian-stocks-enjoy-broad-gains-after-new-pipeline-proposal"
         },
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Canadian boy dies of rabies after waking to find bat on his face",
-          "excerpt": "Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies, in an “exceedingly rare case” that highlights the need for better public awareness.…",
-          "url": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "11-year-old boy dies from rabies in Canada after waking up to a bat on his face",
-          "excerpt": "Rabies is a rare but deadly infection usually spread by a bite or scratch from an infected animal. It is almost always fatal after the onset of symptoms, although vaccination and early treatment can help to prevent it. An 11-year-old boy died from rabies in Canada after he woke up to find a bat \"on his nose and mouth,\" according to a report in the Canadian Medical Association Journal.…",
-          "url": "http://www.euronews.com/2026/07/02/11-year-old-boy-dies-from-rabies-in-canada-after-waking-up-to-a-bat-on-his-face"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Tesla sales increase by 25% in Q2 2026",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Tesla sales increase by 25% in Q2 2026",
-          "excerpt": "If the car-buying public had qualms about Tesla, it appears to have gotten over them. This morning, the automaker released its sales and production numbers for the second quarter of the year. And if you’re a fan of activist CEO Elon Musk, it’s good news, as April, May, and June were great months for the company. In total, Tesla sold 480,126 EVs during Q2, a 25 percent year-over-year increase.…",
-          "url": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Tesla&#8217;s Q2 sales jump 25 percent",
-          "excerpt": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. Tesla’s Q2 sales jump 25 percent The 480K vehicle deliveries were significantly higher than the same period last year. The 480K vehicle deliveries were significantly higher than the same period last year.…",
-          "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Tesla Q2 vehicle deliveries are up 25 percent over last year",
-          "excerpt": "Tesla Q2 vehicle deliveries are up 25 percent over last year The company has been gaining traction in Europe. Tesla has been in decline, sales-wise, for a couple of years now. However, that looks to be reversing a bit. The company just announced delivery statistics for the second quarter of 2026 and the news is good for once.…",
-          "url": "https://www.engadget.com/2207032/tesla-q2-vehicle-deliveries-up-25-percent-over-last-year/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-          "excerpt": "South Africa and Ghana in diplomatic row over alleged killing of migrant - Published A diplomatic row has erupted between South Africa and Ghana, over claims that a Ghanaian man was killed during anti-migrant protests, which South African officials deny.…",
-          "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "South Africa, Ghana clash over migrant's death",
-          "excerpt": "South Africa, Ghana spar over migrant's death July 3, 2026A fresh diplomatic spat has erupted between Ghana and South Africa in connection with the killing of a migrant in Cape Town's Khayelitsha township earlier this week. The South African government on Thursday said the death was not linked to the anti-immigrant protests held in the country earlier this week.…",
-          "url": "https://www.dw.com/en/south-africa-ghana-clash-over-migrant-s-death/a-77811811?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "At least 16 killed and 20 injured in South Africa bus crash",
-          "excerpt": "At least 16 people have died and another 20 injured in a bus crash in South Africa.",
-          "url": "https://news.sky.com/story/at-least-16-killed-and-20-injured-in-south-africa-bus-crash-13559802"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russia’s 11-Hour Assault on Kyiv",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Russia’s 11-Hour Assault on Kyiv",
-          "excerpt": "Russia’s 11-Hour Assault on Kyiv The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure. Welcome to FP Free Week. To celebrate America’s 250th birthday, our entire site is completely unlocked this week only. Enjoy the article.…",
-          "url": "https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror'",
-          "excerpt": "Russia launched a barrage of drones and missiles at Kyiv in what Ukrainian officials described as a “night of horror” for the capital. At least 25 people have been killed, according to the State Emergency Service of Ukraine, and more than 80 injured. Search and rescue efforts are still underway.…",
-          "url": "https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Russia launches attacks on Kyiv, killing at least 27 and injuring scores",
-          "excerpt": "Russian attack on Kyiv kills at least 27, injures scores July 2, 2026At least 27 people were killed and more than 90 people were injured after Russian drones and missiles hit residential buildings in Kyiv as part of a broader wave of Russian attacks overnight on the Ukrainian capital.…",
-          "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-27-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Nine Thai monks killed after 11-year-old driver collides with procession",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Nine Thai monks killed after 11-year-old driver collides with procession",
-          "excerpt": "Nine Thai monks killed after 11-year-old driver collides with procession - Published Nine Buddhist monks were killed and several others in their procession injured when they were hit by an 11-year-old boy driving his parents' pickup truck in north-east Thailand, police said.…",
-          "url": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "At least nine monks killed in Thailand after boy drives truck into procession",
-          "excerpt": "An 11-year-old boy has driven his parents’ truck into a Buddhist procession in Thailand, killing at least nine monks. CCTV footage shared by a local rescue group showed the moment the monks, wearing orange robes, were run over as they walked in procession along a road. The timestamp on the footage was shortly before 11am local time on Thursday.…",
-          "url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Nine Thai monks killed as 11-year-old boy crashes pickup truck into pilgrimage walk",
-          "excerpt": "An 11-year-old boy crashed a pickup truck into a group of monks on a pilgrimage walk in northeastern Thailand on Thursday, killing nine, officials said.",
-          "url": "https://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "WATCH:  How the US will be celebrating its 250th birthday",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  How the US will be celebrating its 250th birthday",
-          "excerpt": "How the US will be celebrating its 250th birthday ABC News' Danny New breaks down America 250 celebrations happening this weekend, from big cities to national parks.…",
-          "url": "https://abcnews.com/video/134436067/"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "America 250 celebrations in Washington, D.C., deemed national special security event",
-          "excerpt": "America 250 celebrations in Washington, D.C., deemed national special security event Washington, D.C., is bracing for the heat and ramping up security in advance of the nation's 250th birthday celebration on the National Mall. CBS News homeland security correspondent Nicole Sganga reports on the security efforts. Then, Amb. Monica Crowley, U.S.…",
-          "url": "https://www.cbsnews.com/video/america-250-celebrations-washington-dc-national-special-security-event/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Fast-moving wildfire spreads across southern France",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Fast-moving wildfire spreads across southern France",
-          "excerpt": "A major wildfire continues to burn in the Aude department in southern France, where firefighters are still working at daybreak to contain a fast-moving blaze that has spread from neighbouring Hérault. The video shows flames racing across a hillside, thick smoke rising into the sky, and aircraft and ground crews battling the fire.…",
-          "url": "http://www.euronews.com/video/2026/07/02/fast-moving-wildfire-spreads-across-southern-france"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "After heat wave: Wildfires ravage southern France",
-          "excerpt": "After heat wave: Wildfires ravage southern France July 2, 2026Several wildfires scorched southern France on Thursday after weeks of dry weather and record-high temperatures during the recent heat wave. According to local authorities, the largest fires spread in the Aude and Herault regions.…",
-          "url": "https://www.dw.com/en/after-heat-wave-wildfires-ravage-southern-france/a-77810138?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "The best July 4th deals live now: Save on Anker, Garmin, Apple, and more",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "The best July 4th deals live now: Save on Anker, Garmin, Apple, and more",
-          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
-          "url": "https://www.zdnet.com/article/best-july-4-deals-2026/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "The best July 4th sales we found so far",
-          "excerpt": "July 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation’s birthday. Best Buy is hosting its own 4th of July sale, for example.…",
-          "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Cloudflare will filter out web crawlers that serve AI companies",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Cloudflare will filter out web crawlers that serve AI companies",
-          "excerpt": "Cloudflare will filter out web crawlers that serve AI companies The hosting platform wants sites to have more control over how AI companies use their content. Cloudflare has announced plans to automatically block mixed-use web crawlers that index websites for search engines and act as AI agents and trainers at the same time.…",
-          "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "OpenAI Woos Trump Administration as Investor",
-          "excerpt": "ChatGPT creator OpenAI is reportedly discussing giving the U.S. government a 5% stake in the company, in an apparent attempt to improve relations with President Donald Trump’s Administration amid political pressures on American artificial intelligence companies.…",
-          "url": "https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/"
+          "headline": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+          "excerpt": "The governments of Canada and the province of Alberta will move forward on a major new oil pipeline after the pair announced a plan to ease concerns of British Columbia and First Nations on the Pacific coast.…",
+          "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Trump’s commemorative Social Security card comes with the ‘Freedom 250’ logo",
+      "headline_en": "Verstappen Says LEGO’s F1 Cars Make Drivers Look Like ‘Clowns.’ LEGO Is Hoping Fans Love Them",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Fast Company",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "Trump’s commemorative Social Security card comes with the ‘Freedom 250’ logo",
-          "excerpt": "Everyone has encountered unnecessary company swag—from branded pens to an endless supply of canvas tote bags. But babies born July 2 through the end of the year may receive a surprising branded moment: a Freedom 250 Social Security card . At a glance, the commemorative card, rolled out as part of the U.S.&#8217;s 250th anniversary celebration, looks like any regular Social Security card.…",
-          "url": "https://www.fastcompany.com/91568826/trump-commemorative-social-security-card-freedom-250"
+          "headline": "Verstappen Says LEGO’s F1 Cars Make Drivers Look Like ‘Clowns.’ LEGO Is Hoping Fans Love Them",
+          "excerpt": "The company is following up a viral hit from last year by reimagining what made it delight fans in the first place.",
+          "url": "https://www.inc.com/jason-aten/verstappen-says-legos-f1-cars-make-drivers-look-like-clowns-lego-is-betting-fans-disagree/91369651"
         },
         {
-          "source": "The Atlantic",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "How Trump Branded America’s Big Birthday",
-          "excerpt": "How Trump Branded America’s Big Birthday The White House’s Freedom 250 wrested control of a patriotic logo—and spread it everywhere. As the United States neared its 250th birthday in recent months, a new spin on the Stars and Stripes appeared outside homes and on banners dangling from government buildings.…",
-          "url": "https://www.theatlantic.com/culture/2026/07/freedom-250-logo-trump/687793/?utm_source=feed"
-        }
-      ]
-    },
-    {
-      "category": "📣 Marketing",
-      "headline_en": "Here Are the 2nd Quarter of 2026 Evening News Ratings",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Adweek",
-          "lang": "en",
-          "headline": "Here Are the 2nd Quarter of 2026 Evening News Ratings",
-          "excerpt": "Here is TVNewser’s look at the Q2 2026 ratings for evening newscasts and the evening ratings for the week of June 22: Week of June 22 CBS Evening News with Tony Dokoupil finished the last week of June with gains in both total viewers and the Adults 25-54 demo. It crossed the 4 million total viewers mark during this just-concluded week.…",
-          "url": "https://www.adweek.com/tvnewser/here-are-the-2nd-quarter-of-2026-evening-news-ratings/"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Latest news bulletin | July 2nd, 2026 – Evening",
-          "excerpt": "Video. Latest news bulletin | July 2nd, 2026 – Evening Copy/paste the link below: Copy/paste the article video embed link below: Updated: Catch up with the most important stories from around Europe and beyond this July 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-          "url": "http://www.euronews.com/video/2026/07/02/latest-news-bulletin-july-2nd-2026-evening"
+          "headline": "'We should not look like kids and clowns': F1 stars criticise Lego car parade",
+          "excerpt": "Formula One's decision to put drivers in Lego cars for Sunday's British Grand Prix parade lap has been criticised by top drivers.",
+          "url": "https://news.sky.com/story/lewis-hamilton-and-max-verstappen-criticise-formula-ones-lego-car-parade-13560242"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "ECB Is 'Comfortable' With Its Base Scenario, Moulin Says",
+      "headline_en": "ECB’s Lagarde Will Attend Next Week’s Ecofin Instead of Vujcic",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "ECB Is 'Comfortable' With Its Base Scenario, Moulin Says",
-          "excerpt": "European Central Bank Governing Council member Emmanuel Moulin comments on the outlook for inflation and monetary policy. He talks with Bloomberg's Francine Lacqua at the Aix-en-Provence Economic Forum in France. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-03/ecb-is-comfortable-with-its-base-scenario-moulin-says-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Allianz's Subran Has Doubts Over Europe's 'AI Dividend'",
-          "excerpt": "Ludovic Subran, chief investment officer and chief economist at Allianz, says there isn't enough evidence to say that the AI trade is in \"bubble\" territory.…",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-03/allianz-s-subran-has-doubts-over-europe-s-ai-dividend-video"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "World Cup 2026: Manzambi's brilliance guides Switzerland past Algeria",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "World Cup 2026: Manzambi's brilliance guides Switzerland past Algeria",
-          "excerpt": "World Cup 2026: Manzambi's brilliance guides Switzerland past Algeria Switzerland secured their passage to the last 16 with a disciplined 2-0 victory over Algeria in Vancouver, with goals from Breel Embolo and Dan Ndoye proving decisive. The Nati finally broke their curse in knockout football, while the Fennecs' tournament ended in disappointment after showing early promise.…",
-          "url": "https://www.france24.com/en/sport/20260703-switzerland-beat-algeria-2-0-to-move-into-world-cup-last-16"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style",
-          "excerpt": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style Switzerland remain unbeaten at the 2026 World Cup and will face either Colombia or Ghana in the next game.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/3/switzerland-algeria-fifa-world-cup-2026-score-embolo-ndoye?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "A Short Economic History of the United States",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "A Short Economic History of the United States",
-          "excerpt": "A Short Economic History of the United States From a slave economy to a global empire in 250 years. Welcome to FP Free Week. To celebrate America’s 250th birthday, our entire site is completely unlocked this week only. Enjoy the article.…",
-          "url": "https://foreignpolicy.com/2026/07/02/united-states-economy-slavery-empire-immigration-socialism/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "US history gets a presidential makeover for its 250th birthday",
-          "excerpt": "This year, the United States is marking 250 years of independence with celebrations across the country. An historic occasion that US President Donald Trump intends to turn into the crowning achievement of his second term by changing the appearance of Washington DC to his taste – and infusing his vision of American history into national museums, parks and monuments.…",
-          "url": "https://www.france24.com/en/us-history-gets-a-presidential-makeover-for-its-250th-birthday"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Lagarde Won’t Exclude Early ECB Exit to Enter French Politics",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Lagarde Won’t Exclude Early ECB Exit to Enter French Politics",
-          "excerpt": "European Central Bank President Christine Lagarde said she won’t rule out leaving her current position early to participate in French politics.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/ecb-made-right-choice-in-june-rate-hike-lagarde-tells-les-echos"
+          "headline": "ECB’s Lagarde Will Attend Next Week’s Ecofin Instead of Vujcic",
+          "excerpt": "European Central Bank President Christine Lagarde will be attending next week’s meeting of European Union finance ministers in Brussels instead of her vice president.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/ecb-s-lagarde-will-attend-next-week-s-ecofin-instead-of-vujcic"
         },
         {
           "source": "CNBC",
@@ -818,232 +902,64 @@
     },
     {
       "category": "🌍 World",
-      "headline_en": "Venezuelan security guard pulled alive from basement eight days after twin quakes",
+      "headline_en": "WATCH:  ABC News Exclusive: Security preparations for large celebrations from NYC to D.C.",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Euronews",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Venezuelan security guard pulled alive from basement eight days after twin quakes",
-          "excerpt": "The earthquakes destroyed tens of thousands of buildings across northern Venezuela, killing more than 2,200 people, and leaving La Guaira state as the hardest-hit region in the country.…",
-          "url": "http://www.euronews.com/2026/07/02/venezuelan-security-guard-pulled-alive-from-basement-eight-days-after-twin-quakes"
+          "headline": "WATCH:  ABC News Exclusive: Security preparations for large celebrations from NYC to D.C.",
+          "excerpt": "ABC News Exclusive: Security preparations for large celebrations from NYC to D.C. ABC News was granted exclusive access to the security preparations aimed at protecting large-scale celebrations from New York City to Washington, D.C. to secure the Fourth of July.…",
+          "url": "https://abcnews.com/video/134454978/"
         },
         {
-          "source": "DW English",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Venezuelan man rescued alive 8 days after powerful quakes",
-          "excerpt": "Venezuelan man rescued alive 8 days after powerful quakes July 2, 2026A team of international rescuers pulled a man alive from a collapsed building in Venezuela on Thursday, eight days after the country was rocked by magnitude 7.2 and 7.5 earthquakes.…",
-          "url": "https://www.dw.com/en/venezuelan-man-rescued-alive-8-days-after-powerful-quakes/a-77809306?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-          "excerpt": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather - Published France has said it recorded an increase of more than 2,000 deaths during the last week of a record-breaking European heatwave in June as forecasters warn of further extreme temperatures on the continent in the next few days.…",
-          "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "France records 2,025 excess deaths in June heatwave",
-          "excerpt": "France records 2,025 excess deaths in June heatwave France recorded 2,025 excess deaths during the June 22-28 heatwave, the country's health minister said Friday, marking a nearly 30 percent nationwide rise in recorded deaths. In the Paris region, the number of deaths during the same period increased by 62 percent, according to the public health authority.…",
-          "url": "https://www.france24.com/en/france/20260703-france-records-2-025-excess-deaths-in-june-heatwave"
+          "headline": "Inside the security operations for July Fourth celebrations in D.C.",
+          "excerpt": "National Guard troops, law enforcement providing tight security for July Fourth celebrations in Washington, D.C. There's heightened security around festivities in Washington, D.C., for America 250 celebrations, which include a fireworks display that is expected to draw hundreds of thousands of people.…",
+          "url": "https://www.cbsnews.com/news/security-operations-july-fourth-celebrations-washington-dc-trump/"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary",
-          "excerpt": "Kuaishou Technology shares rose nearly 7% Friday before trimming gains, after the company announced a capital injection of nearly $2.8 billion into its artificial intelligence subsidiary, Kling AI, with backing from tech giant Tencent. The Beijing-based short video platform disclosed the funding details in a regulatory filing released after the market closed on Thursday.…",
-          "url": "https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Alibaba, Tencent Join $2.8 Billion Funding for Kling AI",
-          "excerpt": "Alibaba Group Holding Ltd. joined a $2.8 billion financing round for Kuaishou Technology’s Kling AI, valuing the creator of one of China’s most popular generative video services at about $15 billion before the investment.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Venezuelan man saved from collapsed mall eight days after earthquakes",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Venezuelan man saved from collapsed mall eight days after earthquakes",
-          "excerpt": "A 43-year-old security guard who survived last week’s devastating earthquakes in Venezuela thanks to a pocket of air in his workstation cabin has been pulled from the collapsed basement of a shopping centre amid huge cheers from international rescue teams.…",
-          "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Security guard rescued from rubble 8 days after Venezuela earthquakes",
-          "excerpt": "Security guard rescued from Venezuela earthquake rubble 8 days after massive temblors: \"Truly a miracle\" Catia La Mar, Venezuela — Hundreds of rescuers in Venezuela cheered and embraced Thursday after pulling a man alive from the ruins of a collapsed building eight days after deadly twin earthquakes, AFP journalists witnessed.…",
-          "url": "https://www.cbsnews.com/news/security-guard-rescued-venezuela-earthquake-rubble-8-days/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Won Jumps as Korea Prepares for Currency Flows From Hynix ADRs",
+      "headline_en": "Defense Sector to Remain Dynamic: Euronext CEO Boujnah",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Won Jumps as Korea Prepares for Currency Flows From Hynix ADRs",
-          "excerpt": "South Korea’s won strengthened after a person familiar with the matter said the nation’s officials were preparing for currency flows related to SK Hynix Inc.’s offering of American depositary receipts.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/korea-said-to-prepare-for-currency-flow-from-sk-hynix-us-listing"
+          "headline": "Defense Sector to Remain Dynamic: Euronext CEO Boujnah",
+          "excerpt": "Euronext CEO Stephane Boujnah says the defense sector will remain dynamic as Europe ramps up military spending and investors continue to back the industry. He also discusses European IPOs, capital markets reform, exchange consolidation and the region's technology ecosystem. He speaks with Bloomberg's Caroline Connan at the Aix-en-Provence Economic Forum in France. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/defense-sector-to-remain-dynamic-euronext-ceo-boujnah-video"
         },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Won Jumps as Korea Prepares for Currency Flows From Hynix ADRs",
-          "excerpt": "South Korea’s won strengthened after a person familiar with the matter said the nation’s officials were preparing for currency flows related to SK Hynix Inc.’s offering of American depositary receipts.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/korea-said-to-prepare-for-currency-flow-from-sk-hynix-us-listing"
+          "headline": "Allianz's Subran Has Doubts Over Europe's 'AI Dividend'",
+          "excerpt": "Ludovic Subran, chief investment officer and chief economist at Allianz, says there isn't enough evidence to say that the AI trade is in \"bubble\" territory.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/allianz-s-subran-has-doubts-over-europe-s-ai-dividend-video"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto",
+      "headline_en": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Al Jazeera",
+          "source": "Time",
           "lang": "en",
-          "headline": "Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto",
-          "excerpt": "Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto Crowds in hundreds of Portugal football fans cheered the star team’s World Cup win after the match that eliminated Croatia with a 2-1.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/hundreds-of-fans-cheer-portugals-win-at-star-teams-residence-in-toronto?traffic_source=rss"
+          "headline": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
+          "excerpt": "President Donald Trump said it is “ridiculous” for the United States to maintain its current level of support for NATO “when the relationship is not reciprocal.\" Referring to the alliance as a \"one-sided path” late Thursday, Trump doubled down on his long-argued criticism of allied nations’ defense spending ahead of next week’s planned NATO summit in Ankara, Turkey.…",
+          "url": "https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit/"
         },
         {
-          "source": "Euronews",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Portugal fans celebrate World Cup win over Croatia",
-          "excerpt": "Thousands of Portugal supporters gathered at Lisbon's Terreiro do Paço to watch their national team defeat Croatia 2-1 and book a place in the World Cup last 16. Before kick-off, fans illuminated their phone lights to honour Diogo Jota on the first anniversary of the Portugal forward's death. Cristiano Ronaldo equalised from the penalty spot before Gonçalo Ramos headed in a stoppage-time winner.…",
-          "url": "http://www.euronews.com/video/2026/07/03/portugal-fans-celebrate-world-cup-win-over-croatia"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-          "excerpt": "Ahead of a July 2 deadline to submit public comments, advocates are warning the Federal Trade Commission that it must keep close watch over Elon Musk’s X and firmly reject a recent bid to end the agency’s ongoing audits of the platform’s data handling.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Fed’s Warsh Says Inflation Still Too High, but Now Poses Less Risk",
-          "excerpt": "New Federal Reserve Chair Kevin Warsh said Wednesday that inflation remains too high and emphasized the central bank's commitment to staying independent and reining in price increases, despite pressure from President Trump to cut interest rates.…",
-          "url": "https://finance.yahoo.com/economy/policy/articles/fed-warsh-says-inflation-still-001207516.html"
-        }
-      ]
-    },
-    {
-      "category": "📣 Marketing",
-      "headline_en": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
-          "excerpt": "String bikinis? Check. Extra sunscreen? Check. Walls of cameras so millions of Americans can watch your spicy summer flings happen in real time? Check. Love Island USA, where contestants make out, couple up, and fight while lounging around a neon-colored villa in swimwear, is currently nearing the “climax” of its eighth season.…",
-          "url": "https://www.wired.com/story/love-island-usa-app/"
-        },
-        {
-          "source": "Adweek",
-          "lang": "en",
-          "headline": "Why Peacock’s Love Island USA Makes a Perfect Partner for Advertisers",
-          "excerpt": "Peacock’s Love Island USA continues to bring the heat in Season 8, and advertisers are feeling the love. Love Island USA ranked as the No. 1 series on streaming during its first two weeks of Season 8, according to Nielsen. It garnered a combined 2.3 billion minutes viewed during the weeks of June 1 and June 8, up 50% from the previous season’s first two weeks.…",
-          "url": "https://www.adweek.com/convergent-tv/peacock-love-island-usa-makes-perfect-partner-advertisers/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Vatican excommunicates followers of global Catholic sect",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Vatican excommunicates followers of global Catholic sect",
-          "excerpt": "Vatican excommunicates followers of global Catholic sect - Published The Vatican has excommunicated followers of a conservative Catholic splinter sect, the Society of Saint Pius X (SSPX), a day after it consecrated four new bishops against Pope Leo XIV's direct instruction.…",
-          "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Vatican excommunicates rebel SSPX bishops, followers",
-          "excerpt": "Vatican excommunicates rebel SSPX bishops, followers July 2, 2026The Vatican on Thursday imposed some of the highest penalties available under the Catholic Church's canon law on a breakaway group that consecrated four bishops in defiance of the pope.…",
-          "url": "https://www.dw.com/en/vatican-excommunicates-rebel-sspx-bishops-followers/a-77798543?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-          "excerpt": "Back in 2018, Google was handed a record-setting 4.34 billion-euro ($4.9 billion) fine in Europe for abusing its monopoly on Android. The company has spent the intervening years challenging that decision, but the continent’s highest court has put a stop to that. The Court of Justice of the European Union has affirmed the penalty, meaning Google is out of options.…",
-          "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Google loses final appeal over $4.7 billion EU Android antitrust fine",
-          "excerpt": "Google loses final appeal over $4.7 billion EU Android antitrust fine The decade-long saga is finally at an end, but Google faces further sanctions in the EU. Europe's highest court of appeal has upheld a record-setting €4.1 billion ($4.67 billion) fine imposed on Google back in 2018 for antitrust violations around its Android operating system.…",
-          "url": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Longer Tesla Model Y L Launches In U.S.",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Longer Tesla Model Y L Launches In U.S.",
-          "excerpt": "A longer version of Model Y has launched in the U.S. The Model Y L (long wheelbase) three-row, 6-seater has arrived. The AWD L “Launch Series” starts at $61,990 and is now the priciest Model Y in the lineup – more than the performance version, which starts at $57,990.…",
-          "url": "https://www.forbes.com/sites/brookecrothers/2026/07/02/longer-tesla-model-y-l-launches-in-us/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag",
-          "excerpt": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag Deliveries will begin in September. Tesla has finally launched the Model Y Long Wheelbase in the US and Puerto Rico and has started taking orders for the variant, almost a year after the company released it in China.…",
-          "url": "https://www.engadget.com/2207503/teslas-model-y-long-wheelbase-comes-to-the-us/"
+          "headline": "Trump says U.S. keeping current support levels for NATO would be \"ridiculous\"",
+          "excerpt": "Trump says U.S. maintaining current support levels for NATO would be \"ridiculous\" President Trump said late Thursday it's \"ridiculous\" for the United States to continue its \"one sided\" relationship with NATO. His remarks came less than a week before a NATO summit in Ankara, Turkey. Mr.…",
+          "url": "https://www.cbsnews.com/news/trump-nato-us-support-ridiculous/"
         }
       ]
     }
