@@ -1,118 +1,580 @@
 {
-  "collected_at": "2026-07-05T11:13:32.239457+00:00",
+  "collected_at": "2026-07-06T14:47:43.982784+00:00",
   "total_sources": 59,
-  "total_entries": 564,
-  "story_count": 35,
+  "total_entries": 700,
+  "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-      "coverage": 9,
+      "headline_en": "Emotion and politics merge in Tehran at funeral of former supreme leader",
+      "coverage": 7,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-          "excerpt": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral 1 of 4 - Published Large crowds of black-clad mourners have gathered outside Tehran's main mosque to pay their respects to Iran's former supreme leader on the first day of his funeral commemorations.…",
-          "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
+          "headline": "Emotion and politics merge in Tehran at funeral of former supreme leader",
+          "excerpt": "The BBC's chief international correspondent Lyse Doucet is in Tehran, where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+          "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "The Guardian",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
-          "excerpt": "Huge crowds have gathered at the funeral of the former Iranian supreme leader after the gates of the sprawling Grand Mosalla mosque in central Tehran let in thousands of mourners who had been waiting through the night to enter the grounds.…",
-          "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei"
+          "headline": "Iran’s New Supreme Leader Absent From His Father’s Funeral",
+          "excerpt": "Jenna Wishes Her Dad George W. Bush a Happy 80th Birthday 00:53 Sisters Behind For Goodness Cakes Co.…",
+          "url": "https://www.today.com/video/iran-s-new-supreme-leader-absent-from-his-father-s-funeral-266215493831"
         },
         {
-          "source": "NPR News",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
-          "excerpt": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
-          "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei"
+          "headline": "Iran honors former Supreme Leader Ayatollah Ali Khamenei but his son is nowhere to be found",
+          "excerpt": "Iran honors former Supreme Leader Ayatollah Ali Khamenei but his son is nowhere to be found Iranians are still mourning Supreme Leader Ayatollah Ali Khamenei, but his son and successor, Mojtaba Khamenei, has not been seen as rumors swirl about his potentially grave injuries. CBS News' Courtney Kealy reports.",
+          "url": "https://www.cbsnews.com/video/iran-honors-former-supreme-leader-ayatollah-ali-khamenei-but-his-son-is-nowhere-to-be-found/"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Top Iranian officials attend day 2 of Ali Khamenei's funeral",
-          "excerpt": "Top Iranian officials attend day 2 of Ali Khamenei's funeral July 5, 2026Top Iranian officials attended the second day of funeral proceedings for slain Supreme Leader Ali Khamanei on Sunday. Khamanei's family members were also in attendance, including three of his sons.…",
-          "url": "https://www.dw.com/en/top-iranian-officials-attend-day-2-of-ali-khamenei-s-funeral/a-77836567?maca=en-rss-en-all-1573-rdf"
+          "headline": "Iran: Millions flock to Ali Khamenei's funeral procession",
+          "excerpt": "Iran: Millions flock to Ali Khamenei's funeral procession July 6, 2026A procession carrying the remains of Iran's late supreme leader, Ayatollah Ali Khamenei, has been attended by millions of people in the Iranian capital, Tehran.…",
+          "url": "https://www.dw.com/en/iran-millions-flock-to-ali-khamenei-s-funeral-procession/a-77846937?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Time",
           "lang": "en",
-          "headline": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
-          "excerpt": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral Masses of Iranians defy heatwave on second day of Khamenei’s funeral Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss"
+          "headline": "Khamenei's Funeral Is Meant to Project Strength. But Iran's New Leader Has Yet to Appear",
+          "excerpt": "Tens of thousands of mourners packed Tehran on Sunday amid a six-day funeral ceremony for the late Supreme Leader Ayatollah Ali Khamenei. Khamenei, 86, was killed in the United States and Israeli airstrikes that marked the start of the war with Iran on Feb. 28.…",
+          "url": "https://time.com/article/2026/07/05/khamenei-s-funeral-is-meant-to-project-strength-but-iran-s-new-leader-has-yet-to-appear/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Scorching heat and delays: How Washington DC marked America 250",
+      "headline_en": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
+      "coverage": 7,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
+          "excerpt": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region - Published The Ukrainian Air Force says a \"serious shortage\" of interceptor missiles meant none of the 23 ballistic missiles fired by Russia at Kyiv on Sunday night were shot down. At least 15 people were killed in the second large-scale Russian attack on the Ukrainian capital in a week, officials said.…",
+          "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+          "excerpt": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine's air defenses, authorities said.",
+          "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Russia launches deadly wave of missiles and drones on Kyiv",
+          "excerpt": "Russian Attacks Kill 11 in Ukraine’s Kyiv Ahead of NATO Summit 00:24 Now Playing Russia launches deadly wave of missiles and drones on Kyiv 00:52 UP NEXT Russia's Large-Scale Attack on Kyiv Kills Nearly Two Dozen People 00:31 Russia launches deadly hourslong attack on Kyiv 01:09 Ukrainian military releases video showing strikes in Russian-held Crimea 00:18 Ukraine launches drone strikes on Moscow …",
+          "url": "https://www.nbcnews.com/video/russia-launches-deadly-wave-of-missiles-and-drones-on-kyiv-266214981721"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine: Several killed in renewed attacks on Kyiv",
+          "excerpt": "Ukraine: Several killed in renewed attacks on Kyiv July 6, 2026Ukraine's capital, Kyiv, suffered a ballistic missile attack by Russia early Monday, according to the city's mayor, Vitali Klitschko. Local authorities said that at least 12 people were killed and more than 50 more were wounded in the attacks on the capital.…",
+          "url": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Large-scale Russian attack on Ukraine before NATO summit",
+          "excerpt": "Large-scale Russian attack on Ukraine before NATO summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump confirms he asked Fifa to review Balogun ban",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump confirms he asked Fifa to review Balogun ban",
+          "excerpt": "Trump confirms he asked Fifa to review Balogun ban - Published President Donald Trump has confirmed he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup. Trump says football's world governing body \"made the right decision\" to suspend Balogun's ban, adding it would have left a \"big stain\" on the tournament had it been implemented.…",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Fifa ‘crossed a red line’ by reversing US star striker’s suspension, Uefa says",
+          "excerpt": "Governing body lifted a one-match ban given to US striker Folarin Balogun after a phone call from Donald Trump",
+          "url": "https://www.ft.com/content/cb52a128-54c0-4183-ae0e-6fd292d1d7e5"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Belgium granted right to appeal FIFA's Balogun decision",
+          "excerpt": "Belgium have been granted the right to appeal FIFA's decision to overturn US striker Folarin Balogun's suspension, The Athletic reported on Monday, which reportedly took place after an intervention from US President Donald Trump.",
+          "url": "https://www.france24.com/en/sport/20260706-belgium-granted-right-to-appeal-fifa-s-balogun-decision"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "FIFA lifts Folarin Balogun's World Cup red card suspension after Trump's complaint",
+          "excerpt": "FIFA lifts Folarin Balogun's World Cup red card suspension after Trump's complaint President Trump called FIFA President Gianni Infantino to discuss U.S. Men's National Team scorer Folarin Balogun's red card suspension match, sources say. CBS News' Olivia Rinaldi reports.",
+          "url": "https://www.cbsnews.com/video/fifa-lifts-folarin-baloguns-world-cup-red-card-suspension-after-trumps-complaint/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "World Cup: Trump thanks FIFA for suspending Balogun's red card ban",
+          "excerpt": "World Cup: Trump thanks FIFA for suspending Balogun's ban July 6, 2026US President Donald Trump on Sunday thanked football's world governing body FIFA for suspending Falorin Balogun's ban that allows the US star striker to play against Belgium this week.…",
+          "url": "https://www.dw.com/en/world-cup-trump-thanks-fifa-for-suspending-balogun-s-red-card-ban/a-77840972?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
+          "excerpt": "China has conducted a long-range missile test in the South Pacific just hours after Australia signed a defence agreement with Fiji, sparking condemnation from Canberra and regional leaders. The Australian foreign minister, Penny Wong, said the missile test was “destabilising” to the region, while her New Zealand counterpart, Winston Peters, described it as “deeply concerning”.…",
+          "url": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "China tests long-range missile in South Pacific",
+          "excerpt": "China tests long-range missile in South Pacific July 6, 2026The Chinese Navy conducted a test launch for a long-range ballistic missile on Monday, drawing condemnation from other regional powers over Beijing's increasing displays of military might. According to the official Xinhua news agency, the missile was launched by a nuclear submarine in the South Pacific.…",
+          "url": "https://www.dw.com/en/china-tests-long-range-missile-in-south-pacific/a-77844998?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "China carries out ballistic missile test hours after warning neighbouring countries",
+          "excerpt": "China carried out a long-range ballistic missile test in the south Pacific on Monday, sparking criticism from New Zealand and Australia.",
+          "url": "https://news.sky.com/story/china-carries-out-ballistic-missile-test-hours-after-warning-australia-and-new-zealand-13560852"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Australia and Fiji seal mutual defence pact in push to counter China in Pacific",
+          "excerpt": "The signing of the defence treaty comes on the same day that Chinese state media reported a submarine had test-launched a long-range ballistic missile in the South Pacific, a move criticised by Australia.…",
+          "url": "http://www.euronews.com/2026/07/06/australia-and-fiji-seal-mutual-defence-pact-in-push-to-counter-china-in-pacific"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "China conducts rare long-range missile test, rattling U.S. allies",
+          "excerpt": "The Chinese military test-fired a missile from a nuclear submarine into the Pacific Ocean on Monday, state media reported, drawing criticism from U.S. allies in the region concerned about Beijing’s intensifying military activity.",
+          "url": "https://www.nbcnews.com/world/asia/china-conducts-rare-long-range-missile-test-rattling-us-allies-rcna353102"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
       "coverage": 5,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Scorching heat and delays: How Washington DC marked America 250",
-          "excerpt": "Scorching heat and delays: How Washington DC marked America 250 Thousands of people gathered in the US capital to celebrate the country's 250th birthday in a day that was marked by extreme weather, delays, and a huge display of fireworks.…",
-          "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Fireworks light up New York City to mark 250 years of US independence",
-          "excerpt": "Fireworks light up New York City to mark 250 years of US independence Fireworks light up New York City to mark 250 years of US independence Fireworks lit up the New York City skyline as America marked its 250th anniversary, with an expanded Macy’s 4th of July display dazzling crowds in a vibrant celebration of the nation’s milestone birthday. Published On 5 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Disney Celebrates America live updates: Fireworks light up skies over DC, New York",
-          "excerpt": "Fireworks light up DC skyline Fireworks lit up the skies over Washington, D.C. on Saturday night, illuminating the National Mall. The fireworks display came as part of the \"Salute to America\" for the 250th anniversary celebration featuring remarks from President Donald Trump.",
-          "url": "https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Washington, Hamilton, Adams and other Founding Fathers partied at this bar, still open in NYC",
-          "excerpt": "Latest U.S. Iran War July 4th World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pit…",
-          "url": "https://www.cbsnews.com/video/fraunces-tavern-founding-fathers-bar-nyc/"
+          "headline": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+          "excerpt": "Sri Lanka prison riots leave 26 dead and more than 100 injured - Published Riots at a prison in western Sri Lanka have killed 26 people, seven of them guards, and injured more than 100. The two days of violence at Negombo Prison, in a coastal town north of Colombo, began with clashes between two groups of inmates. Prisoners are alleged to have grabbed guards' guns on Sunday.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Euronews",
           "lang": "en",
-          "headline": "Fireworks light up Washington sky for America's 250th anniversary",
-          "excerpt": "A fireworks display illuminated the National Mall in Washington as the United States marked the 250th anniversary of its independence.",
-          "url": "http://www.euronews.com/video/2026/07/05/fireworks-light-up-washington-sky-for-americas-250th-anniversary"
+          "headline": "At least 19 killed and more than 100 wounded in Sri Lanka prison riot, officials say",
+          "excerpt": "The wounded were rushed to the Negombo hospital, north of the capital Colombo, following overnight clashes between inmates from two drug gangs, police said. Clashes in a Sri Lankan prison have killed at least 19 people, including four guards, and wounded more than 100 in the worst prison riot in more than five years, officials said on Monday.…",
+          "url": "http://www.euronews.com/2026/07/06/at-least-19-killed-and-more-than-100-wounded-in-sri-lanka-prison-riot-officials-say"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Sri Lanka prison clashes leave dozens dead",
+          "excerpt": "Sri Lanka prison clashes leave dozens dead July 6, 2026At least 25 people were killed and more than 100 injured in a prison clash in Negombo, Sri Lanka, officials confirmed on Monday. They said that the clash originally began on Sunday, between convicted criminals residing in the prison and those in detention awaiting the next steps of the judicial process.…",
+          "url": "https://www.dw.com/en/sri-lanka-prison-clashes-leave-dozens-dead/a-77848476?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Inmates and guards killed in deadly fighting at Sri Lanka prison",
+          "excerpt": "Inmates and guards killed in deadly fighting at Sri Lanka prison Inmates and guards killed in deadly fighting at Sri Lanka prison Inmates and guards have been killed in fighting at a prison near Sri Lanka’s capital. Reports suggest at least 25 people have died and more than 100 others have been injured. Published On 6 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/inmates-and-guards-killed-in-deadly-fighting-at-sri-lanka-prison?traffic_source=rss"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "At least 25 people killed after Sri Lankan prison riot",
+          "excerpt": "At least 25 people have been killed and more than 100 injured after a huge riot between inmates at a Sri Lankan prison.",
+          "url": "https://news.sky.com/story/at-least-25-people-killed-after-sri-lankan-prison-riot-13560944"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "UEFA says FIFA crossed a line on Balogun decision",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "UEFA says FIFA crossed a line on Balogun decision",
+          "excerpt": "The Union of European Football Associations said FIFA \"crossed a red line\" by lifting U.S. striker Folarin Balogun's one-match suspension . Why it matters: UEFA, which represents most of Europe's soccer federations, came out swinging after FIFA reversed course — a move that followed President Trump's call to FIFA President Gianni Infantino demanding answers about why the U.S.…",
+          "url": "https://www.axios.com/2026/07/06/uefa-fifa-balogun-red-card-ban"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump defends Balogun review call: 'It wasn't a foul'",
+          "excerpt": "President Donald Trump on Monday defended making a phone call to FIFA President Gianni Infantino, which led to the soccer association overturning a one-game World Cup suspension of U.S. Men's National Team striker Folarin Balogun.…",
+          "url": "https://www.cnbc.com/2026/07/06/trump-balogun-fifa-world-cup-us-belgium.html"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "FIFA reverses ban against U.S. men’s soccer star",
+          "excerpt": "Premium movie tickets for The Odyssey and Dune 3 resold for hundreds of dollars online 02:03 Now Playing FIFA reverses ban against U.S.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/fifa-reverses-ban-against-u-s-men-s-soccer-star-266203717748"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Balogun's red card suspension lifted after Trump called FIFA chief, sources say",
+          "excerpt": "U.S. lead scorer Folarin Balogun's red card suspension lifted after Trump called FIFA president, sources say Lead U.S. Men's National Team scorer Folarin Balogun will be eligible to play in the World Cup match against Belgium today, after FIFA's disciplinary committee lifted a red card suspension he received on Wednesday.…",
+          "url": "https://www.cbsnews.com/news/folarin-balogun-red-card-world-cup-us-mens-team-belgium/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
+      "headline_en": "Historic World Cup furor at 'incomprehensible' FIFA decision to let U.S. forward Balogun play",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Historic World Cup furor at 'incomprehensible' FIFA decision to let U.S. forward Balogun play",
+          "excerpt": "The Belgian soccer federation is challenging FIFA's ruling to let Balogun play despite getting a red card in his previous game. Belgium's statement came just 11 hours before kickoff in Seattle. European soccer body UEFA criticizes FIFA's \"incomprehensible and unjustifiable decision.\"",
+          "url": "https://www.npr.org/2026/07/06/g-s1-132108/world-cup-balogun-uefa-fifa-belgum-trump"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "FIFA criticized for lifting U.S. star's red card suspension after Trump phone call",
+          "excerpt": "FIFA criticized for decision to lift U.S. star's red card suspension following Trump phone call FIFA is being criticized over its decision to lift the red card suspension for lead U.S. Men's National Team scorer Folarin Balogun, allowing him to play against Belgium on Monday.…",
+          "url": "https://www.cbsnews.com/news/fifa-infantino-trump-red-card-folarin-balogun-criticism/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Trump calls World Cup chief Infantino to lift red card suspension for key U.S. player",
+          "excerpt": "U.S. President Donald Trump intervened on behalf of star U.S. forward Folarin Balogun, whose red-card suspension was lifted in a decision that allows him to play in a World Cup match against Belgium on Monday.…",
+          "url": "https://www.fastcompany.com/91569550/trump-calls-world-cup-chief-infantino-lift-red-card-suspension-key-u-s-player"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Why FIFA’s Balogun red card suspension after Trump call is so controversial",
+          "excerpt": "Why FIFA’s Balogun red card suspension after Trump call is so controversial FIFA’s decision has led to a furore in the football world, and accusations that the body bent its rules to please Trump.…",
+          "url": "https://www.aljazeera.com/news/2026/7/6/why-fifas-balogun-red-card-suspension-after-trump-call-is-so-controversial?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
       "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
-          "excerpt": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded The pop superstar and American football player made their love story official at a star-studded celebration in New York City's Madison Square Garden. The pair both dressed in Christian Dior, according to Swift's longtime publicist, and elected to skip bridesmaids and groomsmen.…",
-          "url": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "The week in pictures: America at 250, Taylor Swift gets married and a 'massive attack' on Kyiv",
-          "excerpt": "The week in pictures: America at 250, Taylor Swift gets married and a 'massive attack' on Kyiv In pictures Americas America marks 250 years of independence under a heatwave, a massive Russian attack sets Kyiv ablaze, France dominates Sweden at the World Cup, and Taylor Swift and Travis Kelce get married at Madison Square Garden: FRANCE 24 looks back at some of the week's most striking images.…",
-          "url": "https://www.france24.com/en/americas/20260705-the-week-in-pictures-america-250-taylor-swift-gets-married-massive-attack-on-kyiv"
+          "headline": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+          "excerpt": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts - Published Howling winds and lashing rains are battering Guam and the Northern Mariana Islands as super typhoon Bavi makes landfall. Packing winds of nearly 290km/h (180mph) and gusts of 350km/h, Bavi is moving over the Pacific islands, according to the US National Weather Service (NWS).…",
+          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "What we know about Taylor Swift and Travis Kelce's wedding so far",
-          "excerpt": "Latest U.S. Iran War July 4th World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pit…",
-          "url": "https://www.cbsnews.com/video/what-we-know-taylor-swift-travis-kelces-wedding-so-far/"
+          "headline": "Super Typhoon Bavi makes landfall near Guam with extreme, life-threatening winds",
+          "excerpt": "Super Typhoon Bavi makes landfall near Guam with extreme winds posing \"imminent danger to life,\" National Weather Service says Super Typhoon Bavi made landfall Monday over a tiny U.S. territorial island in the western Pacific near Guam, bringing powerful winds and torrential rain to the Northern Mariana Islands as residents were urged to stay indoors.…",
+          "url": "https://www.cbsnews.com/news/super-typhoon-bavi-rota-guam-extreme-wind-warning/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "'Major damage' as Super Typhoon Bavi makes landfall on US Pacific islands",
+          "excerpt": "The eye of the Category 5 super typhoon passed over the tiny island of Rota Monday morning local time, bringing winds of more than 241 km/h, also hitting the nearby islands of Guam, Tinian and Saipan. Super Typhoon Bavi made landfall on Monday over the tiny US territorial island of Rota in the western Pacific near Guam, bringing powerful winds and torrential rain to the Northern Mariana Islands.…",
+          "url": "http://www.euronews.com/2026/07/06/major-damage-as-super-typhoon-bavi-makes-landfall-on-us-pacific-islands"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Super Typhoon Bavi hits US Pacific islands",
+          "excerpt": "Super Typhoon Bavi hits US Pacific islands July 6, 2026Super Typhoon Bavi arrived in the US Pacific Island territories of Guam and the Northern Marianas, bringing torrential rains and hurricane-force winds, with the authorites reporting \"major\" damages. According to the National Weather Service (NWS), Bavi made landfall on Monday on Rota, the southernmost island of the Marianas.…",
+          "url": "https://www.dw.com/en/super-typhoon-bavi-hits-us-pacific-islands/a-77840713?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "EasyJet’s Stock Shows Castlelake Bid Is Far From a Done Deal",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "EasyJet’s Stock Shows Castlelake Bid Is Far From a Done Deal",
+          "excerpt": "EasyJet Plc stock traded well below Castlelake LP’s latest takeover bid, signaling investors remain concerned about the potential barriers facing the £5 billion-plus deal.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-05/easyjet-agrees-to-castlelake-s-5-2-billion-takeover-offer"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "EasyJet shares soar 10% as budget airline agrees to $7.3 billion Castlelake takeover",
+          "excerpt": "EasyJet shares took off in early dealmaking Monday after the U.K. low-cost carrier agreed in principle to a £5.5 billion ($7.3 billion) takeover bid from U.S. private equity manager Castlelake. The budget airline was up 10.5% shortly after 8:15 a.m. in London (3:15 a.m. E.T.), hitting a new 52-week high.…",
+          "url": "https://www.cnbc.com/2026/07/06/easyjet-ezj-stock-castlelake-takeover-bid.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "EasyJet agrees to $6.7 billion takeover by U.S. private equity firm",
+          "excerpt": "EasyJet agrees to $6.7 billion takeover bid from U.S. private equity firm Castlelake EasyJet has agreed to be acquired by U.S. private equity firm Castlelake in a deal that values the U.K. budget airline at £5 billion ($6.7 billion).…",
+          "url": "https://www.cbsnews.com/news/easyjet-castlelake-airline-takeover-bid/"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "EasyJet stock soars after the airline agrees to a U.S. takeover",
+          "excerpt": "The U.K. budget airline's board said it would be minded to recommend the 690 pence-per-share cash offer to shareholders",
+          "url": "https://qz.com/easyjet-castlelake-takeover-bid-690-pence-070626"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump rings NYSE and Nasdaq opening bells from the Oval Office for kids' accounts launch",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Trump rings NYSE and Nasdaq opening bells from the Oval Office for kids' accounts launch",
+          "excerpt": "For the first time, both exchanges jointly rang their opening bells from the White House to mark the launch of Trump Accounts for children",
+          "url": "https://qz.com/trump-nyse-nasdaq-opening-bell-trump-accounts-kids-070626"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring",
+          "excerpt": "President Donald Trump on Monday promoted Dell's computers from the White House after ringing the opening bell of the stock market in the Oval Office in a first-of-its-kind joint ceremony with the New York Stock Exchange and the Nasdaq. Dell stock soared more than 7% after the president's remarks. \"Go out and buy a Dell computer,\" Trump said. It wasn't the first time he's made that pitch.…",
+          "url": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump launches \"Trump Accounts\" from Oval Office",
+          "excerpt": "Trump launches \"Trump Accounts\" from Oval Office President Trump held an event on Monday in the Oval Office to launch \"Trump Accounts,\" which will contribute an initial $1,000 to eligible children born between January 1, 2025, and December 31, 2028. Joy Wiltermuth, an assistant managing editor at MarketWatch, joins with more.",
+          "url": "https://www.cbsnews.com/video/trump-launches-trump-accounts-from-oval-office/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump participates in event marking launch of Trump Accounts",
+          "excerpt": "‘Mayday, mayday, mayday’: Seaplane makes hard landing in East River, injuring two 03:19 Watch the full Salute to America 250 fireworks show from Washington, D.C.…",
+          "url": "https://www.nbcnews.com/video/watch-live-trump-participates-in-event-marking-launch-of-trump-accounts-266220613756"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Hamas announces dissolution of Gaza governing body, paves way for technocratic committee",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Hamas announces dissolution of Gaza governing body, paves way for technocratic committee",
+          "excerpt": "The move marks a significant political shift by Hamas, which has run Gaza since its fighters seized control from rival Palestinian movement Fatah in 2007. The Palestinian militant group Hamas announced the dissolution of the body that has governed the Gaza Strip for nearly two decades on Monday, clearing the way for a technocratic committee to implement civilian rule.…",
+          "url": "http://www.euronews.com/2026/07/06/hamas-announces-dissolution-gaza-governing-body-paves-way-for-technocratic-committee"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Hamas dissolves Gaza governing body, clearing way for technocratic committee",
+          "excerpt": "The Palestinian movement Hamas announced Monday that it had dissolved its governing body in the Gaza Strip after nearly 20 years in power, paving the way for a technocratic committee to administer the territory.",
+          "url": "https://www.france24.com/en/middle-east/20260706-hamas-dissolves-gaza-governing-body-clearing-way-for-technocratic-committee"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Hamas announces dissolution of Gaza governing body",
+          "excerpt": "Hamas announces dissolution of Gaza governing body A Palestinian technocratic committee will take its place to manage the enclave’s day-to-day governance. The Palestinian group Hamas has announced the dissolution of the body that has governed Gaza for nearly two decades, paving the way for a technocratic committee to implement civilian rule in the war-ravaged, besieged territory.…",
+          "url": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "The U.S. faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "The U.S. faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
+          "excerpt": "The U.S. striker Folarin Balogun is expected to start against Belgium in a Round of 16 match after a surprise decision by FIFA to allow him to play despite receiving a red card last week.",
+          "url": "https://www.npr.org/2026/07/06/nx-s1-5879131/2026-world-cup-fifa-usmnt-belgium-round-of-16"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "FIFA World Cup round of 16: Bracket, schedule, Portugal vs Spain prediction",
+          "excerpt": "FIFA World Cup round of 16: Bracket, schedule, Portugal vs Spain prediction Round of 16 continues as Portugal-Spain rivalry renews before USA take on Belgium. The FIFA World Cup round of 16 continues on Monday with two heavyweight clashes as Portugal renew their rivalry with Spain before USA take on Belgium for a place in the quarterfinals.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/6/fifa-world-cup-round-of-16-bracket-schedule-portugal-vs-spain-prediction?traffic_source=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "US to face Belgium in World Cup showdown as star striker's red card ban lifted",
+          "excerpt": "USMNT set for showdown against Belgium in World Cup round of 16 match Striker Folarin Balogun is eligible to play after his one-game ban was lifted. The U.S. men's national team is set to face Belgium on Monday night in the World Cup round of 16 with star striker Folarin Balogun eligible to play after his one-game suspension was put on hold by FIFA.…",
+          "url": "https://abcnews.com/GMA/Culture/usmnt-set-showdown-belgium-world-cup-round-16/story?id=134450328"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Anthropic To Lease TeraWulf Data Centre",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Anthropic To Lease TeraWulf Data Centre",
+          "excerpt": "Artificial intelligence (A.I.) startup company Anthropic has signed a 20-year lease to use a TeraWulf (NASDAQ: $WULF) data centre located in Kentucky. The data center, located about an hour south of Louisville, will have capacity for 400 megawatts of power when it comes online in the second half of 2027. The lease is expected to generate around $19 billion U.S. of revenue for TeraWulf.…",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-lease-terawulf-data-centre-134300232.html"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Anthropic signed a 20-year lease for a former crypto miner's data center",
+          "excerpt": "The AI company will occupy about 401 MW of capacity at TeraWulf's Justified Data campus in Hawesville, with first power delivery expected in late 2027",
+          "url": "https://qz.com/anthropic-terawulf-kentucky-data-center-lease-070626"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
+          "excerpt": "Anthropic on Monday signed a 20-year lease to use a TeraWulf data center in Kentucky. The data center, located about an hour southwest of Louisville in Hawesville, will have capacity of around 400 megawatts with first power delivery expected in the second half of 2027. TeraWulf shares soared more than 16% in premarket trading.…",
+          "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+          "excerpt": "Wildfires raging across southern Europe have forced thousands to flee their homes and prompted officials to ban spectators from a stage of the Tour de France, amid warnings of “powder keg” conditions after a record-breaking early summer heatwave. Hundreds of firefighters are tackling blazes that have burned through almost 20,000 hectares (49,500 acres) in Portugal, Spain, France and Greece.…",
+          "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Thousands flee homes as wildfires rage in southern Europe",
+          "excerpt": "Thousands of people have been evacuated from their homes as wildfires burn through large areas of southern Europe, including in popular holiday destinations.",
+          "url": "https://news.sky.com/story/thousands-flee-homes-as-wildfires-rage-in-southern-europe-13560972"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Firefighters battle wildfires across southern Europe",
+          "excerpt": "Firefighters battle wildfires across southern Europe July 6, 2026Wildfires across Portugal, Spain, France, Greece and other countries have forced mass evacuations and threatened the Tour de France.…",
+          "url": "https://www.dw.com/en/firefighters-battle-wildfires-across-southern-europe/a-77851007?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "'Like we won a final': England savour dramatic win and other World Cup news",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "'Like we won a final': England savour dramatic win and other World Cup news",
+          "excerpt": "England has won a nerve-racking World Cup classic 3-2 against Mexico on July 6 to reach the quarterfinals, after Jude Bellingham scored two goals and Harry Kanes scored a penalty. Norway has also made history by reaching the round of 8 for the first time, after disqualifying Brazil. FRANCE 24's James Vasina tells us more on what to know from the latest on the World Cup.",
+          "url": "https://www.france24.com/en/like-we-won-a-finale-england-savour-dramatic-win-and-other-world-cup-news"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Joy for England fans after dramatic World Cup victory",
+          "excerpt": "Cheers of joy went up in London early on Monday as supporters celebrated England advancing to the next round of the World Cup. Footage from London shows jubilant fans cheering, singing and embracing after the final whistle.…",
+          "url": "http://www.euronews.com/video/2026/07/06/joy-for-england-fans-after-dramatic-world-cup-victory"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Erling Haaland cements superstar status, scores twice in Norway’s 2-1 win over Brazil",
+          "excerpt": "EAST RUTHERFORD, N.J. — For much of Sunday afternoon, Norway’s 6-foot-5 superstar Erling Haaland roamed the field, biding his time against Brazil, waiting for his moment to strike. He stood about a half-foot taller than most of the Brazilians. But they swarmed and bottled him up until the 79th minute, when his chance came in an instant.…",
+          "url": "https://www.nbcnews.com/sports/soccer/erling-haaland-norway-brazil-world-cup-soccer-rcna353080"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Microsoft’s Xbox to Cut 3,200 Jobs as Part of Massive Reorganization",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Microsoft’s Xbox to Cut 3,200 Jobs as Part of Massive Reorganization",
+          "excerpt": "Microsoft Corp.'s Xbox plans to eliminate 3,200 jobs, or around 20% of its staff over the next year, as part of a massive reorganization to spur growth in the struggling gaming division. Jason Schreier reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-in-massive-reset-video"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+          "excerpt": "Microsoft is eliminating 4,800 jobs, representing 2.1% of its workforce, with the company's Xbox division losing about one-fifth of its staff in the software giant's latest effort to cut costs in the era of artificial intelligence.…",
+          "url": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Microsoft is cutting 4,800 jobs as Xbox plans to spin off 4 game studios",
+          "excerpt": "Xbox CEO Asha Sharma said the division's business \"is not healthy\" and will cut roughly 20% of its staff through fiscal year 2027",
+          "url": "https://qz.com/microsoft-layoffs-xbox-studios-spinoff-070626"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Details emerge about Taylor Swift and Travis Kelce's wedding at Madison Square Garden",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Details emerge about Taylor Swift and Travis Kelce's wedding at Madison Square Garden",
+          "excerpt": "Details emerge about Taylor Swift and Travis Kelce's wedding at Madison Square Garden PEOPLE editor-in-chief Charlotte Triggs talks about the details emerging regarding Taylor Swift and Travis Kelce's wedding - including what it looked like inside Madison Square Garden and who was invited.",
+          "url": "https://www.cbsnews.com/video/details-emerge-about-taylor-swift-travis-kelce-wedding/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Taylor Swift and Travis Kelce Guests Spill Wedding Secrets",
+          "excerpt": "Jenna Wishes Her Dad George W. Bush a Happy 80th Birthday 00:53 Sisters Behind For Goodness Cakes Co.…",
+          "url": "https://www.today.com/video/taylor-swift-and-travis-kelce-guests-spill-wedding-secrets-266218053912"
         },
         {
           "source": "ABC News",
@@ -124,730 +586,527 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Ukraine hits major oil terminal in Russia's St Petersburg",
-          "excerpt": "Ukraine hits major oil terminal in Russia's St Petersburg - Published A major oil terminal in Russia's north-western city of St Petersburg was struck overnight by Ukraine, Volodymyr Zelensky has said. The Ukrainian president described it as key \"infrastructure that generates revenue for Russia's war\". Ukraine also said a major Russian naval base in the region was hit.…",
-          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-          "excerpt": "Ukraine launched a big overnight drone attack on St Petersburg and the surrounding area, hitting the city’s oil terminal and port infrastructure in the wider region. The St Petersburg governor, Alexander Beglov, said the city had been subjected to a “large-scale” drone attack that had hit its oil terminal. He said there were no casualties and the aftermath of the attack had been dealt with.…",
-          "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
-          "excerpt": "Ukrainian drones have struck an oil terminal and port in St Petersburg and the surrounding region, Russian and Ukrainian officials say.",
-          "url": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-          "excerpt": "Ukraine strikes oil terminals near St. Petersburg in Russia July 4, 2026Ukrainian drones on Saturday struck Russian oil facilities on the Baltic Sea near St. Petersburg, according to the local governor. St. Petersburg Governor Alexander Beglov said Russia's second-largest city had come under a \"large-scale\" drone attack, but there were no casualties.…",
-          "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Chinese underground church figure Jin Mingri freed from prison",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Chinese underground church figure Jin Mingri freed from prison",
-          "excerpt": "Chinese underground church figure Jin Mingri freed from prison - Published Underground church leader Jin Mingri has been released from prison in China and has travelled to the US, less than two months after his incarceration was raised directly by Donald Trump.…",
-          "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Pastor freed from prison in China weeks after Trump requested his release",
-          "excerpt": "A pastor of a prominent underground church who was detained in China in October has been released, less than two months after U.S. President Donald Trump brought up his case when meeting Chinese leader Xi Jinping.",
-          "url": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "China frees pastor after Trump raised case with Xi",
-          "excerpt": "China frees pastor after Trump raised case with Xi July 5, 2026China released underground church pastor Ezra Jin Mingri, who had been detained since October, his family and rights groups said on Sunday after he arrived in Los Angeles. The release came less than two months after US President Donald Trump raised Jin's case with his Chinese counterpart Xi Jinping during a visit to Beijing.…",
-          "url": "https://www.dw.com/en/china-frees-pastor-after-trump-raised-case-with-xi/a-77836084?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Chinese pastor freed after Donald Trump raised issue of his release with Xi Jinping",
-          "excerpt": "A Chinese pastor has been released from jail after Donald Trump intervened to get him freed, in what his family have described as a \"miracle\".",
-          "url": "https://news.sky.com/story/chinese-pastor-freed-after-donald-trump-raised-issue-of-his-release-with-xi-jinping-13560578"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Mourners vow revenge on Trump at funeral of Iran’s former supreme leader Ali Khamenei",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Mourners vow revenge on Trump at funeral of Iran’s former supreme leader Ali Khamenei",
-          "excerpt": "Calls for the killing of Donald Trump were made beside the coffin of the assassinated former Iranian supreme leader Ali Khamenei at a packed prayer hall in Tehran on Sunday. Iran is staging a week of mass funeral processions for Khamenei, who was killed along with other members of his family on the first day of the US and Israeli war on 28 February. The funeral was delayed due to the war.…",
-          "url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-          "excerpt": "Live updatesLive updates, Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting Published On 5 Jul 2026 - Millions of people have attended funeral prayers for Iran’s late Supreme Leader Ali Khamenei and the four members of his family killed in a US-Israeli air strike on his compound on February 28.…",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Inside Tehran as funeral for late Iranian supreme leader",
-          "excerpt": "The great American experiment continues 250 years later 01:56 Trump to celebrate America’s 250th birthday with speech tonight 01:00 What we’re learning about Taylor Swift and Travis Kelce’s wedding 01:49 Now Playing Inside Tehran as funeral for late Iranian supreme leader 01:42 UP NEXT Toddler declared dead at hospital is later pronounced alive 01:44 Extreme heat impacting celebrations for America…",
-          "url": "https://www.nbcnews.com/nightly-news/video/inside-tehran-as-funeral-for-late-iranian-supreme-leader-266181701618"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Massive funeral for slain supreme leader enters second day",
-          "excerpt": "U.S.-Iran Latest: Tehran enters second day of massive funeral for slain supreme leader What to know about the Iran war today: - The dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei entered its second day on Sunday, in ceremonies marked by mass attendance and chants for revenge for the death of Iran's leader who was killed in the opening moment of the war with the U.S. in February.…",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Venezuela’s Official Death Toll From Quake Rises to Almost 3,000",
+      "category": "📈 Economy",
+      "headline_en": "Lockheed to Buy Ultra Maritime for $3.45 Billion in Sea Push",
       "coverage": 3,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Venezuela’s Official Death Toll From Quake Rises to Almost 3,000",
-          "excerpt": "Venezuela‘s official death toll from last week’s twin earthquakes rose to almost 3,000 on Saturday.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-04/venezuela-quake-death-toll-climbs-to-nearly-3-000"
+          "headline": "Lockheed to Buy Ultra Maritime for $3.45 Billion in Sea Push",
+          "excerpt": "Lockheed Martin Corp. agreed to buy naval defense business Ultra Maritime, which focuses on submarine detection systems, for $3.45 billion as the US defense giant broadens its undersea weapons portfolio.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-06/lockheed-to-buy-ultra-maritime-for-3-45-billion-in-naval-push"
         },
         {
-          "source": "France 24",
+          "source": "Quartz",
           "lang": "en",
-          "headline": "Rescue teams wind down operations as death toll nears 3,000",
-          "excerpt": "Venezuela's devastating twin earthquakes killed nearly 3,000, updated official figures showed on Saturday, as international rescue teams began winding down search operations for survivors in the rubble of the disaster. Tens of thousands more are still reported missing.",
-          "url": "https://www.france24.com/en/rescue-teams-wind-down-operations-as-death-toll-nears-3-000"
+          "headline": "Lockheed Martin is buying anti-submarine warfare firm Ultra Maritime for $3.45 billion",
+          "excerpt": "The deal gives Lockheed Martin a portfolio of sonar systems, sonobuoys, and torpedo defense technology serving allied navies",
+          "url": "https://qz.com/lockheed-martin-ultra-maritime-acquisition-3-45-billion-070626"
         },
         {
-          "source": "DW English",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Venezuela earthquake death toll nears 3,000 as hope to find survivors dims",
-          "excerpt": "Venezuela earthquake death toll nears 3,000 deaths July 5, 2026The number of deaths from Venezuela's devastating twin earthquakes have jumped to at least 2,954, an updated official count showed Saturday. The death toll has risen by over 300 since Friday, with more than 16,500 people injured in last month's disaster. Thousands remain unaccounted for.…",
-          "url": "https://www.dw.com/en/venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors-dims/a-77835156?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "David Rubenstein Talks Legacy with \"Thomas Jefferson\"",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "David Rubenstein Talks Legacy with \"Thomas Jefferson\"",
-          "excerpt": "For the 4th of July, Bloomberg's David Rubenstein sat down with Bill Barker, a historical actor-interpreter of Thomas Jefferson. As part of the Thomas Jefferson Foundation at Monticello, Barker discusses with Rubenstein, in character as Thomas Jefferson, the founding fathers public service, legacy, and symbolism. Watch the interview on Bloomberg This Weekend. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-04/david-rubenstein-talks-legacy-with-thomas-jefferson-video"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "The moral test US founding father Thomas Jefferson failed?",
-          "excerpt": "The moral test US founding father Thomas Jefferson failed? July 4, 2026The bronze statue of the man in 18th-century clothing gazes into the distance. The statue stands in the US capital, Washington, and is a likeness of Thomas Jefferson.…",
-          "url": "https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Thomas Jefferson's descendants wrestle with complicated family legacy",
-          "excerpt": "Thomas Jefferson's descendants wrestle with complicated family legacy Descendants of America's third president, Thomas Jefferson, grapple with history and belonging.…",
-          "url": "https://abcnews.com/video/134481691/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "France to face Morocco in quarter-final showdown",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "France to face Morocco in quarter-final showdown",
-          "excerpt": "Kylian Mbappe scored from the penalty spot as France overcame searing heat and stubborn defence to beat Paraguay 1-0 and set up a World Cup quarter-final against Morocco on Saturday.",
-          "url": "https://www.france24.com/en/france-to-face-morocco-in-quarter-final-showdown"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
-          "excerpt": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie Kylian Mbappe moves level with Lionel Messi on seven goals at World Cup 2026 as France beat Paraguay 1-0 in the last 16. France needed a second-half Kylian Mbappe penalty to break down a stubborn Paraguay side, winning a niggly World Cup last-16 clash 1-0 to set up a quarterfinal showdown with Morocco.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
-          "excerpt": "Watch World Cup Day 24: France and Morocco advance to quarterfinals Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 5 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-          "url": "https://www.aljazeera.com/video/2026/7/5/video-world-cup-2026-highlights?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "World Cup 2026: Mbappé sends Les Bleus into quarterfinals after hard-fought win over Paraguay",
-          "excerpt": "World Cup 2026: Mbappé sends Les Bleus into quarterfinals after hard-fought win over Paraguay France edged past a stubborn and physical Paraguay side thanks to a penalty kick by Kylian Mbappé (1-0), sealing their place in the World Cup 2026 quarterfinals after a frustrating but dominant display. They will take on Morocco on Thursday.…",
-          "url": "https://www.france24.com/en/sport/20260704-world-cup-2026-mbapp%C3%A9-sends-les-bleus-into-quarterfinals-after-hard-fought-win-over-paraguay"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "8 people, including 4 children, injured in July 4th shooting",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "8 people, including 4 children, injured in July 4th shooting",
-          "excerpt": "8 people, including 4 children, injured in July 4th shooting in Coney Island At least 8 people were injured in a shooting, including four children, in Coney Island, New York late on July 4th, police said. The NYPD told CBS News a 21-year-old woman is in critical condition after being shot in the chest while the remaining are in a stable condition.…",
-          "url": "https://www.cbsnews.com/news/shooting-coney-island-july-4/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Eight people shot in Coney Island, including four children, NYPD says",
-          "excerpt": "At least eight people, including four children, were shot late Saturday night in Brooklyn’s Coney Island, leaving one woman in critical condition. Officers responded to reports of multiple people shot at about 10:37 p.m., according to a New York Police Department statement. Upon arrival, eight victims suffering from gunshot wounds were found at the scene and were transported to nearby hospitals.…",
-          "url": "https://www.nbcnews.com/news/us-news/eight-people-shot-coney-island-four-children-nypd-rcna353013"
+          "headline": "Lockheed Martin to buy naval defense firm Ultra Maritime for $3.45 billion",
+          "excerpt": "Defense heavyweight Lockheed Martin said Monday it will buy naval defense group Ultra Maritime for $3.45 billion. CNBC reported earlier in the day that Lockheed Martin was leading the race to buy Ultra for roughly $3.5 billion, and that Guggenheim and JPMorgan were advising on the sell side.…",
+          "url": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "US Flyover Showcases Next-Generation Airpower",
-      "coverage": 2,
+      "headline_en": "Morgan Stanley’s Wilson Sees Rotation From Chips to Hyperscalers",
+      "coverage": 3,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "US Flyover Showcases Next-Generation Airpower",
-          "excerpt": "Retired US Army Colonel Wayne Sanders joins Bloomberg This Weekend during the 4th of July Naval Review and tall ships parade, 'Sail4th 250' taking place in the Hudson River. Col. Sanders explains to David Gura and Christina Ruffini how this show on the Hudson underscores US military capabilities in stealth and surveillance. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-04/us-flyover-showcases-next-generation-airpower-video"
+          "headline": "Morgan Stanley’s Wilson Sees Rotation From Chips to Hyperscalers",
+          "excerpt": "US stocks will struggle to reach new highs as investors rotate out of some of this year’s biggest winning technology trades, according to Morgan Stanley strategists.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-06/morgan-stanley-s-wilson-sees-rotation-from-chips-to-hyperscalers"
         },
         {
-          "source": "ABC News",
+          "source": "Yahoo Finance",
           "lang": "en",
-          "headline": "WATCH:  Vessels from around the world participate in parade of tall ships up Hudson River",
-          "excerpt": "Vessels from around the world participate in parade of tall ships up Hudson River In one of the most spectacular sights on this Fourth of July, a parade of tall ships sailed up the Hudson River in New York City in the largest maritime parade in modern history.…",
-          "url": "https://abcnews.com/video/134482991/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-          "excerpt": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler - Published Taylor Swift and Travis Kelce have officially tied the knot at New York's Madison Square Garden, in a star-studded ceremony officiated by actor Adam Sandler. The pair wore Christian Dior, Swift's publicist said, and did not have bridesmaids and groomsmen.…",
-          "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss"
+          "headline": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says",
+          "excerpt": "July 6 (Reuters) - Morgan Stanley said the recent weakness in U.S. semiconductor stocks is a sign that the market gains are broadening, with investors likely to turn toward AI \"hyperscalers\" as well as consumer discretionary, transport and biotechnology shares.…",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investors-may-pivot-hyperscalers-133026207.html"
         },
         {
-          "source": "Time",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Adam Sandler Officiated Taylor Swift’s Wedding. What’s His Connection to the Famous Couple?",
-          "excerpt": "At the star-studded wedding of Taylor Swift and Travis Kelce, one celebrity in particular stood out from the pack––the officiant: comedian and actor Adam Sandler. Sandler, best known for his leading roles in movies such as Uncut Gems and 50 First Dates, has connections to both the bride and groom going back years.…",
-          "url": "https://time.com/article/2026/07/04/adam-sandler-officiated-taylor-swift-s-wedding-what-s-his-connection-to-the-famous-couple-/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Семь стран ОПЕК+ начали встречу, на которой обсудят план по добыче нефти в августе",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Семь стран ОПЕК+ начали встречу, на которой обсудят план по добыче нефти в августе",
-          "excerpt": "Во встрече участвуют Россия, Саудовская Аравия, Ирак, Казахстан, Алжир, Оман и Кувейт",
-          "url": "https://tass.ru/mezhdunarodnaya-panorama/27887225"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Страны ОПЕК+ увеличили квоты по добыче нефти на август на 188 тыс. б/с",
-          "excerpt": "Страны ОПЕК+ увеличили квоты по добыче нефти на август на 188 тыс. б/с Москва. 5 июля. INTERFAX.RU - Семь стран ОПЕК+, которые добровольно к квотам всех стран дополнительно сокращают добычу (Саудовская Аравия, Россия, Ирак, Кувейт, Казахстан, Алжир и Оман), приняли решение увеличить квоты по добыче нефти на 188 тыс. баррелей в сутки, говорится в пресс-релизе ОПЕК.…",
-          "url": "https://www.interfax.ru/business/1101276"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Pope urges Europe to do more for migrants as he visits gateway island",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Pope urges Europe to do more for migrants as he visits gateway island",
-          "excerpt": "Pope urges Europe to do more for migrants as he visits gateway island - Published Pope Leo XIV has called on European leaders to rise to the \"momentous challenge\" of handling migration as he visited the Italian island of Lampedusa.…",
-          "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Pope Leo calls on Europe to do more for migrants",
-          "excerpt": "Pope Leo calls on Europe to do more for migrants July 4, 2026Pope Leo urged European leaders to do more to protect and integrate migrants. His remarks came during a day trip to Lampedusa, Italy, a gateway for migrants risking dangerous Mediterranean crossings into Europe from Africa.…",
-          "url": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "WATCH:  Eagle-eye view of the Great American Fair",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Eagle-eye view of the Great American Fair",
-          "excerpt": "Eagle-eye view of the Great American Fair ABC News' Chief White House Correspondent Mary Bruce is atop the 110-foot-tall Ferris wheel that is the centerpiece of the Great American Fair.…",
-          "url": "https://abcnews.com/video/134468908/"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "A look at the Great American State Fair, complete with a rodeo, flyovers and food",
-          "excerpt": "A look at the Great American State Fair, complete with a rodeo, flyovers and food There's no one way to celebrate American independence, but in Washington, D.C., attendees from across the country visited the Great American State Fair. Kelly O'Grady has more.",
-          "url": "https://www.cbsnews.com/video/look-great-american-state-fair-complete-rodeo-flyovers-food/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump celebrates July 4th in National Mall address, repeatedly touches on politics",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump celebrates July 4th in National Mall address, repeatedly touches on politics",
-          "excerpt": "Trump celebrates Fourth of July in National Mall address, repeatedly touches on politics Weather delayed Trump's address celebrating America's 250th birthday.…",
-          "url": "https://abcnews.com/Politics/trump-hold-rally-celebrate-july-fourth-washington/story?id=134374334"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump touts American \"golden age\", attacks communism in July 4th speech",
-          "excerpt": "In a speech delayed by a two-hour evacuation of the National Mall due to severe weather, President Trump mixed politics with history.",
-          "url": "https://www.cbsnews.com/news/trump-july-4-speech-washington-dc/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
-          "excerpt": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\" President Trump on Friday announced pardons for six people whom he said had been wrongfully prosecuted for \"fixing their car\" in what he called an act of \"weaponization and stupidity\" by federal prosecutors. \"I AM SETTING THEM ALL FREE, RIGHT NOW!,\" Trump wrote in a post on Truth Social.…",
-          "url": "https://www.cbsnews.com/news/trump-announces-pardons-pollution-violators-fixing-their-car/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US: President Trump pardons 11 people, including Clean Air Act violators",
-          "excerpt": "US: President Trump pardons 11 people July 4, 2026US President Donald Trump on Friday issued pardons for a total of 11 people, including 9 individuals convicted of violating the Clean Air Act by circumventing emission controls on vehicles. Those pardoned also included a former business partner of disgraced Washington lobbyist Jack Abramoff.…",
-          "url": "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "German riot police clash with protesters hoping to block far-right AfD conference",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "German riot police clash with protesters hoping to block far-right AfD conference",
-          "excerpt": "Riot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfurt in Germany, where thousands met to block roads and prevent AfD delegates from attending the party’s biennial national conference to elect its leadership.…",
-          "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Germany news: AfD elects leaders amid massive protests",
-          "excerpt": "Germany news: AfD elects leaders amid massive protests Published July 4, 2026last updated July 5, 2026What you need to know - Anti-immigration AfD holding two-day party conference in eastern city of Erfurt - Anti-AfD protesters block roads, stage rallies in Erfurt - Germany's foreign minister warns China over reports of training Russian soldiers - Large fire in Stuttgart extinguished after raging …",
-          "url": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-          "excerpt": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race - Published France is in a state of nervous excitement as it awaits Tuesday's court verdict that will determine whether nationalist frontrunner Marine Le Pen can stand in next year's presidential election. Rarely in a judicial decision in France have the political stakes been higher.…",
-          "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Marine Le Pen appeal verdict: Will the far-right leader be barred from the French presidency?",
-          "excerpt": "Far-right leader Marine Le Pen’s political fate will be decided on Tuesday when a Paris appeals court rules on whether she is eligible to run in the 2027 presidential elections, a verdict with major implications for France's future. Le Pen is appealing her 2025 conviction for embezzling European Parliament funds to pay employees in her party.",
-          "url": "https://www.france24.com/en/france/20260705-marine-le-pen-appeal-will-she-be-barred-from-running-for-french-presidency"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "DOJ Seeks Surprisingly Lenient Sentence in $100 Million Deli Stock Fraud",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "DOJ Seeks Surprisingly Lenient Sentence in $100 Million Deli Stock Fraud",
-          "excerpt": "Federal prosecutors have recommended a prison term of as little as 1 year for a man whose penny-stock scam turned a small New Jersey deli into a $100 million shell company. Sentencing guidelines call for up to 87 months.",
-          "url": "https://www.inc.com/kevin-haynes/doj-seeks-surprisingly-lenient-sentence-in-100-million-deli-stock-fraud/91369793"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
-          "excerpt": "Federal prosecutors are recommending a relatively light prison sentence for a man who pleaded guilty to securities fraud in the notorious $100 million New Jersey deli stock manipulation case — and some of their reasons for doing so are hidden. The U.S.…",
-          "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
-          "excerpt": "The husband of former House Speaker Nancy Pelosi was involved in a hit-and-run in California that left a parked car with \"major\" damage, authorities said Saturday.",
-          "url": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Rep. Nancy Pelosi's husband suspected in Napa County hit-and-run",
-          "excerpt": "Husband of former House Speaker Nancy Pelosi suspected in Napa County hit-and-run Paul Pelosi, the husband of former House Speaker Nancy Pelosi, is suspected of crashing into a parked car and driving away from the scene Friday afternoon in Northern California, the Napa County Sheriff's Office said. Pelosi allegedly struck a vehicle on the 6700 block of Yount Street in Yountville, around 2:30 p.m.…",
-          "url": "https://www.cbsnews.com/news/husband-of-former-speaker-nancy-pelosi-suspected-napa-county-hit-and-run/"
+          "headline": "Mike Wilson Sees Semiconductor Stocks Correcting",
+          "excerpt": "Morgan Stanley Chief US Equity Strategist Mike Wilson says investors are rotating out of some of the year's biggest winning technology trades. He says hyperscalers will stabilize and semiconductors stocks will correct. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-06/mike-wilson-sees-semiconductor-stocks-correcting-video"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "coverage": 2,
+      "headline_en": "Bentley Torcal EV: Price, Specs, Availability",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "TechCrunch",
+          "source": "Wired",
           "lang": "en",
-          "headline": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-          "excerpt": "As part of an ongoing legal dispute with three Hollywood studios, AI startup Midjourney is seeking to compel those studios to reveal how they use AI themselves. Disney and Universal sued Midjourney for alleged copyright infringement last year, noting that the startup’s image-generation models could create images of characters, such as Bart Simpson and Darth Vader, who are owned by the studios.…",
-          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+          "headline": "Bentley Torcal EV: Price, Specs, Availability",
+          "excerpt": "Bentley has a name for its first fully electric car: Torcal. The British marque confirmed this today, alongside a teaser image of the EV's rear, promising a full reveal on September 23. Far more important than the name, however, is that this is Bentley's first ever full electric car.…",
+          "url": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Bentley teases its first EV, the Torcal",
+          "excerpt": "Bentley is preparing to add a fourth model to its rarified lineup, and today we know what it will be called: the Torcal. The carmaker has been working on its first electric vehicle for a while now; it was seen testing in the Arctic Circle late last year, giving us a sneak peek at the interior. A few weeks ago, another example was spotted at the Nürburgring.…",
+          "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/"
         },
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "Midjourney wants the Hollywood studios that sued it to show the court how they use AI",
-          "excerpt": "Midjourney wants the Hollywood studios that sued it to show the court how they use AI The image generator argued that the companies are also training their AI on copyrighted data. Midjourney wants to see how Warner Bros.…",
-          "url": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-          "excerpt": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
-          "url": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Cape Verde fans stand proud despite Argentina defeat",
-          "excerpt": "Cape Verde fans gathered for a public screening in the capital, Praia, to cheer on their team despite a dramatic 3-2 extra-time defeat to Argentina in the World Cup. Supporters said simply reaching the tournament and pushing the defending champions to the limit was a remarkable achievement for the island nation.…",
-          "url": "http://www.euronews.com/video/2026/07/04/cape-verde-fans-stand-proud-despite-argentina-defeat"
+          "headline": "Bentley teases the Torcal, its first electric vehicle",
+          "excerpt": "Bentley teases the Torcal, its first electric vehicle It will launch officially on September 23 in London. Bentley has confirmed that it will finally add an electric car to its lineup. The luxury British automaker (now owned by Volkswagen) displayed a teaser image of its new EV, called the Torcal, and said it would be fully revealed in London on September 23rd.…",
+          "url": "https://www.engadget.com/2208295/bentley-teases-the-torcal-its-first-electric-vehicle/"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "For one small business, AI was key to a quick start and expansion",
+      "headline_en": "Son bets the house on AI",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Son bets the house on AI",
+          "excerpt": "The veteran investor has put himself at the centre of the global AI boom. Some think he now has too much control",
+          "url": "https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Why Vertiv and Eaton Are the Ultimate Infrastructure Plays for the AI Boom",
+          "excerpt": "While software providers and chipmakers grab the biggest headlines, the artificial intelligence (AI) revolution is fundamentally a hardware story. The massive computing clusters required for artificial intelligence cannot run without two critical elements: staggering amounts of electrical power and highly sophisticated cooling systems.…",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-vertiv-eaton-ultimate-infrastructure-142400179.html"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "This Is Where the Actual AI Bubble Is Hiding",
+          "excerpt": "Earnings estimates are outpacing valuations in the AI boom.",
+          "url": "https://www.inc.com/phil-rosen/stock-market-outlook-investing-ideas-micron-sandisk-equities-2/91369663"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump says \"we don't want communists\" in Fourth of July speech",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump says \"we don't want communists\" in Fourth of July speech",
+          "excerpt": "Trump says \"we don't want communists\" in Fourth of July speech In his Fourth of July speech on the National Mall, President Trump mentioned \"communists\" at least half a dozen times. He had similar messaging at Mount Rushmore on Friday. Nancy Cordes has more.",
+          "url": "https://www.cbsnews.com/video/trump-says-we-dont-want-communists-in-fourth-of-july-speech/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "'The American Dream is back,' Trump says during Fourth of July speech",
+          "excerpt": "\"Our warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America,\" Trump told a cheering crowd. US President Donald Trump delivered a speech from the National Mall in Washington, D.C. on Saturday as Americans celebrated the 250th anniversary of the country's independence.…",
+          "url": "http://www.euronews.com/2026/07/05/the-american-dream-is-back-trump-says-during-fourth-of-july-speech"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump's God, guns and anticommunist Fourth of July",
+          "excerpt": "President Trump championed American military might, a Christian U.S. and his top legislative goal in a delayed Fourth of July speech from the National Mall, wrapping just minutes before the calendar switched to Sunday morning.…",
+          "url": "https://www.axios.com/2026/07/05/trump-fourth-of-july-speech-delayed"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+          "excerpt": "Huge crowds fill Tehran streets for Khamenei's funeral procession - Published Huge crowds have lined the streets of Tehran for the funeral procession of Iran's late supreme leader, Ayatollah Ali Khamenei, who was killed on the first day of the war with the US and Israel.…",
+          "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
+          "excerpt": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei Enormous crowds gather in Tehran for third day to mourn as authorities and Khamenei’s supporters call for revenge against the US and Israel.…",
+          "url": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "'Genuine admiration and emotion' in Tehran's streets as Iran mourns supreme leader",
+          "excerpt": "Vast crowds have gathered for the funeral procession of Iran's slain supreme leader Ali Khamenei in Tehran on July 6, with authorities estimating millions were on the streets. The final public tribute is expected to last around 10 hours. FRANCE 24's Reza Sayah tells us more on what to know.",
+          "url": "https://www.france24.com/en/genuine-admiration-and-emotion-in-tehran-s-streets-as-iran-mourns-supreme-leader"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "SK Hynix Awaits US Debut, Trump Set to Travel to NATO Meeting | The Opening Trade 7/6/2026",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "SK Hynix Awaits US Debut, Trump Set to Travel to NATO Meeting | The Opening Trade 7/6/2026",
+          "excerpt": "This week’s $28 billion US stock-market listing for SK Hynix Inc. may be the biggest-ever first-time share sale by a foreign company, but it isn’t just about raising cash. It’s also about competing in the hottest corner of the global stock market &mdash; memory chips used in AI computing.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-06/the-opening-trade-7-6-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "South Korea's SK Hynix, Samsung to Put AI Trade to the Test | The Pulse 7/6/2026",
+          "excerpt": "South Korea’s memory giants will put the artificial-intelligence trade to yet another test this week. Samsung releases earnings on Tuesday. Investors are also getting ready for SK Hynix’s massive US listing days later.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-06/the-pulse-7-6-2026-video"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "What we know about Prince Harry's visit to the U.K. amid security dispute",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "What we know about Prince Harry's visit to the U.K. amid security dispute",
+          "excerpt": "What we know about Prince Harry's visit to the U.K. amid security dispute Prince Harry is arriving in London on Monday for a series of events linked to the Invictus Games. He was planning to bring Meghan and their two children for the first time in four years, but the BBC reports he is no longer doing that over a security dispute. Leigh Kiniry reports.",
+          "url": "https://www.cbsnews.com/video/what-we-know-about-prince-harrys-visit-to-the-uk-amid-security-dispute/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Prince Harry’s U.K. trip sparks fresh dispute over Buckingham Palace stay",
+          "excerpt": "LONDON — Britain’s Prince Harry will likely not be staying at the monarch’s longtime official residence when he visits London later this week, his spokesman said on Monday, in the latest twist in the his turbulent relationship with his royal relations.…",
+          "url": "https://www.nbcnews.com/world/united-kingdom/prince-harry-buckingham-palace-uk-trip-charles-rcna353110"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Micron signs long-term memory chip supply deal with Ford",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Yahoo Finance",
           "lang": "en",
-          "headline": "For one small business, AI was key to a quick start and expansion",
-          "excerpt": "By Howard Schneider WASHINGTON, July 4 (Reuters) - Here Now Health isn't an AI-based company, but its quick path from an idea in founder Michelle Turner's mind to an operating mental health platform for foster children relied deeply on the technology now restructuring the U.S. economy.…",
-          "url": "https://finance.yahoo.com/small-business/articles/one-small-business-ai-key-100159658.html"
+          "headline": "Micron signs long-term memory chip supply deal with Ford",
+          "excerpt": "Micron Technology and Ford Motor signed a long-term supply agreement on Monday under which Micron will increase output of automotive memory chips to support Ford's next generation of vehicles. Securing a reliable pipeline of memory and storage components for Ford's vehicle production is the central aim of the deal.…",
+          "url": "https://finance.yahoo.com/technology/articles/micron-signs-long-term-memory-142246950.html"
         },
         {
-          "source": "Inc.",
+          "source": "Quartz",
           "lang": "en",
-          "headline": "5 Small-Business Ideas for Introverts",
-          "excerpt": "Prefer working solo? These small business ideas for introverts let you focus on creativity and deep work—and reduce meetings.",
-          "url": "https://www.inc.com/chris-morris/5-small-business-ideas-for-introverts/91369166"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump addresses nation and fireworks light up National Mall after storm delay",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump addresses nation and fireworks light up National Mall after storm delay",
-          "excerpt": "President Trump lauded America's storied history on Saturday night in a speech marking the 250th anniversary of its independence, while also praising his war in Iran, railing against \"communists,\" and vowing to restrict mail-in ballots.",
-          "url": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Trump lauds Americans in storm-delayed 250th anniversary speech",
-          "excerpt": "Trump lauds Americans in storm-delayed 250th anniversary speech Trump lauds Americans in storm-delayed 250th anniversary speech US President Donald Trump has praised the US as the ‘greatest force for peace and justice on Earth’, in a speech marking the 250th anniversary of the nation’s founding. Trump’s speech and the main celebrations were delayed by several hours by extreme thunderstorms.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-          "excerpt": "US marks 250th birthday with fireworks, flyovers and extreme weather - Published The US has marked its 250th birthday with fireworks and flyovers - but celebrations across the country were complicated by extreme weather.…",
-          "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US 250th Independence Day: Trump takes center stage",
-          "excerpt": "US 250th Independence Day: Trump takes center stage Published July 4, 2026last updated July 5, 2026What you need to know This blog has now closed.…",
-          "url": "https://www.dw.com/en/us-250th-independence-day-trump-takes-center-stage/live-77833580?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "NASA mission to rescue the falling Swift observatory has launched",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "NASA mission to rescue the falling Swift observatory has launched",
-          "excerpt": "NASA mission to rescue the falling Swift observatory has launched A robotic spacecraft called LINK will soon tug the telescope to a higher orbit.…",
-          "url": "https://www.engadget.com/2207959/nasa-boost-mission-rescue-falling-swift-observatory-launched/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-          "excerpt": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it’s in danger of burning up in Earth’s atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies.…",
-          "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
-          "excerpt": "The Best Wi-Fi Routers to Reach Every Corner of Your Home Featured in this article The humble router is an essential fixture in every home. Benefits extend to everything from streaming movies and online gaming to video calls. Most people can get by just fine with a single Wi-Fi router, and I’ve collected recommendations to suit different needs, spaces, and budgets.…",
-          "url": "https://www.wired.com/gallery/best-wifi-routers/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Router brands could be misleading you with that Wi-Fi 7 label",
-          "excerpt": "Router brands could be misleading you with that Wi-Fi 7 label Wi-Fi standards remain as confusing as ever. If you've thought at all about your home internet setup lately, you've surely come across Wi-Fi 7 in your research. The label is slapped on routers of all kinds, from cheap $80 options to ones that cost as much as a laptop.…",
-          "url": "https://www.engadget.com/2206012/router-brands-could-be-misleading-you-with-that-wi-fi-7-label/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Founder of prominent underground church released from prison in China",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Founder of prominent underground church released from prison in China",
-          "excerpt": "The founder of one of China’s most prominent underground churches has been released from prison and reunited with his family in the United States. Ezra Jin, the founder of Zion Church, landed in the US on Friday evening. He was one of dozens of church members who were detained in a sweeping crackdown on Christians in October.…",
-          "url": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "China releases underground church pastor after months in detention",
-          "excerpt": "China releases underground church pastor after months in detention Ezra Jin’s family says the Zion Church founder arrived in the US after months in detention in China. The founder of a prominent underground church in China has been released after months in detention, his family and a Christian rights group said.…",
-          "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump warns of communist threat as Washington parade cancelled due to heatwave",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Trump warns of communist threat as Washington parade cancelled due to heatwave",
-          "excerpt": "\"Communism is a mortal threat to American liberty,\" Trump said during a speech on Friday. \"It is the greatest threat to our country\".",
-          "url": "http://www.euronews.com/2026/07/04/trump-warns-of-communist-threat-as-washington-parade-cancelled"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump warns of communist ‘threat’ and touts America’s strength at Mount Rushmore",
-          "excerpt": "KEYSTONE, S.D. — On the eve of the 250th anniversary of America’s independence, President Donald Trump spoke at Mt.…",
-          "url": "https://www.nbcnews.com/politics/donald-trump/trump-speak-mount-rushmore-one-monument-cant-remake-rcna352734"
+          "headline": "Micron and Ford signed a long-term deal to lock in memory chip supply for next-gen vehicles",
+          "excerpt": "Micron will expand production capacity to support Ford's vehicle programs as automakers compete for tightening chip supply",
+          "url": "https://qz.com/micron-ford-memory-chip-supply-deal-070626"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "headline_en": "Chip Stocks Rally in AI Trade Revival After Plunge: Markets Wrap",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Chip Stocks Rally in AI Trade Revival After Plunge: Markets Wrap",
+          "excerpt": "A rebound in chipmakers lifted stocks as dip buyers emerged amid speculation that the artificial-intelligence trade that has powered the bull market has more room to run. The dollar rose. Oil steadied.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-05/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Tech Stocks Rebound as Dip Buyers Pounce on Chip Pullback",
+          "excerpt": "US stocks climbed on Monday as investors jumped on technology shares after the blistering artificial-intelligence trade wavered heading into the holiday weekend.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-06/tech-set-to-rebound-as-ai-leadership-faces-fresh-tests"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Critical hearing for man accused of killing conservative activist Charlie Kirk",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Critical hearing for man accused of killing conservative activist Charlie Kirk",
+          "excerpt": "Critical hearing for man accused of killing conservative activist Charlie Kirk Prosecutors on Monday aim to convince a judge at a key hearing that they have enough evidence against Tyler Robinson to go to trial and seek the death penalty. Robinson is accused of murdering conservative activist Charlie Kirk, whose widow and parents are expected to be in the courtroom. Carter Evans reports.",
+          "url": "https://www.cbsnews.com/video/critical-hearing-for-man-accused-of-killing-conservative-activist-charlie-kirk/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Prosecutors to present evidence against Charlie Kirk's alleged assassin",
+          "excerpt": "Prosecutors to present evidence against Charlie Kirk's alleged assassin, Tyler Robinson Prosecutors said they will seek the death penalty against Tyler Robinson. A crucial court hearing is expected to get underway on Monday to determine whether prosecutors have enough evidence to warrant a murder trial for the alleged assassin of conservative activist Charlie Kirk.…",
+          "url": "https://abcnews.com/US/prosecutors-present-evidence-charlie-kirks-alleged-assassin-tyler/story?id=134501574"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+          "excerpt": "Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company’s Xbox division. The significant gaming cuts will affect nearly every part of Xbox and also involve four game studios being spun off to be run independently from Microsoft.…",
+          "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Microsoft's Xbox cuts 1,600 employees, with plans to shed 20% of its workforce this year",
+          "excerpt": "Microsoft's Xbox division plans to cut 20% of its workforce this fiscal year, according to a memo new Xbox CEO Asha Sharma sent to employees on Monday. Microsoft announced plans to lay off around 4,800 employees, or 2.1% of its global workforce, on Monday, confirming Business Insider's earlier report.…",
+          "url": "https://www.businessinsider.com/xbox-cuts-employees-with-plans-to-shed-more-workforce-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
       "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-          "excerpt": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding - Published Taylor Swift and Travis Kelce's wedding took over New York City on Friday, as the star-studded ceremony drew dozens of fans outside Madison Square Garden.…",
-          "url": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss"
+          "headline": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+          "excerpt": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue - Published Australian Prime Minister Anthony Albanese has apologised \"unequivocally\" for comments he made about popstar Kylie Minogue in a podcast interview last week.…",
+          "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Australia’s PM Apologizes for ‘Inappropriate’ Comment About Kylie Minogue",
+          "excerpt": "Australia’s Prime Minister Anthony Albanese apologized “unequivocally” on Monday for insinuating in a recent podcast that he would “shag”—a vulgar term that means to have sex with—pop star Kylie Minogue.…",
+          "url": "https://time.com/article/2026/07/06/anthony-albanese-australia-prime-minister-apologizes-shag-kylie-minogue-controversy/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Teen describes seaplane's rough landing in NYC's East River: \"I thought we were going to drown\"",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Teen describes seaplane's rough landing in NYC's East River: \"I thought we were going to drown\"",
+          "excerpt": "Teen describes seaplane's rough landing in NYC's East River: \"I thought we were going to drown\" The FAA is investigating after a hard landing by a seaplane that splashed down in the East River off Midtown Manhattan. Eight people were on board, including a 16-year-old who described the terrifying moment.",
+          "url": "https://www.cbsnews.com/video/teen-describes-seaplanes-rough-landing-in-nycs-east-river-i-thought-we-were-going-to-drown/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Passengers speak out after sea plane makes hard landing in East River in NYC",
+          "excerpt": "Passengers speak out after sea plane makes hard landing in East River in NYC A Kodiak 100 seaplane with eight people on board made a hard landing into the East River near Brooklyn, New York.…",
+          "url": "https://abcnews.com/video/134511403/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
+          "excerpt": "SpaceX President Gwynne Shotwell announced she would donate to the Trump Accounts program on Monday, joining a growing list of companies and billionaires pledging to support the investment accounts for American children under 18.…",
+          "url": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Elon Musk's No. 2 says she's giving SpaceX stock to Trump Accounts",
+          "excerpt": "SpaceX president Gwynne Shotwell says she's donating company stock to Trump Accounts, days after President Donald Trump said he expected the rocket maker's shares would find their way into the children's savings program.…",
+          "url": "https://www.businessinsider.com/spacex-president-donates-stock-to-trump-accounts-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Physical media is dying. So is the idea that you own what you buy",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Physical media is dying. So is the idea that you own what you buy",
+          "excerpt": "It’s been a long time coming. Physical editions of console games have steadily lost ground to digital versions, and more than one in four PlayStation 5 consoles sold in the United States since launch are now digital-only models, up from 18% in October 2024. Sony has seen where the market is headed.…",
+          "url": "https://www.fastcompany.com/91568840/physical-media-is-dying-so-is-the-idea-that-you-own-what-you-buy"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Sony says it will still make physical discs after 2028, as long as the game came out before then",
+          "excerpt": "Sony says it will still make physical discs after 2028, as long as the game came out before then Anything released after 2028 will still be digital-only. Sony's move to abandon physical game discs may have elicited the \"Everyone disliked that\" response from the gaming world, but there's a small consolation for game developers.…",
+          "url": "https://www.engadget.com/2208083/sony-will-make-physical-discs-after-2028-if-game-came-out-before-then/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Xbox To Lay Off 3,200 Workers, And Five Studios Will Leave The Brand",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Xbox To Lay Off 3,200 Workers, And Five Studios Will Leave The Brand",
+          "excerpt": "The industry has been bracing for large-scale Xbox layoffs in the wake of a new administration running the brand. Today, those layoffs have arrived, and they are some of the largest in video game industry history. Xbox CEO Asha Sharma has announced that Microsoft will lay off around 3,200 workers over the next fiscal year, with 1,600 roles being affected today alone.…",
+          "url": "https://www.forbes.com/sites/paultassi/2026/07/06/xbox-to-lay-off-3200-workers-every-studio-affected/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Xbox confirms plans to lay off 3,200 workers over the next year",
+          "excerpt": "Xbox confirms plans to lay off 3,200 workers over the next year Half of the job cuts are taking place immediately while four studios are moving to new ownership. As expected, Microsoft is gutting its Xbox teams once again.…",
+          "url": "https://www.engadget.com/2208480/xbox-confirms-plans-to-lay-off-3200-workers-over-the-next-year/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "OPEC+ Emerges From War to Threat of Oil Surplus",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Miss Americana and the Football Prince",
-          "excerpt": "America doesn't have royalty, but it has pop stars and sports stars. Journalist Brittany Spanos said Taylor Swift's relationship, now officially a marriage, with Travis Kelce reflects a new, more public phase of the singer's personal life and underscores the cultural impact of pairing two of America's biggest stars. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-04/miss-americana-and-the-football-prince-video"
+          "headline": "OPEC+ Emerges From War to Threat of Oil Surplus",
+          "excerpt": "Key members have agreed on another production hike, yet there may be little need for the extra barrels.",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-06/opec-emerges-from-war-to-threat-of-oil-surplus"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "OPEC+ is raising oil output for a fifth straight month as Strait of Hormuz shipping recovers",
+          "excerpt": "Seven core members agreed to add 188,000 barrels per day in August, continuing a gradual unwinding of 2023 production cuts",
+          "url": "https://qz.com/opec-plus-output-hike-fifth-month-hormuz-070626"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Gold Falls as Traders Assess Fed Rate Outlook Ahead of Minutes",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Gold Falls as Traders Assess Fed Rate Outlook Ahead of Minutes",
+          "excerpt": "Gold dropped as traders weighed the outlook for the Federal Reserve’s interest rate path at the start of a week in which the minutes of the US central bank’s last meeting are expected to shed light on policymakers’ thinking.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-05/gold-steadies-after-weekly-gain-as-rate-hike-worries-recede"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Chip stocks are trying to bounce back. The Dow is near 53,000. Fed minutes are coming",
+          "excerpt": "Federal Reserve minutes from Kevin Warsh's inaugural meeting as the central bank's chair will be released this week",
+          "url": "https://qz.com/dow-futures-53000-chip-stocks-fed-minutes-warsh-070626"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "В Словакии не удалось провести референдум по лишению Фицо пожизненных выплат",
+      "headline_en": "Cargo ship reports being attacked in the Red Sea, maritime agency says",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "В Словакии не удалось провести референдум по лишению Фицо пожизненных выплат",
-          "excerpt": "В Словакии не удалось провести референдум по лишению Фицо пожизненных выплат Москва. 5 июля. INTERFAX.RU - В Словакии из-за низкой явки признан несостоявшимся референдум по вопросу лишения пожизненных выплат премьера страны Роберта Фицо, сообщает Associated Press. Явка составила всего 16,1% при необходимых 50%. Сам Фицо не принимал участия в голосовании.…",
-          "url": "https://www.interfax.ru/world/1101252"
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Cargo ship reports being attacked in the Red Sea, maritime agency says",
+          "excerpt": "\"Vessels are advised to transit with caution and report any suspicious activity to UKMTO,\" the agency said. A cargo ship reported coming under attack in the Red Sea on Sunday, a British maritime agency announced.…",
+          "url": "http://www.euronews.com/2026/07/05/cargo-ship-attacked-in-the-red-sea-maritime-agency-says"
         },
         {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "В Словакии референдум об отмене пожизненных выплат премьер-министру Роберту Фицо сорвался из-за низкой явки",
-          "excerpt": "В Словакии референдум об отмене пожизненных выплат премьер-министру Роберту Фицо сорвался из-за низкой явки Референдум об отмене пожизненных выплат премьер-министру Роберту Фицо после его отставки не состоялся из-за низкой явки. Явка избирателей после обработки результатов с 99,5% участков составила 16,1%, сообщает Associated Press.…",
-          "url": "https://meduza.io/news/2026/07/05/v-slovakii-referendum-ob-otmene-pozhiznennoy-pensii-premier-ministru-robertu-fitso-i-drugim-chinovnikam-sorvalsya-iz-za-nizkoy-yavki"
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+          "excerpt": "A cargo vessel in the Red Sea has reported coming under attack, the United Kingdom Maritime Trade Operations Centre, a British maritime security alert service, said Sunday, amid a fragile ceasefire between the U.S. and Iran. The body said it received a report of the incident 30 nautical miles (56 km) southwest of the port city of Al Hudaydah in Yemen.…",
+          "url": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Oscar Health’s Mark Bertolini on making ‘healthcare work for all’",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Oscar Health’s Mark Bertolini on making ‘healthcare work for all’",
+          "excerpt": "Hello and welcome to&nbsp; Modern CEO ! I’m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations with executives and entrepreneurs, and from the pages of&nbsp; Inc. &nbsp;and&nbsp; Fast Company .…",
+          "url": "https://www.fastcompany.com/91567403/oscar-healths-mark-bertolini-on-making-healthcare-work-for-all"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Mark Bertolini Led Aetna and Bridgewater and Chairs the Verizon Board. What’s He Doing Running Oscar Health?",
+          "excerpt": "A veteran of big companies brings his leadership philosophy to a challenger brand.",
+          "url": "https://www.inc.com/stephanie-mehta/mark-bertolini-led-aetna-and-bridgewater-and-chairs-the-verizon-board-whats-he-doing-running-oscar-health/91367625"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Песков: ЕС превращается в военный блок",
+      "headline_en": "Philippine Senate launches impeachment trial of Sara Duterte",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Песков: ЕС превращается в военный блок",
-          "excerpt": "Это усугубляет ситуацию на Украине, заявил пресс-секретарь президента",
-          "url": "https://tass.ru/politika/27887203"
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Philippine Senate launches impeachment trial of Sara Duterte",
+          "excerpt": "Philippine Senate launches impeachment trial of Sara Duterte July 6, 2026More than 6,000 police officers were deployed around the Philippines' Senate on Monday as the impeachment trial of Vice President Sara Duterte got underway, with protests by both supporters and detractors taking place near the building.…",
+          "url": "https://www.dw.com/en/philippine-senate-launches-impeachment-trial-of-sara-duterte/a-77848392?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "В Кремле заявили, что фактор постепенно превращающегося в военный блок ЕС усугубляет ситуацию с Украиной",
-          "excerpt": "В Кремле заявили, что фактор постепенно превращающегося в военный блок ЕС усугубляет ситуацию с Украиной Москва. 5 июля. INTERFAX.RU - Превращение Евросоюза в военный блок осложняет ситуацию с Украиной, считает пресс-секретарь президента РФ Дмитрий Песков.…",
-          "url": "https://www.interfax.ru/russia/1101269"
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Impeachment trial of Philippine Vice President Sara Duterte begins",
+          "excerpt": "Impeachment trial of Philippine Vice President Sara Duterte begins Senate trial outcome could permanently bar Duterte from office, shaking her frontrunner status for the 2028 election. Impeachment trial of Philippines VP Sara Duterte begins The impeachment trial of Philippine Vice President Sara Duterte has begun in Manila, in a highly charged case that could determine her political future.…",
+          "url": "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Россия увеличила импорт бензина из Белоруссии до исторического максимума",
+      "category": "💡 Tech & AI",
+      "headline_en": "Broadcom, Apple Extend Tie-Up to 2031 With New Custom Chips",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Россия увеличила импорт бензина из Белоруссии до исторического максимума",
-          "excerpt": "Россия увеличила импорт бензина из Белоруссии до исторического максимума Москва. 5 июля. INTERFAX.RU - Россия резко нарастила импорт бензина из Белоруссии, сообщило издание \"Ведомости\" со ссылкой на данные Центра ценовых индексов. \"Россия увеличила импорт бензина из Белоруссии в июне 2026 г. до исторического максимума.…",
-          "url": "https://www.interfax.ru/business/1101275"
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Broadcom, Apple Extend Tie-Up to 2031 With New Custom Chips",
+          "excerpt": "Broadcom Inc. said that it will provide new custom chips to Apple Inc. in an expanded partnership that now runs through 2031.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-06/broadcom-expands-work-for-apple-supplying-products-through-2031"
         },
         {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Импорт в Россию белорусского бензина достиг исторического максимума",
-          "excerpt": "Импорт в Россию белорусского бензина достиг исторического максимума Россия в июне 2026 года увеличила импорт бензина из Беларуси до исторического максимума. С 1 по 25 июня, пишут «Ведомости» со ссылкой на данные Центра ценовых индексов (ЦЦИ), в Россию из Беларуси ввезли 141 тысячу тонн топлива, что в 2,4 раза превышает объем поставок за весь май.…",
-          "url": "https://meduza.io/news/2026/07/05/import-v-rossiyu-belorusskogo-benzina-dostig-istoricheskogo-maksimuma"
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Apple and Broadcom are extending their custom chip partnership through 2031",
+          "excerpt": "The two companies signed new multi-year agreements for Broadcom to develop and supply custom ASIC chips across multiple generations of Apple products",
+          "url": "https://qz.com/apple-broadcom-custom-chip-partnership-2031-070626"
         }
       ]
     }
