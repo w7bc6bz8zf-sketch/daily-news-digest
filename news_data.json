@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-08T11:19:16.718961+00:00",
+  "collected_at": "2026-07-08T13:41:20.333868+00:00",
   "total_sources": 59,
-  "total_entries": 819,
+  "total_entries": 834,
   "story_count": 40,
   "stories": [
     {
@@ -19,7 +19,7 @@
         {
           "source": "FT",
           "lang": "en",
-          "headline": "Trump says ceasefire with Iran is ‘over’",
+          "headline": "Trump says ceasefire with Iran is ‘over’ and warns of further strikes",
           "excerpt": "Oil price extends gains after US president says that negotiating with Tehran is a ‘waste of time’",
           "url": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680"
         },
@@ -27,7 +27,7 @@
           "source": "Bloomberg",
           "lang": "en",
           "headline": "Oil Surges After Trump Says US Ceasefire With Iran Is Over",
-          "excerpt": "Oil jumped after US President Donald Trump said the tentative ceasefire with Iran is over, raising the prospect of a fresh round of conflict in one of the world’s most important energy-producing regions.",
+          "excerpt": "Oil jumped after US President Donald Trump said a tentative ceasefire with Iran was over, raising the prospect of a fresh round of conflict in one of the world’s most important energy-producing regions.",
           "url": "https://www.bloomberg.com/news/articles/2026-07-07/latest-oil-market-news-and-analysis-for-july-8"
         },
         {
@@ -38,11 +38,53 @@
           "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference"
         },
         {
-          "source": "Al Jazeera",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
-          "excerpt": "Trump says ceasefire ‘over’ after US, Iran trade attacks Trump made the announcement at a NATO summit after Iran attacked bases hosting US forces in Kuwait and Bahrain. United States President Donald Trump says the ceasefire with Iran is “over”, describing Iranian leaders as “sick people” after Iran and the US exchanged attacks. “I think it’s over.…",
-          "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
+          "headline": "Trump says Iran ceasefire over, \"going to hit them hard again tonight\"",
+          "excerpt": "U.S.-Iran Latest: Trump says ceasefire with Iran over and \"we're going to hit them hard again tonight\" What to know about the Iran war today: - President Trump said the U.S. would likely launch more strikes against Iran Wednesday night, telling reporters at a NATO summit in Turkey \"we hit them very hard last night,\" and \"we're going to hit them hard again tonight.\" - Earlier Wednesday Mr.…",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US and Iran trade strikes after attacks on tankers",
+      "coverage": 9,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "US and Iran trade strikes after attacks on tankers",
+          "excerpt": "Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ following round of tit-for-tat bombing",
+          "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Indian Stocks, Rupee Slide After Trump Reignites Iran Tensions",
+          "excerpt": "Indian stocks tumbled and the rupee weakened after oil prices gained following US President Donald Trump’s remark that the tentative ceasefire with Iran had ended after recent attacks on ships transiting the Strait of Hormuz.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/indian-stocks-rupee-slide-after-trump-reignites-iran-tensions"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "US launches ​strikes against Iran after attacks on vessels in strait ​of ​Hormuz",
+          "excerpt": "US Central Command says Tehran in ‘clear violation’ of ceasefire with ‘unwarranted’ ​attacks on commercial ships Middle East crisis – latest updates The US military launched ⁠a ⁠series of “powerful” ​strikes against Iran, it announced on Tuesday night, in response to what ‌it said were “unwarranted, dangerous” Iranian ​attacks on three commercial vessels in the strait ​of ​Hormuz.…",
+          "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump says the U.S. will carry out strikes on Iran again",
+          "excerpt": "Trump says the U.S. will carry out strikes on Iran again 01:48 UP NEXT Trump Says Ceasefire is ‘Over’ After US and Iran Exchange Strikes 02:22 Trump says Iran ceasefire is ‘over’ after latest strikes 00:53 CENTCOM releases video of renewed strikes on Iran 00:26 Thick smoke and flames seen in Iran as U.S.…",
+          "url": "https://www.nbcnews.com/now/video/trump-says-the-u-s-will-carry-out-strikes-on-iran-again-266361925753"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Trump says ceasefire with Tehran 'over' after US and Iran exchange fire",
+          "excerpt": "Washington initiated strikes on Iran overnight in response to cargo vessels being hit in the Strait of Hormuz. Tehran then launched its own attack targeting US bases in the Gulf.",
+          "url": "http://www.euronews.com/2026/07/08/us-launches-fresh-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz"
         }
       ]
     },
@@ -55,22 +97,15 @@
           "source": "BBC World",
           "lang": "en",
           "headline": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
-          "excerpt": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\".",
+          "excerpt": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation - Published Top Democrats are calling for Graham Platner, Maine's Democratic candidate for the US Senate, to drop out of the race after a woman he previously dated accused him of sexual assault.…",
           "url": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Fast Company",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Democrats pull endorsements for Maine Senate candidate Graham Platner amid sexual assault allegation",
-          "excerpt": "A woman who previously dated Maine Democratic Senate candidate Graham Platner said he drunkenly forced her to have sex after she told him to stop, according to a&nbsp; Politico report , leading prominent supporters to pull their endorsements and throwing a must-win race for the party into turmoil.…",
-          "url": "https://www.fastcompany.com/91570211/graham-platner-maine-assault-senate"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Democratic strategist discusses Graham Platner's campaign",
-          "excerpt": "Democratic strategist discusses Graham Platner's campaign Democratic support is fading for Maine Senate candidate Graham Platner after accusations that he sexually assaulted his former girlfriend in 2021. Democratic strategist and CBS News political contributor Joel Payne has more.",
-          "url": "https://www.cbsnews.com/video/democratic-strategist-discusses-graham-platners-campaign/"
+          "headline": "Morning news brief",
+          "excerpt": "Trump says ceasefire between the U.S. and Iran is over, pressure mounts for Graham Platner to drop out of Maine Senate race, IOC opens door for Russian athletes to compete in 2028 Games.",
+          "url": "https://www.npr.org/2026/07/08/nx-s1-5883695/morning-news-brief"
         },
         {
           "source": "CNBC",
@@ -80,53 +115,60 @@
           "url": "https://www.cnbc.com/2026/07/07/graham-platner-sexual-assault-allegation-maine-senate.html"
         },
         {
-          "source": "ABC News",
+          "source": "Time",
           "lang": "en",
-          "headline": "Bernie Sanders joins calls for Platner to withdraw from Maine Senate race",
-          "excerpt": "Bernie Sanders joins calls for Platner to withdraw from Maine Senate race Platner said that he'll \"reflect on the best path forward.\" Maine Democratic Senate candidate Graham Platner is facing calls to withdraw from the race after an allegation of sexual assault published Monday.…",
-          "url": "https://abcnews.com/Politics/graham-platner-campaign-reflect-best-path-forward-after/story?id=134529321"
+          "headline": "Pressure Mounts for Platner as Allies Pull Support",
+          "excerpt": "Key Democratic allies are withdrawing their support for Graham Platner, a senator hopeful from Maine, after a woman accused him of sexual assault. Platner has denied the allegations.…",
+          "url": "https://time.com/article/2026/07/07/pressure-mounts-for-platner-as-allies-pull-support/"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Here's how Democrats could pick a new Maine Senate nominee if Platner drops out",
+          "excerpt": "Who will replace Graham Platner if he drops out? Here's how Democrats could pick a new Maine Senate nominee. Washington — Democrats are facing a rapidly closing window to replace Maine Senate candidate Graham Platner on the ballot amid a sexual assault allegation — if he decides to drop out.…",
+          "url": "https://www.cbsnews.com/news/graham-platner-replacement-maine-democrats/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Bombs explode near Damascus hotel housing Macron on Syria visit",
+      "headline_en": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
       "coverage": 6,
       "perspectives": [
         {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+          "excerpt": "Will Le Pen rise again? French nationalist leader defiant after court's ruling - Published France is waking up bleary-eyed on Wednesday, with many still incredulous at the political uproar triggered by right-wing nationalist figurehead Marine Le Pen the night before.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Bombs explode near Damascus hotel housing Macron on Syria visit",
-          "excerpt": "Explosions rocked Damascus near the hotel where French president, Emmanuel Macron, was staying on Tuesday, wounding at least 18 people, Syrian authorities said. Macron was in the presidential palace for a meeting with the Syrian president, Ahmed al-Sharaa, when two improvised explosive devices detonated near the Four Seasons hotel where Macron was reported to be staying.…",
-          "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying"
+          "headline": "Marine Le Pen launches France presidential campaign after ban reduced",
+          "excerpt": "The French far-right leader Marine Le Pen has launched her presidential campaign after a decision by a court of appeal shortened her ban on running for office, allowing her to take part in the 2027 vote. Le Pen said voters would decide her future.…",
+          "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-launches-france-presidential-campaign-court-decision-ban-electronic-tag"
         },
         {
-          "source": "Foreign Policy",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa",
-          "excerpt": "Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa France remains committed to bolstering cooperation with Syria. Welcome back to World Brief, where we’re looking at Syria’s uphill battle for democratic reform, NATO efforts to appease the United States, and legal troubles for far-right politicians in France and the United Kingdom.…",
-          "url": "https://foreignpolicy.com/2026/07/07/explosions-damascus-syria-sharaa-macron-france-investment/"
+          "headline": "Le Pen says she'll run for French presidency next year despite court-ordered monitor",
+          "excerpt": "Far-right leader Marine Le Pen says she'll run for the French presidency next year despite being sentenced Tuesday to wear a court-ordered electronic monitor for embezzlement.",
+          "url": "https://www.npr.org/2026/07/08/g-s1-132467/le-pen-court-ordered-monitor"
         },
         {
-          "source": "Euronews",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Macron tours Damascus' Umayyad Mosque during Syria visit",
-          "excerpt": "French President Emmanuel Macron visits Damascus' Umayyad Mosque with Syrian leader Ahmed al-Sharaa and signs the guestbook during his Syria trip.",
-          "url": "http://www.euronews.com/video/2026/07/07/macron-tours-damascus-umayyad-mosque-during-syria-visit"
+          "headline": "Le Pen taking 'a gamble' in decision to run for president",
+          "excerpt": "France's Marine Le Pen hit the campaign trail on Wednesday fresh off her announcement she would run for president despite an embezzlement conviction. But she is taking a big gamble on whether her last-ditch appeal against Tuesday's judgement will be successful, explains Clovis Casali.",
+          "url": "https://www.france24.com/en/video/20260708-le-pen-taking-a-gamble-in-decision-to-run-for-president"
         },
         {
-          "source": "Al Jazeera",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Syria grapples with unrest as government faces old and new threats",
-          "excerpt": "Syria grapples with unrest as government faces old and new threats Damascus shaken by twin blasts during Macron’s visit, marking heightened threats to Syria’s fragile stability Damascus was rocked on Tuesday by explosions during a visit by French President Emmanuel Macron, the first European Union leader to visit the country since forces led by President Ahmed al-Sharaa deposed Bashar al-Assad in …",
-          "url": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Explosions heard near hotel where Macron staying in Syria",
-          "excerpt": "A series of explosions have been heard near the hotel where French President Emmanuel Macron is due to stay in Syria.",
-          "url": "https://news.sky.com/story/explosions-heard-near-hotel-where-president-emmanuel-macron-staying-in-syria-13561191"
+          "headline": "France: Le Pen vows to run despite upheld graft conviction",
+          "excerpt": "After a court appeal rendered her eligible in theory to run while wearing an ankle tag, the far-right leader says she intends to stand next year. She repeated her plan to appeal again, saying the tag may not be needed.",
+          "url": "https://www.dw.com/en/france-le-pen-vows-to-run-despite-upheld-graft-conviction/a-77859337?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
@@ -143,13 +185,6 @@
           "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
         },
         {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Meta is launching its first in-house AI image generator for consumers and advertisers",
-          "excerpt": "Meta $META introduced Muse Image on Tuesday, the company's first image generation model built in-house, making it available to consumers through the Meta AI app and to advertisers through its Advantage+ ad platform.…",
-          "url": "https://qz.com/meta-muse-image-generator-consumers-advertisers-070726"
-        },
-        {
           "source": "CNBC",
           "lang": "en",
           "headline": "Meta enters AI image model race in bid to court advertisers and subscribers",
@@ -164,6 +199,13 @@
           "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
         },
         {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Meta is launching its first in-house AI image generator for consumers and advertisers",
+          "excerpt": "Meta $META introduced Muse Image on Tuesday, the company's first image generation model built in-house, making it available to consumers through the Meta AI app and to advertisers through its Advantage+ ad platform.…",
+          "url": "https://qz.com/meta-muse-image-generator-consumers-advertisers-070726"
+        },
+        {
           "source": "Engadget",
           "lang": "en",
           "headline": "Meta's new Muse Image model accepts Instagram accounts as a prompt",
@@ -173,9 +215,226 @@
       ]
     },
     {
+      "category": "🌍 World",
+      "headline_en": "Nato summit: Trump says US could let Ukraine make Patriot missiles after meeting with Zelenskyy – Europe live",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Nato summit: Trump says US could let Ukraine make Patriot missiles after meeting with Zelenskyy – Europe live",
+          "excerpt": "Trump says US would be prepared to buy Ukrainian drones Asked about Ukraine’s experience with drones, Trump acknowledges their expertise in this area and says the US would be prepared to buy Ukrainian drones. “We would buy their drones.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump and Zelenskyy set to meet at NATO summit in Turkey",
+          "excerpt": "Trump and Zelenskyy set to meet at NATO summit in Turkey The meeting comes as Ukraine faces an urgent ammunition shortfall. Ukraine's President Volodymyr Zelenskyy is expected to make a direct appeal to President Donald Trump during a face-to-face meeting on the sidelines of the NATO summit, asking for help replenishing depleted stocks of American-made ammunition vital to the country's defense.…",
+          "url": "https://abcnews.com/Politics/trump-zelenskyy-set-meet-nato-summit-turkey/story?id=134561170"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump to Meet With Ukraine’s Zelenskyy at NATO Summit in Turkey",
+          "excerpt": "Nolan Wells’ Family Hires Prominent Lawyer to Investigate Death 00:38 Has Binging TV Shows Come to an End? Inside ‘Season 2 Fatigue’ 03:05 Watch: Hero Husky Takes on Bear to Protect Child 00:41 Sanders, Warren Drop Endorsements of Maine's Graham Platner 02:10 Manhattan Building Remains Unstable; Officials Warn of Collapse 02:26 Search Underway For Missing Cargo Plane Over Arabian Sea 01:37 Now Pla…",
+          "url": "https://www.today.com/video/zelenskyy-expected-to-press-trump-for-more-sanctions-on-russia-266358853646"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Russia strikes Kyiv as Zelensky, Trump set to meet",
+          "excerpt": "Russian strikes on Ukraine overnight killed at least two people while Kyiv targeted sites in Russia in drone attacks just hours ahead of a meeting between US President Donald Trump and Ukraine's Volodymyr Zelensky at a NATO summit. France 24's Gulliver Cragg has the latest.",
+          "url": "https://www.france24.com/en/video/20260708-russia-strikes-kyiv-as-zelensky-trump-set-to-meet"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Erdogan gives world leaders a ceremonial welcome ahead of NATO summit",
+          "excerpt": "Ukrainian President Volodymyr Zelenskyy, US President Donald Trump and other NATO leaders arrived in Ankara on 7 July for a state dinner hosted by Turkish President Recep Tayyip Erdogan. The leaders gathered in Turkey for a two-day NATO summit focused on defence spending, security and the alliance's future.…",
+          "url": "http://www.euronews.com/video/2026/07/08/erdogan-gives-world-leaders-a-ceremonial-welcome-ahead-of-nato-summit"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump pours cold water on NATO allies' united front",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump pours cold water on NATO allies' united front",
+          "excerpt": "President Donald Trump challenged NATO's united front on Wednesday, slamming several allies for not spending enough on defense, spotlighting internal divisions within the alliance.…",
+          "url": "https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump to wrap NATO meeting with news conference",
+          "excerpt": "Trump to wrap NATO meeting with news conference as he navigates tensions with allies President Trump plans to hold a press conference Wednesday, the final day of the NATO summit, after the U.S.…",
+          "url": "https://www.cbsnews.com/news/trump-nato-leaders-news-conference-iran-strikes/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Danish PM says Greenland is 'not for sale' as Trump joins NATO leaders in Turkey",
+          "excerpt": "Danish PM says Greenland is 'not for sale' as Trump joins NATO leaders in Turkey U.S. President Donald Trump criticizes NATO allies at a summit, expressing frustration over their resistance to his Greenland ambitions and lack of support for his Iran campaign ANKARA, Turkey -- U.S.…",
+          "url": "https://abcnews.com/International/wireStory/nato-summit-supposed-focus-defense-spending-trumps-strikes-134572678"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
+          "excerpt": "President Donald Trump threw a summit of NATO leaders into disarray on Wednesday as he demanded the United States cut trade ties with Spain and made renewed claims on Greenland, irking another NATO ally Denmark. He also said an interim agreement to end the war with Iran was \"over\" after a new exchange of fire.",
+          "url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "US strikes target Iranian military boats",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US strikes target Iranian military boats",
+          "excerpt": "US strikes target Iranian military boats The US has launched strikes on Iranian IRGC small boats and targets in the country in response to attacks on three oil tankers in the Strait of Hormuz A fire was filmed burning in Bandar Abbas, Iran, after the US Central Command (CentCom) reported that it had launched \"powerful\" strikes.…",
+          "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "India Seeks Safe Hormuz Passage for Nine Ships as Truce Falters",
+          "excerpt": "India is considering options including holding talks with Iran in order to secure safe passage for at least nine laden tankers waiting in the Persian Gulf, as attacks in the waterway threaten an already fragile interim ceasefire.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/india-seeks-safe-hormuz-passage-for-nine-ships-as-truce-falters"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
+          "excerpt": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes Iranian officials insist Tehran will not give up control over the waterway as US attacks and the withdrawal of sanctions waivers threaten fragile truce.…",
+          "url": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Strait of Hormuz: Iran attacks three ships in 24 hours, U.S. says",
+          "excerpt": "Iran's military fired at least two missiles at commercial ships transiting the Strait of Hormuz on Monday night, two U.S. officials tell Axios. The IRGC attacked a third commercial ship on Tuesday morning, a U.S. official said.…",
+          "url": "https://www.axios.com/2026/07/07/iran-resumes-hormuz-attacks-us-officials"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa",
+          "excerpt": "Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa France remains committed to bolstering cooperation with Syria. Welcome back to World Brief, where we’re looking at Syria’s uphill battle for democratic reform, NATO efforts to appease the United States, and legal troubles for far-right politicians in France and the United Kingdom.…",
+          "url": "https://foreignpolicy.com/2026/07/07/explosions-damascus-syria-sharaa-macron-france-investment/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Macron tours Damascus' Umayyad Mosque during Syria visit",
+          "excerpt": "French President Emmanuel Macron visits Damascus' Umayyad Mosque with Syrian leader Ahmed al-Sharaa and signs the guestbook during his Syria trip.",
+          "url": "http://www.euronews.com/video/2026/07/07/macron-tours-damascus-umayyad-mosque-during-syria-visit"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Explosions heard near hotel where Macron staying in Syria",
+          "excerpt": "A series of explosions have been heard near the hotel where French President Emmanuel Macron is due to stay in Syria.",
+          "url": "https://news.sky.com/story/explosions-heard-near-hotel-where-president-emmanuel-macron-staying-in-syria-13561191"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
+          "excerpt": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit Macron, who continued his visit after the blasts, said Syria must not be ‘destabilised’ by the attacks. Syrian authorities say one person has died after explosions rocked Syria’s capital Damascus on Tuesday as French President Emmanual Macron visited the city.…",
+          "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "NYC high-rise's possible collapse prompts evacuations",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "NYC high-rise's possible collapse prompts evacuations",
+          "excerpt": "NYC high-rise's possible collapse prompts evacuations July 7, 2026Authorities in New York City evacuated a street block on Tuesday, after an under-construction high-rise became unstable with buckling columns and sagging floors. Officials said they feared that the Midtown Manhattan building could collapse.…",
+          "url": "https://www.dw.com/en/nyc-high-rise-s-possible-collapse-prompts-evacuations/a-77868907?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Scary moments in New York City after building's columns buckle, collapse concerns grew",
+          "excerpt": "Scary moments in New York City after building's columns buckle, collapse concerns grew New York City officials say that a Midtown building at risk of collapse is now stable following tense moments and nearby structural evacuations. CBS News' Michael George reports.",
+          "url": "https://www.cbsnews.com/video/scary-moments-in-new-york-city-after-buildings-columns-buckle-collapse-concerns-grew/"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "It Was the Largest Office-to-Residential Conversion in New York City History. Then It Started to Buckle",
+          "excerpt": "Earlier today, two of the columns on the building’s 21st floor started to collapse, prompting an evacuation.",
+          "url": "https://www.inc.com/moses-jeanfrancois/largest-office-to-residential-conversion-in-new-york-city-history-started-to-buckle/91370754"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Manhattan Building Remains Unstable; Officials Warn of Collapse",
+          "excerpt": "Nolan Wells’ Family Hires Prominent Lawyer to Investigate Death 00:38 Has Binging TV Shows Come to an End? Inside ‘Season 2 Fatigue’ 03:05 Watch: Hero Husky Takes on Bear to Protect Child 00:41 Sanders, Warren Drop Endorsements of Maine's Graham Platner 02:10 Now Playing Manhattan Building Remains Unstable; Officials Warn of Collapse 02:26 UP NEXT Search Underway For Missing Cargo Plane Over Arabi…",
+          "url": "https://www.today.com/video/officials-warn-of-partial-collapse-at-unstable-pfizer-nyc-building-266357317963"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Samsung will launch its new wide foldable on July 22nd",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Samsung will launch its new wide foldable on July 22nd",
+          "excerpt": "Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: “A new shape unfolds.” Samsung will launch its new wide foldable on July 22nd The Galaxy Unpacked invite teases a new shape for Samsung’s foldable phones. The Galaxy Unpacked invite teases a new shape for Samsung’s foldable phones.…",
+          "url": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Samsung to Get Jump on Apple’s First Foldable With New Phones in July",
+          "excerpt": "Samsung Electronics Co. will host its next Galaxy Unpacked event on July 22, when the leading foldable phone maker is expected to unveil a Galaxy Z Fold 8 with a shorter and wider design that resembles Apple Inc.’s planned folding iPhone.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/samsung-to-get-jump-on-apple-s-first-foldable-launch-with-galaxy-fold-8-july-22"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "The next Samsung Galaxy Unpacked launch is happening on July 22",
+          "excerpt": "The next Samsung Galaxy Unpacked launch is happening on July 22 We’re expecting an updated family of foldables including not one but possibly two versions of the Galaxy Z Fold 8. While Apple fans continue to wait for the first foldable iPhone, Samsung is looking to extend its dominance in the category at its next Galaxy Unpacked event, which is set for July 22 in London.…",
+          "url": "https://www.engadget.com/2209773/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22/"
+        },
+        {
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Samsung unveils Galaxy Z Fold 8 deal for up to $1,230 off ahead of July Unpacked - how to qualify",
+          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
+          "url": "https://www.zdnet.com/article/samsung-unveils-foldable-deal-ahead-of-july-unpacked/"
+        }
+      ]
+    },
+    {
       "category": "💡 Tech & AI",
       "headline_en": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-      "coverage": 6,
+      "coverage": 4,
       "perspectives": [
         {
           "source": "Wired",
@@ -204,230 +463,20 @@
           "headline": "Anthropic's Claude Cowork heads to the cloud as data shows 90% of sessions aren't for coding",
           "excerpt": "Anthropic's Claude Cowork heads to the cloud as data shows 90% of sessions aren't for coding Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Claude Cowork is becoming a cloud-based AI helper. - Desktop still offers the fullest Cowork experience. - Anthropic said 90% of Cowork use is not coding.…",
           "url": "https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Now you can direct Anthropic's Claude Cowork AI from your phone",
-          "excerpt": "Now you can direct Anthropic's Claude Cowork AI from your phone Max subscribers get first access. At the start of the year, Anthropic debuted Claude Cowork, an offshoot of its coding agent that gives people a way to ask Claude for help with tasks on their computer. After expanding the capabilities of the software in March, Anthropic is giving users a way to manage Cowork from their phones.…",
-          "url": "https://www.engadget.com/2209495/now-you-can-direct-anthropic-claude-cowork-ai-from-your-phone/"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "US launches ​strikes against Iran after attacks on vessels in strait ​of ​Hormuz",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "US launches ​strikes against Iran after attacks on vessels in strait ​of ​Hormuz",
-          "excerpt": "The US military launched a series of “powerful” strikes against Iran, it announced on Tuesday night, in response to what it said were “unwarranted, dangerous” Iranian attacks on three commercial vessels in the strait of Hormuz. In a statement on social media, US Central Command accused Tehran of a “clear violation” of the ceasefire agreement between US and Iran, which was signed last month.…",
-          "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Tehran targets Bahrain and Kuwait after U.S. strikes",
-          "excerpt": "The regional crossfire raised the risks that an interim agreement to halt fighting in the war could break down, putting the Middle East again at risk of a wider conflict.",
-          "url": "https://www.npr.org/2026/07/08/g-s1-132460/us-iran-attacks"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Middle East live: Tehran targets Bahrain and Kuwait after US strikes on Iran",
-          "excerpt": "Iran’s Revolutionary Guards on Wednesday said they had targeted US military bases in Bahrain and Kuwait in retaliation for Washington's strikes on Iran after it struck merchant ships in the Strait of Hormuz. The regional crossfire raised the risk that an interim agreement to halt fighting could break down. Follow our liveblog for the latest updates.…",
-          "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. launches strikes against Iran over attacks on 3 ships in Strait of Hormuz",
-          "excerpt": "U.S. launches strikes against Iran to retaliate for attacks on 3 tankers in Strait of Hormuz Washington — U.S. forces launched strikes Tuesday against Iran to retaliate for the regime's attacks on commercial ships, U.S. Central Command said.…",
-          "url": "https://www.cbsnews.com/news/u-s-launches-strikes-against-iran-to-retaliate-for-attacks-on-3-tankers-in-strait-of-hormuz/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "U.S. strikes Iran after attacks on vessels in Strait of Hormuz",
-          "excerpt": "The U.S. military said it struck Iranian military targets in the area of the Strait of Hormuz on Tuesday in retaliation for renewed Iranian attacks on commercial ships. Why it matters: The exchange of fire risks plunging the U.S. and Iran into a new cycle of retaliation, threatening the fragile memorandum of understanding signed by President Trump less than three weeks ago.…",
-          "url": "https://www.axios.com/2026/07/07/us-strikes-iran-hormuz-ship-attacks"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Watch: Marine Le Pen confirms run for French presidency",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Watch: Marine Le Pen confirms run for French presidency",
-          "excerpt": "Watch: Marine Le Pen confirms run for French presidency Leader of the French National Rally party Marine Le Pen has said she will run for the presidency in 2027. Le Pen also said she will attempt to appeal and embezzlement conviction that requires her to wear an electronic tag for a year.…",
-          "url": "https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Le Pen says she'll run for French presidency next year despite court-ordered monitor",
-          "excerpt": "Far-right leader Marine Le Pen says she'll run for the French presidency next year despite being sentenced Tuesday to wear a court-ordered electronic monitor for embezzlement.",
-          "url": "https://www.npr.org/2026/07/08/g-s1-132467/le-pen-court-ordered-monitor"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "France's Le Pen says will run for president despite fraud conviction",
-          "excerpt": "French far-right leader Marine Le Pen announced on Tuesday that she will run for president in 2027, after an appeals court shortened her ban on running for office, even as it upheld her conviction for embezzling EU funds to pay party staff. She also said she would ​appeal the conviction.…",
-          "url": "https://www.france24.com/en/video/20260708-france-s-le-pen-says-will-run-for-president-despite-fraud-conviction"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "France: Le Pen vows to run despite upheld graft conviction",
-          "excerpt": "France: Le Pen vows to run despite upheld graft conviction Published July 7, 2026last updated July 7, 2026The face of France's far-right, Marine Le Pen, has said in a television interview that she intends to run for the presidency for her National Rally (RN) party next year.…",
-          "url": "https://www.dw.com/en/france-le-pen-vows-to-run-despite-upheld-graft-conviction/a-77859337?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Euronews explains: The verdict that could end Marine Le Pen – and launch Jordan Bardella",
-          "excerpt": "If the Paris Court of Appeal upholds Marine Le Pen's five-year ban from public office, the National Rally figurehead's long-held presidential ambitions would effectively be over.",
-          "url": "http://www.euronews.com/my-europe/2026/07/07/euronews-explains-the-verdict-that-could-end-marine-le-pen-and-launch-jordan-bardella"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US strikes target Iranian military boats",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "US strikes target Iranian military boats",
-          "excerpt": "US strikes target Iranian military boats The US has launched strikes on Iranian IRGC small boats and targets in the country in response to attacks on three oil tankers in the Strait of Hormuz A fire was filmed burning in Bandar Abbas, Iran, after the US Central Command (CentCom) reported that it had launched \"powerful\" strikes.…",
-          "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "U.S. revokes Iran oil waivers after attacks in Strait of Hormuz",
-          "excerpt": "The Trump administration on Tuesday revoked the temporary waivers it issued as part of the memorandum of understanding with Iran that allowed Tehran to sell oil, the Treasury Department announced. Why it matters: The revocation of the waivers, issued less than three weeks ago, is in response to the renewed Iranian attacks against ships in the Strait of Hormuz over the past 24 hours .…",
-          "url": "https://www.axios.com/2026/07/07/us-revokes-iran-oil-waivers-hormuz-strait-attacks"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. hits dozens of Iranian targets in retaliatory strikes after ship attacks",
-          "excerpt": "U.S. hits dozens of Iranian targets in retaliatory strikes after ship attacks in Strait of Hormuz Follow updates on the war in the Middle East for Wednesday, July 8, here. See earlier developments below. What to know about the Iran war: - U.S.…",
-          "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "U.S. revokes Iran oil sales authorization after tanker attacks",
-          "excerpt": "The U.S. Treasury Department on Tuesday revoked its authorization of Iranian oil sales after a series of attacks on tankers in the Strait of Hormuz this week. \"Iran will only reap benefits if they exhibit good behavior,\" a U.S. official told CNBC, speaking on condition of anonymity to talk about private discussions.…",
-          "url": "https://www.cnbc.com/2026/07/07/us-revokes-iran-oil-sanctions-waiver-tanker-attacks.html"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "U.S. limits Iran oil sales after attacks on ships in Strait of Hormuz",
-          "excerpt": "President Donald Trump said Wednesday he believes the ceasefire and interim agreement to end the war with Iran are now “over” as the two sides traded strikes after Tehran was accused of attacking three commercial ships in the Strait of Hormuz.…",
-          "url": "https://www.nbcnews.com/world/iran/us-launches-new-attacks-iran-retaliation-attacks-commercial-ships-us-m-rcna353411"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "World Cup: Messi's Argentina pull off miracle comeback against Egypt",
+      "category": "💡 Tech & AI",
+      "headline_en": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
       "coverage": 4,
       "perspectives": [
         {
-          "source": "France 24",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "World Cup: Messi's Argentina pull off miracle comeback against Egypt",
-          "excerpt": "Trailing 2-0 with 15 minutes to go, Argentina came from behind to beat Egypt 3-2 in the World Cup round of 16. Argentina will face Switzerland in the quarter-finals.",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260708-world-cup-argentina-leo-messi-pull-off-miracle-comeback-against-egypt"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Argentina fans gather in Atlanta for traditional World Cup 'banderazo'",
-          "excerpt": "Hundreds of Argentina fans gathered at Piedmont Park in Atlanta for a traditional banderazo ahead of the team's World Cup last-16 clash with Egypt. Footage shows supporters singing, chanting and playing drums, trumpets and other instruments as they created a carnival atmosphere in the city.…",
-          "url": "http://www.euronews.com/video/2026/07/07/argentina-fans-gather-in-atlanta-for-traditional-world-cup-banderazo"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina",
-          "excerpt": "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 8 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-          "url": "https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights?traffic_source=rss"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "A Messi Miracle Takes Over the World Cup",
-          "excerpt": "Argentina makes stunning comeback in round-of-16 game against Egypt",
-          "url": "https://time.com/article/2026/07/07/lionel-messi-world-cup-argentina-egypt-goal/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump signals openness to selling Turkey F-35 fighter jets",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Trump signals openness to selling Turkey F-35 fighter jets",
-          "excerpt": "President Trump signaled at the top of his meeting with Turkish President Erdoğan in Ankara on Tuesday that he's leaning towards allowing the country back into the F-35 program and selling the fighter jets to the Turkish air force. Why it matters: Allowing Turkey to rejoin the program and selling it F-35 jets would be a shift in U.S. policy.…",
-          "url": "https://www.axios.com/2026/07/07/trump-turkey-f35-jets"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions",
-          "excerpt": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions The president continued to lash out at other NATO allies over Iran.…",
-          "url": "https://abcnews.com/Politics/trump-hell-giving-turkey-35-jets-adds-us/story?id=134547490"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Netanyahu warns US could 'destroy' Mideast power balance as Trump floats F-35 jet sale to Turkey",
-          "excerpt": "Netanyahu warns US could 'destroy' Mideast power balance as Trump floats F-35 jet sale to Turkey US President Donald Trump on Tuesday announced his willingness to sell Turkey F-35 fighter jets, a move which is likely to face strong resistance in Congress and which Israeli Prime Minister Benjamin Netanyahu said would \"destroy\" the balance of power in the Middle East.…",
-          "url": "https://www.france24.com/en/netanyahu-warns-us-destroy-mideast-power-balance-trump-floats-f-35-jet-sale-turkey"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump talks Ukraine-Russia and F-35 jets sale in meeting with Turkey’s Erdoğan",
-          "excerpt": "Platner faces growing calls to drop out after rape allegation 01:30 ‘I’ve had concerns for months’: Rep.…",
-          "url": "https://www.nbcnews.com/now/video/trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an-266291781811"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "AI chip startup SambaNova valued at $11 billion in $1 billion funding round",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "AI chip startup SambaNova valued at $11 billion in $1 billion funding round",
-          "excerpt": "July 8 (Reuters) - AI chip startup SambaNova said on Wednesday it has raised $1 billion in a late-stage funding round led by General Atlantic at an $11 billion post-money valuation. The company makes custom chips, hardware systems and cloud services tailored for inference - the process by which models respond to user queries.…",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-startup-sambanova-valued-102253770.html"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "AI Chip Startup SambaNova Raises Funds at $11 Billion Valuation",
-          "excerpt": "Chip startup SambaNova Systems Inc. has raised $1 billion at an $11 billion valuation, underscoring investors’ conviction in rising demand for infrastructure tied to artificial intelligence.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation"
+          "headline": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+          "excerpt": "AI chip company SambaNova Systems has raised $1 billion at an $11 billion valuation led by General Atlantic, in a first close of its Series F round, with more investors expected to join soon. “In the next few weeks, a few more investors will be coming in, and the second close is likely to finish up,” Rodrigo Liang, CEO and co-founder of SambaNova, told TechCrunch.…",
+          "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
         },
         {
           "source": "CNBC",
@@ -437,305 +486,74 @@
           "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html"
         },
         {
-          "source": "TechCrunch",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-          "excerpt": "AI chip company SambaNova Systems has raised $1 billion at an $11 billion valuation led by General Atlantic, in a first close of its Series F round, with more investors expected to join soon. “In the next few weeks, a few more investors will be coming in, and the second close is likely to finish up,” Rodrigo Liang, CEO and co-founder of SambaNova, told TechCrunch.…",
-          "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump makes fresh Greenland demand and threatens trade with Spain at Nato meeting – Europe live",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Trump makes fresh Greenland demand and threatens trade with Spain at Nato meeting – Europe live",
-          "excerpt": "Greenland 'is very important for US, but not important for Denmark,' Trump says Rutte says he understands Trump’s frustrations, but insists these are “isolated” cases, with many European countries helping out. He very softly pushes back on some specific countries that Trump named earlier, including Germany and France.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "REPLAY: Trump says deal with Iran is over, to cut trade with Spain",
-          "excerpt": "US President Donald Trump said on Wednesday that the memorandum of understanding ​signed ‌with Iran to end the conflict ⁠was \"over\", adding he did not want to engage with Tehran, ‌calling the Iranian leadership \"sick people\".…",
-          "url": "https://www.france24.com/en/video/20260708-replay-trump-says-deal-with-iran-is-over-to-cut-trade-with-spain"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "NATO summit live: Trump rips NATO allies; calls Spain ‘a terrible partner’",
-          "excerpt": "Live updatesLive updates, NATO summit live: Trump rips NATO allies; calls Spain ‘a terrible partner’ Published On 8 Jul 2026 - NATO leaders are meeting in Turkiye’s capital, Ankara, for the second day of a key summit. - Divisions over defence spending, Russia’s war on Ukraine, and the Iran conflict dominated the first day.",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
-          "excerpt": "President Donald Trump has slammed Spain for not contributing enough to NATO, as the defense alliance battles mounting frictions among allies. \"Spain is a terrible partner in NATO. They don't participate. They don't pay. I don't want anything to do with Spain. Cut off all trade with Spain, please, including visits,\" he said at a press conference in Ankara with NATO Secretary General Mark Rutte.…",
-          "url": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "International Olympic Committee lifts Russia suspension ahead of 2028 LA Games",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "International Olympic Committee lifts Russia suspension ahead of 2028 LA Games",
-          "excerpt": "The International Olympic Committee advised sports bodies to end a three-year program vetting Russians for neutral status ahead of qualifying events for the 2028 Los Angeles Olympics.",
-          "url": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "FIFA to discuss lifting ban on Russian teams after IOC decision",
-          "excerpt": "FIFA will formally discuss lifting the ban on all Russian teams after the International Olympic Committee urged all sports to end war-related sanctions, Sky News can reveal.",
-          "url": "https://news.sky.com/story/fifa-to-discuss-lifting-ban-on-russian-teams-after-ioc-urged-sports-to-end-war-related-sanctions-13561508"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "IOC paves way for Russia's return to Olympics",
-          "excerpt": "IOC paves way for Russia's return to Olympics July 7, 2026The International Olympic Committee (IOC) announced on Tuesday that it would lift restrictions on Russian athletes to allow them to compete in team events and in qualifying competitions.…",
-          "url": "https://www.dw.com/en/ioc-paves-way-for-russia-s-return-to-olympics/a-77868069?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "IOC moves closer to allowing Russia full Olympic return ahead of 2028 Los Angeles Games",
-          "excerpt": "IOC moves closer to allowing Russia full Olympic return ahead of 2028 Los Angeles Games The International Olympic Committee provisionally lifted its suspension of the Russian Olympic Committee on Tuesday, paving the way for Russian athletes and teams to move closer to competing under their flag and anthem at the 2028 Los Angeles Olympics despite strong objections from Ukraine.…",
-          "url": "https://www.france24.com/en/europe/20260707-russia-moves-closer-to-full-olympic-return-ahead-of-2028-los-angeles-games"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US Stock Futures Slide After Trump Says Iran Ceasefire Is Over",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "US Stock Futures Slide After Trump Says Iran Ceasefire Is Over",
-          "excerpt": "US equity futures fell as investors turned risk averse after President Donald Trump said the tentative ceasefire with Iran has ended, fueling concerns of a renewal in fighting.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-08/us-stock-futures-slide-after-trump-says-iran-ceasefire-is-over"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Dow Jones Futures: Tech Futures Slide On Samsung Earnings; SpaceX Falls Ahead Of Nasdaq-100 Inclusion",
-          "excerpt": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: - Javascript is disabled or blocked by an extension (ad blockers for example) - Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that you are not blocking them from loading.…",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-astera-bloom-nvidia-tesla/?src=A00220&yptr=yahoo"
+          "headline": "AI Chip Startup SambaNova Raises Funds at $11 Billion Valuation",
+          "excerpt": "Chip startup SambaNova Systems Inc. has raised $1 billion at an $11 billion valuation, underscoring investors’ conviction in rising demand for infrastructure tied to artificial intelligence.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation"
         },
         {
           "source": "Quartz",
           "lang": "en",
-          "headline": "SpaceX joins the Nasdaq, giving millions of index fund investors exposure",
-          "excerpt": "SpaceX joined the Nasdaq $NDAQ-100 Index on Tuesday, automatically exposing millions of investors to the rocket and satellite company through the mutual funds and ETFs that track the benchmark. The Nasdaq-100 underpins a universe of more than 200 investment products collectively holding around $800 billion, all of which are obligated to hold SpaceX now that it is a benchmark constituent.…",
-          "url": "https://qz.com/spacex-nasdaq-100-index-funds-passive-buying-070726"
+          "headline": "SambaNova raised $1 billion at an $11 billion valuation as investors back Nvidia challengers",
+          "excerpt": "SambaNova completed the first close of $1 billion in Series F financing on Wednesday, valuing the AI chip company at $11 billion post-money, with JPMorgan $JPM Chase joining as an inference infrastructure customer. General Atlantic led the round, with significant participation from Seligman Ventures, T. Rowe Price $TROW Associates, and Capital Group.…",
+          "url": "https://qz.com/sambanova-raises-1-billion-series-f-11-billion-valuation-070826"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Engineering professor on why columns may have buckled in New York City building",
+      "headline_en": "Switzerland fans’ joy as team reaches World Cup quarter-final",
       "coverage": 3,
       "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Engineering professor on why columns may have buckled in New York City building",
-          "excerpt": "Engineering professor on why columns may have buckled in New York City building In Midtown Manhattan, buildings had to be evacuated after at least two columns were found buckling at a high-rise construction site. New York City Mayor Zohran Mamdani also said there are multiple cracks and sagging floors.…",
-          "url": "https://www.cbsnews.com/video/engineering-professor-why-columns-buckled-new-york-city-building/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Rush to stabilize NYC high-rise at risk of collapse",
-          "excerpt": "Looming Medicaid cuts put care for people with disabilities at risk 03:20 Millions across the Northeast cleaning up 01:19 U.S.…",
-          "url": "https://www.nbcnews.com/nightly-news/video/rush-to-stabilize-nyc-high-rise-at-risk-of-collapse-266333765903"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "NYC high-rise's possible collapse prompts evacuations",
-          "excerpt": "NYC high-rise's possible collapse prompts evacuations July 7, 2026Authorities in New York City evacuated a street block on Tuesday, after an under-construction high-rise became unstable with buckling columns and sagging floors. Officials said they feared that the Midtown Manhattan building could collapse.…",
-          "url": "https://www.dw.com/en/nyc-high-rise-s-possible-collapse-prompts-evacuations/a-77868907?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google’s Pixel event is set for August 12",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Google’s Pixel event is set for August 12",
-          "excerpt": "Google is preparing for its Made by Google launch event, which is scheduled for August 12 in New York City, as announced on Tuesday. We’re hoping this event will be less cringeworthy than last year’s, which featured Jimmy Fallon and other celebrities, including Stephen Curry and the Jonas Brothers. There are numerous rumors circulating about the upcoming Pixel 11 lineup.…",
-          "url": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
-          "excerpt": "Google has announced its next Made By Google event, taking place on August 12 in New York City. Google’s invite doesn’t name names, but the imagery clearly shows a new Pixel phone that looks a whole lot like last year’s phone. Some new rumors, however, suggest the updated phones will come with inflated price tags courtesy of the AI-driven component shortage.…",
-          "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Google's next Pixel event is on August 12",
-          "excerpt": "Google's next Pixel event is on August 12 This year's event starts at 6PM ET. Google will announce the next generation of its Pixel devices on August 12, the company announced today. In contrast to years past, the search giant plans to host the launch during the evening, meaning you won't need to take time off work to see what the company's hardware team has been working on for the past year.…",
-          "url": "https://www.engadget.com/2209791/googles-next-pixel-event-is-on-august-12/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Pakistan: Plane with 5 on board loses contact off Karachi",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Pakistan: Plane with 5 on board loses contact off Karachi",
-          "excerpt": "Pakistan: Plane with 5 on board loses contact off Karachi July 8, 2026A Boeing 737 cargo plane with five crew members on board lost contact with air traffic control on Tuesday night, Pakistani aviation authorities said. The aircraft had reported a technical problem while on its way from Sharjah, in the United Arab Emirates (UAE) to Karachi. The incident has triggered search and rescue operations.…",
-          "url": "https://www.dw.com/en/pakistan-plane-with-5-on-board-loses-contact-off-karachi/a-77869075?maca=en-rss-en-all-1573-rdf"
-        },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
-          "excerpt": "Pakistan searches for Boeing cargo plane missing over Arabian Sea The Karachi-bound aircraft lost contact with air traffic control after reporting a navigational system fault. Islamabad, Pakistan – Pakistan is searching for a Boeing cargo aircraft missing over the Arabian Sea with five crew members on board.…",
-          "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea?traffic_source=rss"
+          "headline": "Switzerland fans’ joy as team reaches World Cup quarter-final",
+          "excerpt": "Switzerland fans’ joy as team reaches World Cup quarter-final Switzerland fans’ joy as team reaches World Cup quarter-final Swiss fans celebrated wildly after their team made it to the World Cup quarter-finals for the first time since 1954 by beating Colombia on penalties. Published On 8 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/switzerland-fans-joy-as-team-reaches-world-cup-quarter-final?traffic_source=rss"
         },
         {
-          "source": "Business Insider",
+          "source": "France 24",
           "lang": "en",
-          "headline": "A Boeing 737 plane has disappeared off the coast of Pakistan",
-          "excerpt": "A cargo plane with five people on board went missing while flying over the Arabian Sea on Tuesday. The K2 Airways Boeing 737 disappeared from radar about 80 minutes into its two-hour flight from Sharjah, UAE, to Karachi, Pakistan.…",
-          "url": "https://www.businessinsider.com/boeing-737-plane-disappeared-pakistan-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6",
-          "excerpt": "The U.S. Department of Commerce has given OpenAI the green light for a broad launch of its advanced GPT-5.6 model , a source familiar with the situation confirmed to Axios Tuesday. OpenAI announced late Tuesday night that GPT-5.6 flagship model Sol, as well as lower tiers Terra and Luna, will launch publicly this Thursday.…",
-          "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
-          "excerpt": "The U.S. Department of Commerce has cleared the way for OpenAI to proceed with a broad release of its advanced GPT-5.6 model, Axios reported, citing a source familiar with the matter. OpenAI anticipates the rollout to happen as early as this week, following additional testing and meetings between the company and government officials, according to the report late Tuesday.…",
-          "url": "https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
-          "excerpt": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9 It had to submit the three models to government for approval. OpenAI will publicly launch all three of GPT-5.6's variants — Sol, Luna and Terra — this Thursday, July 9, the company has announced on X. \"We're expanding preview access globally now,\" it added.…",
-          "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised",
-          "excerpt": "Australian prime minister Anthony Albanese has said China’s weapons test in the Pacific risks fuelling dangerous nuclear proliferation, with the intercontinental ballistic missile (ICBM) fired on Monday capable of causing “considerable damage” if weaponised.…",
-          "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. says China's nuclear weapons buildup \"of great concern\" after missile test",
-          "excerpt": "China test-launches ballistic missile from sub in South Pacific, drawing protests Bangkok — China's military test-launched a long-range ballistic missile Monday from one of its nuclear-powered submarines in the South Pacific, drawing protest and concern from countries in the region. The missile was launched at 12:01 p.m. and carried a dummy warhead, according to the official Xinhua News Agency.…",
-          "url": "https://www.cbsnews.com/news/china-ballistic-missile-test-launch-submarine-south-pacific/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "China's rare missile test will push wary Asia-Pacific countries to close ranks, analysts say",
-          "excerpt": "China's rare launch of a ballistic missile from a nuclear submarine into the Pacific, demonstrating the sea-based leg of its nuclear arsenal, will push countries in the region to wall themselves off from Beijing by tightening defense ties. A People's Liberation Army Navy submarine fired the missile, carrying a dummy warhead, toward international waters at 12:01 p.m.…",
-          "url": "https://www.cnbc.com/2026/07/08/china-nuclear-missile-launch-test-pacific-weapons-military-defense-alliance-australia-.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump and Zelenskyy set to meet at NATO summit in Turkey",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump and Zelenskyy set to meet at NATO summit in Turkey",
-          "excerpt": "Trump and Zelenskyy set to meet at NATO summit in Turkey The meeting comes as Ukraine faces an urgent ammunition shortfall. Ukraine's President Volodymyr Zelenskyy is expected to make a direct appeal to President Donald Trump during a face-to-face meeting on the sidelines of the NATO summit, asking for help replenishing depleted stocks of American-made ammunition vital to the country's defense.…",
-          "url": "https://abcnews.com/Politics/trump-zelenskyy-set-meet-nato-summit-turkey/story?id=134561170"
+          "headline": "'Anything is possible with Messi': Argentina into World Cup quarter-finals",
+          "excerpt": "Lionel Messi led a stunning late fightback as Argentina defeated Egypt 3-2 to reach the World Cup quarter-finals on Tuesday, the reigning champions recovering from a two-goal deficit to escape a monumental upset. The win - and Messi's form - has many Argentina fans dreaming that another World Cup could be on its way.",
+          "url": "https://www.france24.com/en/video/20260708-anything-is-possible-with-messi-argentina-into-world-cup-quarter-finals"
         },
         {
           "source": "Euronews",
           "lang": "en",
-          "headline": "Erdogan gives world leaders a ceremonial welcome ahead of NATO summit",
-          "excerpt": "Ukrainian President Volodymyr Zelenskyy, US President Donald Trump and other NATO leaders arrived in Ankara on 7 July for a state dinner hosted by Turkish President Recep Tayyip Erdogan. The leaders gathered in Turkey for a two-day NATO summit focused on defence spending, security and the alliance's future.…",
-          "url": "http://www.euronews.com/video/2026/07/08/erdogan-gives-world-leaders-a-ceremonial-welcome-ahead-of-nato-summit"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Russia strikes Kyiv as Zelensky, Trump set to meet",
-          "excerpt": "Russian strikes on Ukraine overnight killed at least two people while Kyiv targeted sites in Russia in drone attacks just hours ahead of a meeting between US President Donald Trump and Ukraine's Volodymyr Zelensky at a NATO summit. France 24's Gulliver Cragg has the latest.",
-          "url": "https://www.france24.com/en/video/20260708-russia-strikes-kyiv-as-zelensky-trump-set-to-meet"
+          "headline": "Argentina fans sing and dance after dramatic World Cup comeback against Egypt",
+          "excerpt": "Argentina fans celebrated with tears, songs and dancing after their team's dramatic 3-2 comeback victory over Egypt in the World Cup round of 16. Footage from Buenos Aires and Atlanta shows supporters cheering, embracing and playing drums as the final whistle confirmed Argentina's place in the quarter-finals.…",
+          "url": "http://www.euronews.com/video/2026/07/07/argentina-fans-sing-and-dance-after-dramatic-world-cup-comeback-against-egypt"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Trump doubles down on push for control over Greenland as Denmark vows to defend it",
+      "category": "🛒 FMCG & Retail",
+      "headline_en": "Walmart cuts prices on groceries and other goods",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "CNBC",
+          "source": "Retail Dive",
           "lang": "en",
-          "headline": "Trump doubles down on push for control over Greenland as Denmark vows to defend it",
-          "excerpt": "President Donald Trump on Wednesday doubled down on his latest push for U.S. control over Greenland, saying Washington needs the Arctic island \"for the protection of the world.\" Speaking alongside NATO Secretary General Mark Rutte on Wednesday, Trump said the self-governing Danish territory was \"very important\" for the U.S., \"but it is not important for Denmark.\" \"We took Greenland and then stupid…",
-          "url": "https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html"
+          "headline": "Walmart cuts prices on groceries and other goods",
+          "excerpt": "Dive Brief: - Walmart and Sam’s Club are joining fellow food retailers in offering price cuts on summer essentials, according to a Monday press release. - The price cuts extend to items in the grocery, household essentials, outdoor living, toys and apparel departments, per the press release. The retailer confirmed with sister publication Grocery Dive that these price cuts took effect last week.…",
+          "url": "https://www.retaildive.com/news/walmart-summer-price-cuts-inflation-ground-beef-president-trump/824592/"
         },
         {
-          "source": "France 24",
+          "source": "Grocery Dive",
           "lang": "en",
-          "headline": "Live: Trump says 'very upset with NATO' over Iran war, Greenland",
-          "excerpt": "US President Donald Trump on Wednesday said he was “very upset with NATO” after alliance members continued their resistance to his desire to acquire Greenland for the United States from member state Denmark. Speaking to reporters alongside NATO chief Rutte at the summit in Ankara, he also repeated complaints about how allies \"were unwilling to help us” in the US-Israel war against Iran.…",
-          "url": "https://www.france24.com/en/europe/20260708-ukraine-live-russia-launches-deadly-strikes-kyiv-nato-leaders-prepare-meet-in-ankara"
+          "headline": "Walmart cuts prices on groceries and other goods",
+          "excerpt": "Dive Brief: - Walmart and Sam’s Club are joining fellow food retailers in offering price cuts on summer essentials, according to a Monday press release. - The price cuts extend to items in the grocery, household essentials, outdoor living, toys and apparel departments, per the press release. The retailer confirmed with Grocery Dive that these price cuts took effect last week.…",
+          "url": "https://www.grocerydive.com/news/walmart-summer-price-cuts-inflation-ground-beef-president-trump/824584/"
         },
         {
-          "source": "ABC News",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "Danish PM says Greenland is 'not for sale' as Trump joins NATO leaders in Turkey",
-          "excerpt": "Danish PM says Greenland is 'not for sale' as Trump joins NATO leaders in Turkey Denmark has vowed to defend its territory after President Trump insisted the U.S.…",
-          "url": "https://abcnews.com/International/wireStory/nato-summit-supposed-focus-defense-spending-trumps-strikes-134572678"
+          "headline": "Walmart Just Made a Welcome Announcement, and Customers Will Be Very Happy",
+          "excerpt": "Only, there’s a twist.",
+          "url": "https://www.inc.com/bill-murphy-jr/walmart-just-made-a-welcome-announcement-and-customers-will-be-very-happy/91371187"
         }
       ]
     },
@@ -768,38 +586,241 @@
       ]
     },
     {
-      "category": "📈 Economy",
-      "headline_en": "US and Iran trade strikes after attacks on tankers",
+      "category": "💡 Tech & AI",
+      "headline_en": "Google’s Pixel event is set for August 12",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "FT",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "US and Iran trade strikes after attacks on tankers",
-          "excerpt": "Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ after round of tit-for-tat bombing",
-          "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c"
+          "headline": "Google’s Pixel event is set for August 12",
+          "excerpt": "Google is preparing for its Made by Google launch event, which is scheduled for August 12 in New York City, as announced on Tuesday. We’re hoping this event will be less cringeworthy than last year’s, which featured Jimmy Fallon and other celebrities, including Stephen Curry and the Jonas Brothers. There are numerous rumors circulating about the upcoming Pixel 11 lineup.…",
+          "url": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+          "excerpt": "Google has announced its next Made By Google event, taking place on August 12 in New York City. Google’s invite doesn’t name names, but the imagery clearly shows a new Pixel phone that looks a whole lot like last year’s phone. Some new rumors, however, suggest the updated phones will come with inflated price tags courtesy of the AI-driven component shortage.…",
+          "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Google's next Pixel event is on August 12",
+          "excerpt": "Google's next Pixel event is on August 12 This year's event starts at 6PM ET. Google will announce the next generation of its Pixel devices on August 12, the company announced today. In contrast to years past, the search giant plans to host the launch during the evening, meaning you won't need to take time off work to see what the company's hardware team has been working on for the past year.…",
+          "url": "https://www.engadget.com/2209791/googles-next-pixel-event-is-on-august-12/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+          "excerpt": "Smart glasses company Solos has long focused on audio-only smart glasses. On Tuesday, it announced two new pairs of glasses, one of which has a camera—but you can buy a separate accessory to hide the camera for privacy’s sake. Solos’ new smart glasses are the audio-only AirGo A6 and the second iteration of its camera-enabled glasses, the Solos AirGo V2.…",
+          "url": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Meta says it will disable the camera on its glasses if you tamper with the recording LED",
+          "excerpt": "Meta says it will disable the camera on its glasses if you tamper with the recording LED It also vows to take legal action against businesses advertising LED tampering services. The launch of Meta's latest set of AI Glasses not only reignited, but also intensified public anger surrounding the devices.…",
+          "url": "https://www.engadget.com/2210283/meta-disable-camera-glasses-tamper-with-recording-led/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+          "excerpt": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses’ privacy LED light. The update is meant to address modders who have taken actions such as physically drilling into the LED light.…",
+          "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ali Khamenei's coffin passes through thousands of mourners in Iraq's holy city of Najaf",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Ali Khamenei's coffin passes through thousands of mourners in Iraq's holy city of Najaf",
+          "excerpt": "Thousands of mourners gathered in Najaf on Wednesday as the funeral procession for Iran's late Supreme Leader Ali Khamenei passed through one of Iraq's holiest Shiite cities. The video shows crowds surrounding the truck carrying the coffin, with many reaching out to touch the vehicle.…",
+          "url": "http://www.euronews.com/video/2026/07/08/ali-khameneis-coffin-passes-through-thousands-of-mourners-in-iraqs-holy-city-of-najaf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Iran’s supreme leader’s coffin arrives in Najaf",
+          "excerpt": "Iran’s supreme leader’s coffin arrives in Najaf Iran’s supreme leader’s coffin arrives in Najaf Thousands of mourners thronged Iraq’s holy city of Najaf as the coffin of the late supreme leader Ayatollah Ali Khamenei moved through the city. The procession marks tribute to the late leader ahead of his burial on Thursday. Published On 8 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Thousands of mourners march as Khamenei's funeral procession crosses into Iraq",
+          "excerpt": "Mourners ​marched through Iraq's holy city of Najaf on ​Wednesday, following the coffin of slain Iranian leader Ayatollah Ali Khamenei as his six-day funeral procession, which drew ​huge ‌crowds in his home country, pressed ⁠on across the border.",
+          "url": "https://www.france24.com/en/video/20260708-thousands-of-mourners-march-as-khamenei-s-funeral-procession-crosses-into-iraq"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised",
+          "excerpt": "Australian prime minister Anthony Albanese has said China’s weapons test in the Pacific risks fuelling dangerous nuclear proliferation, with the intercontinental ballistic missile (ICBM) fired on Monday capable of causing “considerable damage” if weaponised.…",
+          "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Trump says Iran ceasefire is 'over' after latest round of strikes",
-          "excerpt": "U.S. President Donald Trump said on Wednesday that Washington's ceasefire with Tehran is over, after hostilities between the two sides escalated overnight. During a joint press conference with NATO chief Mark Rutte at the military alliance's summit in Ankara, Turkey, on Wednesday, Trump said, \"I think it's over\" in response to a reporter's question.…",
-          "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html"
+          "headline": "China's rare missile test will push wary Asia-Pacific countries to close ranks, analysts say",
+          "excerpt": "China's rare launch of a ballistic missile from a nuclear submarine into the Pacific, demonstrating the sea-based leg of its nuclear arsenal, will push countries in the region to wall themselves off from Beijing by tightening defense ties. A People's Liberation Army Navy submarine fired the missile, carrying a dummy warhead, toward international waters at 12:01 p.m.…",
+          "url": "https://www.cnbc.com/2026/07/08/china-nuclear-missile-launch-test-pacific-weapons-military-defense-alliance-australia-.html"
         },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. says China's nuclear weapons buildup \"of great concern\" after missile test",
+          "excerpt": "China test-launches ballistic missile from sub in South Pacific, drawing protests Bangkok — China's military test-launched a long-range ballistic missile Monday from one of its nuclear-powered submarines in the South Pacific, drawing protest and concern from countries in the region. The missile was launched at 12:01 p.m. and carried a dummy warhead, according to the official Xinhua News Agency.…",
+          "url": "https://www.cbsnews.com/news/china-ballistic-missile-test-launch-submarine-south-pacific/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: Gaza football fans watch World Cup from rubble",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: Gaza football fans watch World Cup from rubble",
+          "excerpt": "Watch: Gaza football fans watch World Cup from rubble Hundreds of football fans across parts of Gaza watched Tuesday's Argentina v Egypt World Cup game amongst the ruins of shattered buildings. Many waved flags for Egypt, which shares a border with the war-torn enclave and has been one of the mediators in ceasefire negotiations between Hamas and Israel.…",
+          "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Argentina fans gather in Atlanta for traditional World Cup 'banderazo'",
+          "excerpt": "Hundreds of Argentina fans gathered at Piedmont Park in Atlanta for a traditional banderazo ahead of the team's World Cup last-16 clash with Egypt. Footage shows supporters singing, chanting and playing drums, trumpets and other instruments as they created a carnival atmosphere in the city.…",
+          "url": "http://www.euronews.com/video/2026/07/07/argentina-fans-gather-in-atlanta-for-traditional-world-cup-banderazo"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina",
+          "excerpt": "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 8 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+          "url": "https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "DOJ warns state officials of 'potential criminal penalties' over noncitizen voting",
+      "coverage": 3,
+      "perspectives": [
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "Iran live updates: Trump says he thinks Iran agreement is 'over' after exchanges",
-          "excerpt": "Kuwait intercepts 15 projectiles amid 'heinous' Iranian retaliatory attacks Air defenses intercepted 15 projectiles in Kuwait's airspace this morning, a spokesperson for the Ministry of Defense said on Wednesday.…",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610"
+          "headline": "DOJ warns state officials of 'potential criminal penalties' over noncitizen voting",
+          "excerpt": "Ahead of midterms, DOJ warns state officials of 'potential criminal penalties' over noncitizen voting One election official told ABC News they found the warning \"threatening.\" As the Trump administration seeks to tighten federal control over elections ahead of the midterms, the head of the Justice Department's civil rights division has sent letters to state election officials warning them of \"pote…",
+          "url": "https://abcnews.com/US/ahead-midterms-doj-warns-state-officials-potential-criminal/story?id=134566080"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "DOJ threatens criminal action against states that allow noncitizens to vote",
+          "excerpt": "DOJ threatens criminal action against states that allow noncitizens to vote The head of the Justice Department's Civil Rights Division sent letters to election officials in all 50 states on Tuesday threatening criminal action if they knowingly allow non-U.S. citizens to vote or to remain on their voter rolls, the department confirmed to CBS News.…",
+          "url": "https://www.cbsnews.com/news/doj-threatens-criminal-action-against-states-that-allow-non-citizens-to-vote/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "DOJ warns of criminal charges for state election officials if noncitizens vote",
+          "excerpt": "The Justice Department sent letters warning election officials in all 50 states and the District of Columbia that they could face criminal prosecution over noncitizen voting, a spokesperson for the Justice Department confirmed Tuesday.…",
+          "url": "https://www.nbcnews.com/politics/elections/doj-warns-criminal-charges-state-election-officials-non-citizen-voting-rcna353433"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Apple’s Chip Deal With Broadcom Expected to Exceed $30 Billion",
+      "headline_en": "Bezos' Blue Origin valued at $130 billion in first public fundraising round",
       "coverage": 3,
       "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Bezos' Blue Origin valued at $130 billion in first public fundraising round",
+          "excerpt": "Jeff Bezos' Blue Origin is raising about $10 billion, in its first outside funding round that will value the rocket company at $130 billion, sources told CNBC's Andrew Ross Sorkin.…",
+          "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Blue Origin, for the first time, is expected to raise private capital",
+          "excerpt": "The rocket company founded by Jeff Bezos, Blue Origin, is raising private capital, the DealBook newsletter reported early Wednesday. According to the publication, the company is raising $10 billion, leading to a valuation of $130 billion. Coatue Management, a big asset manager, is expected to lead with a $4 billion commitment.…",
+          "url": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Blue Origin is raising $10 billion in its first outside funding round, valued at $130 billion",
+          "excerpt": "Blue Origin is raising $10 billion in its first-ever outside funding round, at a pre-money valuation of $130 billion, according to the New York Times DealBook. The round is expected to be led by Coatue Management, which has committed approximately $4 billion.…",
+          "url": "https://qz.com/blue-origin-fundraising-10-billion-outside-round-070826"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
+          "excerpt": "Pakistan searches for Boeing cargo plane missing over Arabian Sea The Karachi-bound aircraft lost contact with air traffic control after reporting a navigational system fault. Islamabad, Pakistan – Pakistan is searching for a Boeing cargo aircraft missing over the Arabian Sea with five crew members on board.…",
+          "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea?traffic_source=rss"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "A Boeing 737 plane has disappeared off the coast of Pakistan",
+          "excerpt": "A cargo plane with five people on board went missing while flying over the Arabian Sea on Tuesday. The K2 Airways Boeing 737 disappeared from radar about 80 minutes into its two-hour flight from Sharjah, UAE, to Karachi, Pakistan.…",
+          "url": "https://www.businessinsider.com/boeing-737-plane-disappeared-pakistan-2026-7"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Pakistan: Rescuers scour sea for crashed plane off Karachi",
+          "excerpt": "Pakistan: Rescuers scour sea for crashed plane off Karachi Published July 7, 2026last updated July 8, 2026Pakistani rescuers scoured the waters around the presumed crash site of a cargo plane on Wednesday, hours after it lost contact with air traffic control en route to Karachi.…",
+          "url": "https://www.dw.com/en/pakistan-rescuers-scour-sea-for-crashed-plane-off-karachi/a-77869075?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Apple is committing more than $30 billion to Broadcom for U.S.-made chips",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Apple is committing more than $30 billion to Broadcom for U.S.-made chips",
+          "excerpt": "Apple $AAPL announced a new multiyear agreement with Broadcom $AVGO on Wednesday valued at more than $30 billion to design and produce custom silicon components and wireless connectivity technologies for Apple products. The deal is expected to result in the production of more than 15 billion U.S.-made chips and will support hundreds of American jobs, Apple said.…",
+          "url": "https://qz.com/apple-broadcom-chip-deal-30-billion-fort-collins-070826"
+        },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
@@ -808,18 +829,39 @@
           "url": "https://www.bloomberg.com/news/articles/2026-07-08/apple-aapl-chip-deal-with-broadcom-avgo-expected-to-exceed-30-billion"
         },
         {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Apple announces chip deal with Broadcom worth more than $30 billion",
-          "excerpt": "Apple (AAPL) on Wednesday announced it has entered into a chip deal valued at more than $30 billion with Broadcom (AVGO). Under the terms of the deal, Broadcom will design and produce \"custom silicon components and cutting-edge wireless connectivity technologies\" for Apple products.…",
-          "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html"
-        },
-        {
           "source": "CNBC",
           "lang": "en",
           "headline": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
           "excerpt": "Apple said it's expanding its partnership with chipmaker Broadcom in a multi-year deal expected to exceed $30 billion, marking the iPhone maker's largest U.S. manufacturing commitment to date. The agreement, announced by Apple on Wednesday, will lead to the production of more than 15 billion U.S.-made chips and includes a $1.5 billion expansion of Broadcom's facility in Fort Collins, Colorado.…",
           "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions",
+          "excerpt": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions The president continued to lash out at other NATO allies over Iran.…",
+          "url": "https://abcnews.com/Politics/trump-hell-giving-turkey-35-jets-adds-us/story?id=134547490"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Netanyahu warns US could 'destroy' Mideast power balance as Trump floats F-35 jet sale to Turkey",
+          "excerpt": "Netanyahu warns US could 'destroy' Mideast power balance as Trump floats F-35 jet sale to Turkey US President Donald Trump on Tuesday announced his willingness to sell Turkey F-35 fighter jets, a move which is likely to face strong resistance in Congress and which Israeli Prime Minister Benjamin Netanyahu said would \"destroy\" the balance of power in the Middle East.…",
+          "url": "https://www.france24.com/en/netanyahu-warns-us-destroy-mideast-power-balance-trump-floats-f-35-jet-sale-turkey"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump signals openness to selling Turkey F-35 fighter jets",
+          "excerpt": "President Trump signaled at the top of his meeting with Turkish President Erdoğan in Ankara on Tuesday that he's leaning towards allowing the country back into the F-35 program and selling the fighter jets to the Turkish air force. Why it matters: Allowing Turkey to rejoin the program and selling it F-35 jets would be a shift in U.S. policy.…",
+          "url": "https://www.axios.com/2026/07/07/trump-turkey-f35-jets"
         }
       ]
     },
@@ -838,51 +880,51 @@
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Charlie Kirk murder suspect changed clothes before shooting, agent says",
-          "excerpt": "Charlie Kirk murder suspect ate at Chick-fil-A and changed clothes before shooting activist, agent says The man charged with killing Charlie Kirk strolled Utah Valley University in shorts and a T-shirt, bought a meal at Chick-fil-A and made contact with Kirk's staff, before returning in different clothes to shoot the conservative activist from a rooftop, an investigator testified Tuesday.…",
-          "url": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-video-hearing-tuesday/"
+          "headline": "New video emerges in trial for Charlie Kirk's suspected killer",
+          "excerpt": "Latest U.S. Iran War World Cup World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
+          "url": "https://www.cbsnews.com/video/new-video-emerges-in-trial-for-charlie-kirks-suspected-killer/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "The 2026 FIFA World Cup schedule and how to watch",
+      "headline_en": "World Cup: Which teams made the quarterfinals, and what’s the schedule?",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "The 2026 FIFA World Cup schedule and how to watch",
-          "excerpt": "The 2026 FIFA Men's World Cup schedule and how to watch Tickets to the 2026 FIFA Men's World Cup may be scarce and very expensive, but there are several ways soccer fans can watch all 104 matches scheduled across the United States, Mexico and Canada in the tournament now underway. \"Imagine, with this World Cup, a Super Bowl every single day for five weeks,\" U.S.…",
-          "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/"
-        },
-        {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "World Cup 2026 quarterfinals: Full schedule and Egypt FIFA dispute",
-          "excerpt": "World Cup 2026 quarterfinals: Full schedule and Egypt FIFA dispute World Cup quarterfinals are set, with eight teams advancing as Egypt’s FIFA controversy and VAR decisions prompt debate.…",
-          "url": "https://www.aljazeera.com/news/2026/7/8/world-cup-2026-quarterfinals-full-schedule-and-egypt-fifa-dispute?traffic_source=rss"
+          "headline": "World Cup: Which teams made the quarterfinals, and what’s the schedule?",
+          "excerpt": "World Cup: Which teams made the quarterfinals, and what’s the schedule? Complete FIFA World Cup 2026 quarterfinals lineup, with match start times and venue locations inside the United States. And then, there were eight. The biggest World Cup, with 48 teams, has now reached the third round of its knockout phase, with 40 nations falling by the wayside in the last two weeks.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/8/world-cup-which-teams-made-the-quarterfinals-and-whats-the-schedule?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Could football break away from FIFA and its World Cup?",
+          "excerpt": "Could football break away from FIFA and its World Cup? July 7, 2026\"I'm the one that got them to do it,\" said Donald Trump on Monday, referring to FIFA’s hugely controversial decision to suspend the red card ban of USA striker Folarin Balogun ahead of their loss to Belgium in the last 16 of the World Cup.…",
+          "url": "https://www.dw.com/en/could-football-break-away-from-fifa-and-its-world-cup/a-77677338?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "CDC warns of rising parasite infections with a horrifying symptom: 2026 cyclosporiasis outbreak spreads",
+      "category": "🌍 World",
+      "headline_en": "World Cup 2026: Argentina pull off stunning comeback as Egypt protest refereeing",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Fast Company",
+          "source": "France 24",
           "lang": "en",
-          "headline": "CDC warns of rising parasite infections with a horrifying symptom: 2026 cyclosporiasis outbreak spreads",
-          "excerpt": "Here&#8217;s something you don&#8217;t see everyday: Local health officials are warning Americans to be on the lookout for cyclosporiasis, a parasitic infection that causes “explosive” diarrhea—yes, we said it—and has sickened nearly 700 people in the at least two U.S. states, with a majority of those cases in Michigan.…",
-          "url": "https://www.fastcompany.com/91570142/cyclosporiasis-2026-outbreak-spreads-parasite-infection-with-horrifying-symptom-explosive-diarrhea-cdc-warning"
+          "headline": "World Cup 2026: Argentina pull off stunning comeback as Egypt protest refereeing",
+          "excerpt": "Argentina looked on the brink of a historic upset after falling 2-0 behind to Egypt. But in 13 breathtaking minutes, the defending champions turned the match around through Romero, Messi and Fernández to book their place in the quarter-finals.…",
+          "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260708-world-cup-2026-argentina-steal-stunning-comeback-as-egypt-complain-about-refering"
         },
         {
-          "source": "Ars Technica",
+          "source": "Time",
           "lang": "en",
-          "headline": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-          "excerpt": "Cases of a diarrhea-causing intestinal parasite have exploded in Michigan over the last two weeks in an outbreak that still has no clear source. As of July 6, the state has received reports of over 700 cases since June 22, along with 36 hospitalizations, the Michigan Department of Health and Human Services (MDHSS) told Ars Technica on Tuesday.…",
-          "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/"
+          "headline": "A Messi Miracle Takes Over the World Cup",
+          "excerpt": "The Lionel Messi World Cup obits were starting to be written. It’s a good bet that some were finalized. Egypt led Argentina 2-0 in a World Cup quarterfinal Tuesday afternoon, in the 79th minute. A new World Cup champion would be crowned. Fold Cristiano Ronaldo into the piece.…",
+          "url": "https://time.com/article/2026/07/07/lionel-messi-world-cup-argentina-egypt-goal/"
         }
       ]
     },
@@ -908,254 +950,212 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "The Philippines’ ‘Trial of the Century’ Begins",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "The Philippines’ ‘Trial of the Century’ Begins",
-          "excerpt": "The Philippines’ ‘Trial of the Century’ Begins A pall of cynicism hangs over proceedings against Vice President Sara Duterte. Welcome to Foreign Policy’s Southeast Asia Brief.…",
-          "url": "https://foreignpolicy.com/2026/07/08/the-philippines-trial-of-the-century-begins/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Philippines' democracy tested by Duterte impeachment trial",
-          "excerpt": "Philippines' democracy tested by Duterte impeachment trial July 7, 2026Impeachment proceedings against Philippine Vice President Sara Duterte over allegations that include corruption and threats to assassinate President Ferdinand \"Bongbong\" Marcos, Jr. began Monday.…",
-          "url": "https://www.dw.com/en/philippines-democracy-tested-by-duterte-impeachment-trial/a-77864215?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
       "category": "💡 Tech & AI",
-      "headline_en": "French Watchdog Orders Meta Negotiations Over News Copyright",
+      "headline_en": "AI Firm Zhipu to Sell $4 Billion of Shares After 1,500% Rally",
       "coverage": 2,
       "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "AI Firm Zhipu to Sell $4 Billion of Shares After 1,500% Rally",
+          "excerpt": "Chinese artificial-intelligence model maker Zhipu is seeking to raise about $4 billion from a share sale after its stock soared almost 1,500% since a January listing in Hong Kong.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-firm-zhipu-to-sell-4-billion-of-shares-after-1-500-rally"
+        },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "French Watchdog Orders Meta Negotiations Over News Copyright",
-          "excerpt": "Meta Platforms Inc. was ordered by the French competition watchdog to hold talks with news organizations over copyright payments, following two complaints that the social media giant was abusing its dominant position.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-08/french-watchdog-orders-meta-to-negotiate-in-news-copyright-case"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees",
-          "excerpt": "By Forrest Crellin PARIS, July 8 (Reuters) - France's competition authority on Wednesday ordered Meta Platforms to put forward a payment plan and resume talks with French media groups that are seeking a year of unpaid fees for the use of their content online.…",
-          "url": "https://finance.yahoo.com/media-advertising/articles/french-antitrust-watchdog-orders-meta-093634621.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Samsung Confirms Radical 'Galaxy Buds' Companion In New Apple Threat",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Samsung Confirms Radical 'Galaxy Buds' Companion In New Apple Threat",
-          "excerpt": "July 7 update below: Why a Clip-On design could be a key strategic upgrade to Samsung’s product catalog. This article was originally published on July 5 Samsung has quietly revealed the names of three new Galaxy devices ahead of launch.…",
-          "url": "https://www.forbes.com/sites/paulmonckton/2026/07/07/samsung-galaxy-able-watch-leak/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "The next Samsung Galaxy Unpacked launch is happening on July 22",
-          "excerpt": "The next Samsung Galaxy Unpacked launch is happening on July 22 We’re expecting an updated family of foldables including not one but possibly two versions of the Galaxy Z Fold 8. While Apple fans continue to wait for the first foldable iPhone, Samsung is looking to extend its dominance in the category at its next Galaxy Unpacked event, which is set for July 22 in London.…",
-          "url": "https://www.engadget.com/2209773/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
-          "excerpt": "U.S. lawmakers are considering how to curb the growing adoption of Chinese AI models by homegrown companies, as geopolitical tensions surrounding the rollout of artificial intelligence ramp up. AI has emerged as a key point of rivalry between the U.S. and China, with both nations vying for supremacy in the field. Chinese models are gaining traction among U.S.…",
-          "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "CNBC: The US wants to restrict corporate use of Chinese AI",
-          "excerpt": "CNBC: The US wants to restrict corporate use of Chinese AI It is gearing up to probe the surge in uptake by US companies. The US is gearing up to at least try and stifle American companies' use of Chinese-made AI models in their operations.…",
-          "url": "https://www.engadget.com/2210340/us-reportedly-wants-to-restrict-corporate-use-chinese-ai/"
+          "headline": "Iluvatar CoreX Seeks to Raise $850 Million After Stock Rally",
+          "excerpt": "Shanghai Iluvatar CoreX Semiconductor Co. is seeking to raise about $850 million from a share sale in Hong Kong after soaring since its initial public offering in January.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/iluvatar-corex-seeks-to-raise-850-million-after-stock-rally"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "OpenAI to launch 'strongest model yet' after delay",
+      "headline_en": "Hamas Says It Will Cede Power in Gaza. What Comes Next?",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "DW English",
+          "source": "Time",
           "lang": "en",
-          "headline": "OpenAI to launch 'strongest model yet' after delay",
-          "excerpt": "ChatGPT creator to launch 'strongest model yet' after delay July 8, 2026OpenAI is set to roll out its GPT-5.6 AI model series on Thursday, weeks after postponing the launch in June as US officials reviewed potential security risks. According to Axios, the White House has now cleared the launch following technical testing and discussions with OpenAI executives.…",
-          "url": "https://www.dw.com/en/openai-to-launch-strongest-model-yet-after-delay/a-77874307?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "OpenAI to Roll Out Top AI Model Globally After Limited Preview",
-          "excerpt": "OpenAI is set to release its most advanced model widely on Thursday and is expanding its preview globally, the company said.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-08/openai-to-roll-out-top-ai-model-globally-after-limited-preview"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Iran projects regional power as Khamenei funeral heads to Iraq",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Iran projects regional power as Khamenei funeral heads to Iraq",
-          "excerpt": "Slain supreme leader’s body will be on display in Shia holy cities as Tehran seeks to revive axis of influence",
-          "url": "https://www.ft.com/content/f73e4763-1a33-45ee-9e22-cca151a16e5e"
+          "headline": "Hamas Says It Will Cede Power in Gaza. What Comes Next?",
+          "excerpt": "Hamas announced Monday that after nearly two decades of governing the Gaza Strip, it will dissolve its government and hand over power to a Palestinian technocratic governing authority. The move is part of the U.S.-brokered peace plan that paved the way for an October 2025 ceasefire between Hamas and Israel.…",
+          "url": "https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
-          "excerpt": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq Khamenei’s coffin made its way through the streets of Najaf to the shrine of Imam Ali, Prophet Muhammad’s son-in-law. Thousands of mourners have gathered in Iraq’s Najaf as funeral processions for Iran’s slain Supreme Leader Ayatollah Ali Khamenei began in the holy city.…",
-          "url": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss"
+          "headline": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+          "excerpt": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit With the dissolution of its emergency government, the Palestinian group ends a two-decade era defined by a crippling blockade, successive wars, and shifting administrative bodies.…",
+          "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Administration sharing info about asylum seekers with Iranian government, suit claims",
+      "headline_en": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz, British military says",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz, British military says",
+          "excerpt": "Iranian state television said a liquified natural gas tanker came under attack Tuesday in the Strait of Hormuz off Oman after ignoring warnings, implying Tehran carried out the assault on a tanker it said was carrying natural gas from Qatar.…",
+          "url": "http://www.euronews.com/2026/07/07/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-british-military-says"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Qatari tanker hit as it travelled through Strait of Hormuz",
+          "excerpt": "A Qatari tanker has been hit as it travelled through the Strait of Hormuz, suffering significant damage, Qatar's foreign ministry has said.",
+          "url": "https://news.sky.com/story/qatari-tanker-hit-as-it-travelled-through-strait-of-hormuz-13561225"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Severe storms in China bring tornadoes and landslides that have killed 15 people",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Severe storms in China bring tornadoes and landslides that have killed 15 people",
+          "excerpt": "The death toll from devastating storms in parts of China rose to 15 on Tuesday, with hundreds more injured and tens of thousands evacuated, state media reported, as the country’s leader, Xi Jinping, urged “all out” efforts to rescue people affected by the weather.…",
+          "url": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Death toll from China storms and floods rises to 15, state media says",
+          "excerpt": "Scientists warn the intensity and frequency of global extreme weather events will increase as the planet continues to heat up because of fossil fuel emissions. Thunderstorms and strong winds have killed at least 15 people and injured 275 in central China, state media said on Tuesday, as heavy rains and flooding left two more dead in the south.…",
+          "url": "http://www.euronews.com/2026/07/07/death-toll-from-china-storms-and-floods-rises-to-15-state-media-says"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Judge's ruling in Georgia election case is latest setback for Trump DOJ",
       "coverage": 2,
       "perspectives": [
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "Administration sharing info about asylum seekers with Iranian government, suit claims",
-          "excerpt": "Administration sharing info about asylum seekers with Iranian government, lawsuit claims The suit says the U.S. is endangering Iranian asylum seekers and their families. The Iranian American Legal Defense Fund filed a lawsuit Tuesday alleging the Trump administration has been sharing confidential information about Iranian asylum seekers with the Iranian government.…",
-          "url": "https://abcnews.com/US/administration-sharing-info-asylum-seekers-iranian-government-lawsuit/story?id=134547340"
+          "headline": "Judge's ruling in Georgia election case is latest setback for Trump DOJ",
+          "excerpt": "Judge's ruling in Georgia election case is latest setback for Trump DOJ The judge blocked a subpoena, saying the information it sought was \"staggering.\" A federal judge on Tuesday quashed a DOJ subpoena seeking the names and personal information of Fulton County's 2020 election workers, marking the latest in a string of rulings limiting what some judges have characterized as the Trump administrati…",
+          "url": "https://abcnews.com/US/judge-quashes-doj-subpoena-seeking-fulton-county-election/story?id=134562046"
         },
         {
-          "source": "Al Jazeera",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "‘Where do I get that from?’: UK asylum seekers face hefty repayment bill",
-          "excerpt": "‘Where do I get that from?’: UK asylum seekers face hefty repayment bill Refugees and NGOs decry the government’s plans to make people pay 10,000 British pounds ($13,360) towards subsistence fees. Names marked with an asterisk* have been changed to protect identities. London, United Kingdom – Frank* spends his weekends with relatives in London.…",
-          "url": "https://www.aljazeera.com/news/2026/7/8/where-do-i-get-that-from-uk-asylum-seekers-face-hefty-repayment-bill?traffic_source=rss"
+          "headline": "Judge blocks DOJ subpoena for names of 2020 Fulton County, Georgia, election workers",
+          "excerpt": "A federal judge in Atlanta on Tuesday blocked a Department of Justice subpoena seeking the names of election workers in Fulton County, Georgia, from the 2020 election. President Donald Trump has falsely claimed for years that he actually won Georgia's 2020 presidential election and has focused his allegations of ballot fraud on the count conducted in Fulton County, whose biggest city is Atlanta.…",
+          "url": "https://www.cnbc.com/2026/07/07/doj-subpoena-fulton-county-georgia-election-trump.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "China warns of \"security backdoor\" in Anthropic AI coding tool",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "China warns of \"security backdoor\" in Anthropic AI coding tool",
+          "excerpt": "China warns of \"security backdoor\" in Anthropic AI coding tool Beijing — A Chinese industry regulator warned users on Wednesday of a \"security backdoor\" embedded in versions of U.S. artificial intelligence giant Anthropic's coding tool, Claude Code.…",
+          "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "China warns about AI risks with Anthropic's Claude Code",
+          "excerpt": "BEIJING — China on Wednesday warned of \"back-door\" security risks affecting companies that use U.S.-based company Anthropic's Claude Code artificial intelligence tool. It comes as the U.S.-China tech race intensifies, with Anthropic last month blaming Chinese company Alibaba for attempting to extract its AI capabilities, which are not officially available in China.…",
+          "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Farage by-election gambit undercut by rivals’ refusal to participate",
+      "headline_en": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "FT",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Farage by-election gambit undercut by rivals’ refusal to participate",
-          "excerpt": "Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts",
-          "url": "https://www.ft.com/content/e83009d2-1a82-4ec1-83aa-2447cf1fa19b"
+          "headline": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
+          "excerpt": "The U.S. Department of Commerce has cleared the way for OpenAI to proceed with a broad release of its advanced GPT-5.6 model, Axios reported, citing a source familiar with the matter. OpenAI anticipates the rollout to happen as early as this week, following additional testing and meetings between the company and government officials, according to the report late Tuesday.…",
+          "url": "https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html"
         },
         {
-          "source": "DW English",
+          "source": "Axios",
           "lang": "en",
-          "headline": "UK: Nigel Farage resigns as MP, to run again in by-election",
-          "excerpt": "UK: Nigel Farage resigns as MP, to run again in by-election July 7, 2026Reform UK leader Nigel Farage on Tuesday said he would step down as a lawmaker to force a snap by-election in his own constituency. He said he planned to run in that same by-election.…",
-          "url": "https://www.dw.com/en/uk-nigel-farage-resigns-as-mp-to-run-again-in-by-election/a-77865626?maca=en-rss-en-all-1573-rdf"
+          "headline": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6",
+          "excerpt": "The U.S. Department of Commerce has given OpenAI the green light for a broad launch of its advanced GPT-5.6 model , a source familiar with the situation confirmed to Axios Tuesday. OpenAI announced late Tuesday night that GPT-5.6 flagship model Sol, as well as lower tiers Terra and Luna, will launch publicly this Thursday.…",
+          "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "How Trump Lost America the World Cup",
+      "category": "💡 Tech & AI",
+      "headline_en": "Wave of Earnings Surprises Will Be Hard to Repeat, Says Goldman",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Foreign Policy",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "How Trump Lost America the World Cup",
-          "excerpt": "How Trump Lost America the World Cup A host is supposed to harvest the world’s goodwill, not burn it. Folarin Balogun has gone home. The U.S. men’s national soccer team is out of the World Cup, beaten 4-1 by Belgium in the round of 16. Its star striker will be crossing his fingers that “being Baloguned” does not enter the lexicon of the sport. He may not be that lucky.…",
-          "url": "https://foreignpolicy.com/2026/07/07/folarin-balogun-world-cup-red-card-trump-infantino-fifa/"
+          "headline": "Wave of Earnings Surprises Will Be Hard to Repeat, Says Goldman",
+          "excerpt": "The wave of AI-fueled earnings surprises that powered stocks in the last earning season will be tough to repeat, making it unlikely the results alone will spark a major rally, according to Christian Mueller-Glissmann.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/wave-of-earnings-surprises-will-be-hard-to-repeat-says-goldman"
         },
         {
-          "source": "The Atlantic",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "The Other Celebration of America",
-          "excerpt": "The Other Celebration of America The World Cup has provided the unity that was lacking from the official 250th celebrations. The celebrations of America’s 250th birthday, though they offered many wonderful moments, did not provide the sweeping sense of national unity for which some people had hoped.…",
-          "url": "https://www.theatlantic.com/politics/2026/07/world-cup-america-250-patriotism/687817/?utm_source=feed"
+          "headline": "Wave of Earnings Surprises Will Be Hard to Repeat, Says Goldman",
+          "excerpt": "The wave of AI-fueled earnings surprises that powered stocks in the last earning season will be tough to repeat, making it unlikely the results alone will spark a major rally, according to Christian Mueller-Glissmann.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/wave-of-earnings-surprises-will-be-hard-to-repeat-says-goldman"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+          "excerpt": "X, the social network that can’t seem to win its perennial battle with bots, is introducing new video editing and recording features in hopes of encouraging creators to publish original content on its platform instead of recycling others’ material.…",
+          "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "The X app for iOS now has a built-in video editor",
+          "excerpt": "The X app for iOS now has a built-in video editor X is trying to compete with video-centric platforms like TikTok. X is trying to nudge its users to post more original videos on the app rather than repost popular clips from elsewhere. In service of that, the platform has added a video editor to its iOS app.…",
+          "url": "https://www.engadget.com/2209749/the-x-app-for-ios-now-has-a-built-in-video-editor/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "OpenAI's most advanced AI model is breaking free — and colliding with Elon Musk's latest Grok release",
+      "headline_en": "The ‘Assassin’s Creed Black Flag Resynced’ Metacritic Review Score Is In",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Business Insider",
+          "source": "Forbes",
           "lang": "en",
-          "headline": "OpenAI's most advanced AI model is breaking free — and colliding with Elon Musk's latest Grok release",
-          "excerpt": "OpenAI's latest and most powerful AI model is finally getting a public rollout, but not without Elon Musk stealing a bit of thunder. OpenAI said it will roll out its new GPT-5.6 family of models more widely on Thursday, following the Trump administration's request that the company stagger the model's release.…",
-          "url": "https://www.businessinsider.com/openai-sol-terra-luna-gpt56-grok-elon-musk-sam-altman-2026-7"
+          "headline": "The ‘Assassin’s Creed Black Flag Resynced’ Metacritic Review Score Is In",
+          "excerpt": "Ubisoft’s Assassin’s Creed series has been a saga of ups and downs, but it’s almost universally agreed upon that 2013’s Assassin’s Creed IV: Black Flag is one of its best. Now, an acceptable 13 years later, Black Flag has returned with a “Resynced” remake, reviews for which have just gone live on Metacritic, coalescing into a score.…",
+          "url": "https://www.forbes.com/sites/paultassi/2026/07/08/the-assassins-creed-black-flag-resynced-metacritic-review-score-is-in/"
         },
         {
-          "source": "Fast Company",
+          "source": "DW English",
           "lang": "en",
-          "headline": "The SpaceXAI logo is so bad that even Grok hates it",
-          "excerpt": "Elon Musk’s latest brand is called SpaceXAI. It will be the face of all the AI services offered by SpaceX, from Grok to its AI server farms on Earth and in space. Its new Frankenlogo is about as visually convoluted as the company’s name suggests. It shows the iconic Space X wordmark with an illegible “xAI” appendage tacked onto the end of it.…",
-          "url": "https://www.fastcompany.com/91570200/spacexais-logo-design-grok-critique"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Viral AI fakes flood social media as Iran mourns Khamenei",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Viral AI fakes flood social media as Iran mourns Khamenei",
-          "excerpt": "International news agencies documented huge crowds at former Supreme Leader Ayatollah Ali Khamenei's funeral procession in Tehran. But alongside genuine images of mourners, AI-generated videos and photos falsely claiming to show the event have spread widely online.…",
-          "url": "https://www.france24.com/en/viral-ai-fakes-flood-social-media-as-iran-mourns-khamenei-1"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Ali Khamenei's coffin passes through thousands of mourners in Iraq's holy city of Najaf",
-          "excerpt": "Thousands of mourners gathered in Najaf on Wednesday as the funeral procession for Iran's late Supreme Leader Ali Khamenei passed through one of Iraq's holiest Shiite cities. The video shows crowds surrounding the truck carrying the coffin, with many reaching out to touch the vehicle.…",
-          "url": "http://www.euronews.com/video/2026/07/08/ali-khameneis-coffin-passes-through-thousands-of-mourners-in-iraqs-holy-city-of-najaf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "The Supreme Court Ruling That Further Politicizes Everyday Life",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "The Supreme Court Ruling That Further Politicizes Everyday Life",
-          "excerpt": "The Supreme Court Ruling That Further Politicizes Everyday Life Trump v. Slaughter isn’t just about expanding executive control—it’s about the government exerting partisan influence over more aspects of Americans’ everyday lives.…",
-          "url": "https://www.theatlantic.com/newsletters/2026/07/trump-vs-slaughter-supreme-court-ruling/687833/?utm_source=feed"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "This Supreme Court Ruling Looks Like a Landslide. It’s Actually a Warning Sign",
-          "excerpt": "A 6–3 Supreme Court ruling looks like a landslide victory. It’s actually a fragile agreement—with a hidden risk most people are missing.",
-          "url": "https://www.inc.com/soren-kaplan/this-supreme-court-ruling-looks-like-a-landslide-its-actually-a-warning-sign/91370723"
+          "headline": "Assassin's Creed: Why pop culture is hooked to pirates",
+          "excerpt": "Assassin's Creed: Why pop culture is hooked on pirates July 8, 2026A bright, almost cloudless sky. Waves lash against the Jackdaw. Her sails snap in the wind. To the horizon, single-masted ships drift across the ocean. To starboard, empty sandy beaches lined with palm trees stretch off into the distance.…",
+          "url": "https://www.dw.com/en/assassin-s-creed-why-pop-culture-is-hooked-to-pirates/a-77871133?maca=en-rss-en-all-1573-rdf"
         }
       ]
     }
