@@ -315,11 +315,29 @@ def fetch_full_text(url: str) -> str:
     return ""
 
 
+PAYWALL_CUTOFFS = [
+    "subscribe to unlock", "subscribe to read", "subscribe to continue",
+    "to continue, please", "please click the box", "register to read",
+    "sign in to read", "sign up to read", "already a subscriber",
+    "try unlimited access", "complete digital access",
+]
+
 def get_excerpt(entry: dict) -> str:
     text = entry.get("full_text") or entry.get("snippet") or entry.get("title", "")
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
+
+    # Truncate at paywall signal — keep content before it (e.g. FT lede)
+    for cutoff in PAYWALL_CUTOFFS:
+        idx = text.lower().find(cutoff)
+        if idx > 60:   # meaningful content before the wall
+            text = text[:idx].strip().rstrip(".,;")
+        elif idx >= 0:  # wall is right at the start → drop
+            return ""
+
     if is_bot_check(text):
+        return ""
+    if not text:
         return ""
     if len(text) > EXCERPT_CHARS:
         cut = text[:EXCERPT_CHARS]
