@@ -1,35 +1,490 @@
 {
-  "collected_at": "2026-07-11T09:09:49.341148+00:00",
+  "collected_at": "2026-07-12T10:05:26.771570+00:00",
   "total_sources": 59,
-  "total_entries": 810,
-  "story_count": 40,
+  "total_entries": 558,
+  "story_count": 34,
   "stories": [
     {
-      "category": "💼 Business",
-      "headline_en": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "category": "🌍 World",
+      "headline_en": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "coverage": 12,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "excerpt": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness' - Published Republican Senator Lindsey Graham, a close ally of US President Donald Trump, has died at the age of 71.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "US senator Lindsey Graham dies aged 71",
+          "excerpt": "South Carolina politician was one of the most influential and hawkish Republicans",
+          "url": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
+          "excerpt": "U.S. Sen. Lindsey Graham died Saturday evening after a \"brief and sudden illness.",
+          "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Sen. Lindsey Graham dies at 71 from a 'sudden illness'",
+          "excerpt": "Top Graham staffer says 'no indication' the senator was not feeling well before death 08:00 Now Playing Sen. Lindsey Graham dies at 71 from a 'sudden illness' 00:52 UP NEXT Iran’s supreme leader vows revenge for father’s killing 01:46 Rep.…",
+          "url": "https://www.nbcnews.com/video/sen-lindsey-graham-dies-at-81-266555461760"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Lindsey Graham, pivotal US Republican senator, dies suddenly at 71",
+          "excerpt": "US Senator Lindsey Graham, a key Republican who went from a vocal critic of Donald Trump to one of his most loyal allies on Capitol Hill after Trump became president, has died at age 71. Our correspondent Fraser Jackson tells us more.",
+          "url": "https://www.france24.com/en/video/20260712-lindsey-graham-pivotal-us-republican-senator-dies-suddenly-at-71"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "At least two killed in Toronto street festival shooting",
       "coverage": 7,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-          "excerpt": "Apple sues OpenAI, its employees claiming theft of trade secrets - Published Apple has accused OpenAI of gaining access to valuable inside information through the hiring of its former employees.…",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+          "headline": "At least two killed in Toronto street festival shooting",
+          "excerpt": "At least two killed in Toronto street festival shooting - Published At least two people have been killed in gunfire at a street festival in Toronto. Police in the Canadian city initially received reports of an active shooter on St Clair Avenue at approximately 20:12 local time (01:12 BST), where a salsa festival was being held.…",
+          "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Business Insider",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Apple accuses OpenAI of playing dirty in the AI talent wars",
-          "excerpt": "OpenAI has been on a recruiting tear, supercharging its headcount and yanking top AI talent from other tech companies. Now, Apple says the AI juggernaut has been playing dirty with its recruitment tactics. The Cupertino tech giant accused OpenAI of stealing trade secrets in a lawsuit filed Friday that also targeted its hardware outfit, IO, and two former Apple employees who worked at OpenAI.…",
-          "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7"
+          "headline": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+          "excerpt": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday evening, police said, adding that what initially prompted an active-shooter warning was an exchange of gunfire between two people targeting each other.…",
+          "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Apple sues OpenAI over stealing 'trade secrets'",
-          "excerpt": "Apple sues OpenAI over stealing 'trade secrets' July 10, 2026Apple on Friday filed a lawsuit against OpenAI and two former employees over what it said was misappropriation of the giant phonemaker's trade secrets to benefit the AI company's venture into consumer hardware.…",
-          "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf"
+          "headline": "Two people killed and several wounded in mass shooting at Toronto festival",
+          "excerpt": "Toronto shooting: 2 killed, suspects still at large July 12, 2026Two people were killed and at least six others were injured in a shooting in the Canadian city of Toronto on Saturday night, police said. Toronto Police said the suspects remained at large, but that the scene has been secured. They also urged the public to avoid the area.…",
+          "url": "https://www.dw.com/en/two-people-killed-and-several-wounded-in-mass-shooting-at-toronto-festival/a-77920249?maca=en-rss-en-all-1573-rdf"
         },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "At least 2 killed in shooting at Toronto street festival, police say",
+          "excerpt": "At least 2 killed in shooting at Toronto street festival, police say At least two people were killed and four more wounded after a shootout occurred at a street festival in Toronto, Canada, authorities said. The Toronto Police Service had initially described the incident as an active shooter situation.…",
+          "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "At least 2 dead, multiple wounded in shooting at Toronto street festival",
+          "excerpt": "At least 2 dead, multiple wounded in shooting at Toronto street festival Police said they have secured the scene, but no suspect is in custody. At least two people are dead and multiple others are wounded after a shooting at a street festival in Toronto, police say. In a social media post, police said they have secured the scene.…",
+          "url": "https://abcnews.com/International/2-dead-multiple-wounded-shooting-toronto-street-festival/story?id=134686817"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "excerpt": "US launches fresh strikes as Iran closes Strait of Hormuz - Published The US launched a fresh wave of strikes in response to Iranian forces hitting a ship passing through the Strait of Hormuz. In response to the American strikes, Iran's Islamic Revolutionary Guard Corps (IRGC) said the waterway was closed until further notice and launched attacks on US bases and allies in the region.…",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "US, Iran Trade Wave of Attacks as Tehran Says Hormuz Closed",
+          "excerpt": "US forces struck Iran for a third time in a week, prompting retaliatory attacks from Tehran as it declared the Strait of Hormuz would be closed “until further notice.”",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
+          "excerpt": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz US forces launch new strikes on Iran; Tehran closes Strait of Hormuz US forces have launched a third round of strikes on Iran in a week. Those strikes came after Iran’s IRGC declared the Strait of Hormuz closed. Mike Hanna has the details from Washington DC. Published On 12 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Live: US launches strikes after Iran fires on ship in Strait of Hormuz",
+          "excerpt": "The US military launched fresh strikes on Iran after it set a container ship ablaze on Sunday. The defence ministries of the United Arab Emirates and Qatar both said they were intercepting incoming Iranian fire. Read our blog to follow the events as they unfold.…",
+          "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Iran closes Strait of Hormuz, US launches fresh strikes",
+          "excerpt": "Iran closes Strait of Hormuz, US launches fresh strikes Published July 12, 2026last updated July 12, 2026What you need to know - The Iranian navy declares it has closed the Strait of Hormuz - Iran says it fired warning shots at and struck a ship trying to pass the strait - The UK says the crew on a tanker off the coast of Oman that caught fire has abandoned ship - The US launches fresh attacks on …",
+          "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+          "excerpt": "Trump administration subpoenas New York Times journalists over Air Force One reporting - Published Several New York Times journalists were summoned to testify under oath after they reported alleged security concerns involving President Donald Trump's new Air Force One plane, the US newspaper said.…",
+          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Trump administration subpoenas New York Times journalists over Air Force One story",
+          "excerpt": "Trump administration subpoenas New York Times journalists over Air Force One story The New York Times said on Saturday that the US Department of Justice had ordered several of its journalists to testify before a federal grand jury after they reported on security concerns involving President Donald Trump's new Qatari-donated Air Force One.…",
+          "url": "https://www.france24.com/en/americas/20260711-trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "New York Times journalists issued subpoenas over Air Force One reporting",
+          "excerpt": "Several New York Times journalists issued subpoenas after Air Force One reporting President Trump's administration issued subpoenas on Friday to some New York Times journalists after the newspaper's report this week on alleged security concerns involving the new Air Force One, according to the paper.…",
+          "url": "https://www.cbsnews.com/news/trump-air-force-one-security-subpoena-journalists/"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "US journalists ordered to testify over Air Force One leak after Trump flight",
+          "excerpt": "Several New York Times journalists have been summoned to testify under oath by the US Department of Justice (DOJ) after they reported on security concerns involving the new Air Force One gifted by Qatar.",
+          "url": "https://news.sky.com/story/new-york-times-journalists-subpoenaed-over-air-force-one-leak-after-donald-trumps-flight-on-qatari-gifted-jet-13562695"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "US: Reporters subpoenaed over Air Force One stories",
+          "excerpt": "US: Reporters subpoenaed over Air Force One stories July 12, 2026The US Department of Justice has issued subpoenas to journalists from The New York Times after they wrote articles questioning security measures on President Donald Trump's new Air Force One, a gift from Qatar.…",
+          "url": "https://www.dw.com/en/us-reporters-subpoenaed-over-air-force-one-stories/a-77921290?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Bellingham brace carries England past Norway into World Cup semi-final",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Bellingham brace carries England past Norway into World Cup semi-final",
+          "excerpt": "Real Madrid star outshines Harry Kane and Erling Haaland as Thomas Tuchel’s side claim 2-1 extra-time win",
+          "url": "https://www.ft.com/content/34f8f9c2-07f8-4c71-b6b4-9bbf26878c9e"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "England, Argentina set up World Cup showdown after quarter-final wins",
+          "excerpt": "England and Argentina set up a blockbuster World Cup semi-final showdown on Saturday after battling past Norway and Switzerland to book their passage to the last four. France 24's Selina Sykes tells us more.",
+          "url": "https://www.france24.com/en/video/20260712-england-argentina-set-up-world-cup-showdown-after-quarter-final-wins"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "England fans revel in World Cup win over Norway",
+          "excerpt": "England fans revel in World Cup win over Norway England fans revel in World Cup win over Norway England fans erupted with joy at a London watch party after Jude Bellingham's two goals secured a dramatic 2-1 extra-time win over Norway in the World Cup quarter-finals. Supporters celebrated by singing \"Hey Jude\" as England booked a place in the semi-finals. Published On 12 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/england-fans-revel-in-world-cup-win-over-norway?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Spain fans celebrate World Cup semi-final place after Belgium win",
+          "excerpt": "The decisive moment came in the 88th minute when substitute Mikel Merino converted from close range after Belgium goalkeeper Senne Lammens failed to hold the ball. The victory sends Spain into the last four, where they will face France on Tuesday, keeping alive hopes of another World Cup title.…",
+          "url": "http://www.euronews.com/video/2026/07/11/spain-fans-celebrate-world-cup-semi-final-place-after-belgium-win"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "China evacuates nearly two million people as powerful typhoon makes landfall",
+          "excerpt": "China evacuates nearly two million people as powerful typhoon makes landfall - Published A powerful typhoon has made landfall in China, the second to hit the country in a week, with nearly two million people evacuated from areas in the path of the storm.…",
+          "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Typhoon Bavi Weakens as Heavy Rain Spreads Across China",
+          "excerpt": "China’s National Meteorological Center said Typhoon Bavi weakened to a severe tropical storm on Sunday morning after making landfall in Zhejiang.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
+          "excerpt": "More than 1 million evacuated as Typhoon Bavi makes landfall in China Chinese authorities evacuated more than 1.7 million people as of Saturday as Typhoon Bavi made landfall in the country's eastern province of Zhejiang. Hundreds of flights have also been cancelled, and some high-speed railway services have been halted. Bavi is the second typhoon to impact China in just over a week.…",
+          "url": "https://www.france24.com/en/asia-pacific/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Typhoon Bavi hits China after battering Taiwan, Japan",
+          "excerpt": "Typhoon Bavi hits China after battering Taiwan, Japan July 11, 2026Typhoon Bavi made landfall in China's eastern province of Zhejiang late Saturday, state media reported. More than 1.7 million people were evacuated as China braced for Bavi, which is expected to move northwestward inland after the landfall, with its intensity gradually weakening.…",
+          "url": "https://www.dw.com/en/typhoon-bavi-hits-china-after-battering-taiwan-japan/a-77914270?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+          "excerpt": "US Democrat Ro Khanna says he was detained by armed Israeli settlers - Published US congressman Ro Khanna says he was detained for 90 minutes by armed Israeli settlers during a visit to the occupied West Bank. Khanna, 49, had been in a van with his team when they were surrounded by settlers wielding M4 rifles on Wednesday, he told Reuters news agency.…",
+          "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "US congressman says he was detained by armed Israeli settlers in occupied West Bank",
+          "excerpt": "The US congressman Ro Khanna says armed Israeli settlers detained him during a visit to the Israel-occupied West Bank recently, describing the experience as a first-hand view of the realities faced by Palestinians living under occupation.…",
+          "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "US congressman 'detained by armed Israeli settlers' in West Bank",
+          "excerpt": "A US politician said he was detained by armed Israeli settlers during a visit to the West Bank.",
+          "url": "https://news.sky.com/story/us-congressman-ro-khanna-detained-by-armed-israeli-settlers-in-west-bank-13562598"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Congressman detained by Israeli settlers in the West Bank",
+          "excerpt": "England defeats Norway for World Cup semifinals spot 01:23 Now Playing Congressman detained by Israeli settlers in the West Bank 01:54 UP NEXT Good News: Savannah Bananas and massive stadium audience wave to children’s hospital 03:05 Cuba faces growing pressure amid humanitarian crisis 01:52 Iran’s supreme leader vows revenge for father’s killing 01:46 Severe storms in the Midwest turn deadly 02:2…",
+          "url": "https://www.nbcnews.com/nightly-news/video/congressman-detained-by-israeli-settlers-in-the-west-bank-266546246001"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran's Mojtaba Khamenei vows revenge for father's killing",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Iran's Mojtaba Khamenei vows revenge for father's killing",
+          "excerpt": "Iran's Mojtaba Khamenei vows revenge for father's killing Published July 11, 2026last updated July 11, 2026What you need to know These updates have been closed. Thank you for reading. You can follow our continuing coverage of development in the conflicts in the Middle East here.…",
+          "url": "https://www.dw.com/en/iran-s-mojtaba-khamenei-vows-revenge-for-father-s-killing/live-77913349?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Iran’s supreme leader vows revenge for father’s killing",
+          "excerpt": "England defeats Norway for World Cup semifinals spot 01:23 Congressman detained by Israeli settlers in the West Bank 01:54 Good News: Savannah Bananas and massive stadium audience wave to children’s hospital 03:05 Cuba faces growing pressure amid humanitarian crisis 01:52 Now Playing Iran’s supreme leader vows revenge for father’s killing 01:46 UP NEXT Severe storms in the Midwest turn deadly 02:2…",
+          "url": "https://www.nbcnews.com/nightly-news/video/iran-s-supreme-leader-vows-revenge-for-father-s-killing-266545221858"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump, Iran's supreme leader trade threats",
+          "excerpt": "Latest U.S. Iran War World Cup World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
+          "url": "https://www.cbsnews.com/video/trump-irans-supreme-leader-trade-threats/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Mojtaba Khamenei: Iran supreme leader vows revenge for father's killing",
+          "excerpt": "Iran's supreme leader Mojtaba Khamenei on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him.",
+          "url": "https://www.france24.com/en/video/20260711-mojtaba-khamenei-iran-supreme-leader-vows-revenge-for-father-s-killing"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies at 74",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies at 74",
+          "excerpt": "Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies July 12, 2026Sheikh Hamad bin Khalifa Al Thani, the emir who guided the transformation of Qatar into a major global player, has died at the age of 74. \"The Amiri Diwan announced the death of HH the Amir Sheikh Hamad bin Khalifa Al Thani on Sunday morning,\" Qatar's top government body said.…",
+          "url": "https://www.dw.com/en/qatar-former-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/a-77922794?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
+          "excerpt": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions After Sheikh Hamad’s death, global leaders offer condolences, praise his legacy and Qatar’s growth. The Qatari government has announced the death of former Emir Sheikh Hamad bin Khalifa Al Thani, who ruled the country from 1995 until his abdication in 2013.…",
+          "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+          "excerpt": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment. Former Qatari ruler Sheikh Hamad bin Khalifa Al Thani has died at the age of 74.…",
+          "url": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Meta removes controversial AI feature on Instagram after backlash",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Meta removes controversial AI feature on Instagram after backlash",
+          "excerpt": "Meta has axed a controversial feature that allowed users to modify photos from public Instagram accounts using AI. The feature, which was rolled out earlier this week along with a batch of other AI tools, “missed the mark” and is no longer available, according to the company.…",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Instagram's newest AI tool didn't survive the week",
+          "excerpt": "It started as a routine product drop. Then it spiraled into a PR nightmare. Now it's gone. On Friday, Meta said a new feature that allowed users to generate AI images from public Instagram posts is no longer available. Users learned of the feature on Tuesday when Meta unveiled Muse Image, the first image-generation model from Meta Superintelligence Labs. Muse Image is available through Meta AI.…",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "3 Days After Introducing an AI Feature, Meta Hits Pause in Wake of Privacy Backlash",
+          "excerpt": "Muse Image allowed users to create AI-generated images from photos posted on Instagram—without permission. ‘We missed the mark,” Meta admits.",
+          "url": "https://www.inc.com/kevin-haynes/3-days-after-introducing-an-ai-feature-meta-hits-pause-in-wake-of-privacy-backlash/91373053"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+          "excerpt": "Indian tourists among 15 killed as speedboat capsizes in Vietnam - Published Fifteen people have died after a speedboat carrying Indian tourists capsized near a island in the south of Vietnam, local media report citing regional authorities.…",
+          "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Indian tourists killed when boat capsizes in Vietnam",
+          "excerpt": "Indian tourists killed when boat capsizes in Vietnam July 11, 2026At least 15 Indian tourists were killed after a boat carrying a group of Indian tourists capsized off Vietnam's southern island of Phu Quoc, media reported. According to Vietnam's VnExpress website, the boat had 36 people on board when it overturned approximately 400 meters (1,320 feet) off the coast of May Rut Ngoai islet.…",
+          "url": "https://www.dw.com/en/indian-tourists-killed-when-boat-capsizes-in-vietnam/a-77916717?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Indian tourists killed after speedboat capsizes in Vietnam",
+          "excerpt": "Indian tourists killed after speedboat capsizes in Vietnam Indian tourists killed after speedboat capsizes in Vietnam Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island. Twenty-one people were rescued. The cause is under investigation. Published On 11 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Messi and Argentina survive another close call to reach the World Cup semifinals",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Messi and Argentina survive another close call to reach the World Cup semifinals",
+          "excerpt": "Argentina was taken to the brink in its first two knockout games. In Saturday's quarterfinal against Switzerland, the Albiceleste survived again to advance to the semis, where they will face England.",
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5888612/2026-world-cup-fifa-argentina-switzerland-quarterfinal"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+          "excerpt": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis Jude Bellingham scores in extra-time to send England into the World Cup semifinals for first-time since 2018. Jude Bellingham was England’s hero once more by scoring twice as the Three Lions came from behind to end Norway’s historic run and reach the World Cup semifinals with a 2-1 win after extra-time.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Argentina fans erupt as Messi's men reach World Cup semifinal",
+          "excerpt": "Footage from Buenos Aires, Argentina, filmed overnight on 11 and 12 July 2026, shows jubilant fans celebrating in the streets as Argentina beat Switzerland 3-1 to reach the World Cup semifinals. For many fans, the victory followed a familiar pattern, with Argentina once again overcoming a difficult match before celebrating a place in the semi-finals.…",
+          "url": "http://www.euronews.com/video/2026/07/12/argentina-fans-erupt-as-messis-men-reach-world-cup-semifinal"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1",
+          "excerpt": "England's Jude Bellingham has done it again. Scoring both of his team's goals in a thrilling quarterfinal against Norway that needed extra time. It was the first World Cup meeting between the two.",
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "England defeats Norway for World Cup semifinals spot",
+          "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/-england-defeats-norway-for-world-cup-semifinals-spot-266546757975"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Which teams are in the World Cup semifinals, and what’s the match schedule?",
+          "excerpt": "Which teams are in the World Cup semifinals, and what’s the match schedule? Qualified teams, venues, kickoff times, key players and how to watch the FIFA World Cup 2026 semifinals. We started with 48 teams, but now only four remain. The semifinal lineup at World Cup 2026 is complete, with France, Spain, England and Argentina booking their spots in the last four.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "OpenAI’s Head of Safety Is Leaving the Company",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "OpenAI’s Head of Safety Is Leaving the Company",
+          "excerpt": "OpenAI’s head of safety systems, Johannes Heidecke, told staff this week that he’s leaving the company, WIRED has learned. Heidecke’s departure follows a reorganization that sought to integrate OpenAI’s safety and research teams.…",
+          "url": "https://www.wired.com/story/openai-head-of-safety-leaving/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+          "excerpt": "OpenAI head of safety Johannes Heidecke is leaving the artificial intelligence company following a reorganization, according to Wired.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
+          "excerpt": "OpenAI's head of safety is reportedly leaving as part of company reorganization The role will be replaced by an executive in charge of both research and safety teams. Along with a significant restructuring of OpenAI's safety and research teams, the company's head of safety systems is expected to leave his post, according to a new report.…",
+          "url": "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Apple is suing OpenAI, saying it stole trade secrets",
+      "coverage": 3,
+      "perspectives": [
         {
           "source": "Quartz",
           "lang": "en",
@@ -38,299 +493,341 @@
           "url": "https://qz.com/apple-sues-openai-trade-secrets-tang-tan-071026"
         },
         {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Apple sues OpenAI for allegedly stealing hardware secrets",
-          "excerpt": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
-          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Largest housing affordability bill in decades becomes law without Trump's signature",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Largest housing affordability bill in decades becomes law without Trump's signature",
-          "excerpt": "President Trump refused to sign the bill without Congress first passing his sweeping voter ID bill.",
-          "url": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Landmark bipartisan housing bill to become law without Trump's signature",
-          "excerpt": "Landmark bipartisan housing bill to become law without Trump's signature The landmark bipartisan housing bill is set to become law overnight into Saturday despite President Trump's refusal to sign it. CBS News chief White House correspondent Nancy Cordes reports.",
-          "url": "https://www.cbsnews.com/video/landmark-bipartisan-housing-bill-to-become-law-without-trump-signature/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "The Bipartisan Housing Bill Is Set to Become Law, Despite Trump’s Refusal to Sign It",
-          "excerpt": "President Donald Trump reiterated on Friday that he won’t sign a sweeping bipartisan housing package “in protest” over the fact that Congress hasn’t passed the restrictive voter ID legislation he has forcefully pushed for. But the housing bill is set to become law after midnight—even without his signature.…",
-          "url": "https://time.com/article/2026/07/10/housing-bill-trump/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump won't sign housing bill poised to become law at midnight",
-          "excerpt": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either The bill can still become law overnight without Trump's signature.…",
-          "url": "https://abcnews.com/Politics/trump-sign-bipartisan-housing-bill-threaten-veto/story?id=134649463"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Trump snubs housing bill to pressure GOP",
-          "excerpt": "President Trump is refusing to sign a landmark bipartisan housing bill to protest Senate Republicans' failure to pass an unrelated bill that would tighten voting restrictions . Why it matters: The president's refusal is a symbolic gesture, as the housing bill will become law at midnight — with or without Trump's signature.…",
-          "url": "https://www.axios.com/2026/07/10/trump-housing-bill-senate-save-act"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
-          "excerpt": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27.",
-          "url": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins"
-        },
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-          "excerpt": "In this episode of Uncanny Valley, our hosts discuss Threads as it recently hit 500 million monthly users, putting it on par with X—but is it really competing or just filling a different niche? Meanwhile, the reviews have been coming in for the Trump-branded T1 phone in recent weeks as it finally started shipping after a year of delays.…",
-          "url": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Maine Democrats work to replace Platner as Senate nominee",
-          "excerpt": "Maine Democrats work to replace Platner as Senate nominee Progressive Change Campaign Committee co-founder Adam Green discusses the state of the race, which has been rocked by sexual assault allegations against Graham Platner.…",
-          "url": "https://abcnews.com/video/134644578/"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Graham Platner formally drops out of Maine Senate race",
-          "excerpt": "Graham Platner formally drops out of Maine Senate race Graham Platner has formally filed the paperwork to suspend his campaign for U.S. Senate in Maine, with little time to go before the deadline. The Maine Secretary of State's Office confirmed receipt of Platner's official withdrawal on Friday. \"Because the candidate officially withdrew before 5 p.m.…",
-          "url": "https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Graham Platner officially withdraws from Maine Senate race",
-          "excerpt": "Democrat Graham Platner filed paperwork Friday to officially remove his name from the ballot, ending his tumultuous bid to unseat Republican Sen. Susan Collins in Maine. Why it matters: Platner's exit ahead of the Monday deadline clears the way for Democrats to name a replacement candidate in a race that is critical to their effort to win a Senate majority in November.…",
-          "url": "https://www.axios.com/2026/07/10/graham-platner-maine-senate-democrats"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Facebook and Instagram have to dismantle these addictive design features, says EU watchdog",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Facebook and Instagram have to dismantle these addictive design features, says EU watchdog",
-          "excerpt": "The European Union accused Meta on Friday of breaching its social media law by designing Facebook and Instagram to get users hooked, and demanded it disable &#8220;key addictive features&#8221; like infinite scrolling.…",
-          "url": "https://www.fastcompany.com/91571731/facebook-instagram-dismantle-addictive-design-features-says-eu-watchdog"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-          "excerpt": "The European Union is ramping up pressure on Meta to make big changes to Facebook and Instagram after the European Commission preliminarily found that features like autoplay, infinite scroll, and highly personalized content recommendations were addictive.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
-          "excerpt": "Instagram and Facebook's \"addictive\" designs have put Meta in breach of the European Union's digital laws, the EU concluded Friday in a preliminary report.…",
-          "url": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "EU threatens Meta with hefty fine over 'addictive design'",
-          "excerpt": "EU threatens Meta with hefty fine over 'addictive design' July 10, 2026The European Union has charged Meta with breaching the bloc's tech rules, threatening the social media giant with a heavy fine unless it changes Facebook's and Instagram's \"addictive design.\" This was revealed in the preliminary findings of an EU probe launched in 2024 to look into the US-based company's practices, especially i…",
-          "url": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "EU says Facebook and Instagram's 'addictive' design is illegal",
-          "excerpt": "EU says Facebook and Instagram's 'addictive' design is illegal The European Commission says Meta’s current mitigation measures can’t prevent social media addiction. The European Commission says Meta did implement addictive designs for Instagram and Facebook, and it is in violation of the bloc's Digital Services Act.…",
-          "url": "https://www.engadget.com/2212152/meta-facebook-instagram-eu-addictive-design-finding/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
-          "excerpt": "South Korean memory chipmaker SK Hynix Inc. just pulled off the largest public listing by a foreign company in US market history. Shares soared 13% on their first day of trading.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
-          "excerpt": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentres South Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.…",
-          "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "SK Chairman Chey Tae-won on SK Hynix Debut, AI Demand and US Plans",
-          "excerpt": "Chey Tae-won, chairman of SK Hynix parent SK Group, says they waited a long time to list SK Hynix in the US and calls it a \"dream come true.\" The head of the South Korean chipmaker talks about raising $26.5 billion in the largest-ever US listing by a foreign company and also discusses the outlook for AI demand and his US investment plans. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-on-sk-hynix-debut-ai-demand-and-us-plans-video"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
-          "excerpt": "(Corrects in paragraph 13 to use surname Chey, not given name Tae-won) By Utkarsh Shetti July 10 (Reuters) - SK Hynix's U.S.-listed shares jumped 14% in their Nasdaq debut following its $26.5 billion share sale, the latest indication that investor enthusiasm for chip stocks remains intact despite their recent pullback from a dizzying rally.…",
-          "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-072234232.html"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "SK Hynix stock opens at $170 on Nasdaq after $26.5 billion ADR offering",
-          "excerpt": "The South Korean chipmaker's ADRs priced at $149 and rose 14% on their first day of trading, in the largest-ever U.S. listing by a foreign company",
-          "url": "https://qz.com/sk-hynix-nasdaq-adr-debut-stock-071026"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Spain edges Belgium and will face France in World Cup semifinal",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Spain edges Belgium and will face France in World Cup semifinal",
-          "excerpt": "Spain and France will meet Tuesday in Arlington, Texas, in a matchup anticipated for years. Neither team has lost at this year's World Cup.",
-          "url": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "World Cup 2026: Merino strikes late again as Spain beat Belgium to set up France semi-final",
-          "excerpt": "World Cup 2026: Merino's late winner sends Spain past Belgium and into semi-finals Spain booked their place in the World Cup semi-finals on Friday after Mikel Merino struck a dramatic late winner at the 88th minute to secure a 2-1 victory over Belgium.…",
-          "url": "https://www.france24.com/en/sport/20260710-world-cup-2026-merino-s-late-winner-sends-spain-past-belgium-and-into-semi-finals"
-        },
-        {
           "source": "Euronews",
           "lang": "en",
-          "headline": "Spain fans celebrate World Cup semi-final place after Belgium win",
-          "excerpt": "The decisive moment came in the 88th minute when substitute Mikel Merino converted from close range after Belgium goalkeeper Senne Lammens failed to hold the ball. The victory sends Spain into the last four, where they will face France on Tuesday, keeping alive hopes of another World Cup title.…",
-          "url": "http://www.euronews.com/video/2026/07/11/spain-fans-celebrate-world-cup-semi-final-place-after-belgium-win"
+          "headline": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
+          "excerpt": "A spokesperson for OpenAI said in a statement: \"We have no interest in other companies' trade secrets.\" Tech giant Apple filed a lawsuit against OpenAI on Friday, accusing the artificial intelligence firm and two former Apple employees of stealing trade secrets.…",
+          "url": "http://www.euronews.com/next/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets-heres-what-to-know"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "excerpt": "The AI talent war may now be worthy of a Hollywood adaptation. In a new lawsuit that reads like a corporate crime thriller, Apple accused OpenAI of poaching former Apple employees, conducting \"show and tell\" interviews, and accessing confidential documents to accelerate its consumer hardware push.…",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "UFC 329 McGregor-Holloway 2 Results, Bonus Winners And Highlights",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "UFC 329 McGregor-Holloway 2 Results, Bonus Winners And Highlights",
+          "excerpt": "That didn’t end the way anyone expected. The most anticipated main event in recent UFC history ended shortly after it began when Conor McGregor appeared to suffer a serious knee injury that forced referee Mike Beltran to call an end to the UFC 329 main event. Max Holloway got the win officially via TKO, but it all just felt so empty. Let’s talk MMA.…",
+          "url": "https://www.forbes.com/sites/brianmazique/2026/07/12/ufc-329-mcgregor-holloway-2-results-bonus-winners-and-highlights/"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Yamal does not mind lack of goals if Spain win World Cup 2026",
-          "excerpt": "Spanish star has scored just one goal in the World Cup, where he has been sharing celebrations with his little brother.",
-          "url": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "S&amp;P 500 Rises Before Earnings as SK Hynix Debuts: Markets Wrap",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "S&amp;P 500 Rises Before Earnings as SK Hynix Debuts: Markets Wrap",
-          "excerpt": "Wall Street traders drove stocks higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "US stocks rise as Wall Street shows it's still hungry for AI winners",
-          "excerpt": "NEW YORK (AP) — U.S. stocks ticked higher Friday after Wall Street showed its appetite is still big for winners of the artificial-intelligence boom. The S&P 500 rose 0.4% to close out its fourth winning week in the last five. The Dow Jones Industrial Average added 149 points, or 0.3%, and the Nasdaq composite climbed 0.3%.…",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-climb-oil-prices-065936283.html"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-          "excerpt": "As the AI boom boosts demand for RAM, SK Hynix — one of the world’s biggest suppliers of memory chips — launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba’s record as the largest debut of a foreign company, according to reports from The Associated Press and CNN.…",
-          "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
-          "excerpt": "Apple's stock has had a bumpy ride this year. But it's been a lot more pleasant lately — so much so that shares posted their first record close in over a month during Thursday's session.…",
-          "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html"
+          "headline": "McGregor injures knee, loses to Holloway in 69 seconds on UFC return",
+          "excerpt": "McGregor injures knee, loses to Holloway in 69 seconds on UFC return The referee stopped the welterweight contest at UFC 329 after McGregor fell to the mat three times in the first minute. Conor McGregor’s much-hyped return to the octagon lasted just over a minute on Saturday, after the Irishman blew out his knee and retired injured in his UFC 329 fight with Max Holloway in Las Vegas.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/conor-mcgregor-knee-injury-max-holloway-2-ufc-329-rematch-result-las-vegas?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump purges Election Assistance Commission members, months before midterms",
-      "coverage": 4,
+      "headline_en": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "CNBC",
+          "source": "FT",
           "lang": "en",
-          "headline": "Trump purges Election Assistance Commission members, months before midterms",
-          "excerpt": "President Donald Trump ousted the three remaining members of the Election Assistance Commission, with less than four months before midterm elections, the White House confirmed Friday. Democrats blasted Trump's gutting of the EAC, an independent federal agency that helps administer election funds, calling it just the latest example of Trump's efforts to subvert U.S. elections.…",
-          "url": "https://www.cnbc.com/2026/07/10/trump-purges-election-assistance-commission.html"
+          "headline": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
+          "excerpt": "Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar",
+          "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d"
         },
         {
-          "source": "Time",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "What Is the Election Assistance Commission? The Bipartisan Board Whose Members Trump Just Ousted",
-          "excerpt": "President Donald Trump has forced out the three remaining members of the Election Assistance Commission (EAC), dismantling the independent board that helps states and local officials carry out elections just four months before the pivotal midterms.…",
-          "url": "https://time.com/article/2026/07/10/election-assistance-commission-trump-firings/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US: Trump looked to bypass federal election agency before firings, says report",
-          "excerpt": "Trump looked to bypass federal election agency, report says July 11, 2026The White House explored options for bypassing a bipartisan federal election agency and using emergency powers to push changes to voting systems before US President Donald Trump removed the agency's leadership this week, Reuters reported, citing people familiar with the matter.…",
-          "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "A key federal election agency suddenly has no commissioners. Here’s why that matters",
-          "excerpt": "The Trump administration on Thursday gutted a bipartisan federal agency that oversees elections, a worrying decision with midterms just around the corner. The two Democratic members of the U.S. Election Assistance Commission were fired via email, Reuters reported, while the only Republican member was ordered to resign. The fourth commissioner, a Republican, resigned ​in April.…",
-          "url": "https://www.fastcompany.com/91571922/a-key-federal-election-agency-suddenly-has-no-commissioners-heres-why-that-matters"
+          "headline": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+          "excerpt": "Missiles and drones fired at Gulf states after night of US strikes on Iran Three people, including one child, injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.…",
+          "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"
         }
       ]
     },
     {
-      "category": "📈 Economy",
-      "headline_en": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "coverage": 4,
+      "category": "🌍 World",
+      "headline_en": "Watch World Cup: England beats Norway to set up semifinal against Argentina",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Wired",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-          "excerpt": "Apple filed a lawsuit against OpenAI and its hardware chief on Friday for allegedly stealing the iPhone maker’s trade secrets, including unreleased parts and prototypes, confidential designs, and documents about stealth projects.…",
-          "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/"
+          "headline": "Watch World Cup: England beats Norway to set up semifinal against Argentina",
+          "excerpt": "Watch World Cup: England beats Norway to set up semifinal against Argentina Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America. Published On 12 Jul 2026 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+          "url": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights?traffic_source=rss"
         },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "England’s Jude Bellingham, His FIFA World Cup Play And Veins Go Viral",
+          "excerpt": "Jude Bellingham’s two goals on Saturday in England’s 2026 FIFA World Cup quarterfinal matchup against Norway were certainly not in vain. In fact, his scoring ended up being the difference maker in England’s Three Lions’ 2-1 win in extra time over Norway’s Landslaget to secure a place in the semifinals—only the fourth time the Three Lions have ever made it to the semis of a World Cup.…",
+          "url": "https://www.forbes.com/sites/brucelee/2026/07/11/englands-jude-bellingham-his-fifa-world-cup-play-and-veins-go-viral/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "France vs Spain World Cup semifinal: Prediction, Mbappe-Yamal, venue, stats",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "France vs Spain World Cup semifinal: Prediction, Mbappe-Yamal, venue, stats",
+          "excerpt": "France vs Spain World Cup semifinal: Prediction, Mbappe-Yamal, venue, stats European football titans France and Spain meet in a blockbuster FIFA World Cup 2026 final four matchup in Dallas. The first semifinal of the FIFA World Cup 2026 features Spain and France, the two highest ranked sides in Europe and one of the most heated rivalries in world football.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/france-spain-fifa-world-cup-semifinals-mbappe-yamal-prediction-stats-venue?traffic_source=rss"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Kylian Mbappé Injury Update Before France’s World Cup Semi Vs. Spain",
+          "excerpt": "You could say that Kylian Mbappé has been ankle-deep in speculation since he left the field during France’s 2-0 win over Morocco. His early departure from the quarterfinals of the 2026 FIFA World Cup left fans worried that something was afoot or maybe a-ankle with him.…",
+          "url": "https://www.forbes.com/sites/brucelee/2026/07/11/kylian-mbapp-ankle-injury-update-before-frances-world-cup-semi-vs-spain/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
+          "excerpt": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media. US President Donald Trump sent a stark warning to Tehran overnight, saying the United States would \"completely decimate and destroy all areas of Iran\" should there be an assassination attempt against him.…",
+          "url": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+          "excerpt": "President Donald Trump threatened to \"decimate and destroy\" Iran if Tehran acts on threats to assassinate him, as the U.S. Treasury Department sanctioned an alleged Iranian financier. Iran said Saturday that the new financial measure violated the preliminary deal the two warring countries struck last month as its foreign minister reportedly arrived in Oman for talks.…",
+          "url": "https://www.cnbc.com/2026/07/11/trump-threat.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
+          "excerpt": "Footage from Kyiv filmed early Saturday 11 July 2026, shows smoke rising over the capital as emergency workers collect missile fragments and residents sweep broken glass from courtyards and cars. Soldier Oleh Tymoshenko, cleaning his damaged vehicle, said the first missile struck before the air raid alert sounded, adding a second hit five minutes later while he sheltered in a hallway.…",
+          "url": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
+          "excerpt": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks July 11, 2026Russia on Saturday hit the Ukrainian capital of Kyiv and the southern port city of Odesa with fresh attacks. A combination of ballistic and cruise missiles along with drones injured 11 people in Kyiv, Ukrainian authorities said. A Russian missile attack later in the morning in Odesa killed two people and injured one other.…",
+          "url": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Live : US launches strikes in response to Iranian attacks on ships in Strait of Hormuz",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Live : US launches strikes in response to Iranian attacks on ships in Strait of Hormuz",
+          "excerpt": "The US military launched fresh strikes on Iran after it set a container ship ablaze on Sunday. The defence ministries of the United Arab Emirates and Qatar both said they were intercepting incoming Iranian fire. Read our blog to follow the events as they unfold.…",
+          "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Iran launches major missile attacks across the Gulf",
+          "excerpt": "Euronews journalists in Qatar report two waves of Iranian attacks and large explosions above Doha, air defence also responding to Iranian attacks in UAE, Bahrain, Kuwait and others, hours after the US conducted new airstrikes in Iran in response to a ship being hit by Iran in the Strait of Hormuz.",
+          "url": "http://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Newly-released video shows Peter Falconio's killer questioned",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Newly-released video shows Peter Falconio's killer questioned",
+          "excerpt": "Newly-released video shows Peter Falconio's killer questioned Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.…",
+          "url": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "What Peter Falconio's killer told police when asked to reveal location of backpacker's body",
+          "excerpt": "New footage has emerged showing the man who murdered British backpacker Peter Falconio repeatedly denying that he knew where his victim's body was.",
+          "url": "https://news.sky.com/story/new-footage-shows-peter-falconios-killer-bradley-murdoch-refusing-reveal-location-of-backpackers-body-to-australian-police-13562460"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+          "excerpt": "AI isn't replacing engineers so much as reshaping who else gets hired. New data from SignalFire shows software engineers make up 55% of hiring at major tech companies, up from 46% in 2019, even as overall hiring remains below pre-pandemic levels. Other functions are shrinking faster.…",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
+          "excerpt": "Wall Street knows Big Tech can spend on artificial intelligence. The harder question is how quickly that spending returns cash to those companies. That is where the story changes. The AI boom is not just a growth story anymore; it is a money-in, money-out story.…",
+          "url": "https://finance.yahoo.com/markets/article/big-tech-is-paying-for-the-ai-boom-and-chipmakers-are-cashing-in-chart-of-the-day-114043038.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "‘Politicians have always been schemers’: upheld conviction fails to dent Le Pen’s popularity",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "‘Politicians have always been schemers’: upheld conviction fails to dent Le Pen’s popularity",
+          "excerpt": "In the small French town of Montargis, Jean-Antoine, a retired decorator, was pleased Marine Le Pen had again shaken up French politics by launching a bid for the presidency, despite her legal woes. “Even the judges said she didn’t personally profit from the money, it was for her party,” he said of Le Pen’s newly upheld conviction for embezzlement.…",
+          "url": "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "The Rise and Pause of Jordan Bardella",
+          "excerpt": "The political landscape in France changed this week after the appeal court judges upheld the guilty verdict against Marine Le Pen for misappropriating European Parliament funds, but reduced the five-year ban on her standing for public office to fifteen months. Time already served, said the Paris court.…",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20260711-the-rise-and-pause-of-jordan-bardella"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "The spectacle and symbolism of Khamenei’s funeral",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "The spectacle and symbolism of Khamenei’s funeral",
+          "excerpt": "The spectacle and symbolism of Khamenei’s funeral How coverage of the supreme leader’s funeral exposed the limits of familiar narratives about Iran. Once again, the Strait of Hormuz is at the centre of the latest escalation in the war between Iran, the United States and their allies.…",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/12/the-spectacle-and-symbolism-of-khameneis-funeral?traffic_source=rss"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Iran's supreme leader: Revenge \"will most certainly be carried out\"",
+          "excerpt": "Iranian Supreme Leader Mojtaba Khamenei announced on Saturday that revenge for his father's assassination \"will most certainly be carried out.\" Why it matters: The statement was published after the burial ceremony for his father, former Supreme Leader Ali Khamenei. Throughout the weeklong funeral procession, there were massive public calls for the death of President Trump.…",
+          "url": "https://www.axios.com/2026/07/11/iran-trump-revenge-assassination"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Can Democrats Salvage Their Chances in Maine?",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Can Democrats Salvage Their Chances in Maine?",
+          "excerpt": "Can Democrats Salvage Their Chances in Maine? Panelists on Washington Week With The Atlantic joined to discuss what the end of Graham Platner’s campaign may mean for the Democratic Party, and more. After Graham Platner officially withdrew from the Maine Senate race this week, Democrats are now in the process of naming his replacement.…",
+          "url": "https://www.theatlantic.com/national/2026/07/platner-maine-democrats-washington-week/687890/?utm_source=feed"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Maine Democratic Senate candidate Graham Platner officially withdraws from race",
+          "excerpt": "Maine Democratic Senate candidate Graham Platner officially withdraws from race A convention to pick a new nominee will take place July 25. Graham Platner formally withdrew from the Maine Senate race on Friday, days after he announced he was suspending his campaign in the wake of a sexual assault allegation, which he has denied.…",
+          "url": "https://abcnews.com/Politics/graham-platner-officially-withdraws-maine-senate-race/story?id=134663041"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Firefighters gain upper hand on deadly Spain wildfire",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Firefighters gain upper hand on deadly Spain wildfire",
+          "excerpt": "Firefighters battling a wildfire in southern Spain that killed 12 people started to contain the blaze on Saturday as the hardest-hit village remained deserted, with charred vegetation and blackened homes a grim reminder of the inferno that sent terrified people fleeing from their homes.",
+          "url": "https://www.france24.com/en/video/20260712-firefighters-gain-upper-hand-on-deadly-spain-wildfire"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Spain wildfire: Firefighters begin to contain deadly blaze",
+          "excerpt": "Spain wildfire: Firefighters begin to contain deadly blaze July 12, 2026On Saturday, about 500 firefighters in Spain began to contain a fire that killed 12 peopleafter breaking out on Thursday in the Gallardos area of Almeria province, which is home to many foreign residents.…",
+          "url": "https://www.dw.com/en/spain-wildfire-firefighters-begin-to-contain-deadly-blaze/a-77919977?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+          "excerpt": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.",
+          "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "U.S. and Iran trade strikes after IRGC declares Strait of Hormuz \"closed\"",
+          "excerpt": "The U.S. military launched a new round of strikes against Iranian targets near the Strait of Hormuz on Saturday in response to an IRGC missile attack that left a commercial cargo ship badly damaged. Iran retaliated by launching drones and missiles at Qatar, the United Arab Emirates (UAE) and Jordan.…",
+          "url": "https://www.axios.com/2026/07/11/iran-strikes-cargo-ship-in-strait-of-hormuz-defying-us-ultimatum"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
+          "excerpt": "A historic rainfall event has left communities across several Missouri counties underwater and prompted water rescues, including an evacuation of a summer camp.",
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "A look at the Missouri flooding that left over 200 campers stranded",
+          "excerpt": "A look at the Missouri flooding that left over 200 campers stranded Six to 12 inches of rain caused historic flooding in Missouri this week. Over 200 people were stranded at a children's camp where all roads were cut off by floodwaters. Rescue crews airlifted them to safety with eight Black Hawk helicopters.",
+          "url": "https://www.cbsnews.com/video/missouri-flooding-200-campers-stranded/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Apple Sues OpenAI, Claiming Job Interviews Were Used to Steal iPhone Secrets",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "Inc.",
           "lang": "en",
@@ -344,804 +841,69 @@
           "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
           "excerpt": "Apple on Friday sued OpenAI in federal court in Northern California, alleging trade secret theft, saying that the artificial intelligence lab took the iPhone maker's intellectual property in order to develop its own consumer hardware.…",
           "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Apple sues OpenAI for trade secret theft",
-          "excerpt": "Apple is suing OpenAI for trade secret theft, alleging the AI giant deliberately and systematically solicited and stole confidential information from the iPhone-maker's current and former employees. Why it matters: Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device this year.…",
-          "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "China is catching up to Elon Musk’s reusable rockets",
-      "coverage": 4,
+      "headline_en": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "coverage": 2,
       "perspectives": [
         {
           "source": "TechCrunch",
           "lang": "en",
-          "headline": "China is catching up to Elon Musk’s reusable rockets",
-          "excerpt": "China’s state-owned space company successfully launched a Long March orbital rocket and landed the booster on a seagoing recovery vessel, making it the second country to achieve the feat.…",
-          "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "China achieves first-ever controlled rocket booster recovery",
-          "excerpt": "China has successfully launched its Long March-10B carrier rocket from the Wenchang Spacecraft Launch Site in Hainan province, according to state broadcaster CCTV. The mission marked the country's first controlled recovery of a rocket's first-stage booster, which landed on a seaborne platform off the coast of Hainan.…",
-          "url": "http://www.euronews.com/2026/07/10/china-achieves-first-ever-controlled-rocket-booster-recovery"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  China touts first reusable rocket booster",
-          "excerpt": "China touts first reusable rocket booster China says it has successfully returned a reusable rocket booster, marking a major breakthrough in space technology.…",
-          "url": "https://abcnews.com/video/134665903/"
+          "headline": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+          "excerpt": "Phia, the shopping startup co-founded by Bill Gates’ daughter, Phoebe Gates, and Sophia Kianni, has been accused of a practice known as “cookie stuffing,” which may have helped the product receive commissions and credit for sales it did not actually generate, according to a Bloomberg investigation.…",
+          "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"
         },
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "China becomes the second country to recover a rocket booster",
-          "excerpt": "China becomes the second country to recover a rocket booster It successfully deposited a Long March 10B rocket into a net anchored at sea. China has become just the second country to capture a reusable rocket, heralding a breakthrough in the country's space program, according to China's state television CCTV.…",
-          "url": "https://www.engadget.com/2212193/china-becomes-second-country-to-recover-rocket-booster/"
+          "headline": "Phoebe Gates' AI shopping app Phia reportedly claimed unearned affiliate sales through fake clicks",
+          "excerpt": "Phoebe Gates' AI shopping app Phia reportedly claimed unearned affiliate sales through fake clicks Gates, who is Bill Gates’ daughter, founded the app alongside Sophia Kianni. According to multiple reports, the AI-powered shopping plugin Phia used a tactic known as cookie stuffing to attach its affiliate code to sales it didn't actually drive.…",
+          "url": "https://www.engadget.com/2212973/phoebe-gates-ai-shopping-app-phia-affiliate-sales-fake-clicks/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "coverage": 4,
+      "headline_en": "'We escaped Spanish wildfire, but our friends lost their lives'",
+      "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-          "excerpt": "Man fatally shot by ICE in Houston was not intended target, DHS says - Published A man who was fatally shot by immigration agents at a traffic stop in Houston on Tuesday was not the intended target, US officials say. Lorenzo Salgado Araujo, a Mexican national, was stopped at 07:00 local time (12:00 GMT) while driving to work and was killed shortly afterwards.…",
-          "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-          "excerpt": "Lorenzo Salgado Araujo was a 52-year-old Mexican national who worked in construction for more than three decades. The father of three was shot by Immigration and Customs Enforcement agents after they attempted to pull him over.",
-          "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Detainees say ICE officer shot Houston driver through passenger window, lawyer says",
-          "excerpt": "Attorney says detainees witnessed ICE officer shoot Houston driver through passenger window Three men inside a van who witnessed the fatal shooting of the driver, Lorenzo Salgado Araujo, by an immigration officer in Houston said the Mexican man was shot through a passenger window and that the officer was never threatened, a lawyer who has spoken with them said Friday.…",
-          "url": "https://www.cbsnews.com/news/ice-houston-shooting-lorenzo-salgado-araujo/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "ICE is threatening to deport witnesses of its latest shooting",
-          "excerpt": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week.…",
-          "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-          "excerpt": "OpenAI’s chief executive of AGI deployment, Fidji Simo, is leaving her full-time role at the company and transitioning to become a part-time adviser. The move comes after Simo took a monthslong medical leave due to a worsening neuroimmune condition.…",
-          "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/"
-        },
-        {
-          "source": "Adweek",
-          "lang": "en",
-          "headline": "Fidji Simo Steps Back From OpenAI AGI Role to Focus on Health",
-          "excerpt": "Fidji Simo, the executive leading OpenAI’s AGI, product and business operations and spearheading its nascent advertising push, is leaving her full-time position. She announced the move on LinkedIn on July 9, confirming she will transition to a part-time advisor role. “Three months ago, I had to go on medical leave after a severe exacerbation of a chronic illness I’ve lived with for seven years.…",
-          "url": "https://www.adweek.com/media/fidji-simo-steps-back-from-openai-agi-role-to-focus-on-health/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Fidji Simo steps down from OpenAI’s No. 2 role",
-          "excerpt": "Fidji Simo, OpenAI’s No. 2 executive, is stepping down from her full-time role, The Wall Street Journal reports. In a staff note Thursday, Simo said her ongoing medical leave has proven longer and harder than expected, and that she’ll transition to a part-time advisory role instead.…",
-          "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
-          "excerpt": "Fidji Simo, OpenAI's product and business chief, on Thursday announced she is stepping down from her role at the artificial intelligence company to focus on recovery after a \"severe exacerbation of a chronic illness.\" Simo was diagnosed with Postural Orthostatic Tachycardia Syndrome, or POTS, in 2019, and said she's been spending \"countless hours in doctors' offices, dealing with symptoms, treatme…",
-          "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russian missile attacks wound 11 in Kyiv",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Russian missile attacks wound 11 in Kyiv",
-          "excerpt": "Russian missile attacks wound 11 in Kyiv In the latest salvo in one of the war’s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones. An intense overnight bombardment of ballistic missiles and specialised drone swarms launched by Russia has struck multiple districts across Ukraine’s capital, wounding at least 11 civilians and damaging critical infrastructure.…",
-          "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
-          "excerpt": "Ukraine woke to fresh destruction on 11 July after Russia launched overnight strikes on Kyiv, leaving at least 10 people injured, including a child, according to Ukrainian officials.",
-          "url": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "10 injured in overnight Russian strikes on Kyiv",
-          "excerpt": "10 people injured in overnight Russian strikes on Kyiv At least 10 people, including a child, were injured after Russia launched an overnight missile and drone attack on Kyiv early Saturday, according to Ukraine's State Emergency Service.…",
-          "url": "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "11 injured in overnight Russian missile and drone strikes on Kyiv",
-          "excerpt": "At least 11 people, including a child, were injured after Russia launched an overnight missile and drone attack on Kyiv early Saturday. Our correspondent Gulliver Cragg tells us more.",
-          "url": "https://www.france24.com/en/video/20260711-11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US and Iran trade escalating strikes as supreme leader is buried after days-long funeral",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "US and Iran trade escalating strikes as supreme leader is buried after days-long funeral",
-          "excerpt": "The US and Iran traded retaliatory strikes on Thursday as US president Donald Trump threatened to escalate the conflict unless Iran stopped attacking ships in the strait of Hormuz. Iran responded to the latest round of attacks by targeting US-allied Kuwait and Qatar and accused the US of striking near its sole nuclear power plant.…",
-          "url": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
-          "excerpt": "Iran wants to shut down a U.S. Navy-protected shipping lane through Oman's waters that has allowed oil and gas tankers in the Persian Gulf to exit the Strait of Hormuz without seeking Tehran's permission. The Islamic Republic tried to impose its control over Hormuz this week by attacking three tankers navigating the strait through the U.S.-protected route.…",
-          "url": "https://www.cnbc.com/2026/07/10/iran-strait-hormuz-oil-tanker-mou-trump.html"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Regional mediators scramble to prevent U.S.-Iran deal from collapsing",
-          "excerpt": "Qatar, Pakistan and other regional mediators are trying to de-escalate tensions between the U.S. and Iran and revive negotiations on a nuclear deal, according to two sources from the mediating countries and a U.S. official.…",
-          "url": "https://www.axios.com/2026/07/09/us-iran-nuclear-deal-mediators-qatar-pakistan"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Live: Trump says US will 'completely decimate' Iran if it attempts to assassinate him",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Live: Trump says US will 'completely decimate' Iran if it attempts to assassinate him",
-          "excerpt": "President Donald Trump said Friday the United States would \"completely decimate\" Iran if it attempted, or succeeded in, assassinating him. \"Orders have already been given, and the US Military is ready, willing, and able, for a one year period of time, subject to extension, to completely decimate and destroy all areas of Iran,\" Trump wrote on his social media platform Truth Social.…",
-          "url": "https://www.france24.com/en/middle-east/20260711-live-trump-threatens-iran-after-khamenei-s-funeral-saw-open-calls-for-his-killing"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US wants Iran to pledge to halt Hormuz attacks — officials",
-          "excerpt": "US wants Iran to pledge to halt Hormuz attacks — officials Published July 11, 2026last updated July 11, 2026What you need to know - US reportedly asks Iran to pledge to stop attacks on ships in the Strait of Hormuz - Iran's foreign minister says Tehran has 'kept its word' in the ceasefire with the US - US President Donald Trump says 1,000 missiles are aimed at Iran if it tries to kill him Follow D…",
-          "url": "https://www.dw.com/en/us-wants-iran-to-pledge-to-halt-hormuz-attacks-officials/live-77913349?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-          "excerpt": "Live updatesLive updates, Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him Published On 11 Jul 2026 - US president says 1,000 missiles are “locked and loaded and aimed at the Islamic Republic of Iran” with thousands more to follow if it tries to assassinate him.…",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
-          "excerpt": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit The lawsuit also names io Products, the hardware company led by Jony Ive. Apple is suing OpenAI and two of its former employees who currently work at the AI company, for theft of its trade secrets.…",
-          "url": "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Apple Sues OpenAI for Trade Secret Theft",
-          "excerpt": "Apple sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products. Apple alleges that OpenAI encouraged Apple employees to share information, components, drawings and other materials related to upcoming products. Mark Gurman reports. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Apple sues OpenAI over alleged trade secret theft",
-          "excerpt": "Apple filed a lawsuit Friday against OpenAI over allegations of trade secret theft and breach of contract. The iPhone maker alleges that this misconduct, which it says reveals a pattern of theft from OpenAI employees who previously worked at Apple, was directed by OpenAI’s senior leadership, including Chief Hardware Officer Tang Tan. The lawsuit, which was filed in the U.S.…",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-          "excerpt": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines - Published Landslides triggered by one of the strongest storms in decades have killed at least 15 people in the southern Philippines, as parts of East Asia brace themselves for the looming storm.…",
-          "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
-          "excerpt": "Typhoon Bavi batters Taiwan, Japan July 11, 2026Typhoon Bavi caused severe disruption across East Asia on Saturday, as it battered Japan's southern islands with heavy rain and strong winds, and brought life in Taiwan to a near standstill.…",
-          "url": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Taiwan braces for Super Typhoon Bavi",
-          "excerpt": "Residents in northern Taiwan are preparing for Typhoon Bavi as authorities evacuate thousands of people, shut schools and businesses, and brace for torrential rain, flooding and winds of up to 155 km/h.The storm is expected to make landfall in southeast China on Saturday after already causing deadly landslides in the Philippines and widespread damage in Guam and the Northern Mariana Islands.",
-          "url": "https://www.france24.com/en/taiwan-braces-for-super-typhoon-bavi"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
-          "excerpt": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court - Published \"Devastating\" evidence, including DNA on a rifle and a text confession, shows a 23-year-old should be tried for murdering Charlie Kirk last year, prosecutors told a court this week, as the defence team tried to poke holes in the case.…",
-          "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Charlie Kirk's family cites \"overwhelming evidence\" against alleged killer",
-          "excerpt": "Charlie Kirk's family cites \"overwhelming evidence\" against activist's alleged killer as preliminary hearing ends The family of Charlie Kirk said Friday that they believe the prosecution has presented \"overwhelming evidence\" to show alleged shooter Tyler Robinson killed the conservative activist as he addressed students at Utah Valley University in September 2025.…",
-          "url": "https://www.cbsnews.com/news/charlie-kirk-tyler-robinson-preliminary-hearing-family-statement/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "MAGA figures flock to Charlie Kirk murder hearing",
-          "excerpt": "A parade of prominent conservative figures are descending on a Utah courthouse this week to attend the preliminary hearing for the man accused of murdering Turning Point USA founder Charlie Kirk . Why it matters: The show of support in Provo underscores that, nearly a year after his assassination, Kirk remains a unifying figure across the Republican Party and the MAGA movement.…",
-          "url": "https://www.axios.com/2026/07/10/maga-charlie-kirk-court-hearing"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Taylor Swift paid NYC more than $160k for wedding permit, mayor says",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Taylor Swift paid NYC more than $160k for wedding permit, mayor says",
-          "excerpt": "Taylor Swift paid New York City more than $160k for wedding permit, mayor says True love may be priceless, but celebrating true love at Madison Square Garden comes with a price tag.…",
-          "url": "https://abcnews.com/GMA/Culture/taylor-swift-paid-new-york-city-160k-wedding/story?id=134655199"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Taylor Swift paid back NYC for wedding security, Mamdani says",
-          "excerpt": "Singer Taylor Swift has paid back New York City for security and other costs tied to her lavish days-long Madison Square Garden wedding festivities the week of July 4, the city’s mayor said. Zohran Mamdani said in a news conference Friday that Swift has already shelled out more than $160,000 to cover public resources spent by the city.…",
-          "url": "https://www.nbcnews.com/news/us-news/much-taylor-swift-paid-back-nyc-wedding-security-rcna385909"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Curtis Sliwa says \"it's time for Bibi to go\" after poll finds Jewish Americans favor Mamdani more",
-          "excerpt": "Curtis Sliwa says \"it's time for Bibi to go\" after poll finds Jewish Americans favor Mamdani more A new poll from The Associated Press and the National Opinion Research Center finds that New York City Mayor Zohran Mamdani has a higher favorability rating among Jewish Americans than Israeli Prime Minister Benjamin Netanyahu.…",
-          "url": "https://www.cbsnews.com/video/curtis-sliwa-time-for-bibi-to-go-poll-finds-jewish-americans-favor-mamdani-more/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-          "excerpt": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say - Published A man was nearly sucked head-first out of a cabin window in mid-air on a Ryanair plane, passengers have said. Tracking data shows the plane was in the air for about 10 minutes when it abruptly descended 9,000ft (2,700m), with passengers telling local media they heard \"some kind of explosion\".…",
-          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Passenger partly sucked from Ryanair plane during flight",
-          "excerpt": "Passenger partly sucked from Ryanair plane during flight July 10, 2026A Ryanair flight to southern Germany had to return the Greek city of Thessaloniki on Friday after a passenger window broke shortly after takeoff. The pressure difference pulled the head and shoulders of the man sitting by the window outside the aircraft, and a desperate rescue effort ensued.…",
-          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf"
+          "headline": "'We escaped Spanish wildfire, but our friends lost their lives'",
+          "excerpt": "'We escaped Spanish wildfire, but our friends lost their lives' A British family on holiday in Bedar has described the \"terrifying\" experience of escaping one of Spain's deadliest wildfires. Twelve people in the village - among them four Britons - were killed, according to Spanish authorities. Another 23 people are still missing.…",
+          "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Sky News",
           "lang": "en",
-          "headline": "Passenger 'partially sucked out of window' on Ryanair flight",
-          "excerpt": "A Ryanair flight was forced to make a emergency landing after a passenger was reportedly partially sucked out of a window.",
-          "url": "https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267"
+          "headline": "Woman pleads for help over parents missing after Spanish wildfire",
+          "excerpt": "Emergency crews and relatives are working to find survivors after Spain's worst wildfire for more than two decades killed at least 12 people.",
+          "url": "https://news.sky.com/story/rescuers-search-for-spanish-wildfire-survivors-as-woman-issues-plea-for-help-over-missing-parents-13562489"
         }
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "Circle won federal approval to operate as a trust bank — and its stock surged",
-      "coverage": 3,
+      "category": "📈 Economy",
+      "headline_en": "'Market is becoming more discerning': Wall Street weighs next catalyst for AI trade",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Quartz",
+          "source": "Yahoo Finance",
           "lang": "en",
-          "headline": "Circle won federal approval to operate as a trust bank — and its stock surged",
-          "excerpt": "Circle Internet Group received approval from the U.S. Office of the Comptroller of the Currency on Friday to establish a national trust bank, which will operate under the name Circle National Trust. Circle stock jumped more than 12% in early trading following the announcement. At launch, the new entity — formally chartered as First National Digital Currency Bank, N.A.…",
-          "url": "https://qz.com/circle-occ-national-trust-bank-approval-071026"
+          "headline": "'Market is becoming more discerning': Wall Street weighs next catalyst for AI trade",
+          "excerpt": "Wall Street is looking for follow-through on the AI trade heading into earnings season next week. The S&P 500 (GSPC) gained less than 1% last week. The Nasdaq (IXIC) whipsawed back and forth, with semiconductors at the center of that trade. \"The moves have been probably pretty frenetic,\" T. Rowe Price portfolio manager Tony Wang told Yahoo Finance.…",
+          "url": "https://finance.yahoo.com/markets/article/market-is-becoming-more-discerning-wall-street-weighs-next-catalyst-for-ai-trade-114052280.html"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
-          "excerpt": "Stablecoin issuer Circle surged after the U.S. Office of the Comptroller of the Currency, or OCC, granted it approval Friday to operate as a trust bank, the company said. Shares of the company were off their earlier highs but ended the day up nearly 5%.…",
-          "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Why Circle Internet Group stock popped today",
-          "excerpt": "Circle Internet Group (Nasdaq: CRCL), the stablecoin issuer behind USDC, said today that it has received federal approval to operate as a specific type of bank. The move marks a major milestone in the further legitimization of digital assets like cryptocurrencies. But don’t expect to be opening a Circle checking account anytime soon. Here’s what you need to know.…",
-          "url": "https://www.fastcompany.com/91571866/circle-internet-group-stock-price-crcl-pop-today-why"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Newly-released video shows Peter Falconio's killer questioned",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Newly-released video shows Peter Falconio's killer questioned",
-          "excerpt": "Newly-released video shows Peter Falconio's killer questioned Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.…",
-          "url": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Peter Falconio murder 25 years on: new footage shows dying Australian outback killer’s refusal to reveal body’s location",
-          "excerpt": "Infamous killer Bradley John Murdoch aggressively denied knowing where the body of still-missing backpacker Peter Falconio was during a police interview weeks before he died. NT police released body-worn camera vision of the interview on Saturday, days before the 25th anniversary of the killing of the 28-year-old British man on the Stuart Highway near Barrow Creek, in July 2001.…",
-          "url": "https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "'I'm going to cut you short': Footage shows Peter Falconio’s killer refusing reveal location of backpacker's body",
-          "excerpt": "New footage has emerged showing the man who murdered British backpacker Peter Falconio repeatedly denying that he knew where his victim's body was.",
-          "url": "https://news.sky.com/story/new-footage-shows-peter-falconios-killer-bradley-murdoch-refusing-reveal-location-of-backpackers-body-to-australian-police-13562460"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Meta pulls new AI image feature after days of backlash",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Meta pulls new AI image feature after days of backlash",
-          "excerpt": "Meta pulls new AI image feature after days of backlash - Published Meta has abruptly taken down a new feature that allowed people to use its artificial intelligence (AI) tool to make fake images from user content on Instagram. The feature was part of a broad rollout of Muse Image, a new AI image generation tool Instagram's parent company released on Tuesday.…",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Meta removes controversial AI feature on Instagram after backlash",
-          "excerpt": "Meta has axed a controversial feature that allowed users to modify photos from public Instagram accounts using AI. The feature, which was rolled out earlier this week along with a batch of other AI tools, “missed the mark” and is no longer available, according to the company.…",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
-          "excerpt": "Meta backtracks on AI-image feature for Instagram due to privacy backlash Meta backtracks on AI-image feature for Instagram due to privacy backlash Meta has rolled back its ‘Muse Image’ AI feature after widespread backlash over privacy and consent. The tool allowed users to generate AI images of people by simply ‘@ mentioning’ public Instagram accounts.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "UK police arrest murder suspect in Ann Widdecombe's death",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "UK police arrest murder suspect in Ann Widdecombe's death",
-          "excerpt": "UK police arrest murder suspect in Ann Widdecombe's death Published July 10, 2026last updated July 10, 2026Authorities arrested a man on suspicion of the murder of Ann Widdecombe, police in southwest England announced on Friday, a few hours after news of the once-prominent politician being found dead emerged.…",
-          "url": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Police investigating murder of former British politician found dead in her home",
-          "excerpt": "Police investigating murder of former British politician found dead in her home A murder investigation was launched Friday into the death of Ann Widdecombe, a former member of Parliament who was found dead in her home in southwest England, police said. A man was arrested Friday afternoon but has since been released, and police say he is no longer being investigated.…",
-          "url": "https://www.cbsnews.com/news/murder-probe-ann-widdecombe-british-parliament-politician/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Police arrest suspect in killing of former UK minister Ann Widdecombe",
-          "excerpt": "Police on Friday arrested a 26-year-old, White British man on suspicion of killing former Conservative minister and Reform UK member Ann Widdecombe. Police so far say they have no information to suggest the killing was politically motivated or an act of terror.",
-          "url": "https://www.france24.com/en/europe/20260710-police-arrest-suspect-in-killing-of-former-uk-minister-ann-widdecombe"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "excerpt": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner’s permission.…",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Meta's new AI image maker draws fire over consent",
-          "excerpt": "Meta's move to allow user to create AI images using the likenesses of people with public Instagram accounts is drawing criticism from several camps, including privacy advocates and those who represent celebrities.…",
-          "url": "https://www.axios.com/2026/07/10/meta-ai-image-consent"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Meta deactivates feature that let you generate AI images of any public Instagram account",
-          "excerpt": "Meta deactivates feature that let you generate AI images of any public Instagram account The company said it heard feedback that the capability ‘missed the mark.’ Meta has deactivated a controversial Muse Image capability.…",
-          "url": "https://www.engadget.com/2212843/meta-deactivates-muse-image-public-instagram-post-ai-images/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "'Moana,' Rolling Stones, Retail Spending: Look Ahead",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "'Moana,' Rolling Stones, Retail Spending: Look Ahead",
-          "excerpt": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the new released live action Moana movie, the new Rolling Stones album \"Foreign Tongues,\" June CPI, PPI, and retail sails. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Dwayne Johnson talks new live-action 'Moana'",
-          "excerpt": "Dwayne Johnson talks new live-action 'Moana' Johnson joins fellow stars Auli'i Cravalho and Catherine Laga'aia to take viewers behind the scenes of the live-action adaptation of the classic animated film.…",
-          "url": "https://abcnews.com/video/134646337/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Astrophysicist Avi Loeb on Pentagon's 4th UFO files release",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Astrophysicist Avi Loeb on Pentagon's 4th UFO files release",
-          "excerpt": "Astrophysicist Avi Loeb on Pentagon's 4th UFO files release The Pentagon released more UFO files on Friday, its fourth tranche since May. Avi Loeb, Baird professor of science at Harvard University and leader of the White House UAP council, joins with analysis.",
-          "url": "https://www.cbsnews.com/video/astrophysicist-avi-loeb-pentagon-4th-ufo-files-release/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Pentagon releases new trove of eerie UFO files",
-          "excerpt": "Pentagon releases new trove of eerie UFO files The Pentagon has released eerie new videos and images showing more of what the government calls \"unidentified anomalous phenomena,\" or a UAP - commonly referred to the public as a UFO.…",
-          "url": "https://abcnews.com/video/134666117/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Report says Iranian regime plotting to kill Trump",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Report says Iranian regime plotting to kill Trump",
-          "excerpt": "Great Americans: A conversation with Lin-Manuel Miranda 04:24 New surveillance video raises questions in deadly ICE shooting 01:33 Parents of Mississippi teen Nolan Wells speak out 03:06 Passenger partly sucked through airplane window 02:00 High-stakes Brooklyn Bridge rescue 01:23 Growing questions in Mississippi teen’s death 02:06 Deadly shoe factory inferno 01:18 New video showing U.S.…",
-          "url": "https://www.nbcnews.com/nightly-news/video/report-says-iranian-regime-plotting-to-kill-trump-266520645923"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Iran admits to Trump advisers \"they made a mistake\" in shooting at ships in strait",
-          "excerpt": "Iran privately told Trump advisers \"they made a mistake\" in shooting at ships in Strait of Hormuz Iranian officials privately told Trump advisers that they made a mistake in shooting at commercial ships in the Strait of Hormuz, that the attacks stemmed from an \"errant\" sect of hardliners who are trying to undermine negotiations, and that they want to keep talking, senior U.S.…",
-          "url": "https://www.cbsnews.com/news/iran-privately-said-made-a-mistake-in-shooting-at-ships-in-strait-of-hormuz/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Cuba suffers second nationwide blackout in five days",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Cuba suffers second nationwide blackout in five days",
-          "excerpt": "Cuba suffers second nationwide blackout in five days July 11, 2026Cuba on Friday saw its second nationwide blackout in five days. The island nation's electricity grid has crumbled amid a six-month US fuel blockade and already-dilapidated energy infrastructure. This is Cuba's ninth nationwide power outage since 2024, and the fourth in 2026.…",
-          "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Cuba suffers second nationwide blackout in five days",
-          "excerpt": "Cuba suffers second nationwide blackout in five days Cuba suffers second nationwide blackout in five days Cuba was hit by its second nationwide power outage in five days after the national grid collapsed again, millions are left without electricity as the island’s deepening energy crisis worsens. Published On 11 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "SK Hynix set for marquee US debut in test for AI appetite",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "SK Hynix set for marquee US debut in test for AI appetite",
-          "excerpt": "By Utkarsh Shetti July 10 (Reuters) - SK Hynix's U.S. trading debut on Friday following a $26.5 billion share sale will be a key test of investors' belief in the durability of the AI boom, coming after a recent pullback in semiconductor stocks. Chip stocks have lost some momentum in recent weeks after a stellar run, partly due to investor concerns about slower AI spending.…",
-          "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-061731678.html"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'",
-          "excerpt": "SK Hynix rose 13% in its first day of trading on Nasdaq, closing at $168.01, as U.S. investors jumped at the opportunity to get a stake in South Korea's second-most valuable company. The stock is trading under the ticker symbol SKHYV, and will switch to SKHY as of Tuesday. The stock opened at $170 and drifted lower in Friday's trading session.…",
-          "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Judge grants DOJ’s request to toss remaining Jan. 6 convictions of Proud Boys",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Judge grants DOJ’s request to toss remaining Jan. 6 convictions of Proud Boys",
-          "excerpt": "A federal judge on Friday agreed to toss the convictions of four Proud Boys who attacked the Capitol in 2021, fulfilling a Justice Department request to clear some of the last remaining cases in the wake of President Donald Trump’s mass pardons of Jan. 6 rioters. U.S. District Judge Timothy J.…",
-          "url": "https://www.nbcnews.com/politics/justice-department/judge-grants-doj-request-toss-remaining-jan-6-convictions-proud-boys-rcna385952"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Judge vacates convictions of 4 Proud Boys in Jan. 6 Capitol insurrection",
-          "excerpt": "Judge vacates convictions of 4 Proud Boys in Jan. 6 Capitol insurrection A federal judge on Friday agreed to dismiss the convictions of four members of the far-right Proud Boys group for their actions in the Jan. 6, 2021, Capitol riot. U.S.…",
-          "url": "https://www.cbsnews.com/news/judge-vacates-convictions-of-4-proud-boys-jan-6-capitol-insurrection/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Is Digital Realty (DLR) One of the Best Data Center Stocks to Buy in July?",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Is Digital Realty (DLR) One of the Best Data Center Stocks to Buy in July?",
-          "excerpt": "Digital Realty Trust, Inc. (NYSE:DLR) is one of the 10 Best Data Center Stocks to Buy in July. On Tuesday, the stock inched up 0.69%, closing at $174.90. Based on 33 analyst ratings compiled by CNN, 73% assigned a Buy rating to Digital Realty, while 27% assigned a Hold rating. The stock has an average price target of $220, a 25.79% upside from its current price.…",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-dlr-one-best-065826053.html"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Dark smoke rose above a Virginia data center as a heat wave pushed the power grid close to its limits",
-          "excerpt": "Ashburn, Virginia, is in the heart of America's \"data center alley.\" Over the July 4 weekend, diesel generators at a Digital Realty data center switched on as temperatures spiked. Dark smoke floated above ACC9, one of dozens of data centers clustered in Ashburn and nearby cities, according to a video and photos from July 3 seen by Business Insider.…",
-          "url": "https://www.businessinsider.com/virginia-data-center-diesel-backup-generator-heat-wave-pjm-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
-          "excerpt": "The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday. At least 4,118 people were killed and 16,740 injured in the back-to-back quakes on 24 June that flattened entire districts in the coastal state of La Guaira, Venezuelan parliament chief Jorge Rodriguez wrote on Telegram. Thousands more are listed as missing.…",
-          "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Death toll in Venezuela quakes surpasses 4,000",
-          "excerpt": "The death toll from Venezuela's devastating twin earthquakes has risen above 4,000, authorities said Friday, as families continued searching through the rubble for missing loved ones more than two weeks after the country's deadliest quake in over a century.",
-          "url": "https://www.france24.com/en/americas/20260711-death-toll-in-venezuela-quakes-surpasses-4-000"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Spain wildfire near Almeria kills 11 and sparks major evacuations",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Spain wildfire near Almeria kills 11 and sparks major evacuations",
-          "excerpt": "Around 1,000 residents were evacuated and several roads closed as the wildfire spread rapidly, fuelled by dry conditions and strong winds. Emergency services said many of the victims were found inside burned-out vehicles, suggesting they were caught while trying to escape the advancing flames. Authorities initially reported 12 deaths before revising the toll to 11 following further verification.…",
-          "url": "http://www.euronews.com/video/2026/07/10/spain-wildfire-near-almeria-kills-11-and-sparks-major-evacuations"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Spain wildfires: Deadliest blaze in 20 years",
-          "excerpt": "At least 12 people have died and 23 remain missing after Spain's deadliest wildfire in two decades tore through the southern region of Almeria, with authorities saying the blaze may have started when a power line fell onto dry vegetation.…",
-          "url": "https://www.france24.com/en/spain-wildfires-deadliest-blaze-in-20-years"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Crews draining the Lincoln Memorial Reflecting Pool again as part of troubled revamp",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Crews draining the Lincoln Memorial Reflecting Pool again as part of troubled revamp",
-          "excerpt": "Crews draining the Lincoln Memorial Reflecting Pool again as part of troubled revamp Crews are draining the Lincoln Memorial's Reflecting Pool again as President Donald Trump's problem-plagued effort to renovate the site pushes past his initial July 4 deadline WASHINGTON -- Crews are again draining the Lincoln Memorial Reflecting Pool as President Donald Trump’s problem-plagued efforts to revamp t…",
-          "url": "https://abcnews.com/Politics/wireStory/crews-draining-lincoln-memorial-reflecting-pool-part-trumps-134656303"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Crews drain Lincoln Memorial Reflecting Pool again as part of troubled Trump revamp",
-          "excerpt": "Trump directed that the bottom be painted what he called “American flag blue” but problems began quickly after the initial work was finished. Crews are again draining the Lincoln Memorial Reflecting Pool in Washington as President Donald Trump’s efforts to revamp the body of water extend well past his initial goal of having it ready by 4 July to mark the country’s 250th birthday.…",
-          "url": "http://www.euronews.com/2026/07/10/crews-drain-lincoln-memorial-reflecting-pool-again-as-part-of-troubled-trump-revamp"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-          "excerpt": "Watch: What links a bomb in Monaco and a shooting in Ukraine? Ukrainian intelligence agent Vladyslav Reut says he did not kill Anastasiia Berezovska - a woman suspected of trying to assassinate a multimillionaire in Monaco - despite earlier confessing to it. Reut instead blamed his co-defendant Vitalii Zhykovych for the killing of Berezovska.…",
-          "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Ukrainian security officer 'retracts confession' over killing of Monaco bomb suspect",
-          "excerpt": "There has been a new twist in the case of a Ukrainian woman who was found dead after allegedly carrying out a bombing in Monaco just days earlier.",
-          "url": "https://news.sky.com/story/ukrainian-security-officer-retracts-confession-over-killing-of-monaco-bomb-suspect-13562250"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Europe considering proposals to allow navigational fees in strait of Hormuz",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Europe considering proposals to allow navigational fees in strait of Hormuz",
-          "excerpt": "Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory and have the support of the UN agency that regulates maritime transport. Britain’s deputy prime minister, David Lammy, said the imposition of compulsory tolls would be disastrous.…",
-          "url": "https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-          "excerpt": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
-          "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Why the new US housing bill won’t fix the crisis",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Why the new US housing bill won’t fix the crisis",
-          "excerpt": "Why the new US housing bill won't fix the crisis Why the new US housing bill won’t fix the crisis Edward Pinto, co-director of the American Enterprise Institute Housing Center argues that the new US housing bill is unlikely to significantly ease the country’s housing crisis. He says it’s too limited to address the core issues – like restrictive local zoning.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "The crisis swallowing Britain’s housing hopes",
-          "excerpt": "When Sir Keir Starmer swept into power in 2024, Britain's biggest housebuilders were brimming with optimism. Bolstered by Labour's promise to get Britain building again – underpinned by a manifesto pledge to build 1.5 million homes – bosses heralded a \"fresh start\" for their beleaguered sector. Just two years later, however, Sir Keir is on the way out and that optimism has all but vanished.…",
-          "url": "https://finance.yahoo.com/real-estate/articles/crisis-swallowing-britain-housing-hopes-060000627.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "The New York Times and other news outlets are asking a judge to sanction OpenAI for allegedly hiding evidence",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "The New York Times and other news outlets are asking a judge to sanction OpenAI for allegedly hiding evidence",
-          "excerpt": "The New York Times, The New York Daily News, and 15 other media organizations filed a motion Thursday in a Manhattan federal court asking a judge to impose sanctions on OpenAI, alleging the company withheld and destroyed evidence central to a high-stakes copyright lawsuit.…",
-          "url": "https://qz.com/new-york-times-openai-sanctions-copyright-lawsuit-071026"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "The New York Times is escalating its fight with OpenAI, urging a judge to impose sanctions",
-          "excerpt": "The New York Times , the Daily News and other media outlets are asking a federal judge to impose sanctions on OpenAI , escalating a fight over artificial intelligence and copyright that could shape the future of a struggling news industry .…",
-          "url": "https://www.fastcompany.com/91571727/the-new-york-times-is-escalating-its-fight-with-openai-urging-a-judge-to-impose-sanctions"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Trump Accounts may help foster children build a financial safety net. What to know",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump Accounts may help foster children build a financial safety net. What to know",
-          "excerpt": "Trump Accounts could provide kids in the foster care system with a more secure financial footing in adulthood, advocates say — but there are still some key details to work out. Under an initiative announced in early June by First Lady Melania Trump in conjunction with the Treasury Department, states will be able to open Trump Accounts on behalf of eligible foster children.…",
-          "url": "https://www.cnbc.com/2026/07/10/trump-accounts-foster-children.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Trump Accounts May Create Millionaire Gen-Beta Retirees",
-          "excerpt": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors. Lights! Camera! Activate Trump accounts! Contributions are now flowing after the Treasury Department launched its much-anticipated Trump account app this week.…",
-          "url": "https://finance.yahoo.com/markets/options/articles/trump-accounts-may-create-millionaire-040100558.html"
+          "headline": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+          "excerpt": "Wall Street's record-setting start to the week ran into two familiar sources of volatility: the artificial intelligence trade and oil. The Dow Jones Industrial Average on Monday closed above 53,000 for the first time ever before renewed U.S.-Iran tensions erased those gains, leaving the blue-chip index down 0.5% for the week.…",
+          "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html"
         }
       ]
     }
