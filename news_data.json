@@ -1,909 +1,293 @@
 {
-  "collected_at": "2026-07-13T12:43:11.380905+00:00",
+  "collected_at": "2026-07-14T10:16:26.882957+00:00",
   "total_sources": 59,
-  "total_entries": 665,
+  "total_entries": 799,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "coverage": 9,
+      "headline_en": "Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran",
+      "coverage": 12,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-          "excerpt": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-          "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
+          "headline": "Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran",
+          "excerpt": "Brent oil rose above $86 a barrel for the first time in a month, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and tensions rose after attacks on two tankers.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Trump renews Iran blockade and again threatens to take control of strait of Hormuz",
+          "excerpt": "US president declares waterway open and demands tariff as both sides engage in heavy drone and missile exchanges Middle East crisis live – latest updates Donald Trump has once again threatened to take control of the strait of Hormuz, as he announced the reimposition of a naval blockade on Iran and demanded a 20% tariff on all cargoes shipped through the key maritime passage.…",
+          "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz"
+        },
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "Trump Is Taking a Page Out of Iran’s Playbook",
+          "excerpt": "Trump Is Taking a Page Out of Iran’s Playbook The White House vows to charge all commercial ships passing through the Strait of Hormuz. Welcome back to World Brief, where we’re looking at new U.S. plans for the Strait of Hormuz, Houthi allegations against Saudi Arabia, and the European Union cracking down on minors’ social media access.…",
+          "url": "https://foreignpolicy.com/2026/07/13/trump-strait-hormuz-tolls-shipping-us-blockade-iran/"
         },
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
-          "excerpt": "In 2023, Neill disclosed he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare type of non-Hodgkin lymphoma. Neill died on Monday in Sydney, according to a statement posted to the actor's social media page.",
-          "url": "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Sam Neill, actor known for ‘Jurassic Park,’ dies at 78",
-          "excerpt": "Sam Neill, the genre-spanning New Zealand actor best known for his starring role in the “Jurassic Park” movies, has died, his family said Monday. He was 78. “Sam was surrounded by family and passed with the dignity that has characterized his whole life,” the family said in a statement on Instagram.…",
-          "url": "https://www.nbcnews.com/news/obituaries/sam-neill-actor-jurassic-park-dies-new-zealand-rcna587240"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Actor Sam Neill, star of 'Jurassic Park', dies at 78",
-          "excerpt": "Actor Sam Neill, star of 'Jurassic Park', dies at 78 New Zealand actor Sam Neill, best known for his roles in \"Jurassic Park\" and \"The Piano', died Monday at the age of 78, according to a statement from his family on social media.…",
-          "url": "https://www.france24.com/en/culture/20260713-jurassic-park-star-sam-neill-dies-at-78"
+          "headline": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+          "excerpt": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
+          "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Sam Neill, Jurassic Park actor, dies 'unexpectedly' at 78",
-          "excerpt": "Sam Neill, Jurassic Park actor, dies 'unexpectedly' at 78 July 13, 2026Actor Sam Neill has died, his family said in a statement on Monday. He was 78. The statement said he had died in the eastern Australian city of Sydney. The New Zealand actor rose to international prominence for his performance as Dr. Alan Grant in the 1993 film Jurassic Park.…",
-          "url": "https://www.dw.com/en/sam-neill-jurassic-park-actor-dies-unexpectedly-at-78/a-77927271?maca=en-rss-en-all-1573-rdf"
+          "headline": "Iran war: Trump reinstates US blockade of Strait of Hormuz",
+          "excerpt": "Iran war: Trump reinstates US blockade of Strait of Hormuz Published July 13, 2026last updated July 13, 2026What you need to know - US military conducts third consecutive night of strikes in Iran - President Donald Trump has said the United States is 'reinstating' a blockade on Iran - Trump says US would charge any other ships for passage through the Strait of Hormuz It was a roundup of DW's cover…",
+          "url": "https://www.dw.com/en/iran-war-trump-reinstates-us-blockade-of-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Senator Lindsey Graham died of aortic tear, examiner says",
+      "headline_en": "12 states are suing to block Paramount's $110 billion Warner Bros. merger",
+      "coverage": 8,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "12 states are suing to block Paramount's $110 billion Warner Bros. merger",
+          "excerpt": "Twelve state attorneys general filed a lawsuit Monday seeking to block Paramount $PARA Skydance Corporation's $110 billion acquisition of Warner Bros. Discovery, alleging the deal would harm competition in film distribution and cable television and ultimately leave audiences paying higher prices for less content.…",
+          "url": "https://qz.com/state-attorneys-general-lawsuit-paramount-warner-bros-merger-071326"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "12 states sue to block merger between Paramount, Warner Bros. Discovery",
+          "excerpt": "12 states sue to block merger between Paramount, Warner Bros. Discovery A coalition of a dozen states on Monday sued to block Paramount Skydance's acquisition of Warner Bros. Discovery, posing a new challenge to the $110 billion deal that would unite two of the nation's largest media companies. Paramount Skydance is the parent company of CBS News. CBS News' Jo Ling Kent reports.",
+          "url": "https://www.cbsnews.com/video/12-states-sue-to-block-merger-between-paramount-warner-bros-discovery/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+          "excerpt": "A coalition of 12 state attorneys general is filing a lawsuit to block the merger of Paramount Skydance and Warner Bros. Discovery (WBD), alleging that the deal would harm movie theaters, basic cable distributors, and audiences.…",
+          "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "US: 12 states challenge Paramount's buyout of Warner",
+          "excerpt": "US: 12 states challenge Paramount's buyout of Warner July 14, 2026A total of twelve US states have sued to block Paramount Skydance's $110 billion (€96.2 billion) acquisition of Warner Bros. Discovery — the largest-ever merger in Hollywood — arguing that the deal would hurt competition and raise prices in film and television.…",
+          "url": "https://www.dw.com/en/us-12-states-challenge-paramount-s-buyout-of-warner/a-77943078?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "State AGs sue to block the Paramount-Warner Bros. Discovery merger",
+          "excerpt": "A dozen state attorneys general filed an antitrust lawsuit to stop the Paramount / Warner Bros. Discovery merger.",
+          "url": "https://www.engadget.com/2213857/states-sue-to-block-paramount-warner-bros-discovery-merger/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Lindsey Graham's sister chosen as replacement after senator's death",
       "coverage": 8,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Senator Lindsey Graham died of aortic tear, examiner says",
-          "excerpt": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
-          "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss"
+          "headline": "Lindsey Graham's sister chosen as replacement after senator's death",
+          "excerpt": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+          "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "CBS News",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says",
-          "excerpt": "Sen. Lindsey Graham dies at 71 from aortic dissection, according to medical examiner's preliminary findings Republican Sen. Lindsey Graham, 71, died Saturday evening following a \"brief and sudden illness,\" his office said in a statement.…",
-          "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/"
+          "headline": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
+          "excerpt": "South Carolina's governor says he is appointing Darline Graham to finish the term of her late brother. Top Republicans, including President Trump, have coalesced around the pick.",
+          "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham"
         },
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "'Lindsey Graham was irreplaceable': South Carolina Sen. Tim Scott",
-          "excerpt": "'Lindsey Graham was irreplaceable': South Carolina Sen. Tim Scott Graham \"always led with faith, family, and South Carolina first,\" Scott said. South Carolina Republican Sen. Tim Scott was emotional when reminiscing about Sen. Lindsey Graham after his sudden passing Sunday, saying \"Lindsey Graham was irreplaceable.\" Scott and Graham served together in the Senate for 13 years.…",
-          "url": "https://abcnews.com/Politics/lindsey-graham-irreplaceable-south-carolina-sen-tim-scott/story?id=134689712"
+          "headline": "Lindsey Graham, longtime senator from South Carolina and Trump ally, dies at 71",
+          "excerpt": "Lindsey Graham, longtime senator from South Carolina and Trump ally, dies at 71 Graham died on Saturday after a \"brief and sudden\" illness, his office said. Lindsey Graham, a longtime Republican senator from South Carolina, who had become one of President Donald Trump's staunchest political allies, died on Saturday after a \"brief and sudden\" illness, his office said in a statement. He was 71.…",
+          "url": "https://abcnews.com/Politics/sen-lindsey-graham-south-carolina-dies-71/story?id=134688641"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Graham’s death complicates myriad GOP goals in Congress",
-          "excerpt": "Sen. Lindsey Graham's death stands to scramble an array of Republican policy efforts, as Congress loses one of its top White House whisperers and coalition builders. Graham, R-S.C., who died at 71, was a titan of the Senate whose close relationship with President Donald Trump helped the upper chamber broker numerous deals and secure aid for allies such as Ukraine.…",
-          "url": "https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html"
+          "headline": "South Carolina governor taps Lindsey Graham's sister to serve as interim senator",
+          "excerpt": "South Carolina Gov. Henry McMaster has tapped Darline Graham Nordone, the sister of late Republican Sen. Lindsey Graham, to fill her brother's Senate seat through the rest of the year. McMaster, a Republican, made the announcement Monday afternoon at a press conference at the South Carolina statehouse in which he reflected on Graham's life and service.…",
+          "url": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html"
         },
         {
-          "source": "The Atlantic",
+          "source": "Time",
           "lang": "en",
-          "headline": "The Honorable Gentleman for Ukraine",
-          "excerpt": "Senator Lindsey Graham made the last foreign trip of his life to a nation he never gave up on.",
-          "url": "https://www.theatlantic.com/national-security/2026/07/lindsey-graham-was-honorable-gentleman-ukraine/687896/?utm_source=feed"
+          "headline": "Who Is Darline Graham Nordone? Lindsey Graham's Sister Appointed to Serve Out His Senate Term",
+          "excerpt": "South Carolina Gov. Henry McMaster has appointed Darline Graham Nordone to finish out the Senate term of her late brother, Sen. Lindsey Graham, who died on Saturday.…",
+          "url": "https://time.com/article/2026/07/13/darline-nordone-lindsey-graham-sister-south-carolina-senate-trump-mcmaster/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "headline_en": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+          "excerpt": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78 - Published Tributes have been paid to actor Sam Neill, famed for his starring role in Jurassic Park, following his death at the age of 78. The news was announced by his family, external, who said his death in Sydney, Australia, was \"sudden and unexpected\".…",
+          "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Hanson’s meeting with UK far-right activist will ‘play out poorly’, Coalition MP says – as it happened",
+          "excerpt": "The Labor MP Ed Husic says any moves to water down copyright law to benefit AI companies would be “going against the ethos” of the party and undermining the principle of “a fair day’s pay for a fair day’s work”. A truck that displayed advertisements featuring the phrase “Ditch the Witch” alongside an image of the Victorian premier, Jacinta Allan, has been issued a defect notice by police.…",
+          "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb"
+        },
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "Sam Neill Inspired a Generation of Scientists",
+          "excerpt": "Sam Neill, the New Zealand actor who died at age 78 in Sydney, Australia, on Monday, had a long and varied résumé. He played everyone from an international spy (Possession) and a detective chief inspector (Peaky Blinders) to a legendary wizard (Merlin). He even played the literal spawn of the devil (Omen III: The Final Conflict).…",
+          "url": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Jurassic Park star Sam Neill has died",
+          "excerpt": "Reference #18.eb18d017.1784024280.195da4b9 https://errors.edgesuite.net/18.eb18d017.1784024280.195da4b9",
+          "url": "https://news.sky.com/story/jurassic-park-star-sam-neill-has-died-13562906"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Jurassic Park, The Piano, The Tudors... New Zealand actor Sam Neill dies at 78",
+          "excerpt": "New Zealand actor Sam Neill, known for his roles in \"Jurassic Park\" and \"The Piano\", has died aged 78. Neill had announced in April that he was cancer-free after undergoing treatment for stage-three ​blood cancer. Tributes are flowing in for the star, including from New Zealand Prime Minister Christopher Luxon who said Neill was \"one of the greats\". Story by Carys Garland.",
+          "url": "https://www.france24.com/en/jurassic-park-the-piano-the-tudors-new-zealand-actor-sam-neill-dies-at-78"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Bangkok bar fire: death toll reaches 30 as police say negligence is ‘primary theory’",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Bangkok bar fire: death toll reaches 30 as police say negligence is ‘primary theory’",
+          "excerpt": "The Bangkok pub that became the scene of the city’s deadliest blaze in 17 years has said it will cooperate with an investigation into alleged negligence, as the death toll rose to 30. The local district office said on Tuesday that three more people had died after the devastating fire that broke out in the early hours of Monday.…",
+          "url": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
+          "excerpt": "More than 70 people were injured, with 24 of them still in critical condition, according to a statement by the Bangkok Metropolitan Administration.",
+          "url": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
+          "excerpt": "Bangkok bar fire death toll rises to 30 as police probe possible negligence Thailand authorities say that 24 people remain in critical condition in hospital after the blaze at a pub.…",
+          "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Death toll in Bangkok bar fire reaches 30",
+          "excerpt": "Death toll in Bangkok bar fire reaches 30 July 14, 2026Deaths in a devastating fire at a pub in Thailand's capital Bangkok have risen to 30, reports said Tuesday, citing updated figures from city officials. Three more victims succumbed to their injuries pushing up the tally from the initial 27 dead, local media reports said.…",
+          "url": "https://www.dw.com/en/death-toll-in-bangkok-bar-fire-reaches-30/a-77944364?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Flowers and forensic teams at Bangkok bar where deadly fire killed at least 27",
+          "excerpt": "Flowers lay outside the devastated Rong Beer Na Lat Phrao bar on Tuesday 14 July, as forensic officers searched the charred wreckage, where a burnt drum kit remained on the stage. The fire, which broke out shortly before midnight on Sunday, killed at least 27 people and injured around 70 others, authorities said.…",
+          "url": "http://www.euronews.com/video/2026/07/14/flowers-and-forensic-teams-at-bangkok-bar-where-deadly-fire-killed-at-least-27"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "U.S. targets Iranian military assets in another round of strikes as Tehran hits Gulf states",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "U.S. targets Iranian military assets in another round of strikes as Tehran hits Gulf states",
+          "excerpt": "The U.S. has completed its strikes against Iranian military targets for a third consecutive night, while Tehran hit two Emirati oil tankers in the Strait of Hormuz and triggered fresh missile alerts in Bahrain. U.S. Central Command said it had completed the latest wave of strikes against Iran.…",
+          "url": "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Iran live updates: US conducts 3rd consecutive night of strikes on Iran",
+          "excerpt": "Jordan downs 4 missiles, state media says Jordanian state media said that the country's military intercepted four missiles fired into the country's airspace from Iran in the early hours of Tuesday. Overnight, the Islamic Revolutionary Guard Corps claimed to have fired ballistic missiles at U.S. targets at an airspace in Jordan. -ABC News' Joe Simonetti and Charlotte Gardiner",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Iran war: US continues strikes as Trump reinstates blockade",
+          "excerpt": "Iran war: US continues strikes as Trump reinstates blockade Published July 14, 2026last updated July 14, 2026What you need to know - US military conducts third consecutive night of strikes in Iran - UAE says Iranian missiles struck oil tankers in Strait of Hormuz - Oil prices jump as US-Iran tensions escalate Follow DW's coverage of the war between the US and Iran on Tuesday, July 14.…",
+          "url": "https://www.dw.com/en/iran-war-us-continues-strikes-as-trump-reinstates-blockade/live-77942892?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+          "excerpt": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest? While Trump has threatened to strike targets in Iran including Pickaxe Mountain, he has said a deal is possible. The United States carried out attacks against Iran for a third consecutive night late on Monday.…",
+          "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Third straight night of U.S. strikes against Iran",
+          "excerpt": "Latest U.S. Iran War ICE Shooting World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia…",
+          "url": "https://www.cbsnews.com/video/third-straight-night-of-us-strikes-against-iran/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: Horses evacuated as fire approaches riding centre near Paris",
       "coverage": 5,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-          "excerpt": "US Senator Mitch McConnell says absence due to fall and pneumonia - Published US Senator Mitch McConnell says he will not be returning to the Senate \"quite yet\" after suffering from a fall and \"a mild case of pneumonia\". It is the first statement from the 84-year-old Kentucky Republican after weeks of speculation about his health, following his admission to hospital in mid-June.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "McConnell says a fall led to his hospitalization, breaking weeks of silence",
-          "excerpt": "Sen. Mitch McConnell on Sunday revealed that a fall led to his hospitalization, breaking the silence about his condition after weeks of mounting speculation about the Kentucky Republican's health.",
-          "url": "https://www.npr.org/2026/07/13/nx-s1-5891492/mcconnell-fall-hospitalization"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Mitch McConnell says he suffered fall, was unconscious in first statement since hospitalization",
-          "excerpt": "Sen. Mitch McConnell, R-Ky., said Sunday in his first public statement since he was hospitalized nearly a month ago that he was “briefly unconscious” after he suffered a fall. In the statement, accompanied by a photo of McConnell smiling in a hospital chair alongside his wife, Elaine Chao, he said doctors have not yet cleared him to return to the Senate floor to vote.…",
-          "url": "https://www.nbcnews.com/politics/congress/mitch-mcconnell-says-suffered-fall-was-unconscious-first-statement-hos-rcna587224"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "McConnell breaks weeks of silence about his hospitalization",
-          "excerpt": "Sen. Mitch McConnell (R-Ky.) addressed his hospitalization Sunday, following a fall some four weeks ago. Why it matters: McConnell's comments are his first public explanation of the hospitalization that fueled weeks of speculation about his health ahead of his planned retirement.…",
-          "url": "https://www.axios.com/2026/07/12/mitch-mcconnell-hospitalization-fall-pneumonia"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "McConnell says he was \"briefly unconscious,\" had pneumonia in health update",
-          "excerpt": "Sen. Mitch McConnell says he was \"briefly unconscious,\" had pneumonia in latest health update Sen. Mitch McConnell released a statement on his health on Sunday along with a photo of himself and his wife, Elaine Chao, after questions swirled about his condition.…",
-          "url": "https://www.cbsnews.com/news/mitch-mcconnell-health-update-pneumonia-unconscious/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
-          "excerpt": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan Iran attacks US military bases in Bahrain, Kuwait, and Jordan Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan following another round of US attacks as the standoff over the Strait of Hormuz intensifies. Al Jazeera’s Mohamed Vall reports. Published On 13 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss"
+          "headline": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+          "excerpt": "Watch: Horses evacuated as fire approaches riding centre near Paris Horses have been evacuated from an equestrian centre near Paris as the Fontainebleau wildfire continues to rage. Firefighters have been battling to bring the blaze under control over the last two days, with officials describing it as \"virulent\" and of \"exceptional scale\".…",
+          "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "US-Iran talks to end war on the line amid renewed strikes",
-          "excerpt": "The US has launched more strikes in Iran, for a third major attack between July 12 and July 13 in the Middle East. It comes just hours after the US launched some of its largest air strikes against Iran since US President Donald Trump declared the ceasefire over. Iran announced it had started its retaliatory response, targeting US military bases in Jordan Bahrain and Kuwait.",
-          "url": "https://www.france24.com/en/us-iran-talks-to-end-war-on-the-line-amid-renewed-strikes"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates",
-          "excerpt": "Iran responded to a fresh wave of strikes from U.S. forces over the weekend by launching attacks on American military bases in several Gulf states, deepening a standoff over the strategically vital Strait of Hormuz.…",
-          "url": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Iran attacks Gulf states to impose its Hormuz battle lines",
-          "excerpt": "Iran launched waves of attacks across the Gulf in response to US airstrikes the night before, signalling the Islamic Republic’s refreshed strike capabilities, while claiming sole control of the Strait of Hormuz. The Gulf states are once again on the frontlines of the growing US-Iran confrontation.…",
-          "url": "http://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Social media limits are coming for teens across Europe",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Social media limits are coming for teens across Europe",
-          "excerpt": "The European Union is weighing sweeping new restrictions on children’s and teenagers’ access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them.…",
-          "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules"
+          "headline": "More than 1,900 hectares of Fontainebleau forest near Paris destroyed by wildfires",
+          "excerpt": "French firefighters on Tuesday are still fighting two wildfires that have so far ravaged more than 1,900 hectares of Fontainebleau forest, a UNESCO biosphere reserve near Paris. Police on Monday arrested two people suspected of starting the blaze that has forced some 1,000 local residents to evacuate.",
+          "url": "https://www.france24.com/en/france/20260714-more-than-1-900-hectares-fontainebleau-forest-near-paris-destroyed-by-wildfires"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "EU experts urge social media restrictions for kids under 13",
-          "excerpt": "EU experts urge social media restrictions for kids under 13 July 13, 2026Access to social media should be allowed to under 13-year-olds only under the supervision of their carers or at school, according to a report presented in Brussels on Monday by a panel of experts advising the EU on online child protection.…",
-          "url": "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "EU to Present Plan to Restrict Children’s Access to Social Media",
-          "excerpt": "The European Union will propose a law to restrict children’s access to social media, according to the bloc’s top official, as part of a growing global consensus about the harm it causes.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/eu-to-present-plan-to-restrict-children-s-access-to-social-media"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Europe takes step toward social media ban for kids",
-          "excerpt": "Europe takes step toward social media ban for kids A new study shows that EU children spend up to six hours per day on platforms like TikTok and Instagram. Following a new report from experts showing worrying data, Europe is taking steps toward barring children from using social media, EU Commission president Ursula von der Leyen announced in a press conference today.…",
-          "url": "https://www.engadget.com/2213336/europe-takes-step-toward-social-media-ban-for-kids/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-          "excerpt": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 - Published Sheikh Hamad bin Khalifa Al Thani, the former leader of Qatar, has died aged 74, the country's government announced on Sunday. \"The Bureau of the Emir mourns the great loss to the nation of the late, may God have mercy on him,\" a statement read.…",
-          "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss"
+          "headline": "France arrests arson suspects amid Fontainebleau forest fire",
+          "excerpt": "France arrests arson suspects amid Fontainebleau forest fire July 14, 2026Raging wildfires in the south of Paris scorched more land overnight on Tuesday, ripping through a historic French forest, as at least two people were arrested on suspicion of starting the blaze near one of the country's most famous royal palaces.…",
+          "url": "https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
-          "excerpt": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform The late Emir Sheikh Hamad bin Khalifa Al Thani’s 18-year rule between 1995 to 2013 brought pivotal changes and social reforms that strengthened women’s presence in Qatar.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-          "excerpt": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment.",
-          "url": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "SK Hynix stock plunged over 15% in Seoul the day after its blockbuster Nasdaq debut",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "SK Hynix stock plunged over 15% in Seoul the day after its blockbuster Nasdaq debut",
-          "excerpt": "SK Hynix stock fell 15.4% in Seoul on Monday, its largest single-day decline on record, as investors sold out of positions following the chipmaker's blockbuster Nasdaq $NDAQ debut last week, according to Reuters and CNBC. A 20-minute market-wide trading halt was triggered after the broader Kospi index shed 9% on the same session, according to Bloomberg.…",
-          "url": "https://qz.com/sk-hynix-stock-record-drop-nasdaq-debut-071326"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Stock Market Today: Nasdaq Slides On New U.S.-Iran Strikes; SK Hynix Plunges (Live Coverage)",
-          "excerpt": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: - Javascript is disabled or blocked by an extension (ad blockers for example) - Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that you are not blocking them from loading.…",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "SK Hynix Selloff Is Not a Huge Problem, Kunst Says",
-          "excerpt": "Sarah Kunst, founder and general of Cleo Capital, says the selloff in SK Hynix shares and South Korean stocks is not a problem. Kunst points out that SK Hynix has gained more than 500% over the past year. She speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-13/sk-hynix-selloff-is-not-a-huge-problem-kunst-says-video"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
-          "excerpt": "Watch: At the scene where Bangkok's deadly bar fire unfolded The BBC's South East Asia correspondent Jonathan Head has visited the site where at least 27 people were killed during a bar fire in Thailand. The deadly blaze broke out at Rong Beer Na Lat Phrao â the local name of the bar â which is situated in the Chatuchak district of Bangkok.…",
-          "url": "https://www.bbc.co.uk/news/videos/clyrd9nwn9wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Thailand: Bangkok bar fire leaves dozens dead",
-          "excerpt": "Thailand: Bangkok bar fire leaves dozens dead July 13, 2026A major fire inside a bar in Thailand's capital Bangkok late on Sunday night left at least 27 people dead, officials said. What do we know? Rescuers said the fire, which was first reported around midnight, broke out in a packed beer house in the Ladprao area of Chatuchak district.…",
-          "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "At least 27 killed in Bangkok beer hall fire, authorities say",
-          "excerpt": "Bangkok beer hall fire kills more than 2 dozen people, authorities say A huge fire engulfed a beer hall in Bangkok overnight into Monday, killing at least 27 people and injuring dozens before firefighters brought the blaze under control, authorities said.…",
-          "url": "https://www.cbsnews.com/news/bangkok-na-ladprao-beer-pub-deadly-fire/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
-          "excerpt": "French firefighters are tackling a blaze of unprecedented scale sweeping through Fontainebleau forest south-east of Paris, as the Spanish prime minister visited the scene of a deadly wildfire in southern Spain and warned: “The climate emergency kills.” The fire began late on Sunday afternoon in the one-time royal hunting preserve about 40 miles (60km) from the capital, which today is dotted with v…",
-          "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Major wildfire rages south of Paris during heatwave",
-          "excerpt": "A major wildfire swept through the Fontainebleau forest, around 60 kilometres southeast of Paris, during France's third heatwave of the year. Officials said the blaze had burned around 300 hectares by late Sunday and was still spreading. Hundreds of firefighters, two water-bombing planes, helicopters and an observation aircraft were deployed to tackle the fire.…",
-          "url": "http://www.euronews.com/video/2026/07/13/major-wildfire-rages-south-of-paris-during-heatwave"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Massive Fontainebleau wildfire near Paris ‘possibly intentional’, interior minister says",
-          "excerpt": "A fast-moving wildfire that has so far scorched about 800 hectares of the Fontainebleau forest southest of Paris may have been \"intentionally set\", French Interior Minister Laurent Nunez said Monday.…",
-          "url": "https://www.france24.com/en/france/20260713-fontainebleau-forest-near-paris-very-virulent-wildfire"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ukraine to get new prime minister amid major government reshuffle",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ukraine to get new prime minister amid major government reshuffle",
-          "excerpt": "Ukraine’s President Volodymyr Zelensky has announced a new political strategy and a government reshuffle, with Prime Minister Yulia Svyrydenko stepping down from her position. Zelensky says he has offered her a new role focused on relations with a key international partner, while calling for a “renewal of the Cabinet of Ministers”.…",
-          "url": "https://www.france24.com/en/ukraine-to-get-new-prime-minister-amid-major-government-reshuffle"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
-          "excerpt": "Ukraine's Zelenskyy swaps out prime minister in reshuffle July 12, 2026Ukrainian President Volodymyr Zelenskyy on Sunday announced plans to reshuffle his cabinet and asked Prime Minister Yuliia Svyrydenko to step aside after serving for just 12 months.…",
-          "url": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Ukraine's prime minister stepping down after only a year, in Zelenskyy reshuffle",
-          "excerpt": "Ukrainian prime minister Yulia Svyrydenko has stepped down as President Volodymyr Zelenskyy begins a reshuffle of Ukraine's government.",
-          "url": "https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Intel to invest €5bn in Irish plant as AI chip demand surges",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Intel to invest €5bn in Irish plant as AI chip demand surges",
-          "excerpt": "Move strengthens Dublin’s role in Europe’s bid to secure advanced semiconductor manufacturing",
-          "url": "https://www.ft.com/content/8bcc19e1-2101-444c-bd2e-3a4b113becec"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Intel Invests €5 Billion in Irish Hub to Keep Up in AI Chip Race",
-          "excerpt": "Intel Corp. is spending €5 billion ($5.7 billion) to expand its plant in Ireland, as the chipmaker attempts to regain its manufacturing dominance for the AI boom.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Intel announces $5.7 billion capital investment at Irish manufacturing hub",
-          "excerpt": "LEIXLIP, Ireland, July 13 (Reuters) - Intel has begun a €5 billion ($5.7 billion) capital investment at its Irish campus to expand its manufacturing output in Europe and meet growing global demand for AI and high-performance computing, the U.S. chipmaker said on Monday.…",
-          "url": "https://finance.yahoo.com/technology/articles/intel-announces-5-7-billion-120259165.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "At least two killed in Toronto street festival shooting",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "At least two killed in Toronto street festival shooting",
-          "excerpt": "At least two killed in Toronto street festival shooting - Published At least two people have been killed in gunfire at a street festival in Toronto. Police in the Canadian city initially received reports of an active shooter on St Clair Avenue at approximately 20:12 local time (01:12 BST), where a salsa festival was being held.…",
-          "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
-          "excerpt": "A shooting near a Toronto street festival killed two men and wounded four other people on Saturday evening, police said, adding that what initially prompted an active-shooter warning was an exchange of gunfire between two people targeting each other. Toronto police deputy chief Frank Barredo said investigators recovered two firearms after the shooting, which was reported at 8.12pm near St.…",
-          "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Two dead and four injured in Toronto shooting",
-          "excerpt": "Two men have been killed and four other people have been wounded in a shooting at a street festival in Toronto, police have said.",
-          "url": "https://news.sky.com/story/two-dead-and-four-injured-in-shooting-at-toronto-festival-police-say-13562675"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag",
-          "excerpt": "Meta Platforms Inc. has committed to spending an additional $40 billion on its sprawling data center campus in Louisiana, pushing its total expected investment beyond $250 billion for the site as it continues to grow its artificial intelligence computing footprint.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
-          "excerpt": "Meta's massive Hyperion data center project in rural Louisiana is getting much bigger and costlier, with a big assist from the state's government. The company said in a blog post on Monday that the site in Richland Parish, Louisiana — home to what will be Meta's largest data center — will be a 5GW facility and cost over $50 billion.…",
-          "url": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Meta is more than doubling its Louisiana AI data center to 5 gigawatts and $50 billion",
-          "excerpt": "Meta $META announced Monday that it is expanding its Hyperion data center in Richland Parish, Louisiana, to 5 gigawatts of compute capacity at a cost of more than $50 billion, up from a prior price tag of $27 billion and an original design capacity of 2 gigawatts.…",
-          "url": "https://qz.com/meta-louisiana-hyperion-data-center-expansion-5-gigawatts-071326"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’",
-          "excerpt": "US and Iranian military forces exchanged heavy missile and drone attacks over the weekend and into Monday, as Tehran targeted US bases in the region and announced it was denying passage of ships through the strait of Hormuz.…",
-          "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
-          "excerpt": "The U.S. and Iran exchanged a barrage of missile and drone airstrikes on Sunday, as Tehran targeted American facilities in several Gulf states while declaring the critical Strait of Hormuz waterway closed to traffic. Later Sunday afternoon, the U.S. launched more strikes against Iran, according to U.S. Central Command.…",
-          "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. and Iran continue to trade strikes amid battle over Strait of Hormuz",
-          "excerpt": "Latest U.S. Iran War Lindsey Graham World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
-          "url": "https://www.cbsnews.com/video/us-and-iran-continue-to-trade-strikes-amid-battle-over-strait-of-hormuz/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "'Coalition of the willing' meets in Paris to bolster war support to Ukraine",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "'Coalition of the willing' meets in Paris to bolster war support to Ukraine",
-          "excerpt": "Ukrainian drone strikes killed four people and wounded seven in Russia on July 13, most in the Moscow region, as Kyiv upped its strikes in response to Kremlin's barrages. This comes as the 'coalition of the willing', a coalition of Ukraine's allies, gather in Paris. FRANCE 24's Gulliver Cragg tells us more.",
-          "url": "https://www.france24.com/en/video/20260713-coalition-of-the-willing-meets-in-paris-to-bolster-war-support-to-ukraine"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ukraine updates: 'Coalition of the willing' meeting in Paris",
-          "excerpt": "Ukraine updates: 'Coalition of the willing' meeting in Paris Published July 13, 2026last updated July 13, 2026What you need to know - The Coalition of the Willing' holding talks in Paris to reaffirm support for Ukraine - EU's Kaja Kallas says no agreement yet on 21st Russian sanctions package - At least 3 dead in drone strikes in Moscow region Below you can follow DW's coverage of developments reg…",
-          "url": "https://www.dw.com/en/ukraine-updates-coalition-of-the-willing-meeting-in-paris/live-77927840?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Infantino opens door to 64-team World Cup",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Infantino opens door to 64-team World Cup",
-          "excerpt": "Infantino opens door to 64-team World Cup - Published Plans for a 64-team men's World Cup are set to be assessed after the 2026 tournament, with Fifa boss Gianni Infantino saying the event needs to be \"for the whole world\".…",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says",
-          "excerpt": "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says FIFA president says during the first World Cup to feature 48 teams that it’s under consideration. FIFA will examine the possibility of expanding the men’s World Cup to 64 teams for the 2030 tournament, FIFA President Gianni Infantino says.…",
-          "url": "https://www.aljazeera.com/news/2026/7/13/gianni-infantino-64-teams-expansion-comments-fifa-2030-world-cup?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Drone footage shows devastation after deadly Spain wildfire",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Drone footage shows devastation after deadly Spain wildfire",
-          "excerpt": "Drone footage shows the devastation left by a deadly wildfire in southern Spain that killed at least 12 people and burned around 7,000 hectares. Authorities say the blaze has now been brought under control.",
-          "url": "http://www.euronews.com/video/2026/07/13/drone-footage-shows-devastation-after-deadly-spain-wildfire"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ten people missing amid Spanish wildfires",
-          "excerpt": "A wildfire that spread in southern Spain in the area of Almeria has killed at least 13 people, while another ten are missing. The fire has stabilised, allowing hundreds of evacuees to return to their homes, but has burned through around 7,000 hectares. FRANCE 24's Sarah Morris tells us more from Madrid.",
-          "url": "https://www.france24.com/en/ten-people-missing-amid-spanish-wildfires"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Pizza chain closing up to 50 locations after years of declines",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Pizza chain closing up to 50 locations after years of declines",
-          "excerpt": "Pizza chain closing up to 50 locations after years of declines Fernanda Tronco 4 min read A major pizza chain is preparing to close dozens of restaurants once again as its parent company works to eliminate underperforming locations following what executives describe as a \"challenging period\" for the business.…",
-          "url": "https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Papa Murphy’s is closing stores, joins list of national pizza chains to shutter locations in 2026",
-          "excerpt": "It’s no secret that pizza chains are struggling. Over the last several months alone, Pizza Hut and Papa Johns announced hundreds of closures. That pizzapocalypse trend continues this month, with the owner of the popular U.S. pizza chain Papa Murphy’s announcing it will close up to 50 locations. Here’s what you need to know.…",
-          "url": "https://www.fastcompany.com/91572481/papa-murphys-closing-stores-list-doomed-pizza-locations-grows"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Mark Cuban has strong words on AI companies and job losses",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Mark Cuban has strong words on AI companies and job losses",
-          "excerpt": "Oracle's annual filing cited AI adoption among the drivers of 21,000 job cuts in fiscal 2026. Snap cut 1,000 people and the CEO said rapid AI advances meant a smaller team could do the same work. At college graduation ceremonies this spring, speakers who brought up AI got booed. By May, Challenger, Gray and Christmas found AI was the primary reason cited for nearly 40% of U.S. job cuts.…",
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-strong-words-ai-140700495.html"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Want to Live a Happier, More Successful Life? Advice From Steve Jobs, Oprah Winfrey, Mark Cuban, and My Grandfather",
-          "excerpt": "Want to Live a Happier, More Successful Life? Advice From Steve Jobs, Oprah Winfrey, Mark Cuban, and My Grandfather",
-          "url": "https://www.inc.com/jeff-haden/want-to-live-a-happy-successful-life-advice-from-steve-jobs-oprah-winfrey-mark-cuban-and-my-grandfather/91373096"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Apple’s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Apple’s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
-          "excerpt": "Investors are flocking back to Apple Inc. as nervousness about artificial intelligence spending weighs on the stocks of chipmakers and cloud-computing giants.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Apple’s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
-          "excerpt": "Investors are flocking back to Apple Inc. as nervousness about artificial intelligence spending weighs on the stocks of chipmakers and cloud-computing giants.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "German court convicts Iraqi couple of enslaving Yazidi girls",
-          "excerpt": "German court convicts Iraqi couple of enslaving Yazidi girls - Published A court in Germany has convicted an Iraqi couple of enslaving two Yazidi girls in Iraq. The Munich Higher Regional Court also found them guilty of membership of the Islamic State group (IS). The man, named only as Twana H.S.…",
-          "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Germany: Iraqi sentenced to life for enslaving Yazidi girls",
-          "excerpt": "Germany: Iraqi sentenced to life for enslaving Yazidi girls July 13, 2026A German court has sentenced a man and a woman to lengthy prison sentences for enslaving and abusing two Yazidi girls under the so-called \"Islamic State\" group in Iraq. The Iraqi couple were convicted of war crimes, genocide and crimes against humanity.…",
-          "url": "https://www.dw.com/en/germany-iraqi-sentenced-to-life-for-enslaving-yazidi-girls/a-77928732?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "TSMC's June revenue surged nearly 68%, beating its own second-quarter forecast",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "TSMC's June revenue surged nearly 68%, beating its own second-quarter forecast",
-          "excerpt": "Taiwan Semiconductor Manufacturing Co. reported June revenue of NT$442.68 billion ($13.2 billion), a 67.9% jump from the same month a year earlier and a 6.2% increase from May, marking the best month in the company's history for sales. The June figure lifted second-quarter revenue to NT$1.27 trillion, or approximately $39.6 billion — a 36% rise from the same period last year.…",
-          "url": "https://qz.com/tsmc-june-revenue-second-quarter-earnings-071326"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
-          "excerpt": "Taiwan Semiconductor Manufacturing Co. reported a 67.9% year-on-year rise in its June sales on Monday, ahead of its second-quarter earnings release later this week. For the first half of 2026, TSMC's total revenue reached 2.4 trillion new Taiwan dollars ($74.99 billion), representing a 35.6% increase compared to the same period in 2025.…",
-          "url": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
-          "excerpt": "Venezuela sets up temporary housing, as death toll rises July 12, 2026Authorities in Venezuela are planning to set up temporary accommodation for families who lost their homes in last month's devastating earthquakes, from which the death toll has now risen to at least 4,490.…",
-          "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Venezuela quake death toll rises to 4,490, officials say, but no number given for missing",
-          "excerpt": "Camps for families left homeless have sprung up in stadiums, plazas and on sidewalks in La Guaira as well as nearby Caracas.",
-          "url": "http://www.euronews.com/2026/07/13/venezuela-quake-death-toll-rises-to-4490-officials-say-but-no-number-given-for-missing"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
-          "excerpt": "India's consumer price inflation rose to 4.38% in June, up from 3.93% in May as the U.S.-Iran war and a weak monsoon raised food and fuel prices, adding to cost pressures. The headline inflation number was above economists' expectations for a 4.30% rise, according to a Reuters poll.…",
-          "url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "India's retail inflation accelerates to 4.38%, raising rate hike expectations",
-          "excerpt": "July 13 (Reuters) - India's retail inflation accelerated to 4.38% in June, government data showed on Monday, breaching the central bank's 4% target for the first time in 17 months and setting the stage for an interest rate hiking cycle. The print was above the 4.3% forecast in a Reuters poll of economists and was also the highest since India revamped the consumer price index in January.…",
-          "url": "https://finance.yahoo.com/economy/policy/articles/indias-retail-inflation-accelerates-4-104829574.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Morning news brief",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Morning news brief",
-          "excerpt": "The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.",
-          "url": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Here’s the biggest news you missed this weekend",
-          "excerpt": "Sen. Lindsey Graham, R-S.C., who was elected to the Senate in 2003 and was a close political ally of President Donald Trump’s, has died, his office confirmed. He was 71. Graham died Saturday night “from a brief and sudden illness,” his office said in a statement.…",
-          "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-july-12-rcna385910"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Nancy Mace eyes run for Lindsey Graham's Senate seat",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Nancy Mace eyes run for Lindsey Graham's Senate seat",
-          "excerpt": "Rep. Nancy Mace (R-S.C.) is \"strongly considering\" a run for U.S. Senate following the sudden death of Sen. Lindsey Graham (R-S.C.), two sources familiar with her thinking told Axios. Driving the news: Graham passed away late Saturday from \"a brief and sudden illness,\" his office announced in a statement early Sunday morning. South Carolina Gov.…",
-          "url": "https://www.axios.com/2026/07/12/lindsey-graham-nancy-mace-south-carolina-senate"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Who will replace Lindsey Graham in the Senate?",
-          "excerpt": "Rep. Nancy Mace, R-S.C., and South Carolina Gov. Henry McMaster are among the first two names being floated in what could be a crowded field to fill the seat vacated by Sen. Lindsey Graham, R-S.C., who died suddenly over the weekend.…",
-          "url": "https://www.cnbc.com/2026/07/12/nancy-mace-lindsey-graham-senate-seat-south-carolina-election.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
-          "excerpt": "An explosive fire at a popular pub in Thailand’s capital, Bangkok, has killed 27 people and left another 22 in critical condition, in one of the deadliest such incidents in the tourism hub in recent years. Officials said they were investigating whether emergency exits may have been obstructed, hindering people from escaping the burning Rong Beer Na Lat Phrao pub.…",
-          "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "At least 27 people killed in fire at Bangkok pub",
-          "excerpt": "At least 27 people have died and dozens more were hospitalized following a blaze in a Bangkok pub early on July 13. The fire started while a musician was performing - he reported seeing smoke coming out of a circuit breaker before hearing an explosion.",
-          "url": "https://www.france24.com/en/at-least-27-people-killed-in-fire-at-bangkok-pub"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Israel to hold elections on 27 October in what is seen as referendum on Netanyahu leadership",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Israel to hold elections on 27 October in what is seen as referendum on Netanyahu leadership",
-          "excerpt": "Israel will hold national elections on 27 October, the last date allowed by law to hold national elections. The Knesset is set to end its current term on 17 July. Israel's parliament has said the country will hold national elections on 27 October, the last date allowed by law.…",
-          "url": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Israel sets October 27 election widely seen as referendum on Netanyahu's leadership",
-          "excerpt": "Israel sets October 27 election widely seen as referendum on Netanyahu's leadership Israel's parliament on Sunday said it had set the country's national elections for October 27, the latest date permitted by law, which will allow the ruling coalition to complete a full four-term.…",
-          "url": "https://www.france24.com/en/middle-east/20260713-israel-october-27-election-netanyahu-gaza-war"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Germany’s Smag Sinks in Debut as Defense Stock Appetite Ebbs",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Germany’s Smag Sinks in Debut as Defense Stock Appetite Ebbs",
-          "excerpt": "Smag Mobile Antenna Masts AG shares tumbled as much as 33% below the initial public offering price in their German trading debut, marking the latest sign of waning demand for defense stocks in Europe.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/antenna-maker-smag-sinks-in-debut-as-defense-stock-appetite-ebbs"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Germany’s Smag Sinks in Debut as Defense Stock Appetite Ebbs",
-          "excerpt": "Smag Mobile Antenna Masts AG shares tumbled as much as 33% below the initial public offering price in their German trading debut, marking the latest sign of waning demand for defense stocks in Europe.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/antenna-maker-smag-sinks-in-debut-as-defense-stock-appetite-ebbs"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Chip Selloff Hits Stocks as Oil Gains Lift Yields: Markets Wrap",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Chip Selloff Hits Stocks as Oil Gains Lift Yields: Markets Wrap",
-          "excerpt": "A selloff in South Korean chipmakers drove global technology stocks lower, while oil and bond yields climbed after the weekend’s round of strikes and counterattacks in the Middle East.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Tech stocks skid, bond yields rise as Gulf conflict sends oil surging",
-          "excerpt": "By Stefano Rebaudo and Wayne Cole July 13 (Reuters) - Tech stocks fell sharply and government bond yields rose on Monday as investors grappled with concerns over a fresh escalation in the Middle East conflict and valuations in AI-related shares. U.S. and Iranian forces renewed exchanges of heavy missile and drone assaults, with Tehran saying it had again closed the vital Strait of Hormuz.…",
-          "url": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-jumps-002452563.html"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "US Cost for Gas Power at 17-Year High and Climbing, Lazard Says",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "US Cost for Gas Power at 17-Year High and Climbing, Lazard Says",
-          "excerpt": "The cost of power from natural gas-fired plants in the US hit the highest level in at least 17 years, and is poised to climb even higher as demand surges from new data centers.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/us-cost-for-gas-power-at-17-year-high-and-climbing-lazard-says"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Lazard Report Finds Renewables Still Lead on Cost as Power Demand Soars",
-          "excerpt": "Lazard said renewable energy remains the lowest-cost option for new power generation despite inflationary pressures, tariffs, and supply chain constraints pushing up costs across virtually every generation technology, according to the firm's 2026 Levelized Cost of Energy+ (LCOE+) report released Monday.…",
-          "url": "https://finance.yahoo.com/energy/articles/lazard-report-finds-renewables-still-112942786.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ukraine’s drone swarms test Moscow air defences",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Ukraine’s drone swarms test Moscow air defences",
-          "excerpt": "Kyiv intensifies deep-strike campaign against Russia after attacks on refineries sparked fuel crisis",
-          "url": "https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Gas queues grow as Ukraine targets Russia's fuel supply",
-          "excerpt": "Gas queues grow as Ukraine targets Russia's fuel supply July 12, 2026Drivers across Russia are waiting for hours to fill up at gas stations — and, in some regions, for days. As fuel shortages worsen, people are driving across entire cities in search of gas stations that are still open, spending the night in their cars and waiting for their chance to refuel.…",
-          "url": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
-          "excerpt": "Trump claims the US will control strait of Hormuz and get paid for it President Donald Trump said on Monday that the United States would probably take over the strait of Hormuz and should be reimbursed for controlling the vital waterway. “We’re going to keep the strait, and we’ll probably run it. We’ll become the guardian of the strait. ‘Maybe we’ll call it the guardian angel of the strait.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Iran says diplomacy continues despite ongoing attacks",
-          "excerpt": "U.S.-Iran Latest: Tehran says diplomacy continues amid ongoing attacks over control of Strait of Hormuz What to know about the Iran war today: - Iran claimed attacks Monday on Persian Gulf countries that host U.S. military bases after another round of U.S. strikes the previous evening, as renewed fighting over control of the Strait of Hormuz continued into a second week. - U.S.…",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Jannik Sinner retains Wimbledon title after victory over Alexander Zverev",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Jannik Sinner retains Wimbledon title after victory over Alexander Zverev",
-          "excerpt": "Jannik Sinner retains his crown. The 24-year-old Italian won the Wimbledon title for the second consecutive year after defeating Germany’s Alexander Zverev in four sets. It is Sinner’s fifth Grand Slam title, his first of the year, further strengthening his position as world No. 1.",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260713-jannik-sinner-retains-wimbledon-title-after-victory-over-alexander-zverev"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Sinner beats Zverev to retain Wimbledon title",
-          "excerpt": "Sinner beats Zverev to retain Wimbledon title July 12, 2026Italian top seed Jannik Sinner retained his Wimbledon men's singles title on Sunday, after rallying from a set down to beat Germany's second seed Alexander Zverev. The victory represents a fifth Grand Slam title for 24-year-old Sinner.…",
-          "url": "https://www.dw.com/en/sinner-beats-zverev-to-retain-wimbledon-title/a-77926065?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
-          "excerpt": "Prediction market platform Kalshi is launching a product for its highly active traders on Monday, the company told CNBC. Kalshi Pro, now available to the public, is designed for speculators who trade multiple markets at the same time and or move with speed during live events, according to a memo provided to CNBC.…",
-          "url": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Kalshi is launching a pro trading terminal for its most active prediction market traders",
-          "excerpt": "Kalshi launched a professional trading terminal on Monday aimed at its most active users, the company told CNBC. Designed for traders who juggle multiple markets, react quickly to live events, or use resting orders — limit-style trades that execute only once a target price is hit — Kalshi Pro is now publicly accessible, though it remains in beta, the company said.…",
-          "url": "https://qz.com/kalshi-pro-trading-terminal-prediction-markets-071326"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Wildfire of \"exceptional scale\" burning near Paris",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Wildfire of \"exceptional scale\" burning near Paris",
-          "excerpt": "Wildfire of \"exceptional scale\" burning near Paris Two firefighting planes were deployed to the Paris region Sunday after a large fire erupted south of the French capital, disrupting traffic during a busy summer travel weekend and piling more misery on a region sweltering through its latest heatwave.…",
-          "url": "https://www.cbsnews.com/news/wildfire-fire-paris-heat-wave/"
+          "headline": "Photos: Wildfires ravage historic forest near Paris",
+          "excerpt": "In Pictures Photos: Wildfires ravage historic forest near Paris Wildfires near Paris scorch 1,300 hectares as France endures its third heatwave in three months. France has been battling two wildfires that have scorched more than 1,300 hectares (about 3,200 acres) of forest south of Paris.…",
+          "url": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss"
         },
         {
           "source": "Sky News",
@@ -915,86 +299,814 @@
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "Musk and Altman are trading barbs on X as Apple's OpenAI lawsuit heats up their rivalry",
-      "coverage": 2,
+      "category": "🌍 World",
+      "headline_en": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+      "coverage": 4,
       "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Musk and Altman are trading barbs on X as Apple's OpenAI lawsuit heats up their rivalry",
-          "excerpt": "Elon Musk and Sam Altman spent part of their weekend exchanging public insults on X $TWTR after Apple $AAPL sued OpenAI on Friday over alleged trade secret theft, reigniting one of tech's most public executive rivalries. The lawsuit gave Musk, who helms SpaceX and its xAI unit, fresh ammunition to dust off his long-standing \"Scam Altman\" nickname for the OpenAI chief.…",
-          "url": "https://qz.com/musk-altman-x-feud-apple-openai-lawsuit-071326"
-        },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-          "excerpt": "Elon Musk and Sam Altman criticized each other in new posts on X, highlighting the billionaires' long-standing tussle over OpenAI's evolution. Musk and Altman helped to start OpenAI in 2015 as a nonprofit artificial intelligence research lab alongside a band of engineers and scientists.…",
-          "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Four lessons in handling uncertainty from an ER doc turned CEO",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Four lessons in handling uncertainty from an ER doc turned CEO",
-          "excerpt": "Hello and welcome to Modern CEO ! I’m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations with executives and entrepreneurs, and from the pages of&nbsp; Inc. &nbsp;and&nbsp; Fast Company .…",
-          "url": "https://www.fastcompany.com/91571829/four-lessons-in-handling-uncertainty-from-an-er-doc-turned-ceo"
+          "headline": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+          "excerpt": "A Florida federal judge in a scathing order Monday said President Donald Trump filed a $10 billion lawsuit against the Internal Revenue Service \"for an improper purpose\" — to gain the appearance of \"judicial legitimacy for a 'settlement' that had no viable basis in law or fact.\" That controversial out-of-court settlement with the IRS and Department of Justice in May briefly led the DOJ to create a…",
+          "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html"
         },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "4 Lessons in Handling Stress and Uncertainty From an ER Doctor-Turned CEO",
-          "excerpt": "Advice on dealing with the unknowable from John D’Angelo, CEO of Northwell Health and former emergency medicine physician",
-          "url": "https://www.inc.com/stephanie-mehta/4-lessons-in-handling-stress-and-uncertainty-from-an-er-doctor-turned-ceo/91372204"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Video: Massive Bison Attacks Tourist at Yellowstone National Park",
-      "coverage": 2,
-      "perspectives": [
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Video: Massive Bison Attacks Tourist at Yellowstone National Park",
-          "excerpt": "King Charles Hosts Harry and Family For First Time in 4 Years 01:30 Protesters Rally for Answers in Nolan Wells’ Death After Boat Trip 02:24 Sam Neill, Actor Known For ‘Jurassic Park,’ Dies at 78 02:22 Now Playing Video: Massive Bison Attacks Tourist at Yellowstone National Park 02:11 UP NEXT Intense Storms Batter the South as Heat Dome Builds in the West 03:22 US and Iran Trade Strikes as Ceasefi…",
-          "url": "https://www.today.com/video/bison-attack-at-yellowstone-national-park-caught-on-camera-266580549716"
+          "headline": "Judge says Trump admin tried to ‘manipulate the judicial process’ with its IRS settlement",
+          "excerpt": "President Donald Trump’s lawsuit against the IRS was brought in “bad faith” for an “improper purpose,” a federal judge in Florida found as she slapped sanctions on some of those involved. U.S.…",
+          "url": "https://www.nbcnews.com/politics/donald-trump/judge-says-trump-administration-attempted-manipulate-judicial-process-rcna587321"
         },
         {
-          "source": "ABC News",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "WATCH:  Bison attacks tourist at Yellowstone Park",
-          "excerpt": "Bison attacks tourist at Yellowstone Park A grandfather out on a walk with his grandson was attacked by a charging bison and thrown at least eight feet into the air in Yellowstone National Park.…",
-          "url": "https://abcnews.com/video/134701536/"
+          "headline": "Judge rebukes Trump and DOJ over IRS lawsuit, refers lawyer for disciplinary proceedings",
+          "excerpt": "Judge rebukes Trump and DOJ over IRS lawsuit, refers lawyer for disciplinary proceedings A federal judge on Monday imposed professional penalties against lawyers representing President Trump in a civil lawsuit he brought against the IRS and harshly criticized the Justice Department for its handling of the case, concluding that the suit was brought for an \"improper purpose.\" CBS News legal contribu…",
+          "url": "https://www.cbsnews.com/video/judge-rebukes-trump-and-doj-over-irs-lawsuit-refers-lawyer-for-disciplinary-proceedings/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "US judge voids Trump's 'improper' $1.8 billion settlement with IRS",
+          "excerpt": "A US judge on Monday voided a settlement between President Donald Trump and the Internal Revenue Service over his leaked tax returns, ruling the lawsuit was filed for an \"improper purpose\". The agreement had granted Trump, his family and business broad protections from tax audits following their $10 billion lawsuit.",
+          "url": "https://www.france24.com/en/americas/20260713-us-judge-voids-trump-irs-settlement-taxes"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Waze rolls out new AI features including Motorcycle and 'Less Chatty' modes",
+      "headline_en": "Siri AI Is Becoming Apple’s Everything Tool",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "Siri AI Is Becoming Apple’s Everything Tool",
+          "excerpt": "The latest version of Apple’s smartphone software, iOS 27, is available for iPhone owners as a public beta. It’s the first time Apple’s long-promised revamped version of Siri is available to the general public.…",
+          "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Apple’s public betas for iOS 27 and more are out now",
+          "excerpt": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works — which is big praise! — though it keeps things brief. Apple’s public betas for iOS 27 and more are out now The betas let you try the new Siri before Apple’s wider launch this fall.…",
+          "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
+          "excerpt": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available Try the new Siri AI and system-wide performance improvements. Adventurous early adopters, your moment has arrived: the first public betas of Apple's 2027 software updates are here. Previews of iOS 27, iPadOS 27, macOS 27 Golden Gate and watchOS 27 are now available to be installed directly on your device.…",
+          "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Apple iOS 27 Release Date: How To Download 1st iPhone Public Beta — Starting Now",
+          "excerpt": "July 13 update: this post, first published on July 11 was updated as the first public beta is now here. Here’s what is in it, whether you should download it and what it means for the software’s general release, and that of the iPhone 18 Pro. Apple announced the next-generation of iPhone software, iOS 27, at its Wordwide Developers Conference in June.…",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/07/13/apple-ios-27-release-date-when-you-can-install-iphones-new-software---public-beta-near/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+          "excerpt": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport - Published Yemen's Houthis said they launched missiles at Abha airport in south-western Saudi Arabia on Monday in response to air strikes on Sanaa's airport that they blamed on the kingdom.…",
+          "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
+          "excerpt": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport Yemen’s Houthis say they struck Saudi Arabia’s Abha airport with missiles and drones in retaliation for a strike on Sanaa’s international airport.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Scoop: Trump gave Saudi crown prince his backing for risky strikes on Houthis",
+          "excerpt": "President Trump gave Saudi Crown Prince Mohammed Bin Salman (MBS) his support for a highly unusual military action against the Iran-backed Houthis in Yemen, according to U.S. officials. Why it matters: The Saudi strike on the Sanaa airport Monday and Houthi retaliatory missile attacks that followed were the most serious cross-border escalation since 2022.…",
+          "url": "https://www.axios.com/2026/07/13/trump-bin-salman-houthis-yemen"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Houthis launch missiles at Saudi Arabia, in retaliation for Sanaa airport strikes",
+          "excerpt": "Clashes have resumed in Yemen, with Houthis rebels blaming Saudi Arabia and the country's internationally recognised government for strikes on Sanaa Airport. The hits were designed to prevent an Iranian plane, carrying a Houthis delegation, from landing. Story by Ellen Gainsford.",
+          "url": "https://www.france24.com/en/houthis-launch-missiles-at-saudi-arabia-in-retaliation-for-sanaa-airport-strikes"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Polymarket Partners With Crypto Firm During World Cup Semifinals",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Polymarket Partners With Crypto Firm During World Cup Semifinals",
+          "excerpt": "Crypto brokerage Blockchain.com Group Holdings Inc. has partnered with Polymarket to offer prediction markets to its users in time for the World Cup semifinals.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/polymarket-partners-with-crypto-firm-during-world-cup-semifinals"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "The star-studded World Cup semifinals kick off with France vs. Spain",
+          "excerpt": "The expanded World Cup allowed FIFA to introduce a new seeding system that placed the world's top teams in opposite corners of the knockout bracket. Now, the semifinals are both heavyweight matchups.",
+          "url": "https://www.npr.org/2026/07/14/nx-s1-5891860/2026-world-cup-fifa-spain-france-argentina-england-semifinals"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "France and Spain prepare to face off in World Cup semi-final clash",
+          "excerpt": "France and Spain prepare to face off in World Cup semi-final clash Two World Cup favourites will go head-to-head in the first semi-final of the 2026 competition on Tuesday as Les Bleus' star-studded line-up meets Spain's technically accomplished La Roja. France's exciting attack led by Kylian Mbappé take on a technically accomplished Spain team in the first semi-final of the World Cup on Tuesday.…",
+          "url": "https://www.france24.com/en/sport/20260713-france-and-spain-prepare-to-duel-in-world-cup-semi-final-clash"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Birthday present for Spain’s Yamal? World Cup semifinal win over France",
+          "excerpt": "Birthday present for Spain’s Yamal? World Cup semifinal win over France Yamal wants to celebrate his 19th birthday by taking Spain to the World Cup final in New York. Lamine Yamal insists he would take no fear into Spain’s World Cup semifinal against France when both sides meet after he celebrated his 19th birthday.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/14/birthday-present-for-spains-yamal-world-cup-semifinal-win-over-france?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Colombian national killed by ICE agent during operation in Maine",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Colombian national killed by ICE agent during operation in Maine",
+          "excerpt": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
+          "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "7/13: CBS Evening News",
+          "excerpt": "Latest U.S. Iran War ICE Shooting World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia…",
+          "url": "https://www.cbsnews.com/video/071326-cbs-evening-news/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Lindsey Graham's sister appointed to his Senate seat",
+          "excerpt": "Darline Graham Nordone, the sister of late Sen. Lindsey Graham (R-S.C.), will finish out Graham's term , South Carolina Gov. Henry McMaster announced Monday. Why it matters: Nordone will serve until Jan. 3, 2027, unless she chooses to run and wins the open Senate seat in November.…",
+          "url": "https://www.axios.com/2026/07/13/lindsey-graham-senate-replacement-darline-nordone"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Adweek",
+          "lang": "en",
+          "headline": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
+          "excerpt": "As the U.S., Canada, and Mexico each play host to the 2026 FIFA World Cup, brands are scoring on and off the pitch. Six billion people are projected to watch 48 teams compete across 104 matches. A further five million will watch in person at stadiums in cities including New York, Texas, Mexico City, and Toronto. The U.S.…",
+          "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts",
+          "excerpt": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men’s World Cup champion.…",
+          "url": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  World Cup Final Four set",
+          "excerpt": "World Cup Final Four set For the first time in World Cup history, the top four teams in FIFA's rankings have made the semi-finals. July 13, 2026 Additional Live Streams Additional Live Streams Top Stories Top Stories - Pres.…",
+          "url": "https://abcnews.com/video/134714778/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "France hopes to send ‘strategic signal’ about Europe’s renewed military focus at Bastille Day celebrations – Europe live",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "France hopes to send ‘strategic signal’ about Europe’s renewed military focus at Bastille Day celebrations – Europe live",
+          "excerpt": "Over 300 vehicles and 6,500 soldiers will march down the iconic Champs-Élysées in central Paris this morning as part of today’s Bastille Day celebration in Paris, which is set to “send a strategic signal” about France and Europe’s military awakening.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/14/france-bastille-day-emmanuel-macron-volodymyr-zelenskyy-germany-brussels-eu-albania-moldova-montenegro-latest-news-updates"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "France's Bastille Day parade showcases European support for Ukraine",
+          "excerpt": "France's annual July 14 military parade this year featured aircraft from 11 European countries and around 500 troops from Coalition of the Willing allies that have pledged to help with Ukraine’s post-war security in a showcase of support for Kyiv. The event marked President Emmanuel Macron’s last Bastille Day parade in his role.",
+          "url": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Bastille Day: France holds parade with Ukraine in focus",
+          "excerpt": "Bastille Day: France holds parade with Ukraine in focus July 14, 2026France on Tuesday is celebrating Bastille Day with a special show of solidarity with Ukraine. A massive parade is being held in Paris in front of French President Emmanuel Macron and other high-level guests in Paris.…",
+          "url": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Your cheat sheet to the teams headed to the World Cup semi-finals",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Your cheat sheet to the teams headed to the World Cup semi-finals",
+          "excerpt": "We're at the final stretch of the World Cup. It feels like just yesterday, international fans were arriving in the U.S. and marveling at Buc-ee's and unlimited free soda.",
+          "url": "https://www.npr.org/2026/07/14/g-s1-133337/world-cup-final-france-england-spain-argentina"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Breaking down the World Cup semi-final matches",
+          "excerpt": "Breaking down the World Cup semi-final matches The World Cup is down to its final four teams with France taking on Spain in the first semi-final on Tuesday and England going up against Argentina on Wednesday. Lukas Weese, staff writer for the Athletic, joins CBS News to discuss.",
+          "url": "https://www.cbsnews.com/video/breaking-down-the-world-cup-semi-final-matches/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "World Cup 2026: France aim for third consecutive final against Spain",
+          "excerpt": "The French team are taking on Spain in Dallas in the World Cup semi-final. Les Bleus are hoping to become the second nation to reach three consecutive World Cup finals.",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260714-world-cup-2026-france-aim-third-consecutive-final-against-spain"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Hungary parliament votes to remove president from office",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Hungary parliament votes to remove president from office",
+          "excerpt": "Hungary parliament votes to remove president from office - Published The Hungarian parliament has voted to remove President TamÃ¡s Sulyok from office, who was widely seen as a loyalist of former prime minister Viktor OrbÃ¡n who lost power in April after 16 years.…",
+          "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Hungary’s parliament votes to oust president in latest anti-Orban move",
+          "excerpt": "Hungary’s parliament votes to oust president in latest anti-Orban move Hungarian parliament passes amendment that would remove President Sulyok, appointed under ex-Prime Minister Viktor Orban.…",
+          "url": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Hungary: Lawmakers pass law to oust Orban ally president",
+          "excerpt": "Hungary: Lawmakers pass law to oust Orban ally president July 13, 2026The Hungarian parliament passed a constitutional amendment to oust President Tamas Sulyok. This comes asHungary's newly-voted Prime Minister Peter Magyar continues his push to dismantle the system and influence established by his predecessor, nationalist leader Viktor Orban.…",
+          "url": "https://www.dw.com/en/hungary-lawmakers-pass-law-to-oust-orban-ally-president/a-77941734?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "ICE-involved shooting leaves one person dead in Maine",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "ICE-involved shooting leaves one person dead in Maine",
+          "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser. - Now Playing - ICE-involved shooting leaves one person dead in Maine01:54 - UP NEXT - Bull bison charges Yellowstone tourist, flipping him into the air01:28 - Dozens killed following Bangkok bar fire01:30 - U.S.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/ice-involved-shooting-leaves-one-person-dead-in-maine-266627141692"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "'Alarming and Frightening': ICE Officers Involved in Fatal Shooting in Maine",
+          "excerpt": "A man died in a shooting involving Immigration and Customs Enforcement (ICE) officers in Biddeford, Maine, on Monday, the latest incident of deadly violence involving federal agents enforcing President Donald Trump’s anti-immigration agenda.…",
+          "url": "https://time.com/article/2026/07/13/ice-officers-involved-in-fatal-shooting-in-maine/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Person killed in ICE-involved shooting in Maine",
+          "excerpt": "Person killed in ICE-involved shooting in Maine July 13, 2026One person was killed in a shooting involving United States immigration agents in Maine, the state's top lawmaker said. \"This morning a shooting occurred in Biddeford. A person was killed. ICE was involved,\" House Speaker Ryan Fecteau wrote on Facebook.…",
+          "url": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+          "excerpt": "Health fears as frail Indian activist on hunger strike loses 8.2kg - Published \"I'm weak from the outside, but I'm strong from inside.\" That's what a frail-looking Sonam Wangchuk, who has been on a protest hunger strike in the Indian capital, Delhi, for the past 16 days, told the BBC on Monday.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Indian Activist’s Health Worsens in Hunger Strike for Students",
+          "excerpt": "The health of a well-known Indian activist is deteriorating more than two weeks into his hunger strike over exam paper leaks, putting pressure on the government to respond to one of the country’s most prominent youth-driven protests in years.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/indian-activist-s-health-worsens-in-hunger-strike-for-students"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "India news: Sonam Wangchuk's hunger strike tests Modi",
+          "excerpt": "India news: Sonam Wangchuk's hunger strike tests Modi Published July 14, 2026last updated July 14, 2026What you need to know - Cockroach party warns activist Sonam Wangchuk's health deteriorating amid indefinite hunger strike - Wangchuk says won't end fast until government agrees to dialogue - One Indian killed, others injured in Iran strike on UAE tankers in Strait of Hormuz - India foreign minis…",
+          "url": "https://www.dw.com/en/india-news-sonam-wangchuk-s-hunger-strike-tests-modi/live-77944096?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
+          "excerpt": "China's trade growth accelerated far more than expected in June, as booming global demand for AI hardware and a rush by exporters to beat anticipated U.S. tariff hikes turbocharged shipments. Overall exports rose 27% from a year earlier in U.S.…",
+          "url": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "China's June exports surge 27% from a year earlier as AI boom drives strong demand",
+          "excerpt": "China’s exports accelerated in June, jumping 27% from a year earlier thanks partly to the boom in artificial intelligence, the customs agency said on Tuesday. The increase in exports in June was much better than economists had expected. Exports rose 19.4% year-on-year in May.…",
+          "url": "http://www.euronews.com/business/2026/07/14/chinas-june-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "China's exports ride AI boom as domestic economy struggles",
+          "excerpt": "BEIJING, July 14 (Reuters) - China's exports surged in June, buoyed by orders for chips to fuel the global AI boom and automobiles, deepening producers' reliance on overseas buyers as policymakers in the world's No. 2 economy continue to grapple with how to boost demand at home.…",
+          "url": "https://finance.yahoo.com/economy/articles/chinas-june-trade-tops-forecasts-025658981.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Leaders give press conference after ‘coalition of the willing’ meeting in Paris – as it happened",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Leaders give press conference after ‘coalition of the willing’ meeting in Paris – as it happened",
+          "excerpt": "Leaders arrive for Ukraine talks in Paris Let’s bring you more pictures from the red carpet in Paris, as leaders arrive for the meeting of the Coalition of the Willing, hosted by France’s Emmanuel Macron.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Kyiv claims drone attacks on 11 Russian tankers in Sea of Azov",
+          "excerpt": "Kyiv claims drone attacks on 11 Russian tankers in Sea of Azov Ukrainian drones hit several Russian vessels in the Sea of Azov overnight on Tuesday, Kyiv's drone forces commander said, as the Kremlin denied that repeated Ukrainian attacks on the major export route would impact Russia's export capacity.…",
+          "url": "https://www.france24.com/en/europe/20260714-kyiv-claims-drone-attacks-11-russian-tankers-in-sea-of-azov"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+          "excerpt": "Ukrainian drone strikes have forced Russia to completely halt shipping in the Sea of Azov in less than a week—showing once again how a country without traditional naval power can still effectively blockade maritime corridors.…",
+          "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Turn Your Rising Home Equity Into Cash You Can Use",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNN World",
+          "lang": "en",
+          "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+          "excerpt": "Are you still interested in seeing your free loan offers? You're almost there! You're just minutes away from seeing great offers, absolutely FREE! Click to Continue Terms & conditions apply. NMLS#1136 Donât leave yet! You only have a few more quick questions. Continue to See Quotes You're just a few steps away from creating your account, your information is safe with us.…",
+          "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "HELOC and home equity loan rates today, Tuesday, July 14, 2026: Besides rates, how to choose between a HELOC or HEL",
+          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. If you're not able to move to a new home or refinance to take advantage of the equity you have built up in your home, you're likely considering a home equity loan or a home equity line of credit.…",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-14-2026-besides-rates-how-to-choose-between-a-heloc-or-hel-100000072.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "NYT Connections Hints And Answers: Tuesday, July 14",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "NYT Connections Hints And Answers: Tuesday, July 14",
+          "excerpt": "Not the Connections game you’re looking for? Here are the hints and solution for Monday’s game and an explanation of the answers. If you want to hang out with a lovely bunch of folks and chat about NYT Connections, other daily puzzle games and even the World Cup, join our Discord community! Hey there, Connectors! I hope your week is off to a great start! I’m a big proponent of Wikipedia.…",
+          "url": "https://www.forbes.com/sites/krisholt/2026/07/13/nyt-connections-hints-and-answers-tuesday-july-14/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Best CD rates today, Tuesday, July 14, 2026: Lock in up to 4.10% APY today",
+          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. Deposit account rates are on the decline — but the good news is you can lock in a competitive return on a certificate of deposit (CD) today and preserve your earning power. In fact, the best CDs still pay rates of 4% or higher.…",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-14-2026-lock-in-up-to-410-apy-today-100000616.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap",
+          "excerpt": "US stocks steadied as traders refrained from making big bets ahead of a jam-packed day that will see the unofficial start of the earnings season, along with testimony from Fed Chair Kevin Warsh and US inflation data.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as traders lift Fed rate hike bets ahead of key inflation data",
+          "excerpt": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as traders lift Fed rate hike bets ahead of key inflation data US stock futures wavered on Tuesday morning as markets awaited a key consumer inflation report, recalibrated bets on the AI trade, and monitored rising oil prices amid the renewed US-Iran war.…",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "WATCH:  The latest on Yellowstone bison launching man 8 feet in air",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  The latest on Yellowstone bison launching man 8 feet in air",
+          "excerpt": "The latest on Yellowstone bison launching man 8 feet in air ABC News' Trevor Ault and Jennifer Barfield, the scientific lead for the Laramie Foothills Bison Conservation Herd, share how the man is doing and what to do when encountering a wild animal. July 13, 2026 Additional Live Streams Additional Live Streams Top Stories Top Stories - Pres.…",
+          "url": "https://abcnews.com/video/134726340/"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Bison tosses man 8 feet in the air at Yellowstone, video shows",
+          "excerpt": "Bison tosses man 8 feet in the air at Yellowstone National Park, video shows A man was seriously injured after being tossed 8 feet into the air by a bull bison in Yellowstone National Park, video shows. The animal, clearly agitated, appeared to target the man in footage captured Friday at one of the park's campgrounds.…",
+          "url": "https://www.cbsnews.com/news/bison-tosses-man-air-yellowstone-video/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Memory chip stocks down again today: Why SK Hynix shares are tumbling after its record-breaking IPO",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Memory chip stocks down again today: Why SK Hynix shares are tumbling after its record-breaking IPO",
+          "excerpt": "Shares in memory chip companies slumped across U.S. markets Monday, in a further sign of investor concerns over how much road is left for the AI stock market boom. SK Hynix’s American depository shares were down 8.9% by midday Monday, just days after its&nbsp; blockbuster stock market debut &nbsp;last week, the largest ever U.S. IPO by a foreign company.…",
+          "url": "https://www.fastcompany.com/91572597/sk-hynix-micron-sandisk-skhy-mu-sndk-stock-memory-chip-shares-down-today"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "SK Hynix stock plunged over 15% in Seoul after its blockbuster Nasdaq debut",
+          "excerpt": "SK Hynix stock fell 15.4% in Seoul on Monday, its largest single-day decline on record, as investors sold out of positions following the chipmaker's blockbuster Nasdaq $NDAQ debut last week. A 20-minute market-wide trading halt was triggered after the broader Kospi index shed 9% on the same session, according to Bloomberg.…",
+          "url": "https://qz.com/sk-hynix-stock-record-drop-nasdaq-debut-071326"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "iCloud+ vs. Apple One: Which is worth it for you?",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "Waze rolls out new AI features including Motorcycle and 'Less Chatty' modes",
-          "excerpt": "Waze rolls out new AI features including Motorcycle and 'Less Chatty' modes Like Google Maps, Waze is going all-in on Gemini. Waze, Google's other navigation app, is getting a collection of new AI-powered features that make it easier to navigate on a motorcycle and less annoying to receive directions.…",
-          "url": "https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/"
+          "headline": "iCloud+ vs. Apple One: Which is worth it for you?",
+          "excerpt": "iCloud+ vs. Apple One: Which is worth it for you? They both offer expanded storage, but there's more. \"Your iCloud storage is almost full.\" You've probably received an email with those words at one time or another if you've used the same Apple account across several devices or if you've been an Apple user for years.…",
+          "url": "https://www.engadget.com/2209865/icloud-plus-vs-apple-one/"
         },
         {
-          "source": "The Verge",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Waze is getting a bunch of new AI-powered features",
-          "excerpt": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Waze is getting a bunch of new AI-powered features The driving app is getting help from Google’s flagship AI assistant. The driving app is getting help from Google’s flagship AI assistant.…",
-          "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty"
+          "headline": "WATCH:  Adult children moving back home to save money",
+          "excerpt": "Adult children moving back home to save money \"GMA\" looks at the growing trend of adult children moving back home as families save money, share household expenses and help each other with chores. July 13, 2026 Additional Live Streams Additional Live Streams Top Stories Top Stories - Pres.…",
+          "url": "https://abcnews.com/video/134709706/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Prime Data Centers Delays Sale of $500 Million Nordic Bond",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Prime Data Centers Delays Sale of $500 Million Nordic Bond",
+          "excerpt": "Data-center operator Prime Data Centers LLC has postponed a planned bond sale, in a sign of the limits of investor demand for AI exposure.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-13/prime-data-centers-delays-planned-500-million-nordic-bond-sale"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "AI data centers are rising across America. Are you one of the workers building them?",
+          "excerpt": "Artificial intelligence is driving an unprecedented data center construction boom. Tech giants like Meta, Microsoft, Google, and Amazon are investing billions in new data centers across the US and around the world to power the next generation of AI technologies.…",
+          "url": "https://www.businessinsider.com/ai-data-center-worker-survey-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Olive Garden is bringing back its $100 unlimited pasta pass after a six-year break",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Olive Garden is bringing back its $100 unlimited pasta pass after a six-year break",
+          "excerpt": "Olive Garden announced Monday that its Never-Ending Pasta Pass will return for the first time since 2019, with 10,000 passes priced at $100 each going on sale Thursday, July 16, at 2 p.m. ET at PastaPass.com.…",
+          "url": "https://qz.com/olive-garden-never-ending-pasta-pass-returns-071326"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "After 7 Years, Olive Garden Is Bringing Back Its Most Coveted Deal. Only 10,000 People Will Get It",
+          "excerpt": "The chain’s Never-Ending Pasta Pass sold out in “milliseconds” in 2019.",
+          "url": "https://www.inc.com/amaya-nichole/olive-garden-brining-back-most-coveted-deal-only-10000-people-will-get-it/91373164"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Wall Street to report bumper quarter as dealmaking returns",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Wall Street to report bumper quarter as dealmaking returns",
+          "excerpt": "US banks live: Wall Street to report bumper quarter as dealmaking returns",
+          "url": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+          "excerpt": "Expectations are high that when banks start posting second-quarter results Tuesday, led by JPMorgan Chase and Bank of America, revenue from trading equities and fixed income will approach, or even exceed, the records set earlier this year. That's a key part of what veteran analyst Mike Mayo of Wells Fargo calls the \"sweet spot\" in the financial sector right now.…",
+          "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US military releases video of its latest strikes on Iran",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US military releases video of its latest strikes on Iran",
+          "excerpt": "US military releases video of its latest strikes on Iran US military releases video of its latest strikes on Iran US Central Command has released video showing its latest wave of attacks reportedly hitting Iran’s Bandar Abbas and the islands of Qeshm, Kish, and Abu Musa. The IRGC says it has retaliated by targeting Bahrain, Kuwait, and Jordan. Published On 14 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "US releases video of sea drone strike on Iranian naval base",
+          "excerpt": "Video. Video shows US sea drones attacking Iranian naval facility Copy/paste the link below: Copy/paste the article video embed link below: Updated: The US military has released video it says shows three Corsair unmanned surface vessels striking a ship maintenance facility and submarine at Iran's Bandar Abbas Naval Base on 12 July.…",
+          "url": "http://www.euronews.com/2026/07/14/us-releases-video-of-sea-drone-strike-on-iranian-naval-base"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+          "excerpt": "Sudan's paramilitary RSF chief sentenced to death over war crimes - Published A Sudanese court has sentenced the leader of the paramilitary Rapid Support Forces (RSF), Mohamed Hamdan Dagalo to death for war crimes, crimes against humanity and genocide over atrocities committed in the West Darfur region.…",
+          "url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Sudanese court sentences Hemedti to death in absentia",
+          "excerpt": "In Sudan, the courts have just sentenced General Hemetti, the commander of the Rapid Support Forces, to death in absentia. According to the court, he is responsible for war crimes, crimes against humanity and genocide, particularly in the West Darfur region. Details by regional FRANCE 24 correspondent, Bastien Renouil.",
+          "url": "https://www.france24.com/en/sudanese-court-sentences-hemedti-to-death-in-absentia"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Republican strategist on what he'll remember most about Lindsey Graham",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Republican strategist on what he'll remember most about Lindsey Graham",
+          "excerpt": "Republican strategist on what he'll remember most about Lindsey Graham Sen. Lindsey Graham is being remembered for his wit and political effectiveness after his sudden death over the weekend. Republican strategist Matt Whitlock joins CBS News to discuss.",
+          "url": "https://www.cbsnews.com/video/republican-strategist-on-what-hell-remember-most-about-lindsey-graham/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Sen. Lindsey Graham's death elicits bipartisan outpouring of condolences",
+          "excerpt": "Sen. Lindsey Graham's death elicits bipartisan outpouring of condolences Trump called Graham \"one of the greatest people and Senators I have ever known.\" The sudden death of Sen. Lindsey Graham prompted condolences from President Donald Trump, world leaders, and a bipartisan list of the influential veteran South Carolina lawmaker's congressional colleagues.…",
+          "url": "https://abcnews.com/Politics/sen-lindsey-grahams-death-prompts-bipartisan-outpouring-condolences/story?id=134693549"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Flock is falling out of favor with police departments",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Flock is falling out of favor with police departments",
+          "excerpt": "Flock Safety is hitting a rough patch with one of its biggest customers. The Los Angeles Police Department let its deal with the surveillance company expire over the past weekend, a spokesperson of the department told Business Insider on Monday.…",
+          "url": "https://www.businessinsider.com/flock-safety-cameras-police-departments-lapd-2026-7"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+          "excerpt": "The Los Angeles Police Department (LAPD) is reportedly ending its deal with Flock Safety, a surveillance company that helps law enforcement track vehicles using thousands of its license plate cameras placed across the United States.…",
+          "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
+          "excerpt": "President Donald Trump's plan to impose a 20% fee on cargo passing through the Strait of Hormuz is threatening the global oil surplus, especially if renewed fighting shuts the key waterway again.…",
+          "url": "https://www.cnbc.com/2026/07/14/trumps-hormuz-toll-plans-bring-oil-supply-risks-back-in-spotlight.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "World stocks dip as oil rises after Trump's Hormuz levy threat",
+          "excerpt": "By Nell Mackenzie and Gregor Stuart Hunter LONDON/SINGAPORE, July 14 (Reuters) - Stocks moved back into negative territory after yo-yoing between gains and losses as oil hit one-month highs on Tuesday after President Donald Trump said the U.S. was reinstating its blockade of Iranian shipping and would collect a 20% fee on the Strait of Hormuz cargo traffic.…",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-markets-choppy-threat-trump-012723429.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Walmart delivery workers say a new app feature is sending them running around stores — and wasting precious time",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Walmart delivery workers say a new app feature is sending them running around stores — and wasting precious time",
+          "excerpt": "A new feature in Walmart's Spark app is slowing the chain's delivery efforts, workers say. The Spark delivery workers told Business Insider that Walmart's app has changed a feature that helps them map out their trip around the store to pick up items.…",
+          "url": "https://www.businessinsider.com/walmart-app-changes-frustrates-spark-delivery-workers-2026-7"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Where Will Walmart Stock Be in 5 Years?",
+          "excerpt": "Walmart (NASDAQ: WMT) has quietly become one of the market's strongest large-cap performers over the past few years, rewarding investors who had long underestimated it. Lately, though, the run has cooled.…",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-walmart-stock-5-years-093700854.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
+          "excerpt": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
+          "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Oil hits four-week high as US-Iran conflict escalates",
+          "excerpt": "By Anushree Mukherjee July 14 (Reuters) - Oil prices rose on Tuesday to their highest in four weeks, as the U.S. reimposed a naval blockade of Iran and renewed attacks between Washington and Tehran heightened concerns over energy flows through the Strait of Hormuz. Brent crude futures were up $2.74, or 3.29%, at $86.04 per barrel at 0751 GMT, while U.S.…",
+          "url": "https://finance.yahoo.com/news/oil-climbs-one-month-high-010106262.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "US burrito giant Chipotle opening first outlet in Mexico",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US burrito giant Chipotle opening first outlet in Mexico",
+          "excerpt": "US burrito giant Chipotle opening first outlet in Mexico - Published Chipotle Mexican Grill is set to open its first restaurant in Mexico this week, testing its appeal in the country that inspired its menu. The chain, which has more than 4,100 outlets worldwide, said on Monday that the move is a \"significant milestone\" for the firm - known for its customisable burritos, tacos and bowls.…",
+          "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Chipotle is opening its first restaurant in Mexico",
+          "excerpt": "Fast casual chain Chipotle is set to open its first restaurant in Mexico this week, the company announced on Monday. The store will open on Thursday in San Pedro Garza García, Nuevo León, part of the Monterrey metropolitan area. Chipotle said the opening is part of the Mexican food chain's previously announced partnership with restaurant group Alsea.…",
+          "url": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Samsung Electronics denies report that it is exploring US listing",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Samsung Electronics denies report that it is exploring US listing",
+          "excerpt": "July 14 (Reuters) - Samsung Electronics denied on Tuesday a report that it was in the early stages of exploring a potential U.S. offering of American Depositary Receipts (ADRs). \"Samsung Electronics is not reviewing the possibility of issuing American Depositary Receipts,\" a Samsung spokesperson said in a statement.…",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-explores-potential-us-listing-073750137.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Samsung Is Said in Early Discussions on Potential US Listing",
+          "excerpt": "Samsung Electronics Co. is in the early stages of exploring a potential offering of American depositary receipts, according to people familiar with the matter.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/samsung-is-said-in-early-discussions-on-potential-us-share-sale"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+          "excerpt": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee.",
+          "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Maine Dems try to replace Platner: 'Grassroots energy ... needs to find a home'",
+          "excerpt": "As Maine Democrats scramble to replace Platner, party director says the 'grassroots energy … needs to find a home' The party faces uncharted waters since Platner withdrew from the race.…",
+          "url": "https://abcnews.com/Politics/maine-democrats-scramble-replace-platner-party-director-grassroots/story?id=134689504"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
+          "excerpt": "It took just hours after South Carolina senator Lindsey Graham’s death was announced for conspiracy theories to spread. Extremists, right-wing influencers, and political commentators have baselessly spent the weekend claiming that Russia, Israel, or Iran assassinated the 71-year-old.…",
+          "url": "https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Lindsey Graham's death prompts process to fill his Senate seat",
+          "excerpt": "Lindsey Graham's death prompts process to fill his Senate seat A special election will be held in the coming weeks, according to state law. South Carolina Sen. Lindsey Graham, who died Saturday at age 71, was up for reelection this year and won the state's Republican primary last month with almost 60% of the vote.…",
+          "url": "https://abcnews.com/Politics/lindsey-grahams-death-prompts-process-fill-senate-seat/story?id=134693556"
         }
       ]
     }
