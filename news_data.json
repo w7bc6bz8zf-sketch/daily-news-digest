@@ -1,181 +1,664 @@
 {
-  "collected_at": "2026-07-14T10:16:26.882957+00:00",
+  "collected_at": "2026-07-15T10:25:16.025913+00:00",
   "total_sources": 59,
-  "total_entries": 799,
+  "total_entries": 739,
   "story_count": 40,
   "stories": [
     {
-      "category": "🌍 World",
-      "headline_en": "Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran",
-      "coverage": 12,
+      "category": "💡 Tech & AI",
+      "headline_en": "New York Governor Signs First Statewide Data Center Moratorium",
+      "coverage": 7,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "Wired",
           "lang": "en",
-          "headline": "Oil Tops $86 a Barrel as Trump Reinstates Naval Blockade on Iran",
-          "excerpt": "Brent oil rose above $86 a barrel for the first time in a month, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and tensions rose after attacks on two tankers.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Trump renews Iran blockade and again threatens to take control of strait of Hormuz",
-          "excerpt": "US president declares waterway open and demands tariff as both sides engage in heavy drone and missile exchanges Middle East crisis live – latest updates Donald Trump has once again threatened to take control of the strait of Hormuz, as he announced the reimposition of a naval blockade on Iran and demanded a 20% tariff on all cargoes shipped through the key maritime passage.…",
-          "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz"
-        },
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Trump Is Taking a Page Out of Iran’s Playbook",
-          "excerpt": "Trump Is Taking a Page Out of Iran’s Playbook The White House vows to charge all commercial ships passing through the Strait of Hormuz. Welcome back to World Brief, where we’re looking at new U.S. plans for the Strait of Hormuz, Houthi allegations against Saudi Arabia, and the European Union cracking down on minors’ social media access.…",
-          "url": "https://foreignpolicy.com/2026/07/13/trump-strait-hormuz-tolls-shipping-us-blockade-iran/"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
-          "excerpt": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
-          "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Iran war: Trump reinstates US blockade of Strait of Hormuz",
-          "excerpt": "Iran war: Trump reinstates US blockade of Strait of Hormuz Published July 13, 2026last updated July 13, 2026What you need to know - US military conducts third consecutive night of strikes in Iran - President Donald Trump has said the United States is 'reinstating' a blockade on Iran - Trump says US would charge any other ships for passage through the Strait of Hormuz It was a roundup of DW's cover…",
-          "url": "https://www.dw.com/en/iran-war-trump-reinstates-us-blockade-of-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "12 states are suing to block Paramount's $110 billion Warner Bros. merger",
-      "coverage": 8,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "12 states are suing to block Paramount's $110 billion Warner Bros. merger",
-          "excerpt": "Twelve state attorneys general filed a lawsuit Monday seeking to block Paramount $PARA Skydance Corporation's $110 billion acquisition of Warner Bros. Discovery, alleging the deal would harm competition in film distribution and cable television and ultimately leave audiences paying higher prices for less content.…",
-          "url": "https://qz.com/state-attorneys-general-lawsuit-paramount-warner-bros-merger-071326"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "12 states sue to block merger between Paramount, Warner Bros. Discovery",
-          "excerpt": "12 states sue to block merger between Paramount, Warner Bros. Discovery A coalition of a dozen states on Monday sued to block Paramount Skydance's acquisition of Warner Bros. Discovery, posing a new challenge to the $110 billion deal that would unite two of the nation's largest media companies. Paramount Skydance is the parent company of CBS News. CBS News' Jo Ling Kent reports.",
-          "url": "https://www.cbsnews.com/video/12-states-sue-to-block-merger-between-paramount-warner-bros-discovery/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-          "excerpt": "A coalition of 12 state attorneys general is filing a lawsuit to block the merger of Paramount Skydance and Warner Bros. Discovery (WBD), alleging that the deal would harm movie theaters, basic cable distributors, and audiences.…",
-          "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US: 12 states challenge Paramount's buyout of Warner",
-          "excerpt": "US: 12 states challenge Paramount's buyout of Warner July 14, 2026A total of twelve US states have sued to block Paramount Skydance's $110 billion (€96.2 billion) acquisition of Warner Bros. Discovery — the largest-ever merger in Hollywood — arguing that the deal would hurt competition and raise prices in film and television.…",
-          "url": "https://www.dw.com/en/us-12-states-challenge-paramount-s-buyout-of-warner/a-77943078?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "State AGs sue to block the Paramount-Warner Bros. Discovery merger",
-          "excerpt": "A dozen state attorneys general filed an antitrust lawsuit to stop the Paramount / Warner Bros. Discovery merger.",
-          "url": "https://www.engadget.com/2213857/states-sue-to-block-paramount-warner-bros-discovery-merger/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "coverage": 8,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Lindsey Graham's sister chosen as replacement after senator's death",
-          "excerpt": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
-          "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
-          "excerpt": "South Carolina's governor says he is appointing Darline Graham to finish the term of her late brother. Top Republicans, including President Trump, have coalesced around the pick.",
-          "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham"
+          "headline": "New York Governor Signs First Statewide Data Center Moratorium",
+          "excerpt": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
+          "url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/"
         },
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "Lindsey Graham, longtime senator from South Carolina and Trump ally, dies at 71",
-          "excerpt": "Lindsey Graham, longtime senator from South Carolina and Trump ally, dies at 71 Graham died on Saturday after a \"brief and sudden\" illness, his office said. Lindsey Graham, a longtime Republican senator from South Carolina, who had become one of President Donald Trump's staunchest political allies, died on Saturday after a \"brief and sudden\" illness, his office said in a statement. He was 71.…",
-          "url": "https://abcnews.com/Politics/sen-lindsey-graham-south-carolina-dies-71/story?id=134688641"
+          "headline": "New York Gov. Kathy Hochul announces moratorium on data centers",
+          "excerpt": "New York Gov. Kathy Hochul announces moratorium on data centers New York Gov. Kathy Hochul is ordering a moratorium on AI data centers in her state. The governor announced the news in a press conference Tuesday morning in New York City, describing an immediate need to address the strain on resources posed by AI data centers.…",
+          "url": "https://abcnews.com/GMA/News/new-york-gov-kathy-hochul-sign-moratorium-data/story?id=134741027"
         },
         {
-          "source": "CNBC",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "South Carolina governor taps Lindsey Graham's sister to serve as interim senator",
-          "excerpt": "South Carolina Gov. Henry McMaster has tapped Darline Graham Nordone, the sister of late Republican Sen. Lindsey Graham, to fill her brother's Senate seat through the rest of the year. McMaster, a Republican, made the announcement Monday afternoon at a press conference at the South Carolina statehouse in which he reflected on Graham's life and service.…",
-          "url": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html"
+          "headline": "New York State halts construction of all new data centers",
+          "excerpt": "New York became the first state to halt data center construction after Gov. Kathy Hochul signed an executive order today that temporarily bars the state from approving new permits for large projects. Hochul’s order applies to data centers 50 megawatts or larger, potentially affecting more than a dozen projects.…",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
         },
         {
-          "source": "Time",
+          "source": "Fast Company",
           "lang": "en",
-          "headline": "Who Is Darline Graham Nordone? Lindsey Graham's Sister Appointed to Serve Out His Senate Term",
-          "excerpt": "South Carolina Gov. Henry McMaster has appointed Darline Graham Nordone to finish out the Senate term of her late brother, Sen. Lindsey Graham, who died on Saturday.…",
-          "url": "https://time.com/article/2026/07/13/darline-nordone-lindsey-graham-sister-south-carolina-senate-trump-mcmaster/"
+          "headline": "The data center backlash is spreading across the country",
+          "excerpt": "New York just became the first state to enact a one-year ban on large new data centers while the state government scrambles to develop regulations addressing challenges like energy demand and water use.…",
+          "url": "https://www.fastcompany.com/91573636/the-data-center-backlash-is-spreading-across-the-country"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "New York enacts first US ban on data center construction",
+          "excerpt": "New York enacts first US ban on data center construction Governor Kathy Hochul just signed an executive order barring the state from approving data centers using 50MW or more. New York has become the first US state to place a moratorium on the construction of data centers, The Washington Post reported.…",
+          "url": "https://www.engadget.com/2214456/new-york-kathy-hochul-data-center-ban/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "coverage": 6,
+      "headline_en": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "coverage": 5,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-          "excerpt": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78 - Published Tributes have been paid to actor Sam Neill, famed for his starring role in Jurassic Park, following his death at the age of 78. The news was announced by his family, external, who said his death in Sydney, Australia, was \"sudden and unexpected\".…",
-          "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
+          "headline": "Tyrannosaurus rex most expensive dinosaur ever sold",
+          "excerpt": "Tyrannosaurus rex most expensive dinosaur ever sold - Published A 67 million-year-old Tyrannosaurus rex has been sold for Â£37.4m ($50.1m) at a Sotheby's auction in New York - the most ever paid for a dinosaur.…",
+          "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
+          "excerpt": "A Tyrannosaurus rex fossil billed as one of the world's largest and most complete specimens was sold for a record $50.1 million Tuesday to a mystery bidder.",
+          "url": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "T. rex 'Gus' sells for record-breaking $50.1 million",
+          "excerpt": "T. rex 'Gus' sells for record-breaking $50.1 million July 14, 2026A Tyrannosaurus rex skeleton known as \"Gus\" sold for $50.1 million (roughly €44 million) at Sotheby's in New York on Tuesday, setting a new record for a dinosaur fossil at auction. The sale followed a tense 10-minute bidding battle involving seven bidders and ended with an anonymous purchaser.…",
+          "url": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "T. rex sells for $50 million, becoming the most expensive dinosaur fossil ever auctioned",
+          "excerpt": "A Tyrannosaurus rex specimen sold at Sotheby's for $50.1 million, becoming the most expensive dinosaur ever sold at auction. Riding a boom in dinosaur prices at auction, the T. rex, named \"Gus,\" blew past its price estimate of $20 million to $30 million after a 10-minute bidding war between seven bidders.…",
+          "url": "https://www.cnbc.com/2026/07/14/trex-fossil-auction-sothebys.html"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "T.Rex skeleton sells for $50.1 million at New York auction",
+          "excerpt": "T.Rex skeleton sells for $50.1 million at New York auction T.Rex skeleton sells for $50.1 million at New York auction A T.Rex skeleton nicknamed ‘Gus’ sold for a record $50 million at an auction in New York. The dinosaur remains are approximately 70 million years old and nearly 80% complete. The final bid was $43 million, but fees pushed the closing price to $50.1 million. Published On 15 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
+      "coverage": 4,
+      "perspectives": [
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Hanson’s meeting with UK far-right activist will ‘play out poorly’, Coalition MP says – as it happened",
-          "excerpt": "The Labor MP Ed Husic says any moves to water down copyright law to benefit AI companies would be “going against the ethos” of the party and undermining the principle of “a fair day’s pay for a fair day’s work”. A truck that displayed advertisements featuring the phrase “Ditch the Witch” alongside an image of the Victorian premier, Jacinta Allan, has been issued a defect notice by police.…",
-          "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb"
+          "headline": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
+          "excerpt": "Iran has threatened to halt all energy exports from the Middle East after the US reimposed a blockade of its ports and ships, as the two countries continued to trade strikes for a fifth day, further threatening the interim deal between them.…",
+          "url": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz"
         },
         {
-          "source": "Wired",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Sam Neill Inspired a Generation of Scientists",
-          "excerpt": "Sam Neill, the New Zealand actor who died at age 78 in Sydney, Australia, on Monday, had a long and varied résumé. He played everyone from an international spy (Possession) and a detective chief inspector (Peaky Blinders) to a legendary wizard (Merlin). He even played the literal spawn of the devil (Omen III: The Final Conflict).…",
-          "url": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/"
+          "headline": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+          "excerpt": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
+          "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates"
         },
         {
-          "source": "Sky News",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Jurassic Park star Sam Neill has died",
-          "excerpt": "Reference #18.eb18d017.1784024280.195da4b9 https://errors.edgesuite.net/18.eb18d017.1784024280.195da4b9",
-          "url": "https://news.sky.com/story/jurassic-park-star-sam-neill-has-died-13562906"
+          "headline": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee",
+          "excerpt": "Oil prices rose Tuesday as the U.S. bombed Iran before imposing a naval blockade, while President Donald Trump abandoned his demand that ships pay a protection fee to transit the Strait of Hormuz. U.S. West Texas Intermediate futures rose 1.5% to close at $79.34 per barrel. Brent futures, the international benchmark, gained 1.72% to settle at $84.73 per barrel. The U.S.…",
+          "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "Jurassic Park, The Piano, The Tudors... New Zealand actor Sam Neill dies at 78",
-          "excerpt": "New Zealand actor Sam Neill, known for his roles in \"Jurassic Park\" and \"The Piano\", has died aged 78. Neill had announced in April that he was cancer-free after undergoing treatment for stage-three ​blood cancer. Tributes are flowing in for the star, including from New Zealand Prime Minister Christopher Luxon who said Neill was \"one of the greats\". Story by Carys Garland.",
-          "url": "https://www.france24.com/en/jurassic-park-the-piano-the-tudors-new-zealand-actor-sam-neill-dies-at-78"
+          "headline": "Iran threatens to cut off major vital seaways in response to Trump's renewed blockade",
+          "excerpt": "Iran threatens to cut off major vital seaways in response to Trump's renewed blockade After closing the Strait of Hormuz, Tehran on Wednesday threatened to shut additional energy export routes including the Bab el-Mandeb gateway to the Red Sea, a major global shipping route through which Saudi Arabia exports its oil. The warning comes after the US launched a fresh round of strikes on Iran.…",
+          "url": "https://www.france24.com/en/middle-east/20260715-iran-threatens-to-cut-off-major-vital-seaways-in-response-to-trump-s-renewed-blockade"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "One dead and three missing after boat sinks near San Francisco's Alcatraz prison island",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "One dead and three missing after boat sinks near San Francisco's Alcatraz prison island",
+          "excerpt": "Authorities did not know if the boat was headed to Alcatraz, a major tourist attraction, where shuttered buildings of the famous former prison still stand. One person has been killed and three others are missing after a boat carrying 20 people sank near Alcatraz, the former prison and tourist site in San Francisco Bay, US officials said late on Tuesday.…",
+          "url": "http://www.euronews.com/2026/07/15/one-dead-and-three-missing-after-boat-sinks-near-san-franciscos-alcatraz-prison-island"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay",
+          "excerpt": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay, authorities say One person died and three were missing in the San Francisco Bay on Tuesday after a boat with 20 people on board sank near Alcatraz Island, authorities said. The San Francisco Fire Department and the U.S. Coast Guard responded to a call at about 3:30 p.m.…",
+          "url": "https://www.cbsnews.com/news/boat-rescue-alcatraz-island-san-francisco-bay/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "San Francisco: 1 dead, 3 missing in Alcatraz boat sinking",
+          "excerpt": "San Francisco: 1 dead, 3 missing in Alcatraz boat sinking July 15, 2026One person has died, three people are missing, and 16 others were saved by authorities after a three-deck pontoon vessel sank off the coast of Alcatraz Island in the San Francisco Bay on Tuesday, US officials said. A dog also died in the capsizing.…",
+          "url": "https://www.dw.com/en/san-francisco-1-dead-3-missing-in-alcatraz-boat-sinking/a-77962333?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Search continues after boat capsizes, killing at least one in San Francisco Bay",
+          "excerpt": "Search continues after boat capsizes, killing at least one in San Francisco Bay 07:21 UP NEXT T. rex skeleton sells for $50 million, becoming most expensive fossil ever sold 02:29 Suspects arrested in connection with Texas swimmer’s death 01:40 Dangerous floods prompt rescues in Texas 01:46 Parasite outbreak spreads across U.S.…",
+          "url": "https://www.nbcnews.com/video/search-continues-after-boat-capsizes-killing-at-least-one-in-san-francisco-bay-266688581700"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump drops his Strait of Hormuz shipping fee. The Iran blockade is still on",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Trump drops his Strait of Hormuz shipping fee. The Iran blockade is still on",
+          "excerpt": "President Donald Trump abandoned his plan to impose a 20% fee on cargo ships transiting the Strait of Hormuz on Tuesday, less than 24 hours after announcing it, saying Gulf states had offered to make large investments in the U.S. instead. The naval blockade on Iranian ports went into effect as planned at 4 p.m. ET.…",
+          "url": "https://qz.com/trump-hormuz-shipping-fee-iran-blockade-071426"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. restarts blockade and strikes Iran as Trump seeks control of Strait of Hormuz",
+          "excerpt": "U.S.-Iran War Latest: U.S. blockades Iranian ports, launches dozens of strikes as Trump seeks control of Strait of Hormuz What to know about the Iran war today: - The U.S. restarted a blockade on Iranian ports Tuesday afternoon and launched dozens of additional strikes on Iran, marking the fourth consecutive night of attacks.…",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump backtracks on Hormuz 20% toll demand",
+          "excerpt": "President Trump on Tuesday walked back his demand for collecting a 20% toll from ships that transit through the Strait of Hormuz — and instead said Gulf states would make major investments in the U.S. Why it matters: Trump's Hormuz fee announcement on Monday was deemed illegal by the UN maritime agency and shocked many U.S. allies in the Gulf.…",
+          "url": "https://www.axios.com/2026/07/14/trump-hormuz-toll-demand-trade-fee"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "US-Iran conflict widens after deadly tanker attack in Strait of Hormuz",
+          "excerpt": "Commercial shipping has come under attack in the Strait of Hormuz as the US and Iran exchange military action, raising fears the conflict could draw more Gulf states into the fighting. The conflict between the United States and Iran escalated sharply overnight, with attacks on commercial shipping, renewed military operations and growing fears the fighting could spread across the Gulf.…",
+          "url": "http://www.euronews.com/2026/07/14/us-iran-conflict-widens-after-deadly-tanker-attack-in-strait-of-hormuz"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+          "excerpt": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation - Published US President Donald Trump has paid writer E Jean Carroll more than $5m (Â£3.7m) in damages three years after he was found liable for sexually abusing and defaming her in a civil case, her lawyers confirmed.…",
+          "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "E. Jean Carroll receives $5 million payment from Trump for civil suit",
+          "excerpt": "E. Jean Carroll receives $5 million payment from Trump for civil suit Carroll sued Trump over claims of sexual abuse and defamation in 2023. Writer E. Jean Carroll, who sued President Donald Trump over claims of sexual abuse and defamation, has received more than $5 million as part of a civil judgment paid by Trump.…",
+          "url": "https://abcnews.com/US/jean-carroll-receives-5-million-payment-trump-civil/story?id=134748551"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case",
+          "excerpt": "Writer E. Jean Carroll has been paid more than $5.6 million that she was owed as part of a federal civil jury verdict holding President Donald Trump liable for sexual abuse and defamation, a court filing showed Tuesday. \"The Eagle has landed,\" Carroll wrote later Tuesday in a social media post celebrating the transfer. A notice on the online docket in Carroll's case against Trump in U.S.…",
+          "url": "https://www.cnbc.com/2026/07/14/trump-e-jean-carroll-sex-abuse-case.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "E. Jean Carroll receives $5M from Trump in abuse, defamation case",
+          "excerpt": "E. Jean Carroll receives $5.62 million payment from Trump in sex abuse and defamation case after yearslong wait Three years after a jury concluded President Trump should pay $5 million in damages to the writer E. Jean Carroll for sexual abuse and defamation, she has at last been paid. For Carroll, it's a wait that began long before her federal civil lawsuit went to trial in 2023.…",
+          "url": "https://www.cbsnews.com/news/e-jean-carroll-trump-5-million-sex-abuse-defamation-payment/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Former employees sue over Meta's alleged use of biased AI systems during layoffs",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Former employees sue over Meta's alleged use of biased AI systems during layoffs",
+          "excerpt": "Former employees sue over Meta's alleged use of biased AI systems during layoffs Meta cut its workforce by 10 percent in May. Twenty-six former Meta employees are suing the company for allegedly using biased AI tools that \"disproportionately selected\" people who took medical leave as candidates to be laid off, Reuters reports.…",
+          "url": "https://www.engadget.com/2215258/former-employees-sue-over-meta-s-alleged-use-of-biased-ai-systems-during-layoffs/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
+          "excerpt": "A coalition of current and former Meta employees have sued the social media giant, alleging that the company used artificial intelligence in its latest round of layoffs in a way that was discriminatory.…",
+          "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "26 Meta workers sue over alleged AI-aided layoffs of employees on leave",
+          "excerpt": "26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.…",
+          "url": "https://www.cbsnews.com/news/26-meta-workers-sue-ai-aided-layoffs-medical-family-leave/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Meta faces discrimination lawsuit over AI use in mass layoffs",
+          "excerpt": "In May, Meta laid off 10% of its workforce, impacting nearly 8,000 employees. On Monday, a group of current and former staffers filed a lawsuit alleging the company used AI to target those with disabilities or on medical or family leave for layoffs.…",
+          "url": "https://www.fastcompany.com/91573521/meta-faces-discrimination-lawsuit-over-ai-use-in-mass-layoffs"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Photos: Spain ends Mbappe and France’s World Cup dream to reach final",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Photos: Spain ends Mbappe and France’s World Cup dream to reach final",
+          "excerpt": "In Pictures Photos: Spain ends Mbappe and France’s World Cup dream to reach final France’s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe’s hopes of a third final. France arrived in the World Cup semifinals billed as the most exciting attacking force to grace the tournament since Brazil’s fabled 1982 side.…",
+          "url": "https://www.aljazeera.com/gallery/2026/7/15/photos-france-fireworks-fade-as-spain-march-into-world-cup-final?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Spain shuts down France and advances to the World Cup final with a 2-0 victory",
+          "excerpt": "Spain’s defensive prowess and swagger were just too much for an attacking trio led by France great Kylian Mbappé, and just enough to get the 2010 champions into another World Cup final. Spain will play on Sunday against the winner between reigning champion Argentina and England on ⁠Wednesday. France will play in the third-place match on Saturday.…",
+          "url": "https://www.france24.com/en/spain-shuts-down-france-and-advances-to-the-world-cup-final-with-a-2-0-victory"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Spain reaches World Cup final with dominant 2-0 win over France",
+          "excerpt": "In a match Tuesday featuring two of soccer's biggest heavyweights, Spain put in a masterful performance, frustrating France to the tune of a 2-0 win to advance to Sunday's World Cup final​.",
+          "url": "https://www.cbsnews.com/news/spain-beats-france-world-cup-final/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump says US reinstating blockade on Iranian ports – as it happened",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Trump says US reinstating blockade on Iranian ports – as it happened",
+          "excerpt": "We’re closing this page now and will continue our live coverage of the Middle East crisis on a new blog here, including a summary of the latest key developments. Thanks for following along.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Middle East live: More than 30 killed in recent US strikes, Tehran says",
+          "excerpt": "France 24 - Infos, news & actualités - L'information internationale en direct À la une En continu Replays Direct TV fr Français English Español عربي Réglages S'abonner aux newsletters Gérer les notifications Gérer mes consentements Menu Menu À la une Direct TV En continu Replays Menu Menu Fermer Coupe du monde 2026 Canicule Iran Direct TV Replay Le dernier journal Nos émissions Journal accessible …",
+          "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+          "excerpt": "US attacks Iran as IRGC claims strikes on US military sites in Gulf Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.…",
+          "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Senate looks to honor Graham with Russia sanctions",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Senate looks to honor Graham with Russia sanctions",
+          "excerpt": "Senators from both parties are rallying around a revised Russia sanctions package to honor the legacy of the late Sen. Lindsey Graham (R-S.C.). Why it matters: Bipartisanship is in short supply in the Senate. Graham's sudden death may briefly revive it.…",
+          "url": "https://www.axios.com/2026/07/13/lindsey-graham-russia-sanctions-senate-trump"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Darline Graham, Lindsey Graham's sister, sworn in as senator",
+          "excerpt": "Darline Graham, Lindsey Graham's sister, sworn in as senator She will serve the remainder of his term, which is set to expire in January. Darline Graham, Lindsey Graham's sister, was officially sworn in to the Senate on Tuesday afternoon to finish the remainder of her late brother's term. Republican Chuck Grassley, the president pro tempore of the Senate, presided over the ceremony.…",
+          "url": "https://abcnews.com/Politics/darline-graham-lindsey-grahams-sister-set-sworn-senator/story?id=134745885"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Lindsey Graham’s sister sworn in to fill his US Senate seat",
+          "excerpt": "Lindsey Graham’s sister sworn in to fill his US Senate seat Lindsey Graham’s sister sworn in to fill his US Senate seat Darline Graham has officially been sworn in to temporarily fill her brother Lindsey Graham’s South Carolina Senate seat following his death. Graham served in the US Senate for more than two decades and was known for his strong pro-Israel stance and advocacy for the war on Iran.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/lindsey-grahams-sister-sworn-in-to-fill-his-us-senate-seat?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Kevin Warsh promises to defeat 5 years of stubborn inflation as he comes to Congress",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Kevin Warsh promises to defeat 5 years of stubborn inflation as he comes to Congress",
+          "excerpt": "Turning to the wider economic picture, Warsh said in his prepared remarks that the economy is \"expanding at a solid pace.\" He singled out business investment as \"the most striking feature\" of today's economy, citing the rapid buildout of data centers and surging orders for AI-related equipment and software.…",
+          "url": "https://qz.com/fed-chair-kevin-warsh-inflation-congress-testimony-071426"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Fed's Warsh stays mum on rate plans, pledges price stability",
+          "excerpt": "Federal Reserve chairman Kevin Warsh told Congress on Tuesday that the central bank is determined to bring inflation down, but offered little guidance as to whether it may need to raise interest rates for that to happen.…",
+          "url": "https://www.axios.com/2026/07/14/fed-warsh-congress-rates"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+          "excerpt": "Calling inflation an \"unfair burden,\" Federal Reserve Chairman Kevin Warsh on Tuesday reiterated his call for \"regime change\" at the central bank. \"It has been a tax on the American people and businesses. We plan on getting rid of that tax,\" he said.…",
+          "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukraine parliament accepts PM Svyrydenko's resignation",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine parliament accepts PM Svyrydenko's resignation",
+          "excerpt": "Ukraine's parliament accepts PM Svyrydenko's resignation July 14, 2026The Ukrainian parliament accepted the resignation of Prime Minister Yulia Svyrydenko on Monday, after President Volodymyr Zelenskyy announced over the weekend that he planned to reshuffle his Cabinet and asked her to step aside. \"Every day this year demanded difficult decisions and decisive action.…",
+          "url": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenko-s-resignation/a-77954364?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Ukraine's PM Svyrydenko resigns in Zelenskiy's latest reshuffle",
+          "excerpt": "France 24 - Infos, news & actualités - L'information internationale en direct À la une En continu Replays Direct TV fr Français English Español عربي Réglages S'abonner aux newsletters Gérer les notifications Gérer mes consentements Menu Menu À la une Direct TV En continu Replays Menu Menu Fermer Coupe du monde 2026 Canicule Iran Direct TV Replay Le dernier journal Nos émissions Journal accessible …",
+          "url": "https://www.france24.com/en/video/20260715-ukraine-s-pm-svyrydenko-resigns-in-zelenskiy-s-latest-reshuffle"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "'Trump does like a winner': Ukraine victories could mean US backing, adviser says",
+          "excerpt": "'Trump does like a winner': Ukraine victories could mean more US backing, Zelenskyy adviser says Ukraine won Trump's approval to produce key anti-missile interceptors.…",
+          "url": "https://abcnews.com/International/trump-winner-ukraine-victories-us-backing-zelenskyy-adviser/story?id=134705584"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "How To Watch the 2026 FIFA World Cup Semifinals: England vs Argentina",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "How To Watch the 2026 FIFA World Cup Semifinals: England vs Argentina",
+          "excerpt": "The end of the biggest World Cup ever is almost here. Following 100 matches, there are just four teams left and four more games to play. The tournament has been hosted by three countries: Mexico, Canada, and the US. All of those host countries are now out of the running. The final teams are France, Spain, England, and Argentina.…",
+          "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "World Cup: England have ‘not peaked yet’, says Tuchel before semifinal",
+          "excerpt": "World Cup: England have ‘not peaked yet’, says Tuchel before semifinal England face Argentina in Wednesday’s semifinal, hoping to reach the World Cup final for the first time since 1966. Manager Thomas Tuchel said he did not feel burdened by the weight of history as he bids to lead England to a first World Cup final in 60 years by beating Argentina on Wednesday.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/15/england-argentina-fifa-world-cup-semifinal-thomas-tuchel?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Pygmy hippo in Thailand predicts France vs Argentina World Cup final",
+          "excerpt": "Celebrity pygmy hippo Moo Deng was back making football predictions on Tuesday 14 July, choosing France over Spain before later favouring Argentina ahead of England at Khao Kheow Open Zoo in Chonburi, Thailand. Her mother, Jonah, made a different choice by selecting Argentina, before the pair were seen together in their enclosure.…",
+          "url": "http://www.euronews.com/video/2026/07/14/pygmy-hippo-in-thailand-predicts-france-vs-england-world-cup-final"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US Congress takes next step to make daylight saving time permanent",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US Congress takes next step to make daylight saving time permanent",
+          "excerpt": "US Congress takes next step to make daylight saving time permanent - Published The US House of Representatives has voted to make daylight saving time permanent by passing the Sunshine Protection Act on Tuesday.…",
+          "url": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "House Passes Bill to Make Daylight Saving Time Permanent",
+          "excerpt": "The House on Tuesday passed a bill that would make Daylight Saving Time permanent, advancing a yearslong effort to end the practice of changing the clocks twice a year. The Sunshine Protection Act passed the lower chamber with strong bipartisan support in a 308-171 vote and will now head to the Senate.…",
+          "url": "https://time.com/article/2026/07/14/daylight-saving-time-permanent-bill-house/"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "House passes bill to make daylight saving time permanent",
+          "excerpt": "House passes bill to make daylight saving time permanent Washington — The House on Tuesday voted to make daylight saving time permanent nationwide, amid a yearslong push to end the twice-annual clock changes. The bill, titled the Sunshine Protection Act, passed in a 308 to 117 vote.…",
+          "url": "https://www.cbsnews.com/news/daylight-saving-time-permanent-house-vote/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "OpenAI may announce a ChatGPT smart speaker this year",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "OpenAI may announce a ChatGPT smart speaker this year",
+          "excerpt": "OpenAI’s first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won’t have a screen, but will use a camera and additional sensors to “understand” your environment. OpenAI may announce a ChatGPT smart speaker this year The company wants to release the gadget, its first major hardware device, in 2027.…",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "excerpt": "OpenAI’s first foray into hardware devices is reported to be a mobile smart speaker with integrated AI capabilities that can sync with ChatGPT and provide other home AI services.…",
+          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "OpenAI's first device will reportedly be a 'humanlike' rechargeable speaker",
+          "excerpt": "OpenAI's first device will reportedly be a 'humanlike' rechargeable speaker It will be powered by a more advanced version of the model used by ChatGPT’s new voice mode, Bloomberg says. It has long been reported that OpenAI's first hardware product will be an AI-powered speaker.…",
+          "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/"
+        }
+      ]
+    },
+    {
+      "category": "📣 Marketing",
+      "headline_en": "Book Publishers Sue Google Over AI Training, Escalating a Legal Standoff",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Adweek",
+          "lang": "en",
+          "headline": "Book Publishers Sue Google Over AI Training, Escalating a Legal Standoff",
+          "excerpt": "A coalition of major book publishers and authors has filed a class action lawsuit against Google, alleging that the tech giant committed copyright infringement in training its Gemini AI models. The litigation adds legal firepower to a publisher revolt that has, until now, played out largely through crawler blocks and negotiating-table brinkmanship.…",
+          "url": "https://www.adweek.com/media/book-publishers-sue-google/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Publishers sue Google over alleged use of books to train AI models",
+          "excerpt": "Publishers sue Google over alleged use of books to train AI models Book publishers sued Google on Tuesday, accusing the tech giant of illegally using copyrighted works to train its artificial intelligence models and generate content that competes with human authors. The lawsuit marks the latest legal battle over how AI developers use books and other creative works to build their systems.…",
+          "url": "https://www.france24.com/en/technology/20260715-publishers-sue-google-over-alleged-use-of-books-to-train-ai-models"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Google faces another AI training lawsuit from major publishers",
+          "excerpt": "A group of publishers and authors have filed a class action lawsuit against Google, accusing the tech giant of using their copyrighted works to train its AI platform, Gemini.…",
+          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+          "excerpt": "Trump threatens to bomb bridges and power plants unless Iran resumes talks - Published US President Donald Trump has threatened to strike Iran's bridges and power plants next week if the country does not return to talks. The comments, made in a Fox News interview, aired as the two countries exchanged fire for the fourth day in a row.…",
+          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Trump threatens strikes on Iranian bridges, power plants",
+          "excerpt": "Trump threatens strikes on Iranian bridges, power plants Published July 15, 2026last updated July 15, 2026What you need to know - Trump threatens strikes on Iranian infrastructure, saying 'next week it gets really bad' if no deal made - US reimposes its naval blockade on Iranian ports amid continuing strikes on shipping - Iran's Revolutionary Guards say the Strait of Hormuz will remain closed Foll…",
+          "url": "https://www.dw.com/en/trump-threatens-strikes-on-iranian-bridges-power-plants/live-77960667?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Iran launches strikes on neighbours as Trump threatens to hit power plants",
+          "excerpt": "Tehran's attack comes as the US military carried out a fourth night of strikes against Iran after President Donald Trump reinstated its blockade of Iranian shipping around the strait of Hormuz.",
+          "url": "http://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "JPMorgan Just Made More Money Than Ever, but Jamie Dimon’s Terse Warning Should Get Every CEO’s Attention",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "JPMorgan Just Made More Money Than Ever, but Jamie Dimon’s Terse Warning Should Get Every CEO’s Attention",
+          "excerpt": "Other banks had extraordinary quarters too, including Wells Fargo, Goldman Sachs, and Bank of America.",
+          "url": "https://www.inc.com/brian-contreras/jpmorgan-just-made-more-money-than-ever-but-jamie-dimons-terse-warning-should-get-every-ceos-attention/91374015"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Wall Street's biggest banks posted record profits as trading and dealmaking surged",
+          "excerpt": "Five of America's biggest banks posted a combined $49 billion in quarterly earnings on Tuesday, riding a a boom in stock trading, a flurry of initial public offerings, and a rebound in dealmaking to a record second quarter.…",
+          "url": "https://qz.com/jpmorgan-goldman-bank-of-america-citigroup-wells-fargo-record-profits-071426"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+          "excerpt": "American megabanks on Tuesday gave evidence that the global artificial intelligence boom isn't just benefiting tech giants and chip makers. Goldman Sachs and JPMorgan Chase each posted record quarterly revenue hauls, fueled by massive gains in equities trading and investment banking.…",
+          "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran war: US launches new round of strikes",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Iran war: US launches new round of strikes",
+          "excerpt": "Iran war: US launches new round of strikes Published July 14, 2026last updated July 14, 2026What you need to know - The US military has announced a new round of strikes on Iran - The strikes come shortly before a renewed blockade on Iranian ports goes into effect - Tehran has said the new blockade 'dismantles' the truce deal between the two countries It was a roundup of DW's coverage of the war be…",
+          "url": "https://www.dw.com/en/iran-war-us-launches-new-round-of-strikes/live-77942892?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "'Enough Is Enough': Lawmakers Criticize Trump Over Resumption of Iran War",
+          "excerpt": "President Donald Trump sent Congress a formal notification that the U.S.-Iran war has resumed as Washington and Tehran trade fresh strikes over the Strait of Hormuz. The letter, dated July 10 and confirmed to TIME by a White House official on Tuesday, is seemingly viewed by the Trump Administration as the start of a new 60-day window whereby the U.S.…",
+          "url": "https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "US launches strikes on Iran for third straight night as Trump says deal still 'possible'",
+          "excerpt": "Following the latest US strikes, the UAE said Iran attacked two ships in the Strait of Hormuz with missiles, as Iran said it carried out strikes on Bahrain. US forces launched strikes on Iran for a third straight night early on Tuesday, as hostilities escalate despite US President Donald Trump saying a deal was \"still possible\".…",
+          "url": "http://www.euronews.com/2026/07/14/us-launches-strikes-on-iran-for-third-straight-night-as-trump-says-deal-still-possible"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’",
+          "excerpt": "Spain and Gibraltar are celebrating the fall of the last frontier fence in western Europe after the signing of a post-Brexit deal that brings an end to border checks for residents, tourists and the thousands of Spanish workers who cross into the British overseas territory every day.…",
+          "url": "https://www.theguardian.com/world/2026/jul/15/spain-gibraltar-celebrate-deal-signed-border-controls-uk-territory"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Gibraltar enters Schengen as border fence comes down under EU-UK treaty",
+          "excerpt": "Crowds on both sides of the Gibraltar frontier celebrated overnight into Wednesday 15 July as the newly opened border brought an end to decades of routine checks, in what many described as a historic moment.…",
+          "url": "http://www.euronews.com/video/2026/07/15/gibraltar-enters-schengen-as-border-fence-comes-down-under-eu-uk-treaty"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Border controls scrapped between Spain and Gibraltar",
+          "excerpt": "Border controls scrapped between Spain and Gibraltar July 15, 2026Spain and the British territory of Gibraltar are marking the beginning of a new chapter from Wednesday, with the dismantling of border controls that had long been a source of tension and frustration for daily commuters.…",
+          "url": "https://www.dw.com/en/border-controls-scrapped-between-spain-and-gibraltar/a-77961013?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Here’s the inflation breakdown for June 2026 — in one chart",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Here’s the inflation breakdown for June 2026 — in one chart",
+          "excerpt": "Consumer prices pulled back in June on the heels of lower energy and gasoline prices, a reversal after moving sharply upward in recent months due to the Iran war. However, inflation risks re-igniting in coming months amid renewed hostilities between the U.S. and Iran, economists said.…",
+          "url": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Inflation has biggest drop since 2020",
+          "excerpt": "Inflation fell in June, on the back of lower energy prices, the government said Tuesday. Why it matters: It's the largest one-month decrease since April 2020, but it may be a short-lived reprieve — the report doesn't account for the sharp increase in oil prices this month as the Iran war re-ignites. By the numbers: Still, inflation is pretty hot .…",
+          "url": "https://www.axios.com/2026/07/14/cpi-june-inflation-energy"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "China's June exports surge 27% from a year earlier as AI boom drives strong demand",
+          "excerpt": "China’s exports accelerated in June, jumping 27% from a year earlier thanks partly to the boom in artificial intelligence, the customs agency said on Tuesday. The increase in exports in June was much better than economists had expected. Exports rose 19.4% year-on-year in May.…",
+          "url": "http://www.euronews.com/business/2026/07/14/chinas-june-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Bangkok bar fire: death toll reaches 30 as police say negligence is ‘primary theory’",
-      "coverage": 6,
+      "coverage": 3,
       "perspectives": [
         {
           "source": "The Guardian",
@@ -185,25 +668,11 @@
           "url": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand"
         },
         {
-          "source": "NPR News",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-          "excerpt": "More than 70 people were injured, with 24 of them still in critical condition, according to a statement by the Bangkok Metropolitan Administration.",
-          "url": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
-          "excerpt": "Bangkok bar fire death toll rises to 30 as police probe possible negligence Thailand authorities say that 24 people remain in critical condition in hospital after the blaze at a pub.…",
-          "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Death toll in Bangkok bar fire reaches 30",
-          "excerpt": "Death toll in Bangkok bar fire reaches 30 July 14, 2026Deaths in a devastating fire at a pub in Thailand's capital Bangkok have risen to 30, reports said Tuesday, citing updated figures from city officials. Three more victims succumbed to their injuries pushing up the tally from the initial 27 dead, local media reports said.…",
-          "url": "https://www.dw.com/en/death-toll-in-bangkok-bar-fire-reaches-30/a-77944364?maca=en-rss-en-all-1573-rdf"
+          "headline": "WATCH:  Dozens killed after raging fire destroys Bangkok bar",
+          "excerpt": "Dozens killed after raging fire destroys Bangkok bar Authorities say some of the exits were blocked or inaccessible.…",
+          "url": "https://abcnews.com/video/134729733/"
         },
         {
           "source": "Euronews",
@@ -215,898 +684,387 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "U.S. targets Iranian military assets in another round of strikes as Tehran hits Gulf states",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "U.S. targets Iranian military assets in another round of strikes as Tehran hits Gulf states",
-          "excerpt": "The U.S. has completed its strikes against Iranian military targets for a third consecutive night, while Tehran hit two Emirati oil tankers in the Strait of Hormuz and triggered fresh missile alerts in Bahrain. U.S. Central Command said it had completed the latest wave of strikes against Iran.…",
-          "url": "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Iran live updates: US conducts 3rd consecutive night of strikes on Iran",
-          "excerpt": "Jordan downs 4 missiles, state media says Jordanian state media said that the country's military intercepted four missiles fired into the country's airspace from Iran in the early hours of Tuesday. Overnight, the Islamic Revolutionary Guard Corps claimed to have fired ballistic missiles at U.S. targets at an airspace in Jordan. -ABC News' Joe Simonetti and Charlotte Gardiner",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Iran war: US continues strikes as Trump reinstates blockade",
-          "excerpt": "Iran war: US continues strikes as Trump reinstates blockade Published July 14, 2026last updated July 14, 2026What you need to know - US military conducts third consecutive night of strikes in Iran - UAE says Iranian missiles struck oil tankers in Strait of Hormuz - Oil prices jump as US-Iran tensions escalate Follow DW's coverage of the war between the US and Iran on Tuesday, July 14.…",
-          "url": "https://www.dw.com/en/iran-war-us-continues-strikes-as-trump-reinstates-blockade/live-77942892?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
-          "excerpt": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest? While Trump has threatened to strike targets in Iran including Pickaxe Mountain, he has said a deal is possible. The United States carried out attacks against Iran for a third consecutive night late on Monday.…",
-          "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Third straight night of U.S. strikes against Iran",
-          "excerpt": "Latest U.S. Iran War ICE Shooting World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia…",
-          "url": "https://www.cbsnews.com/video/third-straight-night-of-us-strikes-against-iran/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-          "excerpt": "Watch: Horses evacuated as fire approaches riding centre near Paris Horses have been evacuated from an equestrian centre near Paris as the Fontainebleau wildfire continues to rage. Firefighters have been battling to bring the blaze under control over the last two days, with officials describing it as \"virulent\" and of \"exceptional scale\".…",
-          "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "More than 1,900 hectares of Fontainebleau forest near Paris destroyed by wildfires",
-          "excerpt": "French firefighters on Tuesday are still fighting two wildfires that have so far ravaged more than 1,900 hectares of Fontainebleau forest, a UNESCO biosphere reserve near Paris. Police on Monday arrested two people suspected of starting the blaze that has forced some 1,000 local residents to evacuate.",
-          "url": "https://www.france24.com/en/france/20260714-more-than-1-900-hectares-fontainebleau-forest-near-paris-destroyed-by-wildfires"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "France arrests arson suspects amid Fontainebleau forest fire",
-          "excerpt": "France arrests arson suspects amid Fontainebleau forest fire July 14, 2026Raging wildfires in the south of Paris scorched more land overnight on Tuesday, ripping through a historic French forest, as at least two people were arrested on suspicion of starting the blaze near one of the country's most famous royal palaces.…",
-          "url": "https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Photos: Wildfires ravage historic forest near Paris",
-          "excerpt": "In Pictures Photos: Wildfires ravage historic forest near Paris Wildfires near Paris scorch 1,300 hectares as France endures its third heatwave in three months. France has been battling two wildfires that have scorched more than 1,300 hectares (about 3,200 acres) of forest south of Paris.…",
-          "url": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Wildfire of 'exceptional scale' breaks out in forest near Paris",
-          "excerpt": "A wildfire of \"exceptional scale\" has broken out in a forest near Paris, as the country battles it third heatwave of the summer.",
-          "url": "https://news.sky.com/story/wildfire-of-exceptional-scale-breaks-out-in-forest-near-paris-13562914"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
-          "excerpt": "A Florida federal judge in a scathing order Monday said President Donald Trump filed a $10 billion lawsuit against the Internal Revenue Service \"for an improper purpose\" — to gain the appearance of \"judicial legitimacy for a 'settlement' that had no viable basis in law or fact.\" That controversial out-of-court settlement with the IRS and Department of Justice in May briefly led the DOJ to create a…",
-          "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Judge says Trump admin tried to ‘manipulate the judicial process’ with its IRS settlement",
-          "excerpt": "President Donald Trump’s lawsuit against the IRS was brought in “bad faith” for an “improper purpose,” a federal judge in Florida found as she slapped sanctions on some of those involved. U.S.…",
-          "url": "https://www.nbcnews.com/politics/donald-trump/judge-says-trump-administration-attempted-manipulate-judicial-process-rcna587321"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Judge rebukes Trump and DOJ over IRS lawsuit, refers lawyer for disciplinary proceedings",
-          "excerpt": "Judge rebukes Trump and DOJ over IRS lawsuit, refers lawyer for disciplinary proceedings A federal judge on Monday imposed professional penalties against lawyers representing President Trump in a civil lawsuit he brought against the IRS and harshly criticized the Justice Department for its handling of the case, concluding that the suit was brought for an \"improper purpose.\" CBS News legal contribu…",
-          "url": "https://www.cbsnews.com/video/judge-rebukes-trump-and-doj-over-irs-lawsuit-refers-lawyer-for-disciplinary-proceedings/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "US judge voids Trump's 'improper' $1.8 billion settlement with IRS",
-          "excerpt": "A US judge on Monday voided a settlement between President Donald Trump and the Internal Revenue Service over his leaked tax returns, ruling the lawsuit was filed for an \"improper purpose\". The agreement had granted Trump, his family and business broad protections from tax audits following their $10 billion lawsuit.",
-          "url": "https://www.france24.com/en/americas/20260713-us-judge-voids-trump-irs-settlement-taxes"
-        }
-      ]
-    },
-    {
       "category": "💡 Tech & AI",
-      "headline_en": "Siri AI Is Becoming Apple’s Everything Tool",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Siri AI Is Becoming Apple’s Everything Tool",
-          "excerpt": "The latest version of Apple’s smartphone software, iOS 27, is available for iPhone owners as a public beta. It’s the first time Apple’s long-promised revamped version of Siri is available to the general public.…",
-          "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Apple’s public betas for iOS 27 and more are out now",
-          "excerpt": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works — which is big praise! — though it keeps things brief. Apple’s public betas for iOS 27 and more are out now The betas let you try the new Siri before Apple’s wider launch this fall.…",
-          "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
-          "excerpt": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available Try the new Siri AI and system-wide performance improvements. Adventurous early adopters, your moment has arrived: the first public betas of Apple's 2027 software updates are here. Previews of iOS 27, iPadOS 27, macOS 27 Golden Gate and watchOS 27 are now available to be installed directly on your device.…",
-          "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Apple iOS 27 Release Date: How To Download 1st iPhone Public Beta — Starting Now",
-          "excerpt": "July 13 update: this post, first published on July 11 was updated as the first public beta is now here. Here’s what is in it, whether you should download it and what it means for the software’s general release, and that of the iPhone 18 Pro. Apple announced the next-generation of iPhone software, iOS 27, at its Wordwide Developers Conference in June.…",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/07/13/apple-ios-27-release-date-when-you-can-install-iphones-new-software---public-beta-near/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-          "excerpt": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport - Published Yemen's Houthis said they launched missiles at Abha airport in south-western Saudi Arabia on Monday in response to air strikes on Sanaa's airport that they blamed on the kingdom.…",
-          "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
-          "excerpt": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport Yemen’s Houthis say they struck Saudi Arabia’s Abha airport with missiles and drones in retaliation for a strike on Sanaa’s international airport.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Scoop: Trump gave Saudi crown prince his backing for risky strikes on Houthis",
-          "excerpt": "President Trump gave Saudi Crown Prince Mohammed Bin Salman (MBS) his support for a highly unusual military action against the Iran-backed Houthis in Yemen, according to U.S. officials. Why it matters: The Saudi strike on the Sanaa airport Monday and Houthi retaliatory missile attacks that followed were the most serious cross-border escalation since 2022.…",
-          "url": "https://www.axios.com/2026/07/13/trump-bin-salman-houthis-yemen"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Houthis launch missiles at Saudi Arabia, in retaliation for Sanaa airport strikes",
-          "excerpt": "Clashes have resumed in Yemen, with Houthis rebels blaming Saudi Arabia and the country's internationally recognised government for strikes on Sanaa Airport. The hits were designed to prevent an Iranian plane, carrying a Houthis delegation, from landing. Story by Ellen Gainsford.",
-          "url": "https://www.france24.com/en/houthis-launch-missiles-at-saudi-arabia-in-retaliation-for-sanaa-airport-strikes"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Polymarket Partners With Crypto Firm During World Cup Semifinals",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Polymarket Partners With Crypto Firm During World Cup Semifinals",
-          "excerpt": "Crypto brokerage Blockchain.com Group Holdings Inc. has partnered with Polymarket to offer prediction markets to its users in time for the World Cup semifinals.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/polymarket-partners-with-crypto-firm-during-world-cup-semifinals"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "The star-studded World Cup semifinals kick off with France vs. Spain",
-          "excerpt": "The expanded World Cup allowed FIFA to introduce a new seeding system that placed the world's top teams in opposite corners of the knockout bracket. Now, the semifinals are both heavyweight matchups.",
-          "url": "https://www.npr.org/2026/07/14/nx-s1-5891860/2026-world-cup-fifa-spain-france-argentina-england-semifinals"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "France and Spain prepare to face off in World Cup semi-final clash",
-          "excerpt": "France and Spain prepare to face off in World Cup semi-final clash Two World Cup favourites will go head-to-head in the first semi-final of the 2026 competition on Tuesday as Les Bleus' star-studded line-up meets Spain's technically accomplished La Roja. France's exciting attack led by Kylian Mbappé take on a technically accomplished Spain team in the first semi-final of the World Cup on Tuesday.…",
-          "url": "https://www.france24.com/en/sport/20260713-france-and-spain-prepare-to-duel-in-world-cup-semi-final-clash"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Birthday present for Spain’s Yamal? World Cup semifinal win over France",
-          "excerpt": "Birthday present for Spain’s Yamal? World Cup semifinal win over France Yamal wants to celebrate his 19th birthday by taking Spain to the World Cup final in New York. Lamine Yamal insists he would take no fear into Spain’s World Cup semifinal against France when both sides meet after he celebrated his 19th birthday.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/14/birthday-present-for-spains-yamal-world-cup-semifinal-win-over-france?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Colombian national killed by ICE agent during operation in Maine",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Colombian national killed by ICE agent during operation in Maine",
-          "excerpt": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
-          "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "7/13: CBS Evening News",
-          "excerpt": "Latest U.S. Iran War ICE Shooting World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia…",
-          "url": "https://www.cbsnews.com/video/071326-cbs-evening-news/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Lindsey Graham's sister appointed to his Senate seat",
-          "excerpt": "Darline Graham Nordone, the sister of late Sen. Lindsey Graham (R-S.C.), will finish out Graham's term , South Carolina Gov. Henry McMaster announced Monday. Why it matters: Nordone will serve until Jan. 3, 2027, unless she chooses to run and wins the open Senate seat in November.…",
-          "url": "https://www.axios.com/2026/07/13/lindsey-graham-senate-replacement-darline-nordone"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
+      "headline_en": "State Lawsuit to Block Paramount Skydance Merger Could Offer Reprieve to CNN",
       "coverage": 3,
       "perspectives": [
         {
           "source": "Adweek",
           "lang": "en",
-          "headline": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
-          "excerpt": "As the U.S., Canada, and Mexico each play host to the 2026 FIFA World Cup, brands are scoring on and off the pitch. Six billion people are projected to watch 48 teams compete across 104 matches. A further five million will watch in person at stadiums in cities including New York, Texas, Mexico City, and Toronto. The U.S.…",
-          "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/"
+          "headline": "State Lawsuit to Block Paramount Skydance Merger Could Offer Reprieve to CNN",
+          "excerpt": "Paramount Skydance’s acquisition of Warner Bros. Discovery has, as expected, hit a snag after 12 states, including California and New York, filed a lawsuit opposing the deal, which would create a media behemoth. This news of the lawsuit offers some reprieve for CNN staffers who, in recent days, have reportedly felt apprehensive about their potential new owners.…",
+          "url": "https://www.adweek.com/tvnewser/state-lawsuit-to-block-paramount-skydance-merger-could-offer-reprieve-to-cnn/"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts",
-          "excerpt": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men’s World Cup champion.…",
-          "url": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss"
+          "headline": "The WGA is also suing to block Paramount-Warner Bros. Discovery merger",
+          "excerpt": "The WGA is also suing to block Paramount-Warner Bros. Discovery merger It seems some people take issue with one billionaire family overseeing a third of the US’ entertainment media. The Writers Guild of America East and Writers Guild of America West have combined forces for an antitrust lawsuit against Paramount Skydance's takeover of Warner Bros. Discovery.…",
+          "url": "https://www.engadget.com/2215270/the-wga-is-also-suing-to-block-paramount-warner-bros-discovery-merger/"
         },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  World Cup Final Four set",
-          "excerpt": "World Cup Final Four set For the first time in World Cup history, the top four teams in FIFA's rankings have made the semi-finals. July 13, 2026 Additional Live Streams Additional Live Streams Top Stories Top Stories - Pres.…",
-          "url": "https://abcnews.com/video/134714778/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "France hopes to send ‘strategic signal’ about Europe’s renewed military focus at Bastille Day celebrations – Europe live",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "France hopes to send ‘strategic signal’ about Europe’s renewed military focus at Bastille Day celebrations – Europe live",
-          "excerpt": "Over 300 vehicles and 6,500 soldiers will march down the iconic Champs-Élysées in central Paris this morning as part of today’s Bastille Day celebration in Paris, which is set to “send a strategic signal” about France and Europe’s military awakening.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/14/france-bastille-day-emmanuel-macron-volodymyr-zelenskyy-germany-brussels-eu-albania-moldova-montenegro-latest-news-updates"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "France's Bastille Day parade showcases European support for Ukraine",
-          "excerpt": "France's annual July 14 military parade this year featured aircraft from 11 European countries and around 500 troops from Coalition of the Willing allies that have pledged to help with Ukraine’s post-war security in a showcase of support for Kyiv. The event marked President Emmanuel Macron’s last Bastille Day parade in his role.",
-          "url": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Bastille Day: France holds parade with Ukraine in focus",
-          "excerpt": "Bastille Day: France holds parade with Ukraine in focus July 14, 2026France on Tuesday is celebrating Bastille Day with a special show of solidarity with Ukraine. A massive parade is being held in Paris in front of French President Emmanuel Macron and other high-level guests in Paris.…",
-          "url": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Your cheat sheet to the teams headed to the World Cup semi-finals",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Your cheat sheet to the teams headed to the World Cup semi-finals",
-          "excerpt": "We're at the final stretch of the World Cup. It feels like just yesterday, international fans were arriving in the U.S. and marveling at Buc-ee's and unlimited free soda.",
-          "url": "https://www.npr.org/2026/07/14/g-s1-133337/world-cup-final-france-england-spain-argentina"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Breaking down the World Cup semi-final matches",
-          "excerpt": "Breaking down the World Cup semi-final matches The World Cup is down to its final four teams with France taking on Spain in the first semi-final on Tuesday and England going up against Argentina on Wednesday. Lukas Weese, staff writer for the Athletic, joins CBS News to discuss.",
-          "url": "https://www.cbsnews.com/video/breaking-down-the-world-cup-semi-final-matches/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "World Cup 2026: France aim for third consecutive final against Spain",
-          "excerpt": "The French team are taking on Spain in Dallas in the World Cup semi-final. Les Bleus are hoping to become the second nation to reach three consecutive World Cup finals.",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260714-world-cup-2026-france-aim-third-consecutive-final-against-spain"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Hungary parliament votes to remove president from office",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Hungary parliament votes to remove president from office",
-          "excerpt": "Hungary parliament votes to remove president from office - Published The Hungarian parliament has voted to remove President TamÃ¡s Sulyok from office, who was widely seen as a loyalist of former prime minister Viktor OrbÃ¡n who lost power in April after 16 years.…",
-          "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Hungary’s parliament votes to oust president in latest anti-Orban move",
-          "excerpt": "Hungary’s parliament votes to oust president in latest anti-Orban move Hungarian parliament passes amendment that would remove President Sulyok, appointed under ex-Prime Minister Viktor Orban.…",
-          "url": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Hungary: Lawmakers pass law to oust Orban ally president",
-          "excerpt": "Hungary: Lawmakers pass law to oust Orban ally president July 13, 2026The Hungarian parliament passed a constitutional amendment to oust President Tamas Sulyok. This comes asHungary's newly-voted Prime Minister Peter Magyar continues his push to dismantle the system and influence established by his predecessor, nationalist leader Viktor Orban.…",
-          "url": "https://www.dw.com/en/hungary-lawmakers-pass-law-to-oust-orban-ally-president/a-77941734?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "ICE-involved shooting leaves one person dead in Maine",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "ICE-involved shooting leaves one person dead in Maine",
-          "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser. - Now Playing - ICE-involved shooting leaves one person dead in Maine01:54 - UP NEXT - Bull bison charges Yellowstone tourist, flipping him into the air01:28 - Dozens killed following Bangkok bar fire01:30 - U.S.…",
-          "url": "https://www.nbcnews.com/nightly-news/video/ice-involved-shooting-leaves-one-person-dead-in-maine-266627141692"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "'Alarming and Frightening': ICE Officers Involved in Fatal Shooting in Maine",
-          "excerpt": "A man died in a shooting involving Immigration and Customs Enforcement (ICE) officers in Biddeford, Maine, on Monday, the latest incident of deadly violence involving federal agents enforcing President Donald Trump’s anti-immigration agenda.…",
-          "url": "https://time.com/article/2026/07/13/ice-officers-involved-in-fatal-shooting-in-maine/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Person killed in ICE-involved shooting in Maine",
-          "excerpt": "Person killed in ICE-involved shooting in Maine July 13, 2026One person was killed in a shooting involving United States immigration agents in Maine, the state's top lawmaker said. \"This morning a shooting occurred in Biddeford. A person was killed. ICE was involved,\" House Speaker Ryan Fecteau wrote on Facebook.…",
-          "url": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
-          "excerpt": "Health fears as frail Indian activist on hunger strike loses 8.2kg - Published \"I'm weak from the outside, but I'm strong from inside.\" That's what a frail-looking Sonam Wangchuk, who has been on a protest hunger strike in the Indian capital, Delhi, for the past 16 days, told the BBC on Monday.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Indian Activist’s Health Worsens in Hunger Strike for Students",
-          "excerpt": "The health of a well-known Indian activist is deteriorating more than two weeks into his hunger strike over exam paper leaks, putting pressure on the government to respond to one of the country’s most prominent youth-driven protests in years.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/indian-activist-s-health-worsens-in-hunger-strike-for-students"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "India news: Sonam Wangchuk's hunger strike tests Modi",
-          "excerpt": "India news: Sonam Wangchuk's hunger strike tests Modi Published July 14, 2026last updated July 14, 2026What you need to know - Cockroach party warns activist Sonam Wangchuk's health deteriorating amid indefinite hunger strike - Wangchuk says won't end fast until government agrees to dialogue - One Indian killed, others injured in Iran strike on UAE tankers in Strait of Hormuz - India foreign minis…",
-          "url": "https://www.dw.com/en/india-news-sonam-wangchuk-s-hunger-strike-tests-modi/live-77944096?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
-      "coverage": 3,
-      "perspectives": [
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
-          "excerpt": "China's trade growth accelerated far more than expected in June, as booming global demand for AI hardware and a rush by exporters to beat anticipated U.S. tariff hikes turbocharged shipments. Overall exports rose 27% from a year earlier in U.S.…",
-          "url": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "China's June exports surge 27% from a year earlier as AI boom drives strong demand",
-          "excerpt": "China’s exports accelerated in June, jumping 27% from a year earlier thanks partly to the boom in artificial intelligence, the customs agency said on Tuesday. The increase in exports in June was much better than economists had expected. Exports rose 19.4% year-on-year in May.…",
-          "url": "http://www.euronews.com/business/2026/07/14/chinas-june-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "China's exports ride AI boom as domestic economy struggles",
-          "excerpt": "BEIJING, July 14 (Reuters) - China's exports surged in June, buoyed by orders for chips to fuel the global AI boom and automobiles, deepening producers' reliance on overseas buyers as policymakers in the world's No. 2 economy continue to grapple with how to boost demand at home.…",
-          "url": "https://finance.yahoo.com/economy/articles/chinas-june-trade-tops-forecasts-025658981.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Leaders give press conference after ‘coalition of the willing’ meeting in Paris – as it happened",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Leaders give press conference after ‘coalition of the willing’ meeting in Paris – as it happened",
-          "excerpt": "Leaders arrive for Ukraine talks in Paris Let’s bring you more pictures from the red carpet in Paris, as leaders arrive for the meeting of the Coalition of the Willing, hosted by France’s Emmanuel Macron.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Kyiv claims drone attacks on 11 Russian tankers in Sea of Azov",
-          "excerpt": "Kyiv claims drone attacks on 11 Russian tankers in Sea of Azov Ukrainian drones hit several Russian vessels in the Sea of Azov overnight on Tuesday, Kyiv's drone forces commander said, as the Kremlin denied that repeated Ukrainian attacks on the major export route would impact Russia's export capacity.…",
-          "url": "https://www.france24.com/en/europe/20260714-kyiv-claims-drone-attacks-11-russian-tankers-in-sea-of-azov"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-          "excerpt": "Ukrainian drone strikes have forced Russia to completely halt shipping in the Sea of Azov in less than a week—showing once again how a country without traditional naval power can still effectively blockade maritime corridors.…",
-          "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Turn Your Rising Home Equity Into Cash You Can Use",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNN World",
-          "lang": "en",
-          "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
-          "excerpt": "Are you still interested in seeing your free loan offers? You're almost there! You're just minutes away from seeing great offers, absolutely FREE! Click to Continue Terms & conditions apply. NMLS#1136 Donât leave yet! You only have a few more quick questions. Continue to See Quotes You're just a few steps away from creating your account, your information is safe with us.…",
-          "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "HELOC and home equity loan rates today, Tuesday, July 14, 2026: Besides rates, how to choose between a HELOC or HEL",
-          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. If you're not able to move to a new home or refinance to take advantage of the equity you have built up in your home, you're likely considering a home equity loan or a home equity line of credit.…",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-14-2026-besides-rates-how-to-choose-between-a-heloc-or-hel-100000072.html"
+          "headline": "Paramount still plans to close WBD merger by end of September despite lawsuit",
+          "excerpt": "Paramount Skydance is still aiming to close its proposed acquisition of Warner Bros. Discovery by the end of September despite a recent lawsuit filed by state attorneys general challenging the deal, Paramount's lead trial counsel Jeffrey Kessler told CNBC's David Faber in an interview on Tuesday.…",
+          "url": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "NYT Connections Hints And Answers: Tuesday, July 14",
+      "headline_en": "NYT ‘Pips’ Hints, Answers And Walkthrough For Wednesday, July 15",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Forbes",
           "lang": "en",
-          "headline": "NYT Connections Hints And Answers: Tuesday, July 14",
-          "excerpt": "Not the Connections game you’re looking for? Here are the hints and solution for Monday’s game and an explanation of the answers. If you want to hang out with a lovely bunch of folks and chat about NYT Connections, other daily puzzle games and even the World Cup, join our Discord community! Hey there, Connectors! I hope your week is off to a great start! I’m a big proponent of Wikipedia.…",
-          "url": "https://www.forbes.com/sites/krisholt/2026/07/13/nyt-connections-hints-and-answers-tuesday-july-14/"
+          "headline": "NYT ‘Pips’ Hints, Answers And Walkthrough For Wednesday, July 15",
+          "excerpt": "Looking for help with today’s Easy, Medium and Hard NYT Pips puzzles? Whether you’re after a nudge in the right direction or just want to compare notes, below you’ll find everything you need to solve each of today’s Pips plus a full walkthrough for today’s Hard Pips. Wednesday, Wednesday. Odin’s day, that old trickster god. God of ravens. We need rain gods.…",
+          "url": "https://www.forbes.com/sites/erikkain/2026/07/14/nyt-pips-answers-wednesday-july-15/"
         },
         {
           "source": "Yahoo Finance",
           "lang": "en",
-          "headline": "Best CD rates today, Tuesday, July 14, 2026: Lock in up to 4.10% APY today",
-          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. Deposit account rates are on the decline — but the good news is you can lock in a competitive return on a certificate of deposit (CD) today and preserve your earning power. In fact, the best CDs still pay rates of 4% or higher.…",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-14-2026-lock-in-up-to-410-apy-today-100000616.html"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "US Stocks, Treasuries Steady Before Warsh and CPI: Markets Wrap",
-          "excerpt": "US stocks steadied as traders refrained from making big bets ahead of a jam-packed day that will see the unofficial start of the earnings season, along with testimony from Fed Chair Kevin Warsh and US inflation data.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as traders lift Fed rate hike bets ahead of key inflation data",
-          "excerpt": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as traders lift Fed rate hike bets ahead of key inflation data US stock futures wavered on Tuesday morning as markets awaited a key consumer inflation report, recalibrated bets on the AI trade, and monitored rising oil prices amid the renewed US-Iran war.…",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "WATCH:  The latest on Yellowstone bison launching man 8 feet in air",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  The latest on Yellowstone bison launching man 8 feet in air",
-          "excerpt": "The latest on Yellowstone bison launching man 8 feet in air ABC News' Trevor Ault and Jennifer Barfield, the scientific lead for the Laramie Foothills Bison Conservation Herd, share how the man is doing and what to do when encountering a wild animal. July 13, 2026 Additional Live Streams Additional Live Streams Top Stories Top Stories - Pres.…",
-          "url": "https://abcnews.com/video/134726340/"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Bison tosses man 8 feet in the air at Yellowstone, video shows",
-          "excerpt": "Bison tosses man 8 feet in the air at Yellowstone National Park, video shows A man was seriously injured after being tossed 8 feet into the air by a bull bison in Yellowstone National Park, video shows. The animal, clearly agitated, appeared to target the man in footage captured Friday at one of the park's campgrounds.…",
-          "url": "https://www.cbsnews.com/news/bison-tosses-man-air-yellowstone-video/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Memory chip stocks down again today: Why SK Hynix shares are tumbling after its record-breaking IPO",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Memory chip stocks down again today: Why SK Hynix shares are tumbling after its record-breaking IPO",
-          "excerpt": "Shares in memory chip companies slumped across U.S. markets Monday, in a further sign of investor concerns over how much road is left for the AI stock market boom. SK Hynix’s American depository shares were down 8.9% by midday Monday, just days after its&nbsp; blockbuster stock market debut &nbsp;last week, the largest ever U.S. IPO by a foreign company.…",
-          "url": "https://www.fastcompany.com/91572597/sk-hynix-micron-sandisk-skhy-mu-sndk-stock-memory-chip-shares-down-today"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "SK Hynix stock plunged over 15% in Seoul after its blockbuster Nasdaq debut",
-          "excerpt": "SK Hynix stock fell 15.4% in Seoul on Monday, its largest single-day decline on record, as investors sold out of positions following the chipmaker's blockbuster Nasdaq $NDAQ debut last week. A 20-minute market-wide trading halt was triggered after the broader Kospi index shed 9% on the same session, according to Bloomberg.…",
-          "url": "https://qz.com/sk-hynix-stock-record-drop-nasdaq-debut-071326"
+          "headline": "Best CD rates today, Wednesday, July 15, 2026: Earn up to 4.10% APY",
+          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. Deposit account rates are on the decline. The good news: You can lock in a competitive return on a certificate of deposit (CD) today and preserve your earning power. In fact, the best CDs still pay rates of 4% or higher.…",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-15-2026-earn-up-to-410-apy-100000407.html"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "iCloud+ vs. Apple One: Which is worth it for you?",
+      "headline_en": "How to download iOS 27 right now (and which iPhone models support it)",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Engadget",
+          "source": "ZDNet",
           "lang": "en",
-          "headline": "iCloud+ vs. Apple One: Which is worth it for you?",
-          "excerpt": "iCloud+ vs. Apple One: Which is worth it for you? They both offer expanded storage, but there's more. \"Your iCloud storage is almost full.\" You've probably received an email with those words at one time or another if you've used the same Apple account across several devices or if you've been an Apple user for years.…",
-          "url": "https://www.engadget.com/2209865/icloud-plus-vs-apple-one/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Adult children moving back home to save money",
-          "excerpt": "Adult children moving back home to save money \"GMA\" looks at the growing trend of adult children moving back home as families save money, share household expenses and help each other with chores. July 13, 2026 Additional Live Streams Additional Live Streams Top Stories Top Stories - Pres.…",
-          "url": "https://abcnews.com/video/134709706/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Prime Data Centers Delays Sale of $500 Million Nordic Bond",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Prime Data Centers Delays Sale of $500 Million Nordic Bond",
-          "excerpt": "Data-center operator Prime Data Centers LLC has postponed a planned bond sale, in a sign of the limits of investor demand for AI exposure.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-13/prime-data-centers-delays-planned-500-million-nordic-bond-sale"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "AI data centers are rising across America. Are you one of the workers building them?",
-          "excerpt": "Artificial intelligence is driving an unprecedented data center construction boom. Tech giants like Meta, Microsoft, Google, and Amazon are investing billions in new data centers across the US and around the world to power the next generation of AI technologies.…",
-          "url": "https://www.businessinsider.com/ai-data-center-worker-survey-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Olive Garden is bringing back its $100 unlimited pasta pass after a six-year break",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Olive Garden is bringing back its $100 unlimited pasta pass after a six-year break",
-          "excerpt": "Olive Garden announced Monday that its Never-Ending Pasta Pass will return for the first time since 2019, with 10,000 passes priced at $100 each going on sale Thursday, July 16, at 2 p.m. ET at PastaPass.com.…",
-          "url": "https://qz.com/olive-garden-never-ending-pasta-pass-returns-071326"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "After 7 Years, Olive Garden Is Bringing Back Its Most Coveted Deal. Only 10,000 People Will Get It",
-          "excerpt": "The chain’s Never-Ending Pasta Pass sold out in “milliseconds” in 2019.",
-          "url": "https://www.inc.com/amaya-nichole/olive-garden-brining-back-most-coveted-deal-only-10000-people-will-get-it/91373164"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Wall Street to report bumper quarter as dealmaking returns",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Wall Street to report bumper quarter as dealmaking returns",
-          "excerpt": "US banks live: Wall Street to report bumper quarter as dealmaking returns",
-          "url": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-          "excerpt": "Expectations are high that when banks start posting second-quarter results Tuesday, led by JPMorgan Chase and Bank of America, revenue from trading equities and fixed income will approach, or even exceed, the records set earlier this year. That's a key part of what veteran analyst Mike Mayo of Wells Fargo calls the \"sweet spot\" in the financial sector right now.…",
-          "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US military releases video of its latest strikes on Iran",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "US military releases video of its latest strikes on Iran",
-          "excerpt": "US military releases video of its latest strikes on Iran US military releases video of its latest strikes on Iran US Central Command has released video showing its latest wave of attacks reportedly hitting Iran’s Bandar Abbas and the islands of Qeshm, Kish, and Abu Musa. The IRGC says it has retaliated by targeting Bahrain, Kuwait, and Jordan. Published On 14 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US releases video of sea drone strike on Iranian naval base",
-          "excerpt": "Video. Video shows US sea drones attacking Iranian naval facility Copy/paste the link below: Copy/paste the article video embed link below: Updated: The US military has released video it says shows three Corsair unmanned surface vessels striking a ship maintenance facility and submarine at Iran's Bandar Abbas Naval Base on 12 July.…",
-          "url": "http://www.euronews.com/2026/07/14/us-releases-video-of-sea-drone-strike-on-iranian-naval-base"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-          "excerpt": "Sudan's paramilitary RSF chief sentenced to death over war crimes - Published A Sudanese court has sentenced the leader of the paramilitary Rapid Support Forces (RSF), Mohamed Hamdan Dagalo to death for war crimes, crimes against humanity and genocide over atrocities committed in the West Darfur region.…",
-          "url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Sudanese court sentences Hemedti to death in absentia",
-          "excerpt": "In Sudan, the courts have just sentenced General Hemetti, the commander of the Rapid Support Forces, to death in absentia. According to the court, he is responsible for war crimes, crimes against humanity and genocide, particularly in the West Darfur region. Details by regional FRANCE 24 correspondent, Bastien Renouil.",
-          "url": "https://www.france24.com/en/sudanese-court-sentences-hemedti-to-death-in-absentia"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Republican strategist on what he'll remember most about Lindsey Graham",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Republican strategist on what he'll remember most about Lindsey Graham",
-          "excerpt": "Republican strategist on what he'll remember most about Lindsey Graham Sen. Lindsey Graham is being remembered for his wit and political effectiveness after his sudden death over the weekend. Republican strategist Matt Whitlock joins CBS News to discuss.",
-          "url": "https://www.cbsnews.com/video/republican-strategist-on-what-hell-remember-most-about-lindsey-graham/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Sen. Lindsey Graham's death elicits bipartisan outpouring of condolences",
-          "excerpt": "Sen. Lindsey Graham's death elicits bipartisan outpouring of condolences Trump called Graham \"one of the greatest people and Senators I have ever known.\" The sudden death of Sen. Lindsey Graham prompted condolences from President Donald Trump, world leaders, and a bipartisan list of the influential veteran South Carolina lawmaker's congressional colleagues.…",
-          "url": "https://abcnews.com/Politics/sen-lindsey-grahams-death-prompts-bipartisan-outpouring-condolences/story?id=134693549"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Flock is falling out of favor with police departments",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Flock is falling out of favor with police departments",
-          "excerpt": "Flock Safety is hitting a rough patch with one of its biggest customers. The Los Angeles Police Department let its deal with the surveillance company expire over the past weekend, a spokesperson of the department told Business Insider on Monday.…",
-          "url": "https://www.businessinsider.com/flock-safety-cameras-police-departments-lapd-2026-7"
+          "headline": "How to download iOS 27 right now (and which iPhone models support it)",
+          "excerpt": "How to download iOS 27 right now (and which iPhone models support it) Follow ZDNET: Add us as a preferred source on Google. Apple made the iOS 27 developer beta available during WWDC last month, and starting today, you can download the public beta.…",
+          "url": "https://www.zdnet.com/article/how-to-download-ios-27/"
         },
         {
           "source": "TechCrunch",
           "lang": "en",
-          "headline": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-          "excerpt": "The Los Angeles Police Department (LAPD) is reportedly ending its deal with Flock Safety, a surveillance company that helps law enforcement track vehicles using thousands of its license plate cameras placed across the United States.…",
-          "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
-          "excerpt": "President Donald Trump's plan to impose a 20% fee on cargo passing through the Strait of Hormuz is threatening the global oil surplus, especially if renewed fighting shuts the key waterway again.…",
-          "url": "https://www.cnbc.com/2026/07/14/trumps-hormuz-toll-plans-bring-oil-supply-risks-back-in-spotlight.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "World stocks dip as oil rises after Trump's Hormuz levy threat",
-          "excerpt": "By Nell Mackenzie and Gregor Stuart Hunter LONDON/SINGAPORE, July 14 (Reuters) - Stocks moved back into negative territory after yo-yoing between gains and losses as oil hit one-month highs on Tuesday after President Donald Trump said the U.S. was reinstating its blockade of Iranian shipping and would collect a 20% fee on the Strait of Hormuz cargo traffic.…",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-markets-choppy-threat-trump-012723429.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Walmart delivery workers say a new app feature is sending them running around stores — and wasting precious time",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Walmart delivery workers say a new app feature is sending them running around stores — and wasting precious time",
-          "excerpt": "A new feature in Walmart's Spark app is slowing the chain's delivery efforts, workers say. The Spark delivery workers told Business Insider that Walmart's app has changed a feature that helps them map out their trip around the store to pick up items.…",
-          "url": "https://www.businessinsider.com/walmart-app-changes-frustrates-spark-delivery-workers-2026-7"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Where Will Walmart Stock Be in 5 Years?",
-          "excerpt": "Walmart (NASDAQ: WMT) has quietly become one of the market's strongest large-cap performers over the past few years, rewarding investors who had long underestimated it. Lately, though, the run has cooled.…",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/where-walmart-stock-5-years-093700854.html"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-          "excerpt": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-          "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Oil hits four-week high as US-Iran conflict escalates",
-          "excerpt": "By Anushree Mukherjee July 14 (Reuters) - Oil prices rose on Tuesday to their highest in four weeks, as the U.S. reimposed a naval blockade of Iran and renewed attacks between Washington and Tehran heightened concerns over energy flows through the Strait of Hormuz. Brent crude futures were up $2.74, or 3.29%, at $86.04 per barrel at 0751 GMT, while U.S.…",
-          "url": "https://finance.yahoo.com/news/oil-climbs-one-month-high-010106262.html"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "US burrito giant Chipotle opening first outlet in Mexico",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "US burrito giant Chipotle opening first outlet in Mexico",
-          "excerpt": "US burrito giant Chipotle opening first outlet in Mexico - Published Chipotle Mexican Grill is set to open its first restaurant in Mexico this week, testing its appeal in the country that inspired its menu. The chain, which has more than 4,100 outlets worldwide, said on Monday that the move is a \"significant milestone\" for the firm - known for its customisable burritos, tacos and bowls.…",
-          "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Chipotle is opening its first restaurant in Mexico",
-          "excerpt": "Fast casual chain Chipotle is set to open its first restaurant in Mexico this week, the company announced on Monday. The store will open on Thursday in San Pedro Garza García, Nuevo León, part of the Monterrey metropolitan area. Chipotle said the opening is part of the Mexican food chain's previously announced partnership with restaurant group Alsea.…",
-          "url": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Samsung Electronics denies report that it is exploring US listing",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Samsung Electronics denies report that it is exploring US listing",
-          "excerpt": "July 14 (Reuters) - Samsung Electronics denied on Tuesday a report that it was in the early stages of exploring a potential U.S. offering of American Depositary Receipts (ADRs). \"Samsung Electronics is not reviewing the possibility of issuing American Depositary Receipts,\" a Samsung spokesperson said in a statement.…",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-explores-potential-us-listing-073750137.html"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Samsung Is Said in Early Discussions on Potential US Listing",
-          "excerpt": "Samsung Electronics Co. is in the early stages of exploring a potential offering of American depositary receipts, according to people familiar with the matter.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/samsung-is-said-in-early-discussions-on-potential-us-share-sale"
+          "headline": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+          "excerpt": "Apple is opening up its biggest-ever Siri overhaul to a broader audience with the release of the iOS 27 public beta, giving everyday users the chance to try out the new AI assistant ahead of its broader launch later this fall. The public beta marks the first time Apple has made its AI-powered Siri widely available beyond developers.…",
+          "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+      "headline_en": "“We’ve given the French a proper trashing\": the Spaniards delighted, the French disappointed",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "“We’ve given the French a proper trashing\": the Spaniards delighted, the French disappointed",
+          "excerpt": "France 24 - Infos, news & actualités - L'information internationale en direct À la une En continu Replays Direct TV fr Français English Español عربي Réglages S'abonner aux newsletters Gérer les notifications Gérer mes consentements Menu Menu À la une Direct TV En continu Replays Menu Menu Fermer Coupe du monde 2026 Canicule Iran Direct TV Replay Le dernier journal Nos émissions Journal accessible …",
+          "url": "https://www.france24.com/en/video/20260714-we-ve-given-the-french-a-proper-trashing-the-spaniards-delighted-the-french-disappointed"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "French and Spanish fans pack Texas streets ahead World Cup semi-final",
+          "excerpt": "Thousands of French and Spanish supporters filled the streets around AT&T Stadium in Arlington, Texas, on Tuesday 14 July, marching in separate groups while chanting to the sound of drums and horns ahead of their teams' FIFA World Cup semi-final.…",
+          "url": "http://www.euronews.com/video/2026/07/14/french-and-spanish-fans-pack-texas-streets-ahead-world-cup-semi-final"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
       "coverage": 2,
       "perspectives": [
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-          "excerpt": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee.",
-          "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate"
+          "headline": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+          "excerpt": "Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review.",
+          "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing"
         },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Blanche to testify today at Senate confirmation hearing for attorney general",
+          "excerpt": "Blanche to testify today at Senate confirmation hearing for attorney general What to know about Todd Blanche's confirmation hearing: - Acting Attorney General Todd Blanche is set to appear before the Senate Judiciary Committee at 9 a.m. for his confirmation hearing to lead the Justice Department in a permanent capacity. - President Trump nominated Blanche for attorney general last month.…",
+          "url": "https://www.cbsnews.com/live-updates/todd-blanche-confirmation-hearing-senate-attorney-general/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Bipartisan senators introduce legislation to avert looming Social Security shortfall",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "Maine Dems try to replace Platner: 'Grassroots energy ... needs to find a home'",
-          "excerpt": "As Maine Democrats scramble to replace Platner, party director says the 'grassroots energy … needs to find a home' The party faces uncharted waters since Platner withdrew from the race.…",
-          "url": "https://abcnews.com/Politics/maine-democrats-scramble-replace-platner-party-director-grassroots/story?id=134689504"
+          "headline": "Bipartisan senators introduce legislation to avert looming Social Security shortfall",
+          "excerpt": "Bipartisan senators introduce legislation to avert looming Social Security shortfall Lawmakers in the Senate have unveiled a bipartisan proposal to address Social Security's looming insolvency WASHINGTON -- With Social Security's looming insolvency date roughly six years away, a bipartisan group of lawmakers introduced a proposal Tuesday to grapple with one of the most consequential financial chal…",
+          "url": "https://abcnews.com/Business/wireStory/bipartisan-group-senators-introducing-legislation-avert-looming-social-134761012"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Bipartisan group of senators propose Social Security reform process ahead of funding shortfall",
+          "excerpt": "A bipartisan group of senators is introducing a bill to initiate action on Social Security reform. The PROMISE Act — which stands for Protecting Retirement Opportunities and Maintaining Income Security for Everyone — would establish a process for enacting changes to Social Security, a more than 90-year-old federal program that provides benefits to more than 71 million Americans each month.…",
+          "url": "https://www.cnbc.com/2026/07/14/social-security-reform.html"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
+      "headline_en": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Wired",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
-          "excerpt": "It took just hours after South Carolina senator Lindsey Graham’s death was announced for conspiracy theories to spread. Extremists, right-wing influencers, and political commentators have baselessly spent the weekend claiming that Russia, Israel, or Iran assassinated the 71-year-old.…",
-          "url": "https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/"
+          "headline": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+          "excerpt": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal - Published A woman who held the legs of her husband as he was nearly sucked head-first out of a Ryanair cabin window on Friday said his \"right shoulder and head were outside the plane\".…",
+          "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Wife of passenger sucked out of plane window describes their ordeal",
+          "excerpt": "A woman whose husband was partially sucked out of the window during a Ryanair flight has described how half of his body was left sticking out of the plane for \"up to two minutes\".",
+          "url": "https://news.sky.com/story/if-we-die-we-die-together-wife-of-passenger-sucked-out-of-plane-window-describes-ordeal-13563378"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say",
+          "excerpt": "HONG KONG/BEIJING, July 15 (Reuters) - Chinese AI startup DeepSeek is planning to launch a fresh fundraising round at a valuation of about 500 billion yuan ($74 billion) ahead of a potential mainland initial public offering, two people with knowledge of the matter said.…",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-raise-fresh-capital-095807183.html"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+          "excerpt": "DeepSeek, the Chinese large language model developer, is preparing for a 2027 IPO debut, but it could come as early as the end of this year as it also looks to raise around $1.5 billion in new funds at about a $71 billion valuation, Bloomberg reports.…",
+          "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "How the 2016 coup attempt changed Turkey for good",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "How the 2016 coup attempt changed Turkey for good",
+          "excerpt": "How the 2016 coup attempt changed Turkey for good July 14, 2026It was the evening of July 15, 2016. A warm summer day was coming to an end. Many people were spending their Friday evening with friends or family, looking forward to the weekend. There was nothing to suggest that Turkey was about to be fundamentally transformed. Then, just a few hours later, tanks were rolling through the streets.…",
+          "url": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+          "excerpt": "How the failed 2016 coup reshaped Turkiye’s civil-military relations Attempted military takeover 10 years ago accelerated government’s efforts to expand civilian oversight, experts say, reducing chances of country facing another conventional military coup.…",
+          "url": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Taco Bell Is a Potential Culprit in Growing Cyclospora Outbreak—Here’s How It Could Have Spread",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Taco Bell Is a Potential Culprit in Growing Cyclospora Outbreak—Here’s How It Could Have Spread",
+          "excerpt": "An infectious disease specialist and a foodborne illness attorney break down why this outbreak doesn’t play by the usual contamination rules.",
+          "url": "https://www.inc.com/amaya-nichole/taco-bell-potential-culprit-cyclospora-outbreak/91373942"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Taco Bell has pulled some menu ingredients in select locations to prevent possible cyclospora exposure",
+          "excerpt": "Taco Bell is taking a more aggressive approach to protecting against cyclospora than federal health officials currently recommend, temporarily pulling some ingredients from select restaurants while the CDC investigates a multistate outbreak.…",
+          "url": "https://www.businessinsider.com/taco-bell-removes-menu-items-amid-cyclospora-outbreak-concerns-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+          "excerpt": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers - Published In the offices of Welspun Living, the Indian company that makes championship towels for Wimbledon, preparations have been gathering pace to take full benefit of the India-UK free trade agreement (FTA) that came into effect on Wednesday.…",
+          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "India news: Landmark trade deal with UK takes effect",
+          "excerpt": "India news: Landmark trade deal with UK takes effect Published July 15, 2026last updated July 15, 2026What you need to know - India-UK trade deal takes effect - New framework meant to make Indian exports competitive, make British imports cheaper - US senators introduce bill to impose 100% tariffs on India, China and others over Russian oil - Millions converge on India's coastal town Puri for one o…",
+          "url": "https://www.dw.com/en/india-news-landmark-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700",
+          "excerpt": "Eighty percent of new Ebola cases in eastern Congo are emerging from unknown chains of transmission, according to WHO, a sign the outbreak is spreading faster than health officials can track.",
+          "url": "https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths"
         },
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "Lindsey Graham's death prompts process to fill his Senate seat",
-          "excerpt": "Lindsey Graham's death prompts process to fill his Senate seat A special election will be held in the coming weeks, according to state law. South Carolina Sen. Lindsey Graham, who died Saturday at age 71, was up for reelection this year and won the state's Republican primary last month with almost 60% of the vote.…",
-          "url": "https://abcnews.com/Politics/lindsey-grahams-death-prompts-process-fill-senate-seat/story?id=134693556"
+          "headline": "Confirmed Ebola cases top 2,000 in Congo, including 754 deaths",
+          "excerpt": "Confirmed Ebola cases top 2,000 in Congo, including 754 deaths Confirmed cases of Ebola in Congo have reached 2,011, including 754 deaths, according to government data released overnight in what authorities say is the fastest-growing outbreak on record BUNIA, Congo -- The confirmed cases of Ebola in Congo have reached 2,011, including 754 deaths, according to government data released overnight in …",
+          "url": "https://abcnews.com/International/wireStory/confirmed-ebola-cases-top-2000-congo-including-754-134772609"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Supreme Court Justices give chilling accounts of threats to their safety",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Supreme Court Justices give chilling accounts of threats to their safety",
+          "excerpt": "Supreme Court Justices Elena Kagan and Amy Coney Barrett spoke with lawmakers about funding for security and other needs for the court on Tuesday.",
+          "url": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "The See-No-Evil Supreme Court",
+          "excerpt": "This article was featured in the One Story to Read Today newsletter. Sign up for it here. The Roberts Court accelerated its assault on the freedoms guaranteed by the Reconstruction amendments this term, leaving only the Fourteenth Amendment’s guarantee of birthright citizenship intact—and that by only one vote.…",
+          "url": "https://www.theatlantic.com/ideas/2026/07/the-see-no-evil-supreme-court/687902/?utm_source=feed"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Warren Buffett is accelerating his charitable donations with aim to give away Berkshire wealth by 2034",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Warren Buffett is accelerating his charitable donations with aim to give away Berkshire wealth by 2034",
+          "excerpt": "(This is a special breaking news edition of the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway.…",
+          "url": "https://www.cnbc.com/2026/07/14/warren-buffett-is-accelerating-his-charitable-donations-with-aim-to-give-away-berkshire-wealth-by-2034.html"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Warren Buffett Just Broke a 20-Year Philanthropic Tradition by Cutting This Foundation From Receiving Billions",
+          "excerpt": "The founder of Berkshire Hathaway just announced his annual mid-year donation. The news featured a surprising twist.",
+          "url": "https://www.inc.com/moses-jeanfrancois/warren-buffett-just-broke-20-year-philanthropic-tradition/91373846"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "A lawyer says Apple's case against OpenAI is really a fight to see what's behind the curtain",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "A lawyer says Apple's case against OpenAI is really a fight to see what's behind the curtain",
+          "excerpt": "Apple doesn't know what's happening behind OpenAI's closed doors, and its new lawsuit could change that. Apple sued OpenAI in federal court on Friday, with a fiery complaint accusing the company of stealing trade secrets to build up its nascent hardware business. The suit pits an incumbent against a disruptor — OpenAI is working on devices that could threaten Apple's bottom line.…",
+          "url": "https://www.businessinsider.com/apple-openai-trade-secret-claims-what-to-watch-2026-7"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "OpenAI pushes back on Apple trade secret lawsuit",
+          "excerpt": "OpenAI pushed back Tuesday against allegations made by Apple in a trade secret lawsuit, suggesting the complaint lacks merit. “While we take these allegations seriously, we’re not aware of any evidence that this complaint has merit,” OpenAI said in a statement, first shared by Bloomberg reporter Ed Ludlow on X.…",
+          "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Spain fans erupt as team reaches World Cup final",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Spain fans erupt as team reaches World Cup final",
+          "excerpt": "Spain fans erupt as team reaches World Cup final Spain fans erupt as team reaches World Cup final Fans erupted in celebration after Spain beat France 2-0 in the semifinals, securing their place in the 2026 FIFA World Cup final. Published On 15 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-fans-erupt-as-team-reaches-world-cup-final?traffic_source=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Spain, France, Argentina and England eyeing 2026 FIFA World Cup trophy",
+          "excerpt": "Spain, France, Argentina and England eyeing 2026 FIFA World Cup trophy ESPN's F-C host Dan Thomas breaks down what fans can expect as the tournament reaches its final matches.…",
+          "url": "https://abcnews.com/video/134753626/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Seven Britons among those killed in Spain wildfires",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Seven Britons among those killed in Spain wildfires",
+          "excerpt": "Seven Britons among those killed in Spain wildfires - Published Seven Britons were among those killed in the deadly wildfires in southern Spain, authorities have confirmed. Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday after completing post-mortem examinations, according to local media and Agence France Presse (AFP).…",
+          "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
+          "excerpt": "Seven Britons are among 12 foreign nationals killed in wildfires in southern Spain, authorities said. Officials said 12 of the 13 victims were foreign nationals after completing postmortem examinations after the fires that swept through Andalusia. Seven were from the UK, three from Belgium and one each from France and the US. The last victim was a Spanish citizen.…",
+          "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukraine: 3 dead as Russia intensifies attacks on Odesa",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine: 3 dead as Russia intensifies attacks on Odesa",
+          "excerpt": "Ukraine: 3 dead as Russia intensifies attacks on Odesa Published July 15, 2026last updated July 15, 2026What you need to know - Russian strikes have hit the Odesa and Mykolaiv regions in southern Ukraine - Three people were killed in Odesa and at least four others were injured - Officials said civilian, industrial and port infrastructure came under attack - Ursula von der Leyen arrived in Kyiv for…",
+          "url": "https://www.dw.com/en/ukraine-3-dead-as-russia-intensifies-attacks-on-odesa/live-77962795?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Deadly Russian strike hits Odesa as von der Leyen arrives in Ukraine for defence talks",
+          "excerpt": "Deadly Russian strike hits Odesa as von der Leyen arrives in Ukraine for defence talks Russian strikes killed six people and wounded at least 20 across Ukraine on Wednesday, regional authorities said, as European Commission President Ursula von der Leyen arrived in Kyiv to announce new defence initiatives.…",
+          "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans"
         }
       ]
     }
