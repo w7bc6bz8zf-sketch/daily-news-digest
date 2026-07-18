@@ -1,90 +1,132 @@
 {
-  "collected_at": "2026-07-17T10:20:29.809725+00:00",
+  "collected_at": "2026-07-18T09:10:33.230798+00:00",
   "total_sources": 59,
-  "total_entries": 821,
+  "total_entries": 829,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "coverage": 8,
+      "headline_en": "Sweetgreen Pares Drop as Parasite Tied to Taco Bell Lettuce",
+      "coverage": 10,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "White House teleprompter operator accused of making $100k from Trump speech bets",
-          "excerpt": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-          "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss"
+          "headline": "Sweetgreen Pares Drop as Parasite Tied to Taco Bell Lettuce",
+          "excerpt": "Sweetgreen Inc. shares surged on Friday, halting a four-day skid, after US regulators said a parasite outbreak that’s sickened thousands across several states was traced to shredded iceberg lettuce served at Taco Bell restaurants.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/sweetgreen-pares-26-drop-as-parasite-tied-to-taco-bell-lettuce"
         },
         {
-          "source": "ABC News",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Teleprompter operator made more than $100K betting on Trump's speeches: Sources",
-          "excerpt": "White House teleprompter operator made more than $100K betting on Trump's speeches: Sources The White House said that Gabriel Perez has been placed on unpaid leave.…",
-          "url": "https://abcnews.com/US/white-house-teleprompter-operator-made-100k-betting-trumps/story?id=134764573"
+          "headline": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
+          "excerpt": "FDA investigation identified a single supplier of the lettuce, but federal warnings did not name the company Federal health officials have identified lettuce from Mexico served by Taco Bell locations across five US states as a source of the widespread outbreak of the diarrhea-causing parasite cyclospora .…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
         },
         {
-          "source": "Axios",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "White House teleprompter operator investigated over alleged trades on Trump speeches",
-          "excerpt": "Federal regulators are investigating whether a White House teleprompter operator capitalized on his knowledge of President Trump's prepared speech text by making trades on the prediction market Kalshi, according to two sources familiar with the matter. The speeches the person allegedly traded on included the State of the Union in February.…",
-          "url": "https://www.axios.com/2026/07/16/white-house-teleprompter-kalshi-investigation"
+          "headline": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
+          "excerpt": "Federal health officials have identified a single supplier of the produce from Mexico that was served in Taco Bell restaurants in five states.",
+          "url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak"
         },
         {
-          "source": "Ars Technica",
+          "source": "The Atlantic",
           "lang": "en",
-          "headline": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
-          "excerpt": "Kalshi is a high-tech prediction market that allows people to “forecast the future” (their term). It is about contracts and information, the company says, making its offerings more like a soybean futures contract than a round of blackjack or a pull on the one-armed bandit.…",
-          "url": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/"
+          "headline": "Cyclosporiasis Is Solved! Right?",
+          "excerpt": "Cyclosporiasis Is Solved! Right? The federal government announced that iceberg lettuce at Taco Bell was to blame for the outbreak. But it still hasn’t answered some crucial questions.…",
+          "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-taco-bell-lettuce/687986/?utm_source=feed"
         },
         {
-          "source": "The Verge",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
-          "excerpt": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president’s teleprompter operator. Kalshi says it caught Trump’s teleprompter operator insider trading ABC News reports that the president’s longtime teleprompter operator made $100,000 betting on Kalshi markets related to Donald Trump’s speeches.…",
-          "url": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation"
+          "headline": "Taco Bell lettuce tied to diarrhea-causing parasite outbreak",
+          "excerpt": "Taco Bell lettuce tied to diarrhea-causing parasite outbreak July 18, 2026US investigators traced a parasite outbreak to shredded iceberg lettuce supplied to Taco Bell restaurants, according to the US Centers for Disease Control (CDC). The CDC has identified 1,645 people in five states linked to the Taco Bell outbreak so far.…",
+          "url": "https://www.dw.com/en/taco-bell-lettuce-tied-to-diarrhea-causing-parasite-outbreak/a-78015079?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "headline_en": "Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else",
       "coverage": 7,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Foreign Policy",
           "lang": "en",
-          "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-          "excerpt": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms - Published US President Donald Trump has delivered a primetime address in which he accused China of interfering in the 2020 election and alleged \"shocking vulnerabilities\" in American voting systems.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
+          "headline": "Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else",
+          "excerpt": "Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else Their teams will face off in the upcoming FIFA Men’s World Cup final. It is tempting to frame the final matchup of the FIFA Men’s World Cup between Spain and Argentina primarily as a battle of rival soccer superpowers. But there is a deeper story that connects these two countries.…",
+          "url": "https://foreignpolicy.com/2026/07/17/spain-argentina-soccer-world-cup-final-football/"
         },
         {
-          "source": "FT",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Trump revives election meddling claims ahead of midterms",
-          "excerpt": "Donald Trump revives election meddling claims ahead of midterms",
-          "url": "https://www.ft.com/content/61909f37-b1b5-41af-bac0-3e64bbe0506d?syn-25a6b1a6=1"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Donald Trump accuses China of meddling in US elections",
-          "excerpt": "Donald Trump accuses China of meddling in US elections July 17, 2026In a speech from the White House on Thursday evening, US President Donald Trump revisited widely debunked claims of interference during the 2020 US presidential election that he lost to Joe Biden. Trump has repeatedly and falsely claimed that the 2020 election was stolen from him.…",
-          "url": "https://www.dw.com/en/donald-trump-accuses-china-of-meddling-in-us-elections/a-77996793?maca=en-rss-en-all-1573-rdf"
+          "headline": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
+          "excerpt": "The Spanish Men's National Team will face Argentina in Sunday's World Cup final. The country's women's team lifted its first World Cup trophy in 2023.",
+          "url": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Trump rails against China in his speech about U.S. elections",
-          "excerpt": "Latest U.S. Iran War Trump's Speech World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
-          "url": "https://www.cbsnews.com/video/trump-rails-against-china-speech-us-elections/"
+          "headline": "Over 80,000 fans and Trump expected at World Cup final between Spain and Argentina",
+          "excerpt": "Over 80,000 fans and Trump expected at World Cup final between Spain and Argentina Tens of thousands of fans, along with President Trump, are expected to gather in New Jersey on Sunday as Spain and Argentina battle for the World Cup trophy. Nicole Valdes reports.",
+          "url": "https://www.cbsnews.com/video/over-80000-fans-and-trump-expected-at-world-cup-final-between-spain-and-argentina/"
         },
         {
-          "source": "Euronews",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Trump revives claims of election interference during address to nation",
-          "excerpt": "The US president said he would declassify intelligence data that revealed China had illicitly acquired 220 million US voter files. Trump's claim contradicts reviews that have found no evidence of significant interference in the 2020 election.",
-          "url": "http://www.euronews.com/2026/07/17/trump-revives-claims-of-election-interference-during-address-to-nation"
+          "headline": "In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final",
+          "excerpt": "In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final Tournament has showcased unity and solidarity in Brooklyn’s sizable Arab American community, football fans say.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Countdown to World Cup Final in New Jersey",
+          "excerpt": "ESPN senior writer Gabe Marcotti previews the World Cup final as defending champions Argentina take on Spain.",
+          "url": "https://abcnews.com/video/134860661/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump wants Canada to pay more tariffs for the 'filthy, polluted, and unhealthy' wildfire smoke",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Trump wants Canada to pay more tariffs for the 'filthy, polluted, and unhealthy' wildfire smoke",
+          "excerpt": "President Donald Trump is using wildfire smoke from Canada to threaten tariffs. Trump blasted Canada in a post on Truth Social on Friday, accusing America's northern neighbor of mismanaging its forests and causing the current bout of wildfires that are sending waves of smoke into the US.…",
+          "url": "https://www.businessinsider.com/trump-blames-canada-for-wildfire-smoke-threatens-new-tariffs-2026-7"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+          "excerpt": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires. “The cost is incalculable!” the president wrote in a post on Truth Social.…",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump threatens more tariffs over Canadian wildfire smoke",
+          "excerpt": "President Trump is threatening to raise tariffs on Canada over wildfire smoke that drifted from the country into the U.S., triggering health warnings and disrupting outdoor activities. Why it matters: Dealing with Canadian wildfire smoke is becoming a semi-regular occurrence in the Midwest and Northeast.…",
+          "url": "https://www.axios.com/2026/07/17/canada-wildfire-smoke-trump-tariffs"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Trump blames Canada as US 'invaded by filthy air'",
+          "excerpt": "US President Donald Trump has blamed Canada for wildfire smoke that could impact the World Cup final.",
+          "url": "https://news.sky.com/story/trump-blames-canada-as-us-invaded-by-filthy-air-from-wildfires-that-could-impact-world-cup-final-13563357"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump threatens Canada with higher tariffs over wildfire smoke",
+          "excerpt": "Trump threatens Canada with higher tariffs over wildfire smoke President Trump on Friday called the smoke from wildfires in Canada trickling into U.S. airspace unacceptable, saying he would hold the country responsible. CBS News congressional reporter Taurean Small has the latest.",
+          "url": "https://www.cbsnews.com/video/trump-threatens-canada-higher-tariffs-wildfire-smoke/"
         }
       ]
     },
@@ -101,25 +143,25 @@
           "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
         },
         {
-          "source": "Wired",
+          "source": "The Atlantic",
           "lang": "en",
-          "headline": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
-          "excerpt": "Wildfire season is fully upon us—and with it, the smoke. The most spectacular threat of a wildfire is of course the possibility it might directly threaten lives and homes, like the wildfires last year that devastated Los Angeles.…",
-          "url": "https://www.wired.com/story/wildfire-smoke-safety-guide/"
+          "headline": "Photos: Wildfire Smoke Blankets Parts of North America",
+          "excerpt": "Photos: Wildfire Smoke Blankets Parts of North America Large wildfires in Canada and Minnesota have been sending plumes of smoke into the atmosphere, turning the sky shades of yellow or orange from the U.S. Midwest to the East Coast, and prompting countless air-quality alerts. Explore More Topics",
+          "url": "https://www.theatlantic.com/photography/2026/07/photos-wildfire-smoke-blankets-parts-north-america/687973/?utm_source=feed"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
+          "excerpt": "President Donald Trump on Friday blasted Canada for wildfires enveloping swaths of the United States in a smoky haze and said he would add the costs of that pollution to existing tariffs. Calling the situation \"totally unacceptable,\" Trump accused Ottawa of failing to address what he said were the causes of the fires in Canada, whose smoke has sent air quality to dangerous levels in major U.S.…",
+          "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Watch: Wildfire smoke blankets cities across U.S., Canada",
-          "excerpt": "Watch: Wildfire smoke blankets cities across U.S., Canada Heavy smoke from wildfires in Canada and Minnesota is engulfing parts of the U.S., prompting air quality alerts in 18 states. These videos show the hazy conditions on the ground in several cities.",
-          "url": "https://www.cbsnews.com/video/watch-wildfire-smoke-blankets-cities-across-us-canada/"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Toronto choked by wildfire smoke, records world's worst air quality",
-          "excerpt": "Despite the poor conditions, some residents continued to spend time outdoors, while others wore face masks as the smoke drifted across the city. The deteriorating air quality coincided with a heat alert, with temperatures reaching 33C, close to the record for 15 July.…",
-          "url": "http://www.euronews.com/video/2026/07/16/toronto-choked-by-wildfire-smoke-records-worlds-worst-air-quality"
+          "headline": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+          "excerpt": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires Heavy smoke from wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week, impacting air quality as millions of people are exposed to hazardous levels of air pollution.…",
+          "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/"
         },
         {
           "source": "Axios",
@@ -132,50 +174,85 @@
     },
     {
       "category": "🌍 World",
-      "headline_en": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-      "coverage": 6,
+      "headline_en": "Trump revives claims of election interference during address to nation",
+      "coverage": 5,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Euronews",
           "lang": "en",
-          "headline": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-          "excerpt": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea - Published US fast-food chain Taco Bell is removing lettuce from its menu in some states after investigations found it could be linked to an outbreak of explosive diarrhoea caused by a parasite. The decision was taken \"out of an abundance of caution\" following discussions with health officials, Taco Bell told the BBC.…",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Adweek",
-          "lang": "en",
-          "headline": "What Taco Bell Learned From Chipotle&#8217;s Mistakes Amid Cyclospora Outbreak",
-          "excerpt": "What the E. coli outbreak of 2015 taught the restaurant industry—and what it didn't",
-          "url": "https://www.adweek.com/brand-marketing/what-taco-bell-learned-from-chipotles-mistakes-amid-cyclospora-outbreak/"
+          "headline": "Trump revives claims of election interference during address to nation",
+          "excerpt": "The US president said he would declassify intelligence data that revealed China had illicitly acquired 220 million US voter files. Trump's claim contradicts reviews that have found no evidence of significant interference in the 2020 election.…",
+          "url": "http://www.euronews.com/2026/07/17/trump-revives-claims-of-election-interference-during-address-to-nation"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Cyclosporiasis outbreak possibly traced to lettuce from Mexico used by Taco Bell",
-          "excerpt": "Cyclosporiasis outbreak possibly traced to lettuce from Mexico used by Taco Bell, source says A lettuce supplier to fast-food giant Taco Bell is being investigated as a possible source for a nationwide cyclosporiasis outbreak that has sickened thousands of people, a source familiar with the investigation told CBS News on Thursday.…",
-          "url": "https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Shredded lettuce supplied to Taco Bell identified as a source of cyclospora that causes watery diarrhea",
-          "excerpt": "They found it: guilty lettuce. On Thursday, the US Food and Drug Administration linked shredded iceberg lettuce supplied to Taco Bell restaurants in five states to an ongoing cyclosporiasis outbreak. The FDA said shredded lettuce served at Taco Bell locations in Indiana, Kentucky, Michigan, Ohio, and West Virginia was responsible for 1,644 confirmed cyclosporiasis cases.…",
-          "url": "https://www.businessinsider.com/cyclospora-outbreak-cause-identified-contaminated-lettuce-2026-7"
+          "headline": "Fact checking Trump's new claims of election interference",
+          "excerpt": "Fact checking Trump's new claims of election interference In a primetime address on Thursday evening, President Trump accused China of interfering in U.S. elections as he questioned the integrity of the country's voting system. CBS News' Jake Rosen fact-checks his claims.",
+          "url": "https://www.cbsnews.com/video/fact-checking-trumps-new-claims-of-election-interference/"
         },
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "Cyclosporiasis cases linked to lettuce served at some Taco Bell locations: CDC, FDA",
-          "excerpt": "Cyclosporiasis outbreak linked to shredded lettuce served at some Taco Bell locations: CDC, FDA The locations were in Indiana, Kentucky, Michigan, Ohio and West Virginia Recent cases of the intestinal illness cyclosporiasis have been linked to shredded iceberg lettuce served at some Taco Bell locations in Indiana, Kentucky, Michigan, Ohio and West Virginia, according to the Centers for Disease Con…",
-          "url": "https://abcnews.com/Health/cyclosporiasis-outbreak-linked-shredded-lettuce-served-taco-bell/story?id=134813448"
+          "headline": "China rejects Trump's election interference claim as 'groundless accusations'",
+          "excerpt": "China rejects Trump's election interference claim as 'groundless accusations' China says it has never interfered in U.S. elections and has no interest in doing so BEIJING -- China on Friday said it has never interfered in U.S.…",
+          "url": "https://abcnews.com/International/wireStory/china-rejects-trumps-election-interference-claim-groundless-accusations-134840885"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Trump accused of making 'totally bogus' election claims in primetime address to nation",
+          "excerpt": "Donald Trump has been accused of using an address to the nation to make \"totally bogus\" claims of interference in the 2020 US election.",
+          "url": "https://news.sky.com/story/trump-alleges-chinese-election-interference-in-address-to-nation-13564219"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump calls for new election security measures",
+          "excerpt": "Great Americans: A conversation with John Leguizamo 03:16 Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak 01:15 Violent shootout between Florida deputies and gunman 01:21 New flooding emergencies in Texas 01:59 100 million Americans facing dangerous wildfire smoke 02:05 Gas prices rise as U.S.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992"
         }
       ]
     },
     {
-      "category": "📈 Economy",
+      "category": "🌍 World",
+      "headline_en": "Trump encourages Darline Graham to run for full Senate term",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump encourages Darline Graham to run for full Senate term",
+          "excerpt": "Trump encourages Darline Graham to run for full Senate term President Trump urged late Senator Lindsey Graham's sister, Darline, who is temporarily replacing him in Congress, to run for his seat in South Carolina's upcoming special election. Fin Gómez reports.",
+          "url": "https://www.cbsnews.com/video/trump-encourages-darline-graham-to-run-for-full-senate-term/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Sen. Lindsey Graham's memorial services set for later this month",
+          "excerpt": "Sen. Lindsey Graham's memorial services set for later this month Trump called on Darline Graham to run in the upcoming special primary election. The late Sen. Lindsey Graham will be honored later this month with separate services in Washington, D.C. and South Carolina, after the Republican died unexpectedly on July 11.…",
+          "url": "https://abcnews.com/Politics/sen-lindsey-grahams-memorial-services-set-month/story?id=134854727"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump backs Sen. Darline Graham in primary to replace her late brother",
+          "excerpt": "President Donald Trump endorsed Sen. Darline Graham, R-S.C., in the special election to fill her late brother’s Senate seat for a full term. “I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026,” Trump wrote in a Friday post on Truth Social.…",
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-backs-darline-graham-nordone-primary-replace-lindsey-graham-rcna588075"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Nancy Mace, Ralph Norman still eyeing runs to replace Lindsey Graham despite Trump snub",
+          "excerpt": "Reps. Nancy Mace (R-S.C.) and Ralph Norman (R-S.C.) are both still considering bids for the U.S. Senate despite President Trump endorsing Darline Graham Nordone for a full six-year term. Why it matters: A run by either could mean a messy Aug. 11 special primary to replace the late Sen. Lindsey Graham (R-S.C.) on the general election ballot.…",
+          "url": "https://www.axios.com/2026/07/17/mace-norman-trump-graham-senate"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
       "headline_en": "Trump Media to sell instant access to 'market-moving' social posts",
-      "coverage": 6,
+      "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
@@ -187,23 +264,9 @@
         {
           "source": "FT",
           "lang": "en",
-          "headline": "Trump Media to sell high-speed access to president’s social media posts",
-          "excerpt": "Trump Media to sell high-speed access to president’s social media posts",
-          "url": "https://www.ft.com/content/32db576f-4f53-47d2-b00c-2ad4e906952c?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump Media launches paid data service to help Wall Street track Trump’s posts",
-          "excerpt": "The company behind social-media network Truth Social is launching a service that will give paying customers interested in market-moving information \"licensed, real-time access\" to posts from President Donald Trump and other top accounts, the company said Thursday. Trump's family is the largest shareholder in Trump Media & Technology Group, the public company that operates Truth Social.…",
-          "url": "https://www.cnbc.com/2026/07/16/trump-truth-social-wall-street-traders-api.html"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Truth Social is selling real-time access to posts that could move the markets",
-          "excerpt": "Wall Street banks and trading firms will soon receive President Donald Trump’s musings within milliseconds, as the parent company of Truth Social announced a new service on Thursday that’s targeted toward paying institutional clients.…",
-          "url": "https://www.fastcompany.com/91575112/truth-social-is-selling-real-time-access-to-posts-that-could-move-the-markets"
+          "headline": "Trump Media pitched $100,000 monthly fee for fast feed of president’s posts",
+          "excerpt": "Trump Media pitched $100,000 monthly fee for fast feed of president’s posts",
+          "url": "https://www.ft.com/content/e466df85-fa3b-4a7f-a4a1-ae04d66db99f?syn-25a6b1a6=1"
         },
         {
           "source": "Time",
@@ -211,132 +274,356 @@
           "headline": "Trump Media to Sell Traders ‘the Fastest’ Access to Truth Social Posts",
           "excerpt": "From announcements of U.S. military action to threats of tariffs on other nations, Donald Trump’s Truth Social has been a repository of market-moving statements—mostly from him—since the social media site’s launch in 2022. Now the U.S.…",
           "url": "https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "There's now an API for mainlining Trump's Truth Social posts",
+          "excerpt": "There's now an API for mainlining Trump's Truth Social posts The API is supposed to deliver posts from 'the highest-ranking Truth Social accounts.' We may receive a commission on purchases made from links. Trump Media and Technology Group, the company behind social media platform Truth Social, has announced it will sell access to Truth Social posts through a new API.…",
+          "url": "https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts/"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-          "excerpt": "Zelensky's removal of popular defence minister sparks protests in Ukraine - Published Ukrainian President Volodymyr Zelensky's surprise move to replace popular Defence Minister Mykhailo Fedorov has caused an outburst of anger from civil society and protests from MPs.…",
-          "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
-          "excerpt": "Ukraine’s president, Volodymyr Zelenskyy, has defended his decision to dismiss the country’s popular defence minister, Mykhailo Fedorov, and confirmed reports that relations had broken down between the ministry and the country’s top army leadership.…",
-          "url": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov"
-        },
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine",
-          "excerpt": "Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine Defense Minister Mykhailo Fedorov was popular for his drone development push—but not enough to keep him in office. Welcome back to World Brief, where we’re looking at protests in Ukraine, Iran’s new threats to the Gulf region, and dangerous air quality levels for Canada and the United States.…",
-          "url": "https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ukraine's top general is splitting country, says ousted defence minister",
-          "excerpt": "Ukraine's ousted defence minister Mykhailo Fedorov was just six months in the role before his ambitious drive to reform the military led to unreconciliable clashes with the country's top general He increasingly battled with a top command he cast as out of date, not flexible and bogged down with bureaucracy. His dismissal has led to protests all over Ukraine.",
-          "url": "https://www.france24.com/en/ukraine-s-defence-minister-is-splitting-country-says-ousted-defence-minister"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Kyiv protesters rally after Zelenskyy sacks defence minister Fedorov",
-          "excerpt": "Hundreds protest in Kyiv after President Zelenskyy dismisses Defence Minister Fedorov, a moderniser credited with slowing Russia’s advance.",
-          "url": "http://www.euronews.com/video/2026/07/16/kyiv-protesters-rally-after-zelenskyy-sacks-defence-minister-fedorov"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream",
-          "excerpt": "US Defense Secretary Pete Hegseth has made no secret of his desire for a manlier military. He consistently argues that the US Armed Forces lowered their combat standards in order to include women. He’s staged various photo ops in which he exercises and pumps iron with service members.…",
-          "url": "https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "US Defense Secretary Pete Hegseth announces testosterone screening for US troops",
-          "excerpt": "US Defense Secretary Pete Hegseth announced Wednesday that military personnel age 30 and older will undergo testing for testosterone deficiency as part of annual health screenings.…",
-          "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-announces-testosterone-screening-for-us-troops"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Doctors question plan to screen military members for low testosterone",
-          "excerpt": "Hegseth's plan to screen military members for low testosterone raises concern for doctors: \"Not a performance drug\" A day after Defense Secretary Pete Hegseth announced that U.S. service members over the age of 30 will be annually screened for \"testosterone deficiency,\" doctors are expressing skepticism of the program and its goals.…",
-          "url": "https://www.cbsnews.com/news/pete-hegseth-military-low-testosterone-replacement-therapy-risks-benefits/"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "Pete Hegseth Wants YOU to Test Your Testosterone",
-          "excerpt": "Pete Hegseth Wants YOU to Test Your Testosterone The secretary of defense has a questionable plan to monitor the hormone levels of every service member over 30. Updated at 1:38 p.m. ET on July 16, 2026 Pete Hegseth wants a manly military. And he really, really wants you to know how badly he wants a manly military.…",
-          "url": "https://www.theatlantic.com/health/2026/07/hegseth-testosterone-testing-military/687929/?utm_source=feed"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Pete Hegseth wants widespread testosterone testing in the military. Researchers say US men already have a T problem.",
-          "excerpt": "The Pentagon's new policy about testosterone testing for troops addresses a major gap in men's health — and has raised serious concerns. That's mainly because, while low T is a problem among older men in America, military servicemen tend to be well under 30. Researchers worry the policy could promote testosterone dependency and other long-term health problems for them.…",
-          "url": "https://www.businessinsider.com/hegseth-testosterone-testing-military-plan-researchers-criticism-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "category": "📈 Economy",
+      "headline_en": "Epstein survivor says acting AG Blanche was 'abrasive, condescending' during meeting",
       "coverage": 4,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-          "excerpt": "Italian officials handed jail terms for Genoa bridge disaster that killed 43 - Published The former head of Italy's motorway operator has been given a 12-year prison sentence over the collapse of Genoa's Morandi bridge in August 2018. Prosecutors had asked for a far longer jail term for Giovanni Castellucci, ex-chief executive of Autostrade per l'Italia (Aspi).…",
-          "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
+          "headline": "Epstein survivor says acting AG Blanche was 'abrasive, condescending' during meeting",
+          "excerpt": "Epstein survivor says acting AG Blanche was 'abrasive, condescending' during meeting Farmer said Blanche \"would not commit\" to investigating her case. Acting Attorney General Todd Blanche met Thursday with several survivors of deceased convicted sex offender Jeffrey Epstein's crimes at the Justice Department.…",
+          "url": "https://abcnews.com/Politics/blanche-meet-epstein-victims-earn-confirmation-vote-sen/story?id=134823103"
         },
         {
-          "source": "The Guardian",
+          "source": "Axios",
           "lang": "en",
-          "headline": "Former boss of Italian motorways sentenced to 12 years over Genoa bridge tragedy",
-          "excerpt": "Thirty-two people, including the former chief executive of Italy’s motorway operator, have been convicted over the 2018 collapse of a Genoa bridge in which 43 people died. In a hushed courtroom on Thursday in the north-western Italian city, Giovanni Castellucci, a former boss of Autostrade per l’Italia, was sentenced to 12 years in prison, the highest in the case.…",
-          "url": "https://www.theguardian.com/world/2026/jul/16/genoa-bridge-tragedy-former-italian-motorways-boss-sentenced-12-years"
+          "headline": "Epstein survivors pan Blanche meeting as dismissive, \"demoralizing\"",
+          "excerpt": "Multiple survivors of Jeffrey Epstein's abuse said a long-awaited meeting with attorney general nominee Todd Blanche felt more like an obligatory box to check than a substantive conversation. The big picture: For Blanche, the meeting was a necessary step to unlock a crucial vote for his confirmation to be the nation's chief law enforcement officer.…",
+          "url": "https://www.axios.com/2026/07/17/epstein-survivors-blanche-meeting-reaction"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
+          "excerpt": "Victims of the late sex offender Jeffrey Epstein blasted Todd Blanche after meeting with the acting attorney general at the Department of Justice, a sit-down Sen. Thom Tillis urged Blanche to have as he seeks Senate confirmation as the permanent U.S. attorney general.…",
+          "url": "https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Epstein victims called acting attorney general \"abrasive\" after DOJ meeting",
+          "excerpt": "Jeffrey Epstein survivors blasted acting Attorney General Todd Blanche after meeting with him Thursday at the Justice Department, calling him condescending and evasive and urging senators to vote against his confirmation. Survivors said acting AG Todd Blanche was condescending and evasive, while Sen.…",
+          "url": "https://qz.com/epstein-survivors-blast-todd-blanche-doj-meeting-071726"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Gas prices rise as U.S. and Iran escalate attacks",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Gas prices rise as U.S. and Iran escalate attacks",
+          "excerpt": "Great Americans: A conversation with John Leguizamo 03:16 Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak 01:15 Violent shootout between Florida deputies and gunman 01:21 New flooding emergencies in Texas 01:59 100 million Americans facing dangerous wildfire smoke 02:05 Now Playing Gas prices rise as U.S.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/gas-prices-rise-as-u-s-and-iran-escalate-attacks-266868293836"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "The sell-off for AI stars worsens, while oil prices keep jumping",
+          "excerpt": "NEW YORK (AP) — The sell-off for winners of the artificial-intelligence boom deepened Friday and yanked stock markets lower worldwide. Oil prices, meanwhile, continued to jump because of the war with Iran. The S&P 500 fell 1% to finish its first losing week in the last three and only its third since the end of March. Just a couple days earlier, it had climbed within 0.5% of its all-time high.…",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-sink-tokyo-down-043403906.html"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Italy: Ex-highway head sentenced to 12 years for deadly bridge collapse",
-          "excerpt": "Italy: Ex-highway CEO sentenced over deadly bridge collapse July 16, 2026A Genoa court on Thursday delivered its long-awaited verdict in the Morandi bridge collapse case, concluding nearly four years of proceedings. In total, 32 people were found responsible for the disaster, receiving sentences ranging from 23 months to 12 years.…",
-          "url": "https://www.dw.com/en/italy-ex-highway-head-sentenced-to-12-years-for-deadly-bridge-collapse/a-77995618?maca=en-rss-en-all-1573-rdf"
+          "headline": "Iran's oil supply threat extends beyond Strait of Hormuz",
+          "excerpt": "Iran's oil supply threat extends beyond Strait of Hormuz July 17, 2026Oil and gas exports from the Gulf face renewed disruption as fighting between the US and Iran intensifies. For both countries control of the Strait of Hormuz is key.…",
+          "url": "https://www.dw.com/en/iran-s-oil-supply-threat-extends-beyond-strait-of-hormuz/a-77980704?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Sky News",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Former Italian motorway boss sentenced over Genoa bridge tragedy",
-          "excerpt": "The former head of Italy's motorway operator has been sentenced to 12 years in prison for his role in the Genoa bridge collapse that killed 43 people.",
-          "url": "https://news.sky.com/story/former-italian-motorway-boss-sentenced-over-genoa-bridge-tragedy-13564047"
+          "headline": "U.S. finishes 7th straight night of Iran strikes as Strait of Hormuz freezes up",
+          "excerpt": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz What to know about the Iran war today: - The U.S. military said Friday it completed a seventh night of strikes against Iran, marking one week of nightly attacks on Iranian targets, as hostilities between the two countries ramp up again.…",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US hits civilian infrastructure as it expands strikes against Iran",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "US hits civilian infrastructure as it expands strikes against Iran",
+          "excerpt": "The US hit bridges, energy facilities and a key Iranian port on Friday, expanding its aerial campaign against Iran, and prompting swift Iranian strikes against US allies in the Middle East. US airstrikes hit bridges in Iran’s southern Hormozgan province, killing at least seven people, Iranian state TV reported. The bridges were a key transit point for Bandar Abbas, Iran’s main port.…",
+          "url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "U.S. and Iran escalate strikes across Mideast",
+          "excerpt": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
+          "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "After ceasefire collapse, U.S. expands attacks on Iranian infrastructure to gain control of the Strait of Hormuz",
+          "excerpt": "The United States expanded its airstrike campaign against Iran early Friday by hitting more bridges, energy sites and collapsing a tower at a key Iranian port, part of U.S. President Donald Trump&#8217;s threats to start striking infrastructure to pressure Tehran to ease its chokehold on the Strait of Hormuz .…",
+          "url": "https://www.fastcompany.com/91575589/after-ceasefire-collaps-u-s-expands-attacks-iranian-infrastructure-gain-control-strait-hormuz"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Trump Has Only Terrible Choices With Iran",
+          "excerpt": "Trump Has Only Terrible Choices With Iran Some involve accepting Iranian control of the Strait of Hormuz. The rest call for escalation.…",
+          "url": "https://www.theatlantic.com/international/2026/07/trump-iran-negotiations-hormuz-nuclear/687937/?utm_source=feed"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+          "excerpt": "Apple and Google have been ordered to take down apps that can “nudify” or “undress” people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent to the companies seen by WIRED.…",
+          "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+          "excerpt": "The city of San Francisco has ordered Apple and Google to remove dozens of “nudify” apps — — software programs that can digitally alter pictures to unclothe the people in them — from their app stores. California law criminalizes any activity that “knowingly facilitates” or “recklessly aids or abets” the creation of non-consensual deepfake pornography.…",
+          "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Apple and Google ordered by San Francisco attorney to take action against 'nudify' apps",
+          "excerpt": "Apple and Google ordered by San Francisco attorney to take action against 'nudify' apps Both companies were sent cease-and-desist letters regarding 13 apps on their respective stores. Apple and Google have been sent cease-and-desist letters that demand they remove AI-powered \"nudify\" apps from their respective app stores.…",
+          "url": "https://www.engadget.com/2217578/apple-and-google-ordered-by-san-francisco-attorney-to-take-action-against-nudify-apps/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+          "excerpt": "This week, San Francisco’s attorney general, David Chiu, sent cease-and-desist letters, demanding that Apple and Google remove 13 so-called nudification apps from their app stores, Wired reported. Nudification apps can make it trivially easy to transform ordinary photos of real people into explicit images.…",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+          "excerpt": "Olympic cyclist admits to driving despite ban after crash that killed wife - Published Australian Olympic cyclist Rohan Dennis has pleaded guilty to driving despite a five-year ban placed on him after a 2023 incident where he struck his wife with a car.…",
+          "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Paul Pelosi charged with misdemeanor hit-and-run after hitting parked car in California",
+          "excerpt": "Prosecutors in Napa County charged Paul Pelosi, Rep. Nancy Pelosi’s husband, with a misdemeanor hit-and-run Friday after he was involved in a crash in Northern California earlier this month.…",
+          "url": "https://www.nbcnews.com/politics/politics-news/paul-pelosi-charged-misdemeanor-hit-run-hitting-parked-car-california-rcna588106"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Paul Pelosi faces misdemeanor hit-and-run charge for California collision",
+          "excerpt": "Paul Pelosi faces misdemeanor hit-and-run charge for California collision Paul Pelosi, the husband of former House Speaker Nancy Pelosi, has been charged with a misdemeanor hit-and-run count after authorities allege he struck a parked car and drove away from the scene earlier this month in Northern California, the Napa County District Attorney's Office announced Friday.…",
+          "url": "https://www.cbsnews.com/news/paul-pelosi-misdemeanor-hit-and-run-july-3-napa/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Taylor Farms pulls iceberg lettuce, says it's 'deeply concerned' after cyclospora outbreak",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Taylor Farms pulls iceberg lettuce, says it's 'deeply concerned' after cyclospora outbreak",
+          "excerpt": "A major produce supplier is pulling lettuce linked to the Cyclospora outbreak from shelves and kitchens. Taylor Farms said in a statement onFriday that it is voluntarily removing all iceberg lettuce from central Mexico that was for sale in the US.…",
+          "url": "https://www.businessinsider.com/taylor-farms-removes-iceberg-lettuce-cyclospora-outbreak-2026-7"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+          "excerpt": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it’s “voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.” Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded lettuce that had been produced initially…",
+          "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "FDA identifies potential culprit in cyclosporiasis outbreak as illness spreads nationwide",
+          "excerpt": "Latest U.S. Iran War Wildfire Smoke World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
+          "url": "https://www.cbsnews.com/video/fda-identifies-potential-culprit-in-cyclosporiasis-outbreak/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
+          "excerpt": "Good times for SpaceX are proving short-lived as Elon Musk's intergalactic IPO is now giving fodder to bears who said the U.S. stock market wasn't ready for a $2 trillion market-cap injection. Shares of the satellite and exploration business dropped 5.5% on Friday, extending a 10-day decline and hitting a low of $122.12 — roughly 9% below its IPO price of $135.…",
+          "url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Lackluster Retail Sales Mask a (Short-Lived) Silver Lining",
+          "excerpt": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors. Headline numbers don't tell the whole story. Retail sales rose 0.2% in June from the prior month, the Commerce Department reported Thursday, a sharp decline from May's revised 1% increase and lagging the 0.3% that economists polled by FactSet expected.…",
+          "url": "https://finance.yahoo.com/economy/articles/lackluster-retail-sales-mask-short-040100231.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "SpaceX in Talks to Sell Computing Power to Pentagon, WSJ Says",
+          "excerpt": "SpaceX is in talks to sell computing power to the US Department of Defense, the Wall Street Journal reported on Friday, adding to a spate of infrastructure deals for Elon Musk’s rocket, satellite and artificial intelligence conglomerate.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "How the World Cup Finally Won Over America",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "How the World Cup Finally Won Over America",
+          "excerpt": "How the World Cup Finally Won Over America Roger Bennett on soccer, social media, and the new American fandom Subscribe here: Apple Podcasts | Spotify | YouTube Why does the World Cup endure in an age of fractured attention? Is FreddyLA7 a real person? Charlie Warzel speaks with Men in Blazers founder Roger Bennett to chart how the World Cup has become far more than a sporting event and how this y…",
+          "url": "https://www.theatlantic.com/podcasts/2026/07/how-the-world-cup-finally-won-over-america/687972/?utm_source=feed"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "World Cup 2026: Do supporters know the World Cup records?",
+          "excerpt": "Which is the only team to have competed in every World Cup? And which has won the most? Throughout the tournament, we asked fans about World Cup records.",
+          "url": "https://www.france24.com/en/world-cup-2026-do-supporters-know-the-world-cup-records"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Five football players who rose to social media stardom at the World Cup",
+          "excerpt": "Five football players who rose to social media stardom at the World Cup On-pitch heroics and loveable personalities have skyrocketed the social media following of some footballers. The only thing you might have in common with a World Cup football player is posting on Instagram as soon as you’re back home from a social gathering.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/five-football-players-who-rose-to-social-media-stardom-at-the-world-cup?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Apple Briefly Tops Nvidia as World’s Most Valuable Company",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Apple Briefly Tops Nvidia as World’s Most Valuable Company",
+          "excerpt": "Apple Inc. briefly overtook Nvidia Corp. as the world’s most valuable company, a title the chipmaker has held since May 2025.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Apple, Nvidia vie for title of world's most valuable company",
+          "excerpt": "Apple and Nvidia battled it out on Friday for the title of world's most valuable company, with the iPhone maker briefly topping the long-time leader in market value. Shares of Nvidia briefly dropped about 3% and its market value dipped to $4.84 trillion in early morning trading, while Apple hovered near a $4.88 trillion market value.…",
+          "url": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Apple just passed Nvidia to become the world's most valuable company",
+          "excerpt": "The shift reflects a broader rotation among tech investors as Wall Street has grown less enthusiastic about companies at the center of the AI buildout Nvidia stock fell about 3.5% on Friday, pulling its market value below Apple's. Apple stock held steady to slightly higher.…",
+          "url": "https://qz.com/apple-overtakes-nvidia-most-valuable-company-071726"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "The Risks Of Hegseth’s Testosterone Plan For Soldiers Remain Unknown",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "The Risks Of Hegseth’s Testosterone Plan For Soldiers Remain Unknown",
+          "excerpt": "Secretary of Defense Pete Hegseth has recently announced that active duty male military personnel over age 30 will be screened annually for testosterone levels. As most men’s testosterone levels peak sometime in their 20’s, with a steady but slow decline in the decades that follow, having a so-called testosterone “deficiency” after age 30 can be addressed with testosterone supplementation.…",
+          "url": "https://www.forbes.com/sites/ninashapiro/2026/07/17/the-risks-of-hegseths-testosterone-plan-for-soldiers-remain-unknown/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "What Urologists Think of the Military’s New Testosterone Testing Policy",
+          "excerpt": "U.S. Defense Secretary Pete Hegseth announced on Wednesday, July 15, that it is now mandatory for all service members age 30 and older to test their testosterone levels every year. Younger service members have the option to get tested too.…",
+          "url": "https://time.com/article/2026/07/17/what-urologists-think-of-military-pete-hegseth-testosterone-testing-policy/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "What to know about testosterone after Hegseth directs screening for troops over 30",
+          "excerpt": "What to know about testosterone after Defense Secretary Pete Hegseth directs screening for troops over 30 Defense Secretary Pete Hegseth's announcement Wednesday that military members 30 and up must undergo annual testosterone screenings has raised questions about the testing process and potential testosterone replacement therapy for those with lower levels of the hormone.…",
+          "url": "https://abcnews.com/GMA/Wellness/testosterone-after-defense-secretary-pete-hegseth-directs-screening/story?id=134816289"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US strikes hit Iran for seventh consecutive night",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US strikes hit Iran for seventh consecutive night",
+          "excerpt": "US strikes hit Iran for seventh consecutive night - Published The US military said it carried out the seventh night of strikes on Iran since President Donald Trump declared the temporary ceasefire agreement was \"over\". US Central Command (Centcom) said its forces \"hit surveillance sites, military logistics infrastructure, underground weapons storage, and maritime capabilities\".…",
+          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Kuwait Faces Intense Night of Iranian Attacks as Power Plant Hit",
+          "excerpt": "Kuwait suffered one of its worst nights of Iranian retaliatory attacks since the conflict in the Middle East began, with a second power plant hit in as many days and flights suspended.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-18/kuwait-faces-intense-night-of-iranian-attacks-as-power-plant-hit"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Middle East live: Kuwait says Iran hit second water and electricity plant",
+          "excerpt": "Kuwait said on Saturday that an Iranian attack hit a water and electricity plant one day after a similar strike damaged another plant. Tehran launched attacks on US military sites hosted by several of its Gulf neighbours in response to a seventh night of US strikes on Iran overnight on Friday. Follow our liveblog for the latest updates.…",
+          "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Japan relaxes royal succession rules - but ban on female emperors remains",
-      "coverage": 4,
+      "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
@@ -346,13 +633,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Japan revises law on royals, keeps blocking women from throne",
-          "excerpt": "A popular princess drives support for having a female Japanese Emperor. But the country's first female prime minister opposes it.",
-          "url": "https://www.npr.org/2026/07/17/g-s1-133536/japan-law-male-heirs-imperial-throne"
-        },
-        {
           "source": "Euronews",
           "lang": "en",
           "headline": "Japan revises imperial succession law but retains ban on female emperors",
@@ -360,39 +640,144 @@
           "url": "http://www.euronews.com/2026/07/17/japan-revises-imperial-succession-law-but-retains-ban-on-female-emperors"
         },
         {
-          "source": "France 24",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Japan changes imperial succession law but keeps ban on female emperor",
-          "excerpt": "Japan changes imperial succession law but keeps ban on female emperor Japan's parliament on Friday enacted changes to imperial succession rules, allowing male distant relatives to rejoin the imperial family and women to retain royal status after marrying commoners.…",
-          "url": "https://www.france24.com/en/asia-pacific/20260717-japan-imperial-succession-law-female-emperor-ban"
+          "headline": "Japan revises imperial succession rules, but still excludes women",
+          "excerpt": "Japan revises imperial succession but still excludes women July 17, 2026Japan's parliament on Friday altered the imperial succession laws, making a change designed to safeguard against the eventuality of the only young male prince left in the family line failing to have a son.…",
+          "url": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
-      "category": "📈 Economy",
-      "headline_en": "Chip Stocks Lead Selloff as Investors Question AI Assumptions",
-      "coverage": 4,
+      "category": "🌍 World",
+      "headline_en": "What this desert city can teach the world about tackling heat deaths",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Chip Stocks Lead Selloff as Investors Question AI Assumptions",
-          "excerpt": "Tech stocks are selling off and there’s no sign of any letup. A new AI model from a Chinese startup is one contributing factor.",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-07-17/chip-stocks-lead-selloff-as-investors-question-ai-assumptions"
+          "headline": "What this desert city can teach the world about tackling heat deaths",
+          "excerpt": "What this desert city can teach the world about tackling heat deaths - Published It has been a blisteringly hot summer for much of the US and Europe. Scientists have warned that these extreme temperatures are the new normal for these communities. France reported an increase of more than 2,000 deaths during the record-breaking heatwave in late June.…",
+          "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Former Arizona election official reacts to Trump's primetime speech",
+          "excerpt": "Former Arizona election official reacts to Trump's primetime speech President Trump railed against China in his remarks about U.S. election security on Thursday night. Stephen Richer, a former election official in Maricopa County, Arizona, joins with his reaction.",
+          "url": "https://www.cbsnews.com/video/former-arizona-election-official-reacts-trump-primetime-speech/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Germany's 5,000 heat deaths: What the numbers reveal",
+          "excerpt": "Germany's 5,000 heat deaths: What the numbers reveal July 17, 2026A heatstroke begins with headaches, dizziness and loss of awareness. The body’s regulation system fails, causing body temperature to rise to life-threatening levels. Multiple organ failure and death can follow. But doctors rarely record deaths that can be directly attributed to heat.…",
+          "url": "https://www.dw.com/en/germany-s-5-000-heat-deaths-what-the-numbers-reveal/a-78010353?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+          "excerpt": "Zoox has issued a software recall after one of its robotaxis struggled to navigate a smoke-filled emergency fire scene in June. The Amazon-owned company said Friday that it has shipped to its fleet of 105 vehicles a software update that should address the issue.…",
+          "url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
-          "excerpt": "Chinese startup Moonshot AI has unveiled a new model it says closes the gap with leading U.S. offerings and surpasses OpenAI and Anthropic's most capable systems on some benchmarks. Kimi K3 still trails Anthropic's Claude Fable 5 and OpenAI's GPT 5.6 Sol on overall performance, the company said on Friday, but consistently outperformed other tested models.…",
-          "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
+          "headline": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+          "excerpt": "Amazon-owned Zoox recalled software in 105 of its robotaxis over concerns its vehicles failed to detect heavy smoke and drove into it. Zoox notified the National Highway Traffic Safety Administration of the recall on July 8 and said it became aware of the smoke detection issue following an incident last month.…",
+          "url": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html"
         },
         {
-          "source": "VentureBeat",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
-          "excerpt": "Moonshot AI, the Beijing-based artificial intelligence startup backed by Alibaba, on Thursday released Kimi K3 — a 2.8-trillion-parameter model that the company says is now the largest open-source AI model in the world, and one that benchmarks show performs neck-and-neck with the most powerful proprietary systems from Anthropic and OpenAI .…",
-          "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
+          "headline": "Zoox issues software recall because its robotaxis may be confused by smoke",
+          "excerpt": "Zoox issues software recall because its robotaxis may be confused by smoke The NHTSA recently called for autonomous vehicle companies to improve how cars respond in emergency situations. Zoox has issued a software recall for 105 of its robotaxis because of their inability to safely drive through heavy smoke.…",
+          "url": "https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+          "excerpt": "Tens of millions of Americans are enduring another day of smoky skies, irritated eyes and bad air quality, as Canadian wildfire smoke spread again over huge swathes of the US, affecting about 109 million people across the midwest, mid-Atlantic and north-east.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
+        },
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+          "excerpt": "Hot dogs, beach days, and iced tea on the porch are some of the rites of summer. But in an era of global warming, a new rite has emerged: choking down smoke from wildfires burning hundreds of miles or more away. The Midwest, Northeast, and parts of Canada have been blitzed with thick smoke that turned skies an eerie shade of orange and triggered widespread air quality alerts.…",
+          "url": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Toxic wildfire smoke chokes major US cities: Latest",
+          "excerpt": "Canada wildfire smoke brings unhealthy air quality to over a dozen states in Midwest, Northeast: Latest Canada has hundreds of wildfires burning Friday. Dangerous smoke from hundreds of Canadian wildfires has seeped down to the U.S., impacting over 100 million Americans across more than a dozen states.…",
+          "url": "https://abcnews.com/US/canada-wildfire-smoke-brings-unhealthy-air-quality-dozen/story?id=134845214"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "EU proposes slowing down cuts to carbon emissions for businesses",
+          "excerpt": "EU proposes slowing down cuts to carbon emissions for businesses - Published The European Union has unveiled proposals that would slow cuts to businesses' greenhouse gas emissions limits, as part of a major climate policy overhaul. The reforms would relax the rules of the bloc's emissions trading system (ETS) to give businesses more time to reduce their carbon output than previously planned.…",
+          "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
+          "excerpt": "Europe’s most effective method of cutting dangerous planet-heating gases risks being weakened after the European Commission proposed an overhaul of its flagship carbon market, critics have said. In a long-awaited review of the European Union emissions trading system (ETS), the European Commission proposed giving companies a less demanding and cheaper pathway to reduce greenhouse gas emissions.…",
+          "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "The EU climate policy the world copied is under fire — what's at stake?",
+          "excerpt": "What's at stake for Europe's carbon market blueprint? July 17, 2026Europe's carbon market rarely makes headlines. But it has become one of the world's most influential climate policies. The bloc aims to become climate-neutral by 2050, and meeting its 2040 interim target is considered essential to achieving that goal. The EU carbon market is the bloc's main tool for getting there.…",
+          "url": "https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark",
+          "excerpt": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark Follow ZDNET: Add us as a preferred source on Google. AI labs are shipping new models nonstop. Besides being better and faster than their predecessors, every new model isn't guaranteed to be a major step change, despite how the company's PR may wax poetic about them.…",
+          "url": "https://www.zdnet.com/article/ai-model-release-tracker/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "What smart people are saying about China's hot new Kimi K3 AI model",
+          "excerpt": "Chinese AI startup Moonshot AI released Kimi K3 on Thursday, a powerful new model that the startup says is the largest open-weight AI system in the world.…",
+          "url": "https://www.businessinsider.com/smart-people-saying-chinas-hot-new-kimi-k3-ai-model-2026-7"
         },
         {
           "source": "Axios",
@@ -404,282 +789,345 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
-          "excerpt": "Brazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of some Brazilian products.…",
-          "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Trump imposes 25% tariffs on Brazilian goods",
-          "excerpt": "The Trump administration said Wednesday it will impose an additional 25% tariff on many Brazilian goods, escalating a trade fight it says is rooted in Brazil's treatment of U.S. companies.…",
-          "url": "https://www.axios.com/2026/07/16/trump-tariffs-brazil"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US slaps 25% tariffs on Brazil with election looming",
-          "excerpt": "US slaps 25% tariffs on Brazil with election looming July 16, 2026The US Trade Representative's office (USTR) has said it will impose a 25% tariff on most imports from Brazil. The charges are set to come into effect in a week, on July 22.…",
-          "url": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Brazil calls Trump’s 25% tariff unjustifiable, vows to impose reciprocal tariffs",
-          "excerpt": "Brazil calls Trump’s 25% tariff unjustifiable, vows to impose reciprocal tariffs The Brazilian government has criticized a new U.S. tariff on certain Brazilian imports and says it plans to impose reciprocal tariffs RIO DE JANEIRO -- The Brazilian government has decried the latest U.S. tariff on certain Brazilian imports and threatened to impose reciprocal tariffs against U.S. products.…",
-          "url": "https://abcnews.com/US/wireStory/brazil-calls-trumps-25-tariff-unjustifiable-vows-impose-134822260"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Xi sets out China’s goal to be global AI leader",
+      "category": "💼 Business",
+      "headline_en": "Every single Christopher Nolan movie, ranked from worst to best",
       "coverage": 3,
       "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Every single Christopher Nolan movie, ranked from worst to best",
+          "excerpt": "Oscar winner Christopher Nolan is one of the most acclaimed directors working in Hollywood today. With a filmography spanning everything from major franchises to mind-bending mysteries, the director is known turning all kinds of stories into masterpieces — many of which are best enjoyed on IMAX. Here are all his movies, ranked for worst to best. 13.…",
+          "url": "https://www.businessinsider.com/christopher-nolan-movies-ranked-worst-best"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "‘The Odyssey’ Review: Christopher Nolan’s Epic Is Awesomely Weird, Visually Stunning But Not Without Its Flaws",
+          "excerpt": "Picture a group of men sitting around a table in an old hut on a grey island in the sea. Lost and hungry, they dig into bowls of meat. A woman walks around the table, coaxing them to eat. They need no encouragement. They tear at the meat, ravenous and increasingly desperate in their hunger.…",
+          "url": "https://www.forbes.com/sites/erikkain/2026/07/17/the-odyssey-christopher-nolan-matt-damon-movie-review/"
+        },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Xi Seeks Global AI Sway as Surging Chinese Models Spur Alarm",
-          "excerpt": "President Xi Jinping used the rise of China’s AI models to stake his claim on shaping the technology’s global rules, even as their growing power stirs security concerns in Washington and Beijing alike.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "China's Xi urges global cooperation on AI, warns against single-country dominance",
-          "excerpt": "China's Xi urges global cooperation on AI, warns against single-country dominance Chinese President Xi Jinping said on Friday artificial intelligence should not be dominated by any single country, calling for greater international cooperation on AI development and governance at a major conference in Shanghai.…",
-          "url": "https://www.france24.com/en/asia-pacific/20260717-china-s-xi-urges-global-cooperation-on-ai-warns-against-single-country-dominance"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Blanche holds meeting with Epstein accusers after Tillis' request",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Blanche holds meeting with Epstein accusers after Tillis' request",
-          "excerpt": "Blanche holds meeting with Epstein accusers after request from Tillis Acting Attorney General Todd Blanche met Thursday with accusers of convicted sex offender Jeffrey Epstein following a request to do so by Republican Sen. Thom Tillis of North Carolina, whose support is crucial to advancing his nomination to lead the Justice Department.…",
-          "url": "https://www.cbsnews.com/news/todd-blanche-meeting-epstein-accusers/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Tillis withholds Blanche vote until AG pick meets Epstein survivors",
-          "excerpt": "Outgoing Sen. Thom Tillis (R-N.C.) said Thursday he will not vote to confirm acting Attorney General Todd Blanche to the permanent role until Blanche meets with survivors of Jeffrey Epstein's abuse. Why it matters: Even a single Republican \"no\" vote on the Senate Judiciary Committee would prevent Blanche's nomination from advancing to a confirmation vote before the full Senate.…",
-          "url": "https://www.axios.com/2026/07/16/tillis-withholds-blanche-support-esptein"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "AG pick Blanche to meet with Epstein survivors after 2 GOP senators hedge on nomination",
-          "excerpt": "Two Republicans on the Senate Judiciary Committee on Thursday said they remained undecided about voting to confirm Todd Blanche for U.S. attorney general, endangering President Donald Trump's nominee to be the nation's top law enforcement official. \"I am still considering it,\" Sen.…",
-          "url": "https://www.cnbc.com/2026/07/16/todd-blanche-attorney-general-nomination-cornyn.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump says documents show voting vulnerabilities, China meddling and fraud",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump says documents show voting vulnerabilities, China meddling and fraud",
-          "excerpt": "Trump says documents show voting vulnerabilities, China meddling and fraud Trump makes a pitch for the SAVE America Act, which is stalled in Congress.…",
-          "url": "https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "How paper ballots make digital manipulation of results unlikely",
-          "excerpt": "IE 11 is not supported. For an optimal experience visit our site on another browser.…",
-          "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Trump alleges vast conspiracy to commit and cover up election fraud",
-          "excerpt": "President Trump alleged during a White House address Thursday that China interfered in the 2020 election and that U.S. intelligence agencies covered it up. Why it matters: Trump is reopening a politically charged debate over China's role in the 2020 election while directly challenging U.S. intelligence assessments that concluded Beijing did not try to influence the election's outcome.…",
-          "url": "https://www.axios.com/2026/07/17/trump-china-election-interference-us-intelligence-claim"
+          "headline": "The Odyssey: Christopher Nolan Movie Stars Zendaya, Matt Damon in Homer Epic",
+          "excerpt": "The Odyssey hits theaters on Friday and is expected to bring in roughly&nbsp;$100 million in its opening weekend.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/the-odyssey-christopher-nolan-movie-stars-zendaya-matt-damon-in-homer-epic"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "NTSB says Tesla driver floored the accelerator to override self-driving in fatal Texas crash",
+      "headline_en": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "Quartz",
+          "source": "Wired",
           "lang": "en",
-          "headline": "NTSB says Tesla driver floored the accelerator to override self-driving in fatal Texas crash",
-          "excerpt": "The National Transportation Safety Board released a preliminary report Wednesday confirming that the driver of a 2025 Tesla $TSLA Model 3 manually overrode the vehicle's Full Self-Driving (Supervised) system by pressing the accelerator pedal to 100% before crashing into a home in Katy, Texas, killing a resident inside.…",
-          "url": "https://qz.com/ntsb-tesla-driver-override-fsd-fatal-katy-texas-071626"
+          "headline": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+          "excerpt": "A glitch with Amazon Web Services’ billing operation led some customers to believe they owed the world’s fifth most valuable company billions of dollars. Oops! Bill Radjewski, who runs CollegeFootballData.com, was one of the affected customers.…",
+          "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Amazon fixing bug that billed some AWS customers billions of dollars",
+          "excerpt": "Some Amazon cloud customers woke up on Friday to a surprise bill estimate that said they owed billions of dollars for cloud services they had never used. Amazon confirmed on Friday that it’s trying to resolve a bug in its Amazon Web Services (AWS) billing portal that showed some customers “owed” millions or billions in cloud computing costs.…",
+          "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/"
         },
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "NTSB investigators confirm Tesla driver overrode Full Self-Driving system in fatal crash",
-          "excerpt": "NTSB investigators confirm Tesla driver overrode Full Self-Driving system in fatal crash The National Highway Traffic Safety Administration is also investigating the crash.…",
-          "url": "https://www.engadget.com/2216921/ntsb-investigators-confirm-tesla-driver-overrode-full-self-driving-system-in-fatal-crash/"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
-          "excerpt": "On Wednesday, the National Transportation Safety Board (NTSB) released preliminary findings verifying Elon Musk’s and Tesla’s claims that a driver involved in a fatal Texas crash that killed a grandmother overrode Full Self Driving in the moments ahead of impact. Last month, 44-year-old Michael Butler told police that the autopilot feature was engaged at the time of the crash.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/"
+          "headline": "A bug in AWS has caused some customers' bills to spike from a few cents to billions of dollars",
+          "excerpt": "A bug in AWS has caused some customers' bills to spike from a few cents to billions of dollars “The displayed billing estimates do not reflect actual usage and charges,” Amazon said. If you've ever gotten an unexpectedly high bill, you know the panic that can quickly set in. Well, imagine that, only for a sum of over a billion dollars.…",
+          "url": "https://www.engadget.com/2217648/a-bug-in-aws-has-caused-some-customer-bills-to-spike-from-a-few-cents-to-billions-of-dollars/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "US launches new strikes as Iran says civilian infrastructure hit",
+      "headline_en": "US launches seventh night of Iran strikes as Hormuz conflict escalates",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "US launches seventh night of Iran strikes as Hormuz conflict escalates",
+          "excerpt": "The US military said it had launched a seventh consecutive night of strikes on Iran on Friday night as fighting escalated over the strait of Hormuz. US Central Command, in a post on X, said the strikes, which began at 7pm GMT, were designed to “continue degrading Iranian military capabilities”. Iranian media reported explosions heard or strikes carried out in the cities of Sirik, Ahvaz and Yazd.…",
+          "url": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "US strikes hit Iran for seventh night",
+          "excerpt": "Kuwait said on Saturday that an Iranian attack hit a water and electricity plant one day after a similar strike damaged another plant. Tehran launched attacks on US military sites hosted by several of its Gulf neighbours in response to a seventh night of US strikes on Iran overnight on Friday. Morgan Ayre reports.",
+          "url": "https://www.france24.com/en/us-strikes-hit-iran-for-seventh-night"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "A seventh night of US strikes cuts water to villages in Iran’s south",
+          "excerpt": "A seventh night of US strikes cuts water to villages in Iran’s south A seventh night of US strikes cuts water to villages in Iran’s south The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran. Officials in Hormuzgan said one strike cut water to several towns. Iran has responded with attacks on US bases in Kuwait, Bahrain and Jordan.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
       "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "US launches new strikes as Iran says civilian infrastructure hit",
-          "excerpt": "US launches new strikes as Iran says civilian infrastructure hit - Published The US launched a wave of strikes against Iran for the sixth night in a row, its military said, as the two sides battled over control of the Strait of Hormuz.…",
-          "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+          "headline": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
+          "excerpt": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite - Published US fast-food chain Taco Bell is removing lettuce from its menu in some states after investigations found it could be linked to an outbreak of explosive diarrhoea caused by a parasite.…",
+          "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "CNBC",
+          "source": "Time",
           "lang": "en",
-          "headline": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
-          "excerpt": "Iran on Friday claimed it had targeted U.S. military forces in Syria and Bahrain, widening its attacks in the region as the U.S. completed its sixth consecutive night of strikes on the Islamic Republic. The escalating standoff comes as the fragile truce signed by the U.S. and Iran last month showed further signs of unravelling.…",
-          "url": "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html"
+          "headline": "Taco Bell's Shredded Lettuce Linked to Cyclospora Parasite Outbreak",
+          "excerpt": "Nearly two months after cases of explosive diarrhea started mounting in several states, on July 16, the U.S. Centers for Disease Control and Prevention (CDC) issued a warning urging people not to eat shredded lettuce from Taco Bell restaurants in five states—Indiana, Kentucky, Michigan, Ohio, and West Virginia.…",
+          "url": "https://time.com/article/2026/07/17/cyclospora-parasite-outbreak-taco-bell-lettuce-cdc/"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Fast Company",
           "lang": "en",
-          "headline": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-          "excerpt": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest? Iran struck Bahrain, Qatar, Oman, Jordan and Syria in retaliation for US strikes. US bombards Iran in sixth-straight night of attacks For a sixth night in a row, the United States hit Iran in a wave of major attacks.…",
-          "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss"
+          "headline": "Cyclospora outbreak map: Don’t eat shredded lettuce at Taco Bell in these states, CDC warns",
+          "excerpt": "There’s been a new update from the Centers for Disease Control and Prevention (CDC) on the ongoing Cyclospora outbreak affecting people in five states. Now, the agency is warning people to avoid a specific ingredient in Taco Bell products in those states. Here’s what you need to know.…",
+          "url": "https://www.fastcompany.com/91575727/cyclospora-parasite-outbreak-map-taco-bell-taylor-farms-lettuce-cdc-warning"
         }
       ]
     },
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "SpaceX scrubs Starship launch after some of its engines didn't start",
+      "category": "💼 Business",
+      "headline_en": "Musk’s SpaceX Starship launch suddenly aborted in what would have been its 13th flight",
       "coverage": 3,
       "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Musk’s SpaceX Starship launch suddenly aborted in what would have been its 13th flight",
+          "excerpt": "SpaceX&#8217;s mega Starship rocket came within a second or so from blasting off on a test flight Thursday, but some of the engines failed to ignite, triggering a launch abort amid billowing clouds of smoke and vapor.…",
+          "url": "https://www.fastcompany.com/91575579/musks-spacex-starship-launch-suddenly-aborted-would-have-13th-flight"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "SpaceX stock has cratered nearly 23% since the company joined the Nasdaq-100",
+          "excerpt": "SpaceX stock has posted losses in nine of the last 10 trading days, and as of Friday's close, had plummeted nearly 23% since the company was added to the Nasdaq-100. Friday's loss of 5.43% marked a sixth-straight losing day and came after Elon Musk's space and artificial intelligence company aborted a test flight for its Starship rocket.…",
+          "url": "https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html"
+        },
         {
           "source": "Ars Technica",
           "lang": "en",
           "headline": "SpaceX scrubs Starship launch after some of its engines didn't start",
           "excerpt": "SpaceX called off a test flight of its powerful Starship rocket and Super Heavy booster as the countdown clock reached zero Thursday at the company’s spaceport in South Texas. The launch team at Starbase, Texas, just north of the US-Mexico border, aimed to launch the more than 400-foot-tall rocket at 5:45 pm local time (6:45 pm EDT; 22:45 UTC).…",
           "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "SpaceX aborts first Starship launch since its massive IPO",
-          "excerpt": "SpaceX called off its first Starship launch since its massive IPO in June. On Thursday, SpaceX backed away from a launch attempt of its upgraded Starship rocket after an engine issue triggered an automatic abort before liftoff at the company's Starbase facility in South Texas.…",
-          "url": "https://www.businessinsider.com/spacex-aborts-first-starship-launch-since-massive-ipo-2026-7"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-          "excerpt": "SpaceX abruptly aborted the second attempted launch of its upgraded Starship rocket system on Thursday, just moments after the booster ignited at the company’s complex in South Texas. CEO Elon Musk said on his social media platform X that “[s]ome of the engines didn’t start, triggering an automatic launch abort” and that the company will replace two of them.…",
-          "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "‘A casino for investors’: leverage brings huge swings to world’s best-performing market",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "‘A casino for investors’: leverage brings huge swings to world’s best-performing market",
-          "excerpt": "‘A casino for investors’: leverage brings huge swings to world’s best-performing market",
-          "url": "https://www.ft.com/content/26ef9428-9445-4b34-8bdf-51166c7d4b3b?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "South Korea to ban new listings of single-stock leveraged ETFs",
-          "excerpt": "By Heejin Kim, Sherin Sunny and Cynthia Kim SEOUL, July 16 (Reuters) - South Korea said on Thursday it will temporarily ban new listings of exchange-traded funds (ETFs) that are tied to certain major technology firms, while raising minimum required deposits for retail investors to invest in such products, in an effort to curb market volatility.…",
-          "url": "https://finance.yahoo.com/markets/options/articles/south-korea-regulator-announce-measures-020040424.html"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "As the world rearms, South Korea aims to cash in",
-          "excerpt": "As the world rearms, South Korea aims to cash in July 16, 2026The South Korean defense industry was stung by the recent decision of the Canadian government to select a German design for its next generation of submarines, but it has moved swiftly to make a new play for a greater share of growing global defense spending.…",
-          "url": "https://www.dw.com/en/as-the-world-rearms-south-korea-aims-to-cash-in/a-77950625?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Tehran vows to 'crush' regional infrastructure if US hits Iranian sites",
+      "headline_en": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
       "coverage": 3,
       "perspectives": [
         {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+          "excerpt": "Magnitude 7.3 earthquake quake strikes off Mexico coast - Published A powerful magnitude 7.3 earthquake struck off the coast of southern Mexico on Friday, triggering a tsunami warning for parts of the Pacific. No fatalities or significant damage have been reported in Mexico or Guatemala from the quake, which was also felt in El Salvador.…",
+          "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Magnitude 7.3 quake hits Mexican coast near Guatemala, tsunami alert lifted",
+          "excerpt": "Magnitude 7.3 quake hits Mexican coast near Guatemala, tsunami alert lifted A powerful earthquake struck the southern Mexican Pacific coast on Friday, prompting residents to evacuate buildings in neighbouring Guatemala and El Salvador – and triggering an alert from the US Tsunami Warning System that was later lifted. There were no immediate reports of damage or casualties.…",
+          "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert"
+        },
+        {
           "source": "Euronews",
           "lang": "en",
-          "headline": "Tehran vows to 'crush' regional infrastructure if US hits Iranian sites",
-          "excerpt": "Iran said its response to any US strike on its infrastructure would result in destruction across the region, as multiple reports said Tehran had asked the Houthis to be ready to close the Bab el-Mandeb Strait, threatening a second global shipping chokepoint.…",
-          "url": "http://www.euronews.com/2026/07/16/tehran-vows-to-crush-regional-infrastructure-if-us-hits-iranian-sites"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. concludes another night of Iran strikes amid battle over Strait of Hormuz",
-          "excerpt": "U.S. concludes 6th consecutive night of Iran strikes as battle continues over Strait of Hormuz What to know about the Iran war today: - The U.S. concluded a sixth consecutive night of strikes on Iran early Friday local time, U.S. Central Command said.…",
-          "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Will Iran Target Another Maritime Chokepoint? The Bab El-Mandeb Strait Is Under Threat",
-          "excerpt": "As the U.S. and Iran trade fresh strikes over the Strait of Hormuz, concerns are mounting for another critical maritime chokepoint, the Bab el-Mandeb Strait. Situated between Yemen and Djibouti and Eritrea in the Horn of Africa, the waterway has again come under threat by Houthi and Iranian officials.…",
-          "url": "https://time.com/article/2026/07/15/iran-war-bab-el-mandeb-strait-trade-route-houthis-threat/"
+          "headline": "7.3 magnitude earthquake strikes Mexico and Guatemala coasts, tsunami alert lifted",
+          "excerpt": "A 7.3 magnitude earthquake shook the coasts of Mexico and Guatemala on Friday, its epicentre off Chiapas at about 15 km deep.",
+          "url": "http://www.euronews.com/2026/07/17/magnitude-73-earthquake-strikes-mexico-and-guatemala-coasts-tsunami-alert-issued"
         }
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "Apple targets dozens of OpenAI employees with legal letters",
-      "coverage": 3,
+      "category": "🌍 World",
+      "headline_en": "Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Wired",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-          "excerpt": "This week on Uncanny Valley, the team discusses the details behind Apple suing OpenAI over alleged stolen hardware secrets. And the company’s headaches don’t stop there—a group of OpenAI employees just started a super PAC to advocate for stronger AI guardrails.…",
-          "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/"
+          "headline": "Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff",
+          "excerpt": "Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff England coach Thomas Tuchel says his side carry the pain of defeat into third-place playoff against France. Thomas Tuchel said that England’s players carry the “scars” of a painful World Cup exit, admitting there was still a gap to close on the top nations.…",
+          "url": "https://www.aljazeera.com/news/2026/7/18/england-france-fifa-world-cup-third-place-playoff-tuchel-france?traffic_source=rss"
         },
         {
-          "source": "Inc.",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Apple Made 1 Small Mistake in Its Massive Lawsuit Against OpenAI. Legal Experts Weigh In on How Much It Matters",
-          "excerpt": "Last week, Apple sued OpenAI, accusing the AI giant of misappropriating trade secrets. Recent revelations are complicating the initial case.",
-          "url": "https://www.inc.com/esther-lian/apple-made-1-small-mistake-in-massive-lawsuit-against-openai/91374870"
+          "headline": "Disappointed France and England to face off in third place World Cup match",
+          "excerpt": "Disappointed France and England to face off in third place World Cup match France and England meet for their final World Cup match on Saturday competing for third place after failing to reach Sunday's final. Neither of the disappointed teams seems to relish the prospect of the clash: \"The best thing for France and England would be for this match not to exist,\" said France coach Didier Deschamps.…",
+          "url": "https://www.france24.com/en/sport/20260718-disappointed-france-and-england-face-off-for-third-place-world-cup-match"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Experts: this is the best cash back card of 2022",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNN World",
+          "lang": "en",
+          "headline": "Experts: this is the best cash back card of 2022",
+          "excerpt": "If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. When the Wells Fargo Active Cash® Card (rates and fees) hit the market, it quickly stood out among our experts as one of the best all-around, no-annual-fee credit cards. It now holds our Best Credit Card for 2026 title for its reliable 2% cash rewards and everyday value.…",
+          "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-active-cash-card-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welac2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "These are the best products to help keep ticks off of you",
+          "excerpt": "When summer arrives, you probably have nothing but vacation, beach days, travel and barbecues on your mind. The last thing you’re worrying about is remembering to check yourself for ticks. While it’s not a fun task, preventing tick bites is important, particularly when it comes to avoiding conditions like lyme disease.…",
+          "url": "https://www.nbcnews.com/select/shopping/best-tick-prevention-rcna588030"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+          "excerpt": "Australia 'deeply frustrated' over Laos methanol poisoning charges - Published The Australian government has said it is \"deeply frustrated and bitterly disappointed\" that Laos is not pursuing more serious charges in relation to the deaths of six backpackers who died after drinking methanol-laced alcohol in 2024.…",
+          "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
+          "excerpt": "The Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning. It comes as a distillery owner in Laos was charged after a mass methanol poisoning incident killed six foreign nationals, including the Australian backpackers Bianca Jones and Holly Morton-Bowles.…",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+          "excerpt": "Indian activist on hunger strike for 20 days forcibly taken to hospital - Published Indian activist and educationist Sonam Wangchuk, on hunger strike for the past 20 days in Delhi, has been forcibly removed from his protest site. The 59-year-old had been protesting in support of an online satirical movement called the Cockroach Janta Party (CJP) who are seeking educational reforms.…",
+          "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "India news: CJP to call for Modi's resignation after Sonam Wangchuk 'forcefully' shifted to hospital",
+          "excerpt": "India news: CJP to call for Modi's resignation, says Dipke Published July 18, 2026last updated July 18, 2026What you need to know - Dipke says to call for Modi's resignation, announces indefinite hunger strike - Sonam Wangchuk was shifted to a hospital by the police on the 21st day of his hunger strike - Wangchuk has been fasting since June 28 in solidarity with students demanding the resignation …",
+          "url": "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Apple Music is getting a price hike",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Apple Music is getting a price hike",
+          "excerpt": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99.…",
+          "url": "https://www.theverge.com/tech/967379/apple-music-price-increase"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Apple Music and Apple One prices rise for the first time in years",
+          "excerpt": "Apple Music and Apple One prices rise for the first time in years Apple is blaming the change on 'rising licensing costs.' The cost of Apple Music is rising again.…",
+          "url": "https://www.engadget.com/2217745/apple-music-and-apple-one-new-price-increase/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "2 kidnapped Forest Service workers safe after being zip-tied, held at gunpoint",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "2 kidnapped Forest Service workers safe after being zip-tied, held at gunpoint",
+          "excerpt": "2 U.S. Forest Service workers safe after being kidnapped, held at gunpoint for hours in Northern California Two U.S. Forest Service employees who were kidnapped while working in Northern California — and held at gunpoint inside a rural trailer for more than 12 hours — have been released, officials said Friday.…",
+          "url": "https://www.cbsnews.com/news/us-forest-service-workers-kidnapped-california/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Two U.S. Forest Service employees rescued after being held hostage at gunpoint",
+          "excerpt": "Two U.S. Forest Service employees were rescued with the help of negotiators after being zip-tied and held hostage for nearly 15 hours in Shasta-Trinity National Forest in Northern California, officials said Friday. The two employees were conducting fieldwork when two armed people took them hostage at gunpoint early Thursday, Siskiyou County Sheriff Jeremiah LaRue said at a news conference Friday.…",
+          "url": "https://www.nbcnews.com/news/us-news/two-us-forest-service-employees-rescued-zip-tied-held-hostage-gunpoint-rcna588112"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "China’s Moonshot Unveils AI Model, Fueling Tech Rout",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "China’s Moonshot Unveils AI Model, Fueling Tech Rout",
+          "excerpt": "Chinese AI pioneer Moonshot unveiled a new model that it claims performs on par with some of the top-tier platforms from OpenAI and Anthropic PBC, the latest sign that the Asian country’s artificial intelligence labs are closing a technology gap with the US.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
+          "excerpt": "Chinese startup Moonshot AI has unveiled a new model it says closes the gap with leading U.S. offerings and surpasses OpenAI and Anthropic's most capable systems on some benchmarks. Kimi K3 still trails Anthropic's Claude Fable 5 and OpenAI's GPT 5.6 Sol on overall performance, the company said on Friday, but consistently outperformed other tested models.…",
+          "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "ЦИК заверил списки кандидатов в депутаты Госдумы всех 11 партий",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "ЦИК заверил списки кандидатов в депутаты Госдумы всех 11 партий",
+          "excerpt": "Центральная избирательная комиссия (Центризбирком, ЦИК) России заверила списки кандидатов в депутаты Госдумы всех 11 партий. Об этом сообщила глава ЦИК Элла Памфилова на заседании комиссии, передает РИА Новости. «У нас полностью завершился этап заверения партийных списков. Все представленные 11 партиями списки мы с вами заверили», — заявила Памфилова на заседании Центризбиркома.…",
+          "url": "https://lenta.ru/news/2026/07/18/tsik-zaveril-spiski-kandidatov-v-deputaty-gosdumy-vseh-11-partiy/"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "ЦИК заверил списки всех 11 партий, выдвинувших кандидатов на выборы в Госдуму РФ",
+          "excerpt": "ЦИК заверил списки всех 11 партий, выдвинувших кандидатов на выборы в Госдуму РФ Москва. 18 июля. INTERFAX.RU - Центризбирком России завершил заверение списков всех 11 политических партий, которые выдвинули своих кандидатов на выборы депутатов Госдумы девятого созыва.…",
+          "url": "https://www.interfax.ru/russia/1104053"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "China hits out at British Steel nationalisation",
-      "coverage": 3,
+      "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
@@ -692,428 +1140,29 @@
           "source": "The Guardian",
           "lang": "en",
           "headline": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
-          "excerpt": "China’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this week, 15 months after the UK government stepped in to prevent the closure of its steelworks in Scunthorpe and the loss of 4,000 jobs. On Thursday, British Steel was brought under public ownership to protect “the future of steel production”, the government announced.…",
+          "excerpt": "China’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this week, 15 months after the UK government intervened to prevent the closure of its steelworks in Scunthorpe and the loss of 4,000 jobs. On Thursday, British Steel was brought under public ownership to protect “the future of steel production”, the government announced.…",
           "url": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "China rebukes UK over nationalisation of British Steel",
-          "excerpt": "China rebukes UK over nationalisation of British Steel The UK has appropriated its last working steelworks, following fears its former Chinese owners would shut it down. Beijing has warned the United Kingdom that its nationalisation of British Steel has “severely undermined” Chinese companies’ confidence in investing in the UK.…",
-          "url": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump accused of making 'totally bogus' election claims in primetime address to nation",
-      "coverage": 3,
+      "headline_en": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Sky News",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Trump accused of making 'totally bogus' election claims in primetime address to nation",
-          "excerpt": "Donald Trump has been accused of using an address to the nation to make \"totally bogus\" claims of interference in the 2020 US election.",
-          "url": "https://news.sky.com/story/trump-alleges-chinese-election-interference-in-address-to-nation-13564219"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "In speech to nation, Trump declassifies intelligence claiming Chinese interference in 2020 elections",
-          "excerpt": "US President Donald Trump declassified intelligence he said showed Chinese interference in US elections, reviving claims about election security despite intelligence findings that Beijing did not alter the 2020 vote he lost. The move reinforces Trump's push to make election integrity a central issue ahead of November's congressional midterm elections.",
-          "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence"
+          "headline": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
+          "excerpt": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states Washington — Homeland Security Secretary Markwayne Mullin on Friday continued to amplify President Trump's assertion that more than a quarter of a million non-citizens were registered to vote in four states, though the administration has yet to provide details of how it arrived at that fig…",
+          "url": "https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/"
         },
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "How Trump's election allegations against China could impact relations with U.S.",
-          "excerpt": "Truth Social plans to sell Wall Street firms 'fast' access to president's posts 03:09 World Cup games in U.S.…",
-          "url": "https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump tightens US visa rules, limits stay for foreign students and journalists",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Trump tightens US visa rules, limits stay for foreign students and journalists",
-          "excerpt": "Trump tightens US visa rules, limits stay for foreign students and journalists President Donald Trump's administration on Thursday finalized rules imposing stricter limits on how long foreign students and journalists may stay in the United States, tightening legal immigration. Student visas would be capped at four years, while journalists would be limited to 240-day stays.…",
-          "url": "https://www.france24.com/en/americas/20260716-trump-tightens-us-visa-rules-foreign-students-journalists"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Trump Administration Limits the Duration of Student and Journalist Visas",
-          "excerpt": "The Department of Homeland Security (DHS) on Thursday finalized a rule that will limit the durations of visas for students, exchange visitors, and journalists.…",
-          "url": "https://time.com/article/2026/07/16/student-journalist-media-visa-limit-rule-trump-administration/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump administration caps how long international students can stay in the US",
-          "excerpt": "Trump administration caps how long international students can stay in the US The Trump administration has finalized a rule that will prevent international students from staying in the U.S.…",
-          "url": "https://abcnews.com/US/wireStory/trump-administration-caps-long-international-students-stay-us-134828523"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Some TV networks won't air Trump's speech live",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Some TV networks won't air Trump's speech live",
-          "excerpt": "President Trump's primetime speech Thursday evening won't receive live coverage among at least two of the four major TV networks — but it will be available via streaming.…",
-          "url": "https://www.axios.com/2026/07/16/trump-speech-networks-abc-nbc-watch"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Fact checking Trump speech on election security",
-          "excerpt": "Fact-checking Trump speech on election security CBS News fact-checked President Trump's speech on election security Thursday night, in which he raised new allegations regarding China's access to U.S.…",
-          "url": "https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Iran war live: US kills 8 people in sixth consecutive night of attacks",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Iran war live: US kills 8 people in sixth consecutive night of attacks",
-          "excerpt": "Live updatesLive updates, Iran war live: US kills 8 people in sixth consecutive night of attacks Eight killed and 20 others injured in strikes across southern Iran as blasts reported at railways, airports and bridges. Published On 16 Jul 2026 - The United States has carried out major strikes on Iran for the sixth night in a row, killing at least eight people and wounding 20.…",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Iran war: US hits bridges as Tehran retaliates across region",
-          "excerpt": "Iran war: US hits bridges as Tehran retaliates across region Published July 17, 2026last updated July 17, 2026What you need to know - US launches a sixth consecutive night of strikes on Iran - US airstrikes on bridges in the southern Iranian port city of Bandar Khamir kill at least seven people, Iranian state media says - Iran fires missiles and drones at US-linked targets in neighboring countries…",
-          "url": "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google’s AI Mode now lets you link and interact with select apps",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Google’s AI Mode now lets you link and interact with select apps",
-          "excerpt": "Google announced on Thursday that it now allows users to link and interact with some of their go-to apps right in AI Mode, the tech giant’s conversational search experience. At launch, supported apps include Instacart, Canva, and YouTube. With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.…",
-          "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Google AI Mode now integrates with Canva, YouTube Music and Instacart",
-          "excerpt": "Google AI Mode now integrates with Canva, YouTube Music and Instacart You can now make playlists, design flyers and compile shopping lists using AI in Search. Google's apparent mission to have AI infiltrate every aspect of your digital life continues today with new integrations with three different apps.…",
-          "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "DeepMind's CEO says STEM students can use AI 10 times more effectively",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "DeepMind's CEO says STEM students can use AI 10 times more effectively",
-          "excerpt": "AI is changing tech careers, but it won't take away the importance of a STEM degree, says Demis Hassabis. In an interview at a London business conference, the video of which was published on Wednesday, the DeepMind CEO said that knowing the fundamentals of software can give you a leg up in using AI. \"You absolutely needed to lean into STEM and computer science,\" Hassabis said.…",
-          "url": "https://www.businessinsider.com/deepmind-ceo-stem-students-use-ai-more-effectively-demis-hassabis-2026-7"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "DeepMind CEO Rallies Support for International Group to Vet AI Models",
-          "excerpt": "Demis Hassabis intends to hold meetings about his proposal with US policymakers.",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/deepmind-ceo-rallies-support-for-international-group-to-vet-ai-models"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Can Kevin Warsh’s Fed force 5 reimagine monetary policymaking?",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Economist",
-          "lang": "en",
-          "headline": "Can Kevin Warsh’s Fed force 5 reimagine monetary policymaking?",
-          "excerpt": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems",
-          "url": "https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
-          "excerpt": "Sen. Mike Rounds, R-S.D., a member of the Senate banking committee, said on CNBC's \"Squawk Box\" on Thursday that Federal Reserve Chairman Kevin Warsh struck the right tone in an appearance before the panel this week. \"I think his message was a good message. He started off by talking about the need to get inflation under control, the focus that the Fed had on that,\" Rounds said.…",
-          "url": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Iranian airport and bridges hit as US forces board ship amid ports blockade – Middle East crisis live",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Iranian airport and bridges hit as US forces board ship amid ports blockade – Middle East crisis live",
-          "excerpt": "Welcome to our live coverage of the latest in the continuing Middle East crisis. US strikes on Iran overnight hit an airport, a railway station and two bridges, according to Iranian state media on Friday, while American forces boarded a ship as they enforced a renewed blockade of Iranian ports. Three blasts were heard around Iranshahr airport in the south-east and at least one US projectile hit.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Middle East live: Kuwait says electrical and desalination plant damaged in Iranian attack",
-          "excerpt": "Kuwait said on Friday that an Iranian attack on a power and water desalination plant had caused widespread damage to the station. The news came after Iran launched multiple air strikes on its Gulf neighbours in response to US air strikes overnight. Follow our liveblog for the latest updates.…",
-          "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports",
-          "excerpt": "Middle East oil producers plan to build new pipelines to reduce their dependence on the Strait of Hormuz, as Iran disrupts the Gulf states' seaborne crude exports with near daily attacks on tankers. But new pipelines will not end the threat to the region's energy exports, analysts said.…",
-          "url": "https://www.cnbc.com/2026/07/16/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Gulf exporters turn to pipelines as Hormuz risks grow",
-          "excerpt": "Iran's threat extends beyond the Strait of Hormuz July 17, 2026Oil and gas exports from the Gulf face renewed disruption as fighting between the US and Iran intensifies. For both countries control of the Strait of Hormuz is key.…",
-          "url": "https://www.dw.com/en/gulf-exporters-turn-to-pipelines-as-hormuz-risks-grow/a-77980704?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "One man's hunger strike changed India's map. Can it still change politics?",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "One man's hunger strike changed India's map. Can it still change politics?",
-          "excerpt": "One man's hunger strike changed India's map. Can it still change politics? - Published It took 58 days without food to change India's map. When Potti Sriramulu began fasting in October 1952, he was asking for something then prime minister Jawaharlal Nehru had repeatedly resisted: a separate state for Telugu speakers.…",
-          "url": "https://www.bbc.co.uk/news/articles/cn4d4eq9n8do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "India news: Modi silent as Sonam Wangchuk hunger strike enters 20th day",
-          "excerpt": "India: Modi silent as Sonam Wangchuk hunger strike continues Published July 17, 2026last updated July 17, 2026What you need to know - Sonam Wangchuk's hunger strike now in its 20th day - Wangchuk and the Cockroach Janta Party (CJP) are demanding the resignation of Education Minister Dharmendra Pradhan - Arvind Kejriwal and the Congress party express support for Wangchuk - Journalists' union slams …",
-          "url": "https://www.dw.com/en/india-news-modi-silent-as-sonam-wangchuk-hunger-strike-enters-20th-day/live-77997484?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "An Alien-Abduction Show Lands Among the Top 50 Podcasts in the US",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "An Alien-Abduction Show Lands Among the Top 50 Podcasts in the US",
-          "excerpt": "The video program has become a breakthrough hit with millions of YouTube followers and 30,000 Patreon subscribers",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/an-alien-abduction-show-lands-among-the-top-50-podcasts-in-the-us"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "J. D. Vance’s Own Alien Abduction",
-          "excerpt": "J. D. Vance’s Own Alien Abduction The vice president has been replaced with a guy who’s just asking questions. Well, thank you very much, J. D. Vance.…",
-          "url": "https://www.theatlantic.com/ideas/2026/07/jd-vance-rogan-epstein/687944/?utm_source=feed"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Will football ever be the same? The legacy of a star-spangled World Cup",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Will football ever be the same? The legacy of a star-spangled World Cup",
-          "excerpt": "It’s a game of two halves and in the end, Lionel Messi shines. After a stunning performance in Argentina’s come-from-behind win against England, the 39-year old securing the defending World Cup champions their second final in a row, much to the delight of organizers – who last year understood Messi’s star power when they bent the rules to include his Inter Miami side in the Club World Cup.",
-          "url": "https://www.france24.com/en/tv-shows/the-debate/20260716-will-football-ever-be-the-same-the-legacy-of-a-star-spangled-world-cup"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Argentina reaches World Cup final, jubilation in Buenos Aires and disappointment in the Falklands",
-          "excerpt": "Thousands of jubilant supporters poured into the streets of Buenos Aires on Wednesday 15 July after Argentina secured its place in the FIFA World Cup final. Fireworks lit up the night sky as fans danced, chanted, waved Argentine flags and climbed lampposts and traffic lights in celebration.…",
-          "url": "http://www.euronews.com/video/2026/07/16/argentina-erupts-after-late-win-over-england-to-reach-world-cup-final"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "'Moment of joy' as Uganda discharges last Ebola patient",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "'Moment of joy' as Uganda discharges last Ebola patient",
-          "excerpt": "'Moment of joy' as Uganda discharges last Ebola patient - Published The last patient being treated for Ebola in Uganda has been discharged from hospital, leaving the country with no active confirmed cases of the deadly disease. At a ceremony marking the occasion Health Minister Dr Chris Baryomunsi described it as \"a moment of joy\". The first case of this outbreak in Uganda was confirmed in May.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-          "excerpt": "Uganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital.…",
-          "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "excerpt": "Facing mounting pressure to acknowledge that Grok can still be used to generate non-consensual sexualized images of adults and minors, xAI filed a lawsuit Tuesday, suing the first user that Elon Musk’s firm has accused of using its chatbot to create illegal content.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "xAI sued a Grok user for allegedly generating deepfakes of child sexual abuse",
-          "excerpt": "Elon Musk's AI startup xAI filed a federal lawsuit Tuesday against a South Carolina man, alleging he used the Grok chatbot to generate child sexual abuse material in violation of the company's terms of service.…",
-          "url": "https://qz.com/xai-sues-grok-user-child-sexual-abuse-deepfakes-071626"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Trump administration revives ‘public charge’ rule that could deny green cards to immigrants",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Trump administration revives ‘public charge’ rule that could deny green cards to immigrants",
-          "excerpt": "The Trump administration is reviving a rule that could deny green cards to immigrants who use public benefits that could include food stamps, Medicaid, housing vouchers, and others. The policy, known as “public charge,” appeared on Thursday in the Federal Register and will be formally published on July 20.…",
-          "url": "https://www.fastcompany.com/91575152/immigrants-residency-trump"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump administration revives rule that could deny green cards to immigrants who use public benefits",
-          "excerpt": "Trump administration revives rule that could deny green cards to immigrants who use public benefits The Trump administration is reviving a rule that could deny green cards to immigrants who use public benefits that could include food stamps, Medicaid, housing vouchers and others MIAMI -- The Trump administration is reviving a rule that could deny green cards to immigrants who use public benefits t…",
-          "url": "https://abcnews.com/US/wireStory/trump-administration-revives-rule-deny-green-cards-immigrants-134821130"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Tired Of Building AI Agents? There's A Simpler Way To Work Smarter",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Tired Of Building AI Agents? There's A Simpler Way To Work Smarter",
-          "excerpt": "The enterprise technology conversation in 2026 has been dominated by a single premise: AI agents are the future of work. Build one, deploy it, and watch your productivity soar. The numbers tell a different story. For all the hype, AI agent adoption remains a niche pursuit.…",
-          "url": "https://www.forbes.com/sites/viviantoh/2026/07/17/tired-of-building-ai-agents-theres-a-simpler-way-to-work-smarter/"
-        },
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "Managers play critical role in a company's AI transformation - and they know it",
-          "excerpt": "Managers play critical role in a company's AI transformation - and they know it Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Middle managers play a critical role to a company's AI transformation. - 78% of managers feel responsible for their team's successful AI adoption. - 77% of managers are saving more than three-hours per week with AI tools.…",
-          "url": "https://www.zdnet.com/article/managers-play-critical-role-in-ai-transformation/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-          "excerpt": "Netflix reported second-quarter revenue and earnings that were roughly in line with analyst estimates on Thursday as Wall Street is keeping a close eye on the company's advertising and engagement metrics. Netflix stock fell more than 8% in after-hours trading Thursday as investors appeared disappointed once again in the company's earnings forecast.…",
-          "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Netflix meets earnings expectations and says it's scaling back viewership reports",
-          "excerpt": "Netflix $NFLX reported second-quarter revenue of $12.56 billion on Thursday, up 13% year over year, while announcing it would cut back on the frequency of its viewership disclosure reports.…",
-          "url": "https://qz.com/netflix-q2-2026-earnings-viewership-reports-071626"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "More than 500 Rohingya vanished at sea - what happened?",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "More than 500 Rohingya vanished at sea - what happened?",
-          "excerpt": "More than 500 Rohingya vanished at sea - what happened? - Published Two boats carrying an estimated 530 Rohingya asylum seekers left Myanmar's Rakhine state on 29 June, and have not been heard from since. The equivalent of a jumbo jet full of people has vanished. It is very likely that they both capsized.…",
-          "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Hundreds feared dead after boats carrying refugees 'capsize' in Bay of Bengal",
-          "excerpt": "It's feared more than 500 people have died after reports that two boats carrying persecuted Rohingya refugees capsized in the Bay of Bengal.",
-          "url": "https://news.sky.com/story/hundreds-of-rohingya-feared-dead-after-boats-carrying-refugees-capsize-in-bay-of-bengal-13563927"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "The Odyssey: Christopher Nolan Movie Stars Zendaya, Matt Damon in Homer Epic",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "The Odyssey: Christopher Nolan Movie Stars Zendaya, Matt Damon in Homer Epic",
-          "excerpt": "The Odyssey hits theaters on Friday and is expected to bring in roughly&nbsp;$100 million in its opening weekend.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-17/the-odyssey-christopher-nolan-movie-stars-zendaya-matt-damon-in-homer-epic"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "To Show Christopher Nolan’s ’The Odyssey’ in IMAX, Movie Theaters Pulled Off Their Own Epic Journeys",
-          "excerpt": "With only 25 theaters nationwide capable of presenting the film as intended, exhibitors spent months preparing for extraordinary demand.",
-          "url": "https://www.inc.com/ali-donaldson/to-show-christopher-nolans-the-odyssey-in-imax-movie-theaters-pulled-off-their-own-epic-journeys/91375226"
+          "headline": "DHS Secretary Markwayne Mullin threatens states over elections after Trump speech",
+          "excerpt": "WASHINGTON — Homeland Security Secretary Markwayne Mullin on Friday threatened state election officials with possible prison time if they don’t comply with Trump administration methods to determine whether noncitizens are on voter rolls.…",
+          "url": "https://www.nbcnews.com/politics/elections/homeland-security-secretary-markwayne-mullin-threatens-states-election-rcna588002"
         }
       ]
     }
