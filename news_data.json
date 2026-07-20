@@ -1,230 +1,314 @@
 {
-  "collected_at": "2026-07-19T10:01:49.623161+00:00",
+  "collected_at": "2026-07-20T06:32:06.712744+00:00",
   "total_sources": 59,
-  "total_entries": 548,
-  "story_count": 33,
+  "total_entries": 567,
+  "story_count": 36,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Tate brothers arrested in US as further UK charges take total to 59",
-      "coverage": 8,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Tate brothers arrested in US as further UK charges take total to 59",
-          "excerpt": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-          "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "UK seeks extradition of Andrew and Tristan Tate after arrest in Miami",
-          "excerpt": "UK seeks extradition of Andrew and Tristan Tate after arrest in Miami",
-          "url": "https://www.ft.com/content/fee3f969-f592-4735-8d99-e7ab3049d194"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Tate brothers arrested by U.S. authorities, face additional rape charges in the U.K.",
-          "excerpt": "Social media influencers Andrew and Tristan Tate were taken into custody by federal law enforcement officials in Miami on Saturday, the U.S. Marshals Service said, in arrests British authorities said were related to additional charges of rape. “We can confirm the arrest of the Tate brothers today in Miami,” it stated.…",
-          "url": "https://www.nbcnews.com/world/united-kingdom/tate-brothers-arrested-us-face-additional-rape-charges-uk-rcna588210"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Andrew, Tristan Tate arrested in US after British prosecutors bring new charges",
-          "excerpt": "Andrew, Tristan Tate arrested in Miami after British prosecutors bring new charges British prosecutors said they will seek the brothers' extradition to the U.K. Andrew Tate and his brother Tristan, the controversial social media influencers, were arrested Saturday evening in Miami, after British prosecutors brought new charges of rape and sex trafficking against them, according to U.S. and U.K.…",
-          "url": "https://abcnews.com/US/andrew-tristan-tate-arrested-miami-after-british-prosecutors/story?id=134883878"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-          "excerpt": "Andrew and Tristan Tate arrested in Miami on rape and sex trafficking charges Tate brothers arrested in Miami on rape and sex trafficking charges Controversial manosphere influencers Andrew and Tristan Tate have been arrested in Miami over allegations of rape and sex trafficking brought by UK police. The brothers are already facing 21 charges in a separate case.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "headline_en": "US soldier killed and one injured after Iranian attack in Iraq",
       "coverage": 7,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-          "excerpt": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+          "headline": "US soldier killed and one injured after Iranian attack in Iraq",
+          "excerpt": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
           "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "US, Iran Trade More Attacks After Two Troops Killed in Jordan",
-          "excerpt": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan"
         },
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Two US troops killed and one missing in Jordan after Iranian attacks",
-          "excerpt": "The US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed and one was missing in Jordan when Tehran launched a wave of attacks against US allies in the Middle East. Iran’s attacks came as the renewal of US strikes on Iran entered a second week and fighting escalated over the strait of Hormuz.…",
-          "url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
+          "headline": "US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel",
+          "excerpt": "The US launched a ninth night of strikes targeting Iran early Monday, after announcing the death of another American service member, as the price of Brent crude oil climbed above $90 a barrel, the highest level since June.…",
+          "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
+          "excerpt": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.",
+          "url": "https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Iran live updates: US service member killed, another wounded, CENTCOM says",
+          "excerpt": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes targeting military, government and infrastructure sites. Delegations from the U.S. and Iran entered negotiations in June aimed at a war-ending deal based on a memorandum of understanding signed by both countries. The U.S.…",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-          "excerpt": "US launches new Iran strikes after two soldiers killed: What’s the latest? US strikes target Iran’s IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain. The United States has launched new strikes on Iran after two of its soldiers were killed in Iranian strikes in Jordan late on Friday.…",
-          "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Middle East live: US strikes target Revolutionary Guard to 'punish' Iran for killed troops",
-          "excerpt": "Washington launched its eighth consecutive wave of strikes in Iran overnight Saturday with US Central Command saying the latest attacks had targeted Iran's Revolutionary Guard in retaliation for Tehran's killing of two US troops at an airbase in Jordan. A third US soldier is missing in action. Follow our liveblog for the latest updates.…",
-          "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops"
+          "headline": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+          "excerpt": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17. The United States military has announced the death of a third American solder in recent days, saying he was killed in northern Iraq “during a controlled detonation of unexploded ordnance” from a downed Iranian drone.…",
+          "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
-      "coverage": 6,
+      "headline_en": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
+      "coverage": 5,
       "perspectives": [
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
-          "excerpt": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
-          "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan"
+          "headline": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
+          "excerpt": "Influencer Andrew Tate and his brother Tristan have been arrested in Miami after British authorities issued 38 new charges against them, and said they are \"seeking extradition\" for the two men.",
+          "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami"
         },
         {
-          "source": "NBC News",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "U.S. military says 2 service members killed in Jordan by Iranian attacks",
-          "excerpt": "Stage is set for high-stakes showdown at World Cup final 01:41 Major disaster declared after Texas floods 01:55 U.S. Forest Service employees rescued after being held hostage at gunpoint 01:55 Good News: Man reunites with nurses who saved his life 03:08 Dangerous storms put more than 100 million at risk across the Northeast 01:46 Now Playing U.S.…",
-          "url": "https://www.nbcnews.com/nightly-news/video/u-s-military-says-2-service-members-killed-in-jordan-by-iranian-attacks-266892357964"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "🔴 Middle East live: Two US service members in Jordan killed, one missing in action",
-          "excerpt": "Two US service members in Jordan were killed, and one was missing in action as the US and its allies “defended against Iranian ballistic missile and drone attacks”, the US military said Saturday. They were killed on Friday, according to US Central Command, marking the first US deaths due to direct Iranian fire since the start of the Iran war.…",
-          "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks"
+          "headline": "US Marshals arrest the Tate brothers in Miami",
+          "excerpt": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the brothers’ extradition. US Marshals arrest the Tate brothers in Miami The two are facing new charges of rape, sex trafficking, and ‘extreme pornography’ in the UK.…",
+          "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "U.S. concludes 8th night of strikes on Iran after Iranian attack kills 2 U.S. soldiers",
-          "excerpt": "Iran War Updates: U.S. concludes 8th straight night of strikes on Iran after Iranian attack kills 2 U.S. soldiers in Jordan What to know about the Iran war today: - The U.S. conducted an eighth straight night of strikes on Iran at the direction of President Trump, U.S. Central Command said Saturday. - As part of those strikes, the U.S.…",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/"
+          "headline": "Social media influencers Andrew and Tristan Tate arrested in Miami",
+          "excerpt": "Influencer brothers Andrew and Tristan Tate arrested in Miami for rape and trafficking charges in the UK Influencer brothers Andrew and Tristan Tate were arrested by federal authorities Saturday in Miami, according to the U.S. Marshals Service. The charges against the pair were not immediately announced by U.S. authorities.…",
+          "url": "https://www.cbsnews.com/news/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-uk-charges/"
         },
         {
-          "source": "CNBC",
+          "source": "Euronews",
           "lang": "en",
-          "headline": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-          "excerpt": "The U.S. said on Sunday it targeted Iranian forces that struck Jordan last week, an attack by Iran that left two American service members dead and one missing. Kuwait reported launching defenses against another wave of Iranian projectiles overnight.…",
-          "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html"
+          "headline": "Andrew and Tristan Tate arrested in Miami as UK seeks extradition",
+          "excerpt": "Influencer brothers Andrew and Tristan Tate have been arrested in Miami ahead of an extradition request from the United Kingdom. British authorities accuse them of serious offences, including rape, human trafficking and sexual exploitation.",
+          "url": "http://www.euronews.com/2026/07/19/andrew-and-tristan-tate-arrested-in-miami-as-uk-seeks-extradition"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Andrew Tate, brother arrested in Miami, UK seeks extradition",
+          "excerpt": "Andrew and Tristan Tate were taken into custody by the US Marshals Service in Miami on a sealed warrant. The UK has requested their extradition on charges that include trafficking and rape.",
+          "url": "https://www.dw.com/en/andrew-tate-brother-arrested-in-miami-uk-seeks-extradition/a-78022447?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants",
+      "headline_en": "Who is Andy Burnham, the U.K.'s new prime minister?",
       "coverage": 5,
       "perspectives": [
         {
-          "source": "CNBC",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants",
-          "excerpt": "Taco Bell has removed lettuce linked to a cyclosporiasis outbreak from restaurants, it said Friday. The outbreak has currently affected more than 1,600 people across five states, according to the Centers for Disease Control and Prevention.…",
-          "url": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html"
+          "headline": "Who is Andy Burnham, the U.K.'s new prime minister?",
+          "excerpt": "On Monday, former Manchester Mayor Andy Burnham succeeds Keir Starmer as the United Kingdom's prime minister. Burnham's politics have been shaped by England's north-south class divide.",
+          "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
-          "excerpt": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak Taylor Farms on Friday said it is \"voluntarily removing\" iceberg lettuce sourced from central Mexico after it was linked to one of the largest outbreaks of cyclosporiasis in the U.S. in recent years.…",
-          "url": "https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/"
+          "headline": "Andy Burnham: The likely next U.K. prime minister",
+          "excerpt": "Latest U.S. Iran War World Cup World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
+          "url": "https://www.cbsnews.com/video/andy-burnham-the-likely-next-uk-prime-minister/"
         },
         {
-          "source": "Business Insider",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "What to know about Taylor Farms, the Taco Bell lettuce supplier linked to the cyclosporiasis outbreak",
-          "excerpt": "Taylor Farms, a Taco Bell lettuce supplier, has been linked to a cyclosporiasis outbreak in five states. Taylor Farms, founded by Bruce Taylor and several partners in 1995, is a California-based fresh produce company that has grown into a multi-billion-dollar enterprise with more than 24,000 employees and 22 production locations across North America.…",
-          "url": "https://www.businessinsider.com/what-to-know-taylor-farms-taco-bell-lettuce-supplier-cyclosporiasis-2026-7"
+          "headline": "CNBC Daily Open: Burnham set to take helm of 'poverty stricken disaster,' says Trump",
+          "excerpt": "Hello, this is Leonie Kidd coming to you from London. Football may not have come home this time, but Britain's new Prime Minister Andy Burnham does have a new home. Read on! What you need to know today Today, Andy Burnham will enter Downing Street as the British Prime Minister. He is expected to announce a raft of policy changes, from devolution from London to an overhaul of the Treasury.…",
+          "url": "https://www.cnbc.com/2026/07/20/daily-open-andy-burnam-uk-pm-trump.html"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "US: Taco Bell removes lettuce after parasite outbreak",
-          "excerpt": "The American fast-food chain Taco Bell is removing lettuce from its menu at many locations following reports of explosive diarrhoea linked to a multistate outbreak. The outbreak is the largest US outbreak of cyclosporiasis, a parasitic infection spread through contaminated food or water. While no deaths have been reported, 94 people have been hospitalised.",
-          "url": "https://www.france24.com/en/us-taco-bell-removes-lettuce-after-parasite-outbreak"
+          "headline": "Andy Burnham set to take over as new British PM",
+          "excerpt": "Andy Burnham set to take over as new British PM London (AFP) – Andy Burnham will on Monday become Britain's seventh prime minister in a decade, with an in-tray overflowing with challenges that have trounced his predecessors and little time to make his mark.…",
+          "url": "https://www.france24.com/en/live-news/20260720-andy-burnham-set-to-take-over-as-new-british-pm"
         },
         {
-          "source": "The Atlantic",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Cyclosporiasis Is Solved! Right?",
-          "excerpt": "Cyclosporiasis Is Solved! Right? The federal government announced that iceberg lettuce at Taco Bell was to blame for the outbreak. But it still hasn’t answered some crucial questions.…",
-          "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-taco-bell-lettuce/687986/?utm_source=feed"
+          "headline": "What’s next as Andy Burnham takes over as UK’s next prime minister?",
+          "excerpt": "What’s next as Andy Burnham takes over as UK’s next prime minister? Andy Burnham will become UK prime minister. Here’s how the transition of power will unfold. Andy Burnham, nicknamed the “King of the North”, will become the UK’s next prime minister on Monday after winning the Labour leadership following Keir Starmer’s resignation.…",
+          "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Why the World Cup half-time show may be a taste of things to come",
+      "headline_en": "Spain-Argentina: La Roja claim second World Cup title in extra time",
       "coverage": 4,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Why the World Cup half-time show may be a taste of things to come",
-          "excerpt": "Why the World Cup half-time show may be a taste of things to come - Published Half-time at a football game is normally a chance to grab a drink or snack, make a mad dash for the toilets or vent with friends about some questionable refereeing or defending.…",
-          "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss"
+          "headline": "Spain-Argentina: La Roja claim second World Cup title in extra time",
+          "excerpt": "Spain defeated Argentina 1-0 in extra time at MetLife Stadium in New Jersey to win the World Cup, completing a historic Euro-World Cup double. Ferran Torres' late strike sealed victory for a dominant Spanish side against a 10-man Argentina, ending Lionel Messi's World Cup career on a bittersweet note. Relive our liveblog for minute-by-minute commentary.…",
+          "url": "https://www.france24.com/en/sport/20260719-spain-argentina-live-defending-champions-face-european-powerhouse-for-the-crown"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
-          "excerpt": "World Cup 2026 final: Closing ceremony and half-time show – what to know Spain face Argentina in the 2026 World Cup final as musicians perform before kickoff and during the half-time break. The 2026 World Cup final will feature two live performances: one before kickoff and another at half-time.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss"
+          "headline": "Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup",
+          "excerpt": "Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup Ferran Torres scores the only goal of the game as Spain win their second World Cup. Ferran Torres scored in the 106th minute to lift Spain to their second World Cup title with a 1-0 win in extra time over 10-man Argentina in the final.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Countdown to 2026 FIFA World Cup Final",
+          "excerpt": "Countdown to 2026 FIFA World Cup Final In less than 24 hours, New Jersey's MetLife Stadium will host Spain and Argentina for the 2026 FIFA World Cup Final. It's the first match between the two countries in 60 years.…",
+          "url": "https://abcnews.com/video/134884586/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Watch: Spain fans erupt in celebration after World Cup final victory",
+          "excerpt": "Fans in Madrid and Barcelona celebrated long into the night after Spain defeated Argentina 1-0 in extra time to win their second FIFA World Cup title.",
+          "url": "http://www.euronews.com/video/2026/07/20/watch-spain-fans-erupt-in-celebration-after-world-cup-final-victory"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live",
+          "excerpt": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live Revolutionary Guard says it targeted US aircraft in Jordan and stopped two tankers in strait while American military says it is ‘holding Iran accountable’ In case you’re just joining us, here’s a recap of the latest events as US-Iran hostilities continue and fue…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Iran launches retaliatory strikes after ninth night of US attacks",
+          "excerpt": "The US carried out its ninth consecutive night of strikes on Iran following the death of three US service members in Jordan and Iraq. The US military said on Monday it completed its ninth consecutive night of strikes against Iran, targeting military infrastructure and strategic sites across Iran.…",
+          "url": "http://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Iran war live: US military completes ninth night of strikes on Iran",
+          "excerpt": "Live updatesLive updates, Iran war live: US military completes ninth night of strikes on Iran US forces attack Iran for the ninth consecutive night as one US soldier killed in northern Iraq.…",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "U.S. hits Iran for ninth consecutive night as American casualties rise",
+          "excerpt": "The U.S. military on Sunday continued its campaign aimed at destroying Tehran's ability to attack commercial shipping in the Strait of Hormuz. The U.S. Central Command completed the ninth consecutive evening of strikes against Iran, at 10 p.m. ET on Sunday, Centcom said a post on X.…",
+          "url": "https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Vice President JD Vance and second lady Usha Vance welcome 4th child",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Vice President JD Vance and second lady Usha Vance welcome 4th child",
+          "excerpt": "Vice President JD Vance and second lady Usha Vance welcome 4th child Vance said both Usha and the baby \"are happy and healthy.\" Vice President JD Vance announced on Sunday that second lady Usha Vance gave birth to the couple's fourth child, a son named Alec Neel Vance.…",
+          "url": "https://abcnews.com/Politics/vice-president-jd-vance-lady-usha-vance-4th/story?id=134901840"
         },
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "How to watch the World Cup final: what to expect and more",
-          "excerpt": "After more than a month of nearly daily soccer matches, the World Cup final is here. Argentina, the defending champions, face off against Spain, the reigning champions of Europe, in a showdown for the sport’s ultimate prize.…",
-          "url": "https://www.nbcnews.com/sports/soccer/world-cup-final-2026-watch-time-channel-spain-argentina-what-know-rcna588157"
+          "headline": "Usha Vance gives birth to fourth child",
+          "excerpt": "Second lady Usha Vance gave birth Sunday to her fourth child, Vice President JD Vance announced on X. “We are excited to announce that our baby boy, Alec Neel Vance, was born this morning,” Vance said in a statement.…",
+          "url": "https://www.nbcnews.com/politics/jd-vance/usha-vance-gives-birth-fourth-child-rcna587805"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US Vice President JD Vance and his wife announce birth of fourth child",
+          "excerpt": "US Vice President JD Vance and his wife announce birth of fourth child JD and Usha Vance welcome a baby boy, the first child born to a sitting vice president in more than 150 years. United States Vice President JD Vance and his wife, Usha, have announced the birth of their fourth child.…",
+          "url": "https://www.aljazeera.com/news/2026/7/19/us-vice-president-jd-vance-and-his-wife-announce-birth-of-fourth-child?traffic_source=rss"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "How to watch the 2026 FIFA Men's World Cup today",
-          "excerpt": "How to watch the 2026 FIFA Men's World Cup final between Spain and Argentina After more than 100 soccer matches, the 2026 FIFA World Cup final is here, with teams representing Spain and Argentina facing off against each other on Sunday at MetLife Stadium in New Jersey. The game, starting at 3 p.m. ET, will air on FOX and Telemundo.…",
-          "url": "https://www.cbsnews.com/news/world-cup-final-spain-argentina-watch/"
+          "headline": "Vice President JD Vance and wife Usha welcome their 4th child",
+          "excerpt": "Vice President JD Vance and wife Usha welcome their 4th child, Alec Neel Vance Vice President JD Vance and his wife, Usha, welcomed their fourth child, Alec Neel Vance, on Sunday, according to a statement they posted on X. \"We are excited to announce that our baby boy, Alec Neel Vance, was born this morning.…",
+          "url": "https://www.cbsnews.com/news/vice-president-jd-vance-wife-usha-baby-alec-neel/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
+          "excerpt": "Christopher Nolan's \"The Odyssey\" is off to an epic start. The Universal film adaptation tallied an estimated $124.5 million in its opening weekend as audiences flocked to premium large-format screenings, especially IMAX theaters. \"Death, taxes, and Christopher Nolan,\" said Shawn Robbins, director of analytics at Fandango and founder of Box Office Theory.…",
+          "url": "https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Christopher Nolan’s ‘The Odyssey’ Isn’t Just a Movie—It’s a Leadership Manual for Startup Founders",
+          "excerpt": "The story hiding under the breathtaking visuals reveals important lessons about the challenges leaders face today.",
+          "url": "https://www.inc.com/stephanie-davis/christopher-nolan-the-odyssey-movie-leadership-manual-startup-founders/91375857"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "‘The Odyssey’ Backlash Is Another Ridiculous Example Of The Culture Wars Placing Politics Above Art",
+          "excerpt": "If you thought the ancient war between the Trojans and the Greeks was epic and bloody, you should see the culture war currently being waged over Christopher Nolan’s new adaptation of The Odyssey.…",
+          "url": "https://www.forbes.com/sites/erikkain/2026/07/19/the-odyssey-woke-backlash-casting-helen-of-troy-elliot-page/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+          "excerpt": "Christopher Nolan, the Oscar-winning director whose new version of “The Odyssey” is currently conquering the box office, said it’s been “pretty encouraging” to see deep skepticism of AI, especially from young people. Nolan was responding to a question from interviewer Hugo Travers, who publishes on YouTube under the name HugoDécrypte.…",
+          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-      "coverage": 4,
+      "headline_en": "The FDA says Taylor Farms' lettuce cyclospora result was a false positive",
+      "coverage": 3,
       "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-          "excerpt": "Moment Iranian missiles hit airbase in Jordan killing US soldiers Moment Iranian missiles hit airbase in Jordan killing US soldiers A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members and injuring four others. At least 16 US service members have been killed since the US and Israel launched a war on Iran in February.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
-        },
         {
           "source": "Business Insider",
           "lang": "en",
-          "headline": "2 US troops were killed during an Iranian missile and drone attack, the Pentagon says",
-          "excerpt": "Two US service members were killed in Jordan on Friday after American and partner forces came under Iranian missile and drone fire, the Pentagon said on Saturday. Another US service member is missing, and several others were injured in the Iranian attacks. It marks the first publicly acknowledged American military combat fatalities in the Middle East conflict since March.…",
-          "url": "https://www.businessinsider.com/us-troops-killed-iran-war-attack-pentagon-2026-7"
+          "headline": "The FDA says Taylor Farms' lettuce cyclospora result was a false positive",
+          "excerpt": "The US Food and Drug Administration on Sunday walked back an earlier finding that a lettuce sample supplied by Taylor Farms had tested positive for Cyclospora, the parasite that has sickened thousands of Americans.…",
+          "url": "https://www.businessinsider.com/cyclospora-outbreak-cause-identified-contaminated-lettuce-2026-7"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Taylor Farms lettuce sample was false positive for cyclospora, FDA says",
+          "excerpt": "Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says A sample of lettuce from Taylor Farms that had tested positive for cyclospora was a false positive, the Food and Drug Administration said Sunday.…",
+          "url": "https://www.cbsnews.com/news/taylor-farms-lettuce-false-positive-cyclospora/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "FDA says Taylor Farms lettuce sample tested for cyclospora produced false positive",
+          "excerpt": "A sample of lettuce from a supplier that has recalled products as a result of a multi-state cyclospora outbreak produced a false positive result for the parasite, federal officials said Sunday. The false positive was discovered when the U.S. Food and Drug Administration re-reviewed the results of a sample from Taylor Farms de Mexico that as reported positive Saturday.…",
+          "url": "https://www.nbcnews.com/health/health-news/fda-says-taylor-farms-lettuce-sample-tested-cyclospora-produced-false-rcna588303"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "After days of strikes, Energy Secretary Wright says 'mission' in Iran will continue",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "After days of strikes, Energy Secretary Wright says 'mission' in Iran will continue",
+          "excerpt": "After two US troops killed, Energy Secretary Wright says 'mission' in Iran will continue Wright called the loss of American lives in an Iranian attack \"tragic.\" After eight consecutive days of U.S. strikes on Iran, Energy Secretary Chris Wright said Sunday that the United States' \"mission will go on\" until President Donald Trump achieves his war goals.…",
+          "url": "https://abcnews.com/Politics/after-us-troops-killed-energy-secretary-wright-mission/story?id=134888710"
         },
         {
           "source": "Axios",
@@ -234,53 +318,18 @@
           "url": "https://www.axios.com/2026/07/18/iran-jordan-us-deaths-military-two-dead"
         },
         {
-          "source": "NBC News",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Two U.S. service members killed, one missing after Iranian strikes in Jordan",
-          "excerpt": "Two U.S. service members were killed Friday while defending against an Iranian ballistic missile and drone attack in Jordan, and another service member is missing, U.S. Central Command said Saturday. Central Command, known as CENTCOM, said the troops were killed in action as U.S. and partner forces responded to the attack.…",
-          "url": "https://www.nbcnews.com/world/middle-east/two-us-service-members-killed-jordan-another-missing-centom-says-rcna588181"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russia launches major ballistic missile attack on Kyiv",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Russia launches major ballistic missile attack on Kyiv",
-          "excerpt": "Russia launches major ballistic missile attack on Kyiv - Published Russia has carried out a wave of ballistic missile strikes on the Ukrainian capital Kyiv, killing one person and wounding at least 14, officials say. A number of areas in the region were hit overnight.…",
-          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Russia pounds Kyiv for five hours in one of biggest ever ballistic missile attacks",
-          "excerpt": "Russia has carried out one of its biggest-ever ballistic missile attacks on Kyiv, launching a five-hour raid that left at least one person dead and seven injured, with fires and damage across the city. Ukrainian officials said the capital was hit with about 40 Iskander-M and hypersonic Zircon missiles. Residents heard an air raid siren sound at 1.30am.…",
-          "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-          "excerpt": "Russia launches largest ballistic missile attack on Kyiv since start of war Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions. Russia has unleashed another night of powerful air attacks on Kyiv, firing its largest number of ballistic missiles since the start of the war, according to Ukraine’s foreign minister.…",
-          "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Russia's largest ballistic assault of war rocks Kyiv",
-          "excerpt": "Russia's largest ballistic assault of war rocks Kyiv July 19, 2026Russia launched a major overnight missile attack on Ukraine’s capital, Kyiv, involving ballistic missiles, Ukrainian officials said. Moscow launched the largest number of ballistic missiles — around four dozen — in a single attack since the start of its full-scale war, Kyiv's acting foreign minister said on Sunday.…",
-          "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-rdf"
+          "headline": "American service member killed in Iraq as U.S. strikes against Iran enter 2nd week",
+          "excerpt": "Iran War Updates: American service member killed in Iraq as U.S. strikes against Iran enter 2nd week What to know about the Iran war: - A U.S. service member was killed in action in Iraq on Friday, bringing the death toll among U.S. service members in the war with Iran to 17, U.S. Central Command said Sunday. - The U.S. conducted an eighth straight night of strikes on Iran, the U.S.…",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "coverage": 4,
+      "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
@@ -288,13 +337,6 @@
           "headline": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
           "excerpt": "Cuban dissident Luis Manuel Otero AlcÃ¡ntara goes into exile in US - Published One of Cuba's most prominent dissidents has gone into exile in the US, after leaving Cuba where he had served a five-year prison sentence.…",
           "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
-          "excerpt": "Luis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence ended last week, has been given permission to travel to the US, according to his official Facebook page.…",
-          "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us"
         },
         {
           "source": "NPR News",
@@ -307,120 +349,64 @@
           "source": "DW English",
           "lang": "en",
           "headline": "Cuban dissident artist arrives in US after 5 years in prison",
-          "excerpt": "Cuban dissident artist arrives in US after 5 years in prison July 19, 2026Prominent Cuban dissident artist Luis Manuel Otero Alcantara, whose five-year prison sentence ended last week, arrived in the United States on Saturday, US Secretary of State Marco Rubio said. Rubio did not provide the 38-year-old artist's whereabouts or say when he arrived.…",
+          "excerpt": "Cuban dissident artist arrives in US after 5 years in prison July 19, 2026Prominent Cuban dissident artist Luis Manuel Otero Alcantara, whose five-year prison sentence ended last week, has arrived in the United States, according to US Secretary of State Marco Rubio. Rubio did not provide the whereabouts of the 38-year-old artist, or say exactly when he arrived.…",
           "url": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "German politician resigns over surrogacy child controversy",
+      "headline_en": "Russia launches major ballistic missile attack on Ukrainian cities",
       "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "German politician resigns over surrogacy child controversy",
-          "excerpt": "German politician resigns over surrogacy child controversy - Published German centre-right politician Jens Spahn has resigned as parliamentary group leader of the country's governing coalition after being accused of hypocrisy over his use of a surrogate mother in the US to have a child.…",
-          "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss"
+          "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+          "excerpt": "Russia launches major ballistic missile attack on Ukrainian cities - Published Russia has carried out a wave of ballistic missile and drone strikes on Ukraine, killing at least eight people and injuring dozens, officials say. Four people were killed in the north-eastern city of Kharkiv, and an elderly woman died in the capital Kyiv.…",
+          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Germany’s CDU parliamentary leader resigns after using surrogacy to become parent",
-          "excerpt": "A senior German politician and ally of the chancellor, Friedrich Merz, has resigned as parliamentary group leader of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to become parents, a practice he has criticised in the past and his party is vehemently opposed to.…",
-          "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn"
+          "headline": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
+          "excerpt": "Russia has carried out one of its biggest ballistic missile attacks on Kyiv and other Ukrainian cities, launching a five-hour assault that left at least six people dead and dozens injured, and caused fires and damage across the capital. Ukrainian officials said the capital had been hit with about 40 Iskander-M and hypersonic Zircon missiles. Residents heard an air raid siren at 1.30am.…",
+          "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
-          "excerpt": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy July 18, 2026Jens Spahn, the parliamentary leader of the ruling conservative bloc in the Bundestag, stepped down on Saturday amid a controversy surrounding his decision to have a child via surrogacy. The resignation was requested by Chancellor Friedrich Merz of the conservative Christian Democrats (CDU).…",
-          "url": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-all-1573-rdf"
+          "headline": "Russia's largest ballistic assault of war rocks Kyiv",
+          "excerpt": "Russia's largest ballistic assault of war rocks Kyiv July 19, 2026Russia launched a major overnight missile attack on Ukraine’s capital, Kyiv, involving ballistic missiles, Ukrainian officials said. Moscow launched the largest number of ballistic missiles — around four dozen — in a single attack since the start of its full-scale war, Kyiv's acting foreign minister said on Sunday.…",
+          "url": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+      "headline_en": "World Cup 2026: Spain crowned champions, fans in jubilation",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "NPR News",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
-          "excerpt": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
-          "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time"
+          "headline": "World Cup 2026: Spain crowned champions, fans in jubilation",
+          "excerpt": "Relief and joy for Spanish fans all over the world after Spain's victory over Argentina (1-0).",
+          "url": "https://www.france24.com/en/video/20260720-world-cup-2026-spain-crowned-champions-fans-in-jubilation"
         },
         {
-          "source": "Sky News",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Josh Kerr breaks 27-year-old mile record in front of packed London stadium",
-          "excerpt": "British runner Josh Kerr has broken the 27-year-old world record for the mile in front of a sell-out crowd in London.",
-          "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688"
+          "headline": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+          "excerpt": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup Fans in Madrid go wild as Spain beat Argentina to win second World Cup Fans in Madrid erupted in celebration after Spain beat Argentina 1-0 in the World Cup final. The final whistle sparked jubilant scenes across the Spanish capital. Published On 19 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss"
         },
         {
-          "source": "CBS News",
+          "source": "DW English",
           "lang": "en",
-          "headline": "British runner sets new men's mile record",
-          "excerpt": "Latest U.S. Iran War Wildfire Smoke World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
-          "url": "https://www.cbsnews.com/video/british-runner-sets-new-mens-mile-record/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
-          "excerpt": "The end of the biggest World Cup ever is almost here. Following 100 matches, there are just four teams left and two more games to play. The tournament has been hosted by three countries: Mexico, Canada, and the US. All of those host countries are now out of the running. The final teams are France, Spain, England, and Argentina.…",
-          "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "2026 FIFA World Cup Has NFL Players Pushing For Natural Grass Fields",
-          "excerpt": "Is the grass really greener on the other side? Seven NFL venues including MetLife Stadium in New Jersey—the site of tomorrow’s 2026 FIFA World Cup Final between Spain and Argentina—had replaced the synthetic turf on their fields with natural grass just for the duration of the big international football tournament.…",
-          "url": "https://www.forbes.com/sites/brucelee/2026/07/18/2026-fifa-world-cup-has-nfl-players-pushing-for-natural-grass-fields/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Countdown to 2026 FIFA World Cup Final",
-          "excerpt": "Countdown to 2026 FIFA World Cup Final In less than 24 hours, New Jersey's MetLife Stadium will host Spain and Argentina for the 2026 FIFA World Cup Final. It's the first match between the two countries in 60 years.…",
-          "url": "https://abcnews.com/video/134884586/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-          "excerpt": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
-          "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
-          "excerpt": "President Donald Trump on Friday blasted Canada for wildfires enveloping swaths of the United States in a smoky haze and said he would add the costs of that pollution to existing tariffs. Calling the situation \"totally unacceptable,\" Trump accused Ottawa of failing to address what he said were the causes of the fires in Canada, whose smoke has sent air quality to dangerous levels in major U.S.…",
-          "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Wildfire smoke fouls air across Northeast",
-          "excerpt": "Wildfire smoke fouls air across Northeast Smoke from hundreds of wildfires burning across Canada and Minnesota is creating air quality issues in the Northeast. There are also severe weather threats to the Midwest, as well as the risk of flash flooding in some areas. Meteorologist Andrew Kozak has the forecast.",
-          "url": "https://www.cbsnews.com/video/wildfire-smoke-fouls-air-across-northeast/"
+          "headline": "Spain wins second World Cup after beating Argentina in final",
+          "excerpt": "Spain wins second World Cup after beating Argentina in final July 20, 2026Patience proved the critical virtue for Spain. The players had to wait for a kickoff delayed by, among other things, a Tom Cruise speech. They had to wait twice as long as usual at halftime.…",
+          "url": "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
@@ -444,242 +430,424 @@
           "url": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term"
         },
         {
-          "source": "Euronews",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Hungarian president Tamás Sulyok signs constitutional amendment ending his own mandate",
-          "excerpt": "President Tamás Sulyok signed the seventeenth amendment to the Fundamental Law on Saturday, he announced on Facebook. The sitting president’s mandate will end the day after it takes effect. Tamás Sulyok has signed the seventeenth amendment to Hungary’s Fundamental Law, a move that brings his own mandate as president of the republic to an end.…",
-          "url": "http://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate"
+          "headline": "Hungary's president signs amendment ending his own term",
+          "excerpt": "Hungary's president signs amendment ending his own term July 18, 2026Hungarian President Tamas Sulyok on Saturday announced he would sign a constitutional amendment immediately ending his term in office, an act that Prime Minister Peter Magyar later confirmed had been done.…",
+          "url": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "How do Spain and Argentina stack up? World Cup final teams by the numbers.",
+      "headline_en": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+          "excerpt": "Ferry carrying 133 passengers and crew sinks off Guyana coast - Published Sixty-seven people have so far been rescued after a ferry carrying 116 passengers and 17 crew sunk off the coast of Guyana, local officials have said. Fifteen children are among those recovered after the MV Barima capsized following its departure from the capital Georgetown on Saturday. Dozens of people are still missing.…",
+          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Huge search operation after passenger ferry sinks off coast of Guyana",
+          "excerpt": "A massive search-and-rescue operation is under way after a ferry sank off the coast of Guyana in South America late on Saturday, in what has been described by officials as one of the country’s worst maritime disasters.…",
+          "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Passenger ferry carrying 116 passengers sinks off the coast of Guyana",
+          "excerpt": "A distress call by the MV Barima to the coast guard was made just after 11pm local time. The vessel is said to be equipped with 250 life jackets, two rigid life boats and six inflatable life crafts. A ferry carrying 116 passengers has sunk off the coast of Guyana.…",
+          "url": "http://www.euronews.com/2026/07/19/passenger-ferry-carrying-116-people-sinks-off-the-coast-of-guyana"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
+          "excerpt": "Spain's run to the title was a defensive masterclass, with wins over four of the world's top ten teams. They are the first World Cup champion to win the title while only conceding a single goal.",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Spain Finish Off a World Cup to Remember",
+          "excerpt": "After the final whistle blew, and Spain won its second-ever men’s World Cup, closing out a 39-day North American soccer extravaganza, a handful of Spanish bench players ran to mob Ferran Torres, the substitute who scored the game-winning extra-time goal.…",
+          "url": "https://time.com/article/2026/07/20/spain-world-cup-2026-final-argentina-tournament-recap/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "World Cup 2026 final in photos: Spain triumphs as football crowns a new champion",
+          "excerpt": "Spain reclaimed football's biggest prize on Sunday, defeating Argentina 1-0 after extra time in a tense World Cup final that delivered high drama both on and off the pitch. Ferran Torres' decisive strike settled the contest, ending Argentina's title defense and handing Spain its second World Cup crown.…",
+          "url": "https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "7/19: CBS Weekend News",
       "coverage": 2,
       "perspectives": [
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "How do Spain and Argentina stack up? World Cup final teams by the numbers.",
-          "excerpt": "Spain vs. Argentina: What to know about the World Cup final teams, players and records As Spain and Argentina head into the 2026 men's World Cup final at MetLife Stadium in New Jersey on Sunday, soccer fans have already experienced heartbreak, pure joy and controversy during the historic 39-day tournament.…",
-          "url": "https://www.cbsnews.com/news/spain-argentina-world-cup-final-records-players/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
-          "excerpt": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups Stars Lionel Messi and Lamine Yamal clash at the biggest match of the biggest World Cup in history.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "What Lionel Messi Sees",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "What Lionel Messi Sees",
-          "excerpt": "What Lionel Messi Sees The World Cup’s all-time leading goal scorer is always paying attention. Lionel Messi on the soccer field takes the short, trotty steps of a dachshund in the park.…",
-          "url": "https://www.theatlantic.com/culture/2026/07/lionel-messi-world-cup/687991/?utm_source=feed"
+          "headline": "7/19: CBS Weekend News",
+          "excerpt": "Latest U.S. Iran War World Cup World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
+          "url": "https://www.cbsnews.com/video/071926-cbs-weekend-news/"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "World Cup 2026: France's Mbappé becomes all-time tournament goalscorer",
-          "excerpt": "World Cup 2026: France's Mbappé becomes all-time tournament goalscorer Kylian Mbappé made history at the World Cup by becoming the tournament's all-time leading goalscorer with 22 goals after his brace in France's third-place playoff against England. The French superstar surpassed Lionel Messi's previous record of 21 goals, cementing his legacy as one of football's greatest tournament performers.…",
-          "url": "https://www.france24.com/en/sport/20260719-world-cup-2026-france-s-mbapp%C3%A9-becomes-all-time-tournament-goalscorer"
+          "headline": "Spain beat Argentina to win World Cup for second time",
+          "excerpt": "Spain beat Argentina 1-0 after extra time in the World Cup final. The Spanish have been crowned champions for the second time in their history. Ferran Torres scored the only goal of the match.",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260720-spain-beat-argentina-to-win-world-cup-for-second-time"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "2026 World Cup: France fall to England after wild ten-goal thriller",
+      "headline_en": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "France 24",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "2026 World Cup: France fall to England after wild ten-goal thriller",
-          "excerpt": "France endured an emotional rollercoaster in Miami on Saturday, eventually falling 6-4 to England in a breathtaking 2026 World Cup third-place playoff. Trailing 4-0 at halftime, Les Bleus mounted a sensational comeback, fueled by Kylian Mbappé's ninth and tenth goals of the tournament, but England held on to seal victory in a spectacular contest.",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260719-2026-world-cup-france-fall-to-england-after-wild-ten-goal-thriller"
+          "headline": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+          "excerpt": "With President Trump in attendance, an all-superstar lineup that included Madonna, BTS, Justin Bieber and Burna Boy felt a little more political than it might have otherwise.",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber"
         },
         {
-          "source": "Euronews",
+          "source": "Time",
           "lang": "en",
-          "headline": "England beat France 6-4 in World Cup third-place thriller",
-          "excerpt": "The 10-goal spectacle shattered several World Cup records, while Kylian Mbappé moved ahead of Lionel Messi on the tournament's all-time scoring list and strengthened his lead in the Golden Boot race.…",
-          "url": "http://www.euronews.com/2026/07/19/england-beat-france-6-4-in-world-cup-third-place-thriller"
+          "headline": "The World Cup's First Halftime Show Did Too Much and Meant Too Little",
+          "excerpt": "With Spain and Argentina tied zero to zero midway through Sunday’s 2026 World Cup final, it was up to FIFA’s first-ever halftime show to put some figurative points on the board.…",
+          "url": "https://time.com/article/2026/07/19/world-cup-halftime-show-review/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "На Кубани в ДТП на трассе погибли три человека",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "На Кубани в ДТП на трассе погибли три человека",
-          "excerpt": "Еще двое пострадали",
-          "url": "https://tass.ru/proisshestviya/27931055"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Три человека погибли в ДТП на трассе в Ростовской области",
-          "excerpt": "Три человека погибли и трое пострадали в результате ДТП на трассе в Неклиновском районе Ростовской области. Подробности публикует Госавтоинспекция региона. Уточняется, что столкновение двух автомобилей произошло на 102-м километре автодороги «Новороссия».…",
-          "url": "https://lenta.ru/news/2026/07/19/tri-cheloveka-pogibli-v-dtp-na-trasse-v-rostovskoy-oblasti/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "At least one killed as Russian ballistic missiles hit Kyiv",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
-          "excerpt": "At least one killed as Russian ballistic missiles hit Kyiv At least one killed as Russian ballistic missiles hit Kyiv Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine others. The attack sparked fires in homes, a supermarket and other buildings as air raid sirens sounded across the Ukrainian capital. Published On 19 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Millions in Kyiv 'didn't have time to seek shelter' ahead of Russian attack",
-          "excerpt": "One person was killed and eight others injured in an overnight Russian attack on Kyiv that included ballistic missiles, local authorities said on Sunday. FRANCE 24's Emmanuel Chaze reports from the Ukrainian capital.",
-          "url": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "White House defends Argentina team over Falklands banner",
+      "headline_en": "Spanish and Argentinian fans react outside World Cup final",
       "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "White House defends Argentina team over Falklands banner",
-          "excerpt": "White House defends Argentina team over Falklands banner - Published The White House has defended the Argentinian football team's right to free speech after they controversially waved a banner in support of their country's territorial claim to the Falkland Islands while celebrating their World Cup win against England.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
+          "headline": "Spanish and Argentinian fans react outside World Cup final",
+          "excerpt": "Spanish and Argentinian fans react outside World Cup final Ecstatic Spanish spectators and disappointed Argentine fans spoke to the BBC outside New York New Jersey Stadium after the World Cup final on Sunday. Argentina played extra time with only 10 men when Spain's Ferran Torres scored the winning goal after 106 minutes.",
+          "url": "https://www.bbc.co.uk/news/videos/czxqr9rl9r0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "The Guardian",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "White House backs Argentina players over Falklands banner in World Cup semi-final",
-          "excerpt": "The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falkland Islands after their World Cup semi-final victory against England. After Argentina’s 2-1 win in a fractious match in Atlanta on Wednesday, some players held up a banner that said: “Las Malvinas son Argentinas” – using the country’s term for the South Atlantic islands.…",
-          "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final"
+          "headline": "Fans in Madrid party all night long after Spain’s World Cup victory",
+          "excerpt": "Fans in Madrid party all night long after Spain’s World Cup victory Fans in Madrid party all night long after Spain’s World Cup victory Spanish fans spent the night partying in Madrid after their team defeated Argentina 1-0 in the final of the World Cup. Al Jazeera's Natacha Butler reports from the heart of the celebrations in Madrid. Published On 20 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "7/18: CBS Weekend News",
+      "headline_en": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
       "coverage": 2,
       "perspectives": [
         {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+          "excerpt": "The end of the biggest World Cup ever is almost here. Following 100 matches, there are just four teams left and two more games to play. The tournament has been hosted by three countries: Mexico, Canada, and the US. All of those host countries are now out of the running. The final teams are France, Spain, England, and Argentina.…",
+          "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/"
+        },
+        {
           "source": "CBS News",
           "lang": "en",
-          "headline": "7/18: CBS Weekend News",
-          "excerpt": "Latest U.S. Iran War Wildfire Smoke World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
-          "url": "https://www.cbsnews.com/video/071826-cbs-weekend-news/"
+          "headline": "Spain wins 2026 FIFA World Cup with grueling 1-0 win over Argentina",
+          "excerpt": "Spain wins 2026 FIFA World Cup with grueling 1-0 win over Argentina It took 106 minutes for Ferran Torres to score the first and only goal in the 2026 FIFA World Cup final at MetLife Stadium in New Jersey, giving Spain the 1-0 win over Argentina in the deciding match. Spain dominated the match, outshooting Argentina 20-3, but couldn't manage a goal in regulation.…",
+          "url": "https://www.cbsnews.com/news/2026-fifa-world-cup-final-spain-argentina-sunday/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Innolight Gauges Interest for $8 Billion Hong Kong Listing",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Innolight Gauges Interest for $8 Billion Hong Kong Listing",
+          "excerpt": "China’s Zhongji Innolight Co. is starting to gauge investor demand for its Hong Kong listing, according to terms of the deal seen by Bloomberg News, bringing it a step closer to what may be the city’s largest first-time share sale in seven years.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-20/zhongji-innolight-starts-gauging-interest-for-hong-kong-listing"
         },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
+          "excerpt": "Shares of China's Zhongji Innolight surged as much as 8% Monday before paring some gains, after the company received approval for a major Hong Kong listing worth up to $8 billion on Friday, in what is likely to be one of the city's biggest in years.…",
+          "url": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "The soccer fans who fell in love with America during the World Cup",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "The soccer fans who fell in love with America during the World Cup",
+          "excerpt": "The 2026 World Cup was an undeniable sensation in the United States, setting records for television ratings while millions of fans piled into stadiums to take in all the action. What happened off the field was arguably just as exciting, as people from all over the world traveled to the U.S.…",
+          "url": "https://www.nbcnews.com/sports/soccer/soccer-fans-fell-love-america-world-cup-rcna588252"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "I went on Walmart's last World Cup store tour. It was peak America.",
+          "excerpt": "A Walmart Supercenter is a fluorescent palace of American consumption. To US shoppers, it's a utilitarian one-stop shop where groceries, televisions, tires, and just about everything else sit beneath one enormous roof. To some international World Cup fans, though, it is a viral tourist sensation. Many fans made a point to visit Walmart during their stay in the United States.…",
+          "url": "https://www.businessinsider.com/walmart-world-cup-store-tour-fifa-mania-ranch-dressing-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "India news: 'Cockroaches' take on Modi with parliament march",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "US strikes Iran after 2 service members killed in Jordan",
-          "excerpt": "US strikes Iran after 2 service members killed in Jordan Published July 18, 2026last updated July 19, 2026What you need to know - US military strikes Iran for eighth consecutive night - US Central Command says 2 service members killed in Jordan on Friday in Iranian attack - Written statement from supreme leader Mojtaba Khamenei warns of reprisals after US attacks - Pentagon denies Iran's account o…",
-          "url": "https://www.dw.com/en/us-strikes-iran-after-2-service-members-killed-in-jordan/live-78015388?maca=en-rss-en-all-1573-rdf"
+          "headline": "India news: 'Cockroaches' take on Modi with parliament march",
+          "excerpt": "India news: 'Cockroaches' take on Modi with parliament march Published July 20, 2026last updated July 20, 2026What you need to know - India's Cockroach Janta Party movement has urged supporters to march to the Indian Parliament peacefully - Protesters and police clash as protesters are trying to make their way to parliament - Outside of the protest site, police has prohibited protest marches, proc…",
+          "url": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "India bans march on parliament by ‘Cockroach’ activists, risking a standoff",
+          "excerpt": "India bans march on parliament by ‘Cockroach’ activists, risking a standoff Police in New Delhi on Sunday banned a planned march on the Indian parliament by supporters of the viral, opposition Cockroach Janata Party.…",
+          "url": "https://www.france24.com/en/asia-pacific/20260719-india-bans-march-on-parliament-by-cockroach-activists-risking-a-standoff"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "headline_en": "US Strikes Iran in Escalating Campaign After Troops Killed",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-          "excerpt": "Indian activist on hunger strike for 20 days forcibly taken to hospital - Published Indian activist and educationist Sonam Wangchuk, on hunger strike for the past 20 days in Delhi, has been forcibly removed from his protest site. The 59-year-old had been protesting in support of an online satirical movement called the Cockroach Janta Party (CJP) who are seeking educational reforms.…",
-          "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss"
+          "headline": "US Strikes Iran in Escalating Campaign After Troops Killed",
+          "excerpt": "The US and Iran engaged in a quickening series of tit-for-tat attacks, with the American military conducting a wave of strikes on the Islamic Republic following the deaths of service personnel.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan"
         },
         {
-          "source": "Sky News",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Hunger striker taken to hospital as police launch 'chilling crackdown'",
-          "excerpt": "Police have forcibly removed hunger striker Sonam Wangchuk from a student protest site in India.",
-          "url": "https://news.sky.com/story/indian-hunger-striker-taken-to-hospital-as-police-launch-chilling-crackdown-13564607"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-          "excerpt": "Warnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty about where the heavy wildfire smoke swirling from the Canadian province of Ontario and the US state of Minnesota will head next.…",
-          "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Northeast, Mid-Atlantic under tornadoes and flood risk as wildfire smoke lingers",
-          "excerpt": "Storms across Northeast and Mid-Atlantic put millions on alert for tornadoes, floods as wildfire smoke impacts air quality More than 50 million people in the Northeast and Mid-Atlantic are at risk for severe weather this weekend while Canadian wildfire smoke continues to impact air quality. A severe weather threat is in effect from the Ohio Valley through the Mid-Atlantic and Northeast.…",
-          "url": "https://www.cbsnews.com/news/severe-weather-wildfire-smoke-northeast/"
+          "headline": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+          "excerpt": "Trump: Latest strikes on Iran 'in honour' of killed US military personnel Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel US President Donald Trump said the latest strikes on Iran, now in their ninth consecutive night, were carried out ‘in honour’ of American military personnel killed in Jordan and Iraq.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Federal employees can download TikTok on their work phones again",
+      "headline_en": "The FBI reportedly won’t investigate ICE anymore",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "TechCrunch",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "Federal employees can download TikTok on their work phones again",
-          "excerpt": "The Department of Justice says that federal employees can now download TikTok on their government devices, according to Reuters. A 2022 law banned federal employees from using the short-form video app on those devices, but the DOJ reportedly says the law no longer applies, thanks to a deal transferring ownership of TikTok’s U.S.…",
-          "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
+          "headline": "The FBI reportedly won’t investigate ICE anymore",
+          "excerpt": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The FBI reportedly won’t investigate ICE anymore The change would essentially leave ICE to investigate itself and leave little chance of agents being held accountable.…",
+          "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults"
         },
         {
-          "source": "Engadget",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "TikTok is no longer banned on US government devices",
-          "excerpt": "TikTok is no longer banned on US government devices TikTok's US entity functions independently of ByteDance, the Justice Department explained. The US Department of Justice has announced that federal employees can now download and install TikTok on electronics provided by the government, explaining that its current version doesn't pose the risks the previous one did.…",
-          "url": "https://www.engadget.com/2218069/us-government-lifts-tiktok-ban-federal-devices/"
+          "headline": "FBI will no longer investigate ICE confrontations, The New York Times reports",
+          "excerpt": "U.S. Immigration and Customs Enforcement agents recently have been told that the FBI will no longer investigate claims of assault against the federal officers, according to a report by The New York Times. On Thursday, FBI managers received written notice of the change, sources told the Times, and some ICE agents throughout the country were informed by their FBI counterparts.…",
+          "url": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Spain fans bring the party to New York before World Cup final",
+      "headline_en": "A look at the most exciting moments from the 2026 FIFA World Cup",
       "coverage": 2,
       "perspectives": [
         {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "A look at the most exciting moments from the 2026 FIFA World Cup",
+          "excerpt": "The 2026 World Cup has come to a close. Spain is the winner after a thrilling 1-0 win in the final, holding off Lionel Messi and Argentina from winning a second consecutive title. The tournament began on June 11 with the opening match in Mexico, before play extended to the United States and Canada. It was an exciting tournament overall, as well as the first to feature 48 teams.…",
+          "url": "https://www.nbcnews.com/sports/soccer/2026-world-cup-photos-rcna588080"
+        },
+        {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Spain fans bring the party to New York before World Cup final",
-          "excerpt": "Spain fans bring the party to New York before World Cup final Spain fans bring the party to New York before World Cup final ‘King [Messi] abdicates, but the prince [Lamine Yamal] takes the throne!’ Spain fans filled the streets of New York with chants and songs ahead of the World Cup final against defending champions Argentina.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss"
+          "headline": "A bird’s-eye view as Donald Trump arrives for the World Cup final",
+          "excerpt": "A bird's-eye view as Donald Trump arrives for the World Cup final A bird’s-eye view as Donald Trump arrives for the World Cup final Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Kimi: Threat or menace?",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Kimi: Threat or menace?",
+          "excerpt": "Chinese company Moonshot AI released a new version of its Kimi model this week, leading to a perhaps-inevitable wave of discourse about China and open source AI.…",
+          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
         },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Moonshot’s latest Kimi model is so popular that the company just gated new users",
+          "excerpt": "One of China's biggest AI players is struggling to cope with its newfound success. In a Sunday X post, Chinese startup Moonshot AI wrote that its recently released Kimi K3 model has \"received far more love\" than expected, and its GPUs were feeling the strain. \"Over the past 48 hours, demand has pushed close to the limits of our current capacity,\" the company wrote.…",
+          "url": "https://www.businessinsider.com/moonshot-kimi-ai-paused-new-users-popularity-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Earthquake in Peru leaves at least six dead",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Earthquake in Peru leaves at least six dead",
+          "excerpt": "A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have been displaced. The US Geological Survey reported the quake struck on Saturday at 9.24pm, with its epicentre located 2km (1.2 miles) west-south-west of the city of Sicaya in Huancayo province. It was 10km (6.2 miles) deep.…",
+          "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Magnitude 5.1 earthquake in central Peru leaves at least five dead and ten injured",
+          "excerpt": "A 5.1‑magnitude earthquake centred in Chupaca, Junín, left five people dead and around ten injured on Saturday night, and damaged hospitals and religious monuments in the Andean area. At least five people have been killed and ten others were left injured after a 5.1 magnitude earthquake struck central Peru.…",
+          "url": "http://www.euronews.com/2026/07/19/magnitude-51-earthquake-in-central-peru-leaves-at-least-one-dead-and-ten-injured"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Middle East crisis: US military says service member killed during ‘controlled detonation’ of downed Iranian drone – as it happened",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Middle East crisis: US military says service member killed during ‘controlled detonation’ of downed Iranian drone – as it happened",
+          "excerpt": "US Central Command said on Sunday that a US service member in northern Iraq was killed in action on Saturday during a controlled detonation of a downed Iranian drone. It comes after two US soldiers were killed and one missing by an Iranian attack on a military facility in Jordan. A U.S.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "3 US troops were killed in the Middle East amid Iranian attacks, the Pentagon says",
+          "excerpt": "A US service member died in northern Iraq on Saturday \"during a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone,\" US Central Command announced. A second service member was wounded. The death came a day after two US service members were killed in Jordan when American and partner forces came under Iranian missile and drone attack.…",
+          "url": "https://www.businessinsider.com/us-troops-killed-iran-war-attack-pentagon-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
+          "excerpt": "TSMC is racing to accelerate capacity at its Arizona factory as the company continues to see a \"multi-year demand mega trend\" from its customers, Chief Financial Officer Wendell Huang told CNBC. TSMC, or Taiwan Semiconductor Manufacturing Co., is scaling up its mega investment in Arizona by committing an additional $100 billion to aggressively expand its U.S.…",
+          "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "TSMC Is Pouring $100 Billion More Into Its Arizona Plant to Keep Up With Strong US Customer Demand",
+          "excerpt": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Taiwan Semiconductor Manufacturing Co. Ltd. will pour an extra $100 billion into its Arizona facilities to cater to the burgeoning customer demand. On Thursday, the chipmaker's Chief Executive Officer C.C.…",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-pouring-100-billion-more-193035757.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Gas prices on the rise again as Iran war reignites",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Gas prices on the rise again as Iran war reignites",
+          "excerpt": "Latest U.S. Iran War World Cup World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
+          "url": "https://www.cbsnews.com/video/gas-prices-on-the-rise-again-as-iran-war-reignites/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Gas prices are rising again — and so is GOP grief in the midterms",
+          "excerpt": "Just when Republicans thought they'd caught a break on gas prices, the collapse of President Trump's Iran deal is derailing their best chance to change the inflation story before the midterms. Why it matters: Falling gas prices are one of the most tangible ways to ease voter anger over inflation. Renewed combat — and the threat of escalation — has prices shooting back up.…",
+          "url": "https://www.axios.com/2026/07/19/gas-prices-iran-war-trump-election"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Argentina vs Spain: Tactics, stars and off-pitch backlash",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "World Cup 2026: Do supporters prefer Lamine Yamal or Lionel Messi?",
-          "excerpt": "Yamal or Messi? With just a few hours to go before kick-off in the World Cup final between Spain and Argentina, we took to the streets of New York to ask fans which of the two players they prefer",
-          "url": "https://www.france24.com/en/world-cup-2026-do-supporters-prefer-lamine-yamal-or-lionel-messi"
+          "headline": "Argentina vs Spain: Tactics, stars and off-pitch backlash",
+          "excerpt": "The 2026 FIFA World Cup reaches its climax as Spain take on Argentina in a highly anticipated final. The match pits the defending champions against one of football's rising powers, with Lionel Messi's enduring legacy meeting the emergence of Spain's teenage star Lamine Yamal",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20260719-argentina-vs-spain-tactics-stars-and-off-pitch-backlash"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "UNICEF Photo Showing Lionel Messi Bathing Baby Lamine Yamal Goes Viral",
+          "excerpt": "It was back in 2007. Lionel Messi, 20 years of age at the time, was posing with a five-month-old Lamine Yamal for a UNICEF calendar photo.…",
+          "url": "https://www.forbes.com/sites/brucelee/2026/07/19/unicef-photo-showing-lionel-messi-bathing-baby-lamine-yamal-goes-viral/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+          "excerpt": "In a new regulatory filing, Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by actor and director Ben Affleck.…",
+          "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Netflix Reveals the Staggering Price of Its AI Deal With Ben Affleck",
+          "excerpt": "The streaming service paid $587 million to acquire InterPositive, the AI platform developed by the actor to help filmmakers solve postproduction challenges at a fraction of the cost of reshoots.",
+          "url": "https://www.inc.com/kevin-haynes/netflix-reveals-the-staggering-price-of-its-ai-deal-with-ben-affleck/91376485"
         }
       ]
     },
@@ -705,170 +873,65 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "category": "💡 Tech & AI",
+      "headline_en": "The Kodak EC35 is a pocketable, beginner-friendly 35mm film camera",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "Space start-up launches India’s first commercial rocket designed for orbit",
-          "excerpt": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off - Published What if launching a satellite was as easy as calling a cab? That's the vision behind an Indian private rocket company that achieved its first orbital launch on Saturday.…",
-          "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
+          "headline": "The Kodak EC35 is a pocketable, beginner-friendly 35mm film camera",
+          "excerpt": "The Kodak EC35 is a pocketable, beginner-friendly 35mm film camera The $35 camera comes in seven colors and has a slide cover. There's a new Kodak-branded camera from Charmera-maker Reto, and it's a super-cute point-and-shoot film camera that won't break the bank.…",
+          "url": "https://www.engadget.com/2218273/kodak-ec35-pocketable-beginner-friendly-35mm-film-camera/"
         },
         {
-          "source": "DW English",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "India launches first private rocket into space",
-          "excerpt": "India launches first private rocket into space July 18, 2026India's first privately developed orbital rocket blasted off into space on Saturday, an achievement Prime Minister Narendra Modi hailed as \"opening new frontiers and accelerating innovation.\" The South Asian nation becomes the third after the US and China to achieve the milestone, following a surge of investment in the space sector since …",
-          "url": "https://www.dw.com/en/india-launches-first-private-rocket-into-space/a-78016562?maca=en-rss-en-all-1573-rdf"
+          "headline": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+          "excerpt": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn’t fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact that it has a manual wind and rewind only emphasizes that.…",
+          "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Messi denied dream farewell as Argentina lose World Cup final to Spain",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Messi denied dream farewell as Argentina lose World Cup final to Spain",
+          "excerpt": "Argentina's 1-0 loss to Spain in the 2026 World Cup final on Sunday brought star forward Lionel Messi's dream of winning back-to-back trophies crashing down to earth.",
+          "url": "https://www.france24.com/en/sport/20260719-messi-denied-dream-farewell-as-argentina-lose-world-cup-final-to-spain"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Spain and Argentina's World Cup trophy count before 2026 final",
+          "excerpt": "Spain and Argentina's World Cup trophy count before 2026 final Spain and Argentina faced off Sunday in the World Cup final at MetLife Stadium in New Jersey, marking just the second meeting between the two sides in the tournament's history, and their first in 60 years. Spain defeated Argentina 1-0, earning their second World Cup title.…",
+          "url": "https://www.cbsnews.com/news/spain-argentina-world-cup-trophies-history/"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
+      "headline_en": "Каршеринг врезался в нагрузку // Сумма претензий контрагентов к BelkaCar достигла 972,7 млн рублей",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
-          "excerpt": "The biggest game in soccer is set for Sunday, when Argentina and Spain will meet in the World Cup final, held just outside of New York City. There’s just one problem. Wildfire smoke now threatens the match—and FIFA, the sport’s governing body, doesn’t appear to have any plan in place to protect the health of players or fans.…",
-          "url": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Wildfire Smoke And The World Cup Final: Does FIFA Have A Back Up Plan?",
-          "excerpt": "The eyes of the world will turn to New York New Jersey Stadium in East Rutherford, New Jersey for the FIFA World Cup final on July 19, 2026. But this summer, another force of nature may steal the spotlight: wildfire smoke.…",
-          "url": "https://www.forbes.com/sites/robertglatter/2026/07/18/wildfire-smoke-and-the-world-cup-final-does-fifa-have-a-back-up-plan/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Helicopters dump water as huge Norway fire destroys homes",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Helicopters dump water as huge Norway fire destroys homes",
-          "excerpt": "Helicopters dump water as huge Norway fire destroys homes More than 100 homes have been destroyed by a massive fire burning through Drammen in southern Norway, rescue officials said. Hundreds of people have been evacuated from the area, around 30 miles west of Oslo. No casualties or missing people have been reported so far.…",
-          "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Norway: Huge fire destroys 100 homes, sparks evacuations",
-          "excerpt": "Norway: Huge fire destroys 100 homes, sparks evacuations July 18, 2026A fire that broke out in a townhouse in southern Norway before destroying a hundred homes has been mostly brought under control, fire officials said Saturday. Local media described the blaze as the largest in the Nordic nation for more than a century.…",
-          "url": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "England holds on to defeat France 6-4 in wild World Cup third place match",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "England holds on to defeat France 6-4 in wild World Cup third place match",
-          "excerpt": "England holds on to defeat France 6-4 in wild World Cup third place match Bukayo Saka scored three goals to lead England to a 6-4 win over France for third place in the World Cup, while Kylian Mbappé surpassed Argentina's Lionel Messi's career World Cup scoring record and took the lead in the Golden Boot race with a pair of second-half goals on Saturday.…",
-          "url": "https://www.cbsnews.com/news/england-defeats-france-wild-world-cup-third-place-match/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "France's Mbappe sets World Cup scoring record with 22 goals",
-          "excerpt": "France's Mbappe sets World Cup scoring record with 22 goals July 19, 2026France's Kylian Mbappe became the top scorer in World Cup history on Saturday after netting a 22nd goal in the third-place play-off against England. However, his team suffered a 6-4 defeat to the Three Lions in Didier Deschamps' last match as France's head coach.…",
-          "url": "https://www.dw.com/en/france-s-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-          "excerpt": "The brothers were taken into custody on a sealed warrant, the Marshals Service told the AP. British prosecutors said they were seeking the extradition of the brothers on rape and trafficking charges.",
-          "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Radical misogynist influencer Andrew Tate and brother arrested in Miami",
-          "excerpt": "Radical misogynist influencer Andrew Tate and brother arrested in Miami US marshals Saturday arrested Andrew Tate and his brother Tristan in Miami on undisclosed charges. British authorities have been pushing for the extradition of the Tate brothers who face 59 charges in the UK including rape, sex trafficking, assault, tax evasion and money laundering.…",
-          "url": "https://www.france24.com/en/americas/20260719-radical-misogynist-influencer-andrew-tate-and-brother-arrested-in-miami"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
-          "excerpt": "Russia launched strikes at Kyiv on Sunday that killed one person and wounded several one day after a deadly Ukrainian drone attack hit e-commerce warehouses near Moscow.",
-          "url": "https://www.france24.com/en/europe/20260719-russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ukraine drones target Russian warehouses and oil sites",
-          "excerpt": "Ukraine drones target Russian warehouses and oil sites July 18, 2026Ukrainian drone attacks have killed nine people and wounded over 80 more across Russia, say officials in Moscow, with Kyiv's strikes targeting logistics centers and sparking a fire at an oil depot.…",
-          "url": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Силы ПВО сбили пять летевших на Москву беспилотников",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ТАСС",
+          "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Силы ПВО сбили пять летевших на Москву беспилотников",
-          "excerpt": "На месте падения обломков работают специалисты",
-          "url": "https://tass.ru/proisshestviya/27931047"
+          "headline": "Каршеринг врезался в нагрузку // Сумма претензий контрагентов к BelkaCar достигла 972,7 млн рублей",
+          "excerpt": "Каршеринг врезался в нагрузку Сумма претензий контрагентов к BelkaCar достигла 972,7 млн рублей За истекший период 2026 года контрагенты подали к BelkaCar 39 исков на 972,7 млн руб. Количество споров уже превысило показатель за весь прошлый год более чем в два с половиной раза. Основная часть претензий — от лизингодателей, с которыми операторам все сложнее выстраивать отношения.…",
+          "url": "https://www.kommersant.ru/doc/8829704"
         },
         {
-          "source": "Lenta.ru",
+          "source": "vc.ru",
           "lang": "ru",
-          "headline": "Российские средства ПВО уничтожили пять летевших на Москву беспилотников",
-          "excerpt": "Российские средства ПВО Минобороны уничтожили пять беспилотников, летевших на Москву. Об этом сообщает мэр Москвы Сергей Собянин. «На месте падения обломков работают специалисты экстренных служб», — добавил Собянин. Ранее российские средства противовоздушной обороны за минувшие сутки уничтожили 13 управляемых авиационных бомб и 774 беспилотных летательных аппарата ВСУ.",
-          "url": "https://lenta.ru/news/2026/07/19/rossiyskie-sredstva-pvo-unichtozhili-pyat-letevshih-na-moskvu-bespilotnikov/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Альпинист погиб при восхождении на Эльбрус",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ТАСС",
-          "lang": "ru",
-          "headline": "Альпинист погиб при восхождении на Эльбрус",
-          "excerpt": "Еще один человек пострадал",
-          "url": "https://tass.ru/proisshestviya/27931031"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Один альпинист погиб, один пострадал при восхождении на Эльбрус",
-          "excerpt": "Один альпинист погиб, один пострадал при восхождении на Эльбрус Москва. 19 июля. INTERFAX.RU - Альпинист погиб во время восхождения на Эльбрус, сообщает пресс-служба Следственного управления СКР по КБР. По предварительным данным, 19 июля два человека совершали восхождение на Эльбрус. На высоте 4200 метров восточной вершины горы они сорвались со скал.…",
-          "url": "https://www.interfax.ru/russia/1104172"
+          "headline": "Каршеринг BelkaCar с начала 2026 года получил от контрагентов 39 исков на общую сумму 972,7 млн рублей",
+          "excerpt": "Основная часть претензий поступила от лизингодателей. Фото «РИА Новости» Операционная компания BelkaCar АО «Каршеринг» в июле 2026 года получила два иска от ООО «Шёлковый путь» на общую сумму 631 млн рублей, а также иск от ООО «Мэйджор профи» на 249,9 млн руб, пишет «Ъ» со ссылкой на данные СПАРК.Всего контрагенты BelkaCar с начала 2026 года подали к каршерингу 39 исков в общей сложности на 972,7 …",
+          "url": "https://vc.ru/money/3035662-karsharing-belkacar-poluchil-mnozhestvo-iskov-ot-lizingodateley?from=rss"
         }
       ]
     }
