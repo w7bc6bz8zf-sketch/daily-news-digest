@@ -2,11 +2,9 @@ name: Collect News Data
 
 on:
   schedule:
-    # 06:30 Moscow time = 03:30 UTC  (leaves 30 min for Claude to process at 07:00 MSK)
     - cron: "30 3 * * *"
-  workflow_dispatch:   # manual "Run workflow" button in GitHub UI
+  workflow_dispatch:
 
-# Allow the workflow to commit news_data.json back to the repo
 permissions:
   contents: write
 
@@ -33,11 +31,42 @@ jobs:
           HOURS_BACK:  "36"
         run: python collect_news.py
 
-      - name: Commit news_data.json to repo
+      - name: Generate compact JSON for API fetching
+        run: |
+          python3 - << 'PYEOF'
+          import json, os
+          with open("news_data.json") as f:
+              data = json.load(f)
+          compact_stories = []
+          for s in data["stories"]:
+              compact_stories.append({
+                  "category": s["category"],
+                  "headline_en": s["headline_en"],
+                  "perspectives": [
+                      {
+                          "source": p["source"],
+                          "excerpt": p["excerpt"][:150] if p.get("excerpt") else "",
+                          "url": p.get("url", ""),
+                          "lang": p.get("lang", "en"),
+                      }
+                      for p in s["perspectives"]
+                  ],
+              })
+          compact = {
+              "collected_at": data["collected_at"],
+              "story_count": len(data["stories"]),
+              "stories": compact_stories,
+          }
+          with open("news_compact.json", "w") as f:
+              json.dump(compact, f, ensure_ascii=False, separators=(",", ":"))
+          size = os.path.getsize("news_compact.json")
+          print(f"news_compact.json: {len(data['stories'])} stories, {size} bytes")
+          PYEOF
+
+      - name: Commit news data to repo
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
-          git add news_data.json
-          # Only commit if the file actually changed
+          git add news_data.json news_compact.json
           git diff --staged --quiet || git commit -m "📰 Daily news data $(date -u +%Y-%m-%d)"
           git push
