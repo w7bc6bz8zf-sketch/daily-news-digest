@@ -41,6 +41,12 @@ EXCERPT_CHARS     = 400
 FETCH_TIMEOUT     = 10
 CLUSTER_THRESHOLD = 0.15
 MIN_PERSPECTIVES  = 2   # HARD RULE — story skipped if fewer real excerpts
+RU_QUOTA          = int(os.environ.get("RU_QUOTA", "10"))  # гарантированные слоты для русских историй
+
+RU_SOURCES = frozenset([
+    "РИА Новости", "Коммерсант", "Ведомости", "Forbes.ru", "The Bell",
+    "vc.ru", "Habr", "RB.ru", "Meduza", "Lenta.ru", "Interfax",
+])
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsDigestBot/1.0)"}
 
@@ -153,11 +159,15 @@ FEEDS = [
     ("Food Dive",         "🛒 FMCG & Retail",  "https://www.fooddive.com/feeds/news/"),
     ("Grocery Dive",      "🛒 FMCG & Retail",  "https://www.grocerydive.com/feeds/news/"),
     ("Consumer Goods",    "🛒 FMCG & Retail",  "https://www.consumergoods.com/rss.xml"),
-    # Russian sources
-    ("РБК",               "🌍 World",          "https://rssexport.rbc.ru/rbcnews/news/20/full.rss"),
-    ("Коммерсант",        "💼 Business",       "https://www.kommersant.ru/RSS/main.xml"),
-    ("ТАСС",              "🌍 World",          "https://tass.ru/rss/v2.xml"),
+    # Russian sources (проверены на живость 2026-07-21)
+    ("РИА Новости",       "🌍 World",          "https://ria.ru/export/rss2/archive/index.xml"),
+    ("Коммерсант",        "💼 Business",       "https://www.kommersant.ru/RSS/news.xml"),
+    ("Ведомости",         "💼 Business",       "https://www.vedomosti.ru/rss/news"),
+    ("Forbes.ru",         "💼 Business",       "https://www.forbes.ru/newrss.xml"),
+    ("The Bell",          "📈 Economy",        "https://thebell.io/feed"),
     ("vc.ru",             "💡 Tech & AI",      "https://vc.ru/rss"),
+    ("Habr",              "💡 Tech & AI",      "https://habr.com/ru/rss/news/"),
+    ("RB.ru",             "💼 Business",       "https://rb.ru/feeds/all/"),
     ("Meduza",            "🌍 World",          "https://meduza.io/rss/all"),
     ("Lenta.ru",          "🌍 World",          "https://lenta.ru/rss"),
     ("Interfax",          "🌍 World",          "https://www.interfax.ru/rss.asp"),
@@ -213,8 +223,7 @@ def fetch_rss_entries(hours_back: int) -> list[dict]:
                     "snippet":   snippet,
                     "link":      e.get("link", ""),
                     "full_text": "",
-                    "lang":      "ru" if source in ("РБК", "Коммерсант", "ТАСС", "vc.ru",
-                                                    "Meduza", "Lenta.ru", "Interfax") else "en",
+                    "lang":      "ru" if source in RU_SOURCES else "en",
                 })
         except Exception as ex:
             print(f"[WARN] RSS {source}: {ex}")
@@ -457,23 +466,54 @@ def main() -> None:
 
     clusters = cluster_entries(entries)
 
-    # For single-source clusters in top candidates, search DuckDuckGo
-    boost_single_source_clusters(clusters, top_n=MAX_STORIES * 3)
+    # Разделяем по языку — иначе английские кластеры (48 фидов) полностью
+    # вытесняют русские (11 фидов) при сортировке по числу источников.
+    ru_clusters = [c for c in clusters if c and c[0].get("lang") == "ru"]
+    en_clusters = [c for c in clusters if c and c[0].get("lang") != "ru"]
+    print(f"[INFO] Кластеры: {len(en_clusters)} EN / {len(ru_clusters)} RU")
 
-    # Re-sort after boosting (some clusters grew)
-    clusters.sort(key=lambda c: len({e["source"] for e in c}), reverse=True)
+    # Догоняем вторые источники через DuckDuckGo — отдельно для каждого языка
+    boost_single_source_clusters(en_clusters, top_n=MAX_STORIES * 3)
+    boost_single_source_clusters(ru_clusters, top_n=RU_QUOTA * 3)
 
-    # Fetch full text for top candidates (3x quota to survive MIN_PERSPECTIVES filter)
-    candidates = enrich_clusters(clusters, top_n=MAX_STORIES * 3)
+    en_clusters.sort(key=lambda c: len({e["source"] for e in c}), reverse=True)
+    ru_clusters.sort(key=lambda c: len({e["source"] for e in c}), reverse=True)
 
-    # Build stories, enforce hard MIN_PERSPECTIVES rule
-    stories = []
-    for c in candidates:
+    ru_candidates = enrich_clusters(ru_clusters, top_n=RU_QUOTA * 3)
+    en_candidates = enrich_clusters(en_clusters, top_n=MAX_STORIES * 3)
+
+    # Сначала набираем русскую квоту, потом добиваем английскими
+    ru_stories = []
+    for c in ru_candidates:
         s = build_story(c)
         if s:
-            stories.append(s)
-        if len(stories) >= MAX_STORIES:
+            ru_stories.append(s)
+        if len(ru_stories) >= RU_QUOTA:
             break
+
+    en_stories = []
+    en_target = MAX_STORIES - len(ru_stories)
+    for c in en_candidates:
+        s = build_story(c)
+        if s:
+            en_stories.append(s)
+        if len(en_stories) >= en_target:
+            break
+
+    print(f"[INFO] Истории: {len(en_stories)} EN + {len(ru_stories)} RU")
+    if len(ru_stories) < RU_QUOTA:
+        print(f"[WARN] Русских историй {len(ru_stories)} из {RU_QUOTA} — мало пересечений между RU-источниками")
+
+    # Чередуем, чтобы русские не шли одним блоком в конце
+    stories = []
+    ri = iter(ru_stories)
+    for i, s in enumerate(en_stories):
+        stories.append(s)
+        if i % 3 == 2:
+            nxt = next(ri, None)
+            if nxt:
+                stories.append(nxt)
+    stories.extend(ri)
 
     print(f"[INFO] {len(stories)} stories with ≥{MIN_PERSPECTIVES} real perspectives")
     if len(stories) < 25:
