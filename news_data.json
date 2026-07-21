@@ -1,55 +1,13 @@
 {
-  "collected_at": "2026-07-21T13:36:59.525748+00:00",
-  "total_sources": 59,
-  "total_entries": 802,
+  "collected_at": "2026-07-21T14:18:36.682191+00:00",
+  "total_sources": 63,
+  "total_entries": 907,
   "story_count": 40,
   "stories": [
     {
-      "category": "🌍 World",
-      "headline_en": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-      "coverage": 11,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-          "excerpt": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.…",
-          "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump imposes 50% tariffs on Canadian goods",
-          "excerpt": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
-          "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "U.S. to slap 50% tariffs on Canadian goods",
-          "excerpt": "The Trump administration said Monday that it will impose an additional 50% tariff on certain Canadian goods — including hockey sticks, wine and cement — accusing Canada of discriminating against U.S. exports. Why it matters: The move ratchets up tensions in an increasingly bitter trade dispute between two of the world's closest economic partners.…",
-          "url": "https://www.axios.com/2026/07/20/trump-tariffs-canada-trade-war"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump Targets Canada With 50% Tariff Citing Trade Discrimination",
-          "excerpt": "A Look at the Latest Financial Scams: 'Whaling,' Job Offers, More 04:21 $1 Billion up for Grabs as Mega Millions and Powerball Prizes Soar 00:37 Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement 02:08 Hundreds Gather to Honor Nolan Wells at His Funeral 02:29 Spain Celebrates FIFA World Cup Win With Huge Victory Parade 02:30 Exclusive: Discovery Channel Finds Pan Am Wreckage From 1952…",
-          "url": "https://www.today.com/video/qatari-gifted-air-force-to-be-sent-for-security-upgrades-267004997581"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US imposes new 50% tariff on many Canadian goods",
-          "excerpt": "US imposes new 50% tariff on many Canadian goods July 21, 2026US President Donald Trump's administration on Monday announced it was imposing 50% tariffs on a wide range of Canadian goods.…",
-          "url": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
       "category": "💡 Tech & AI",
       "headline_en": "Paramount and Warner Bros mega merger paused by judge",
-      "coverage": 8,
+      "coverage": 7,
       "perspectives": [
         {
           "source": "BBC World",
@@ -59,13 +17,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Judge pauses the controversial Paramount-Warner Bros. merger for two weeks",
-          "excerpt": "Judge pauses the controversial Paramount-Warner Bros. merger for two weeks This follows a multi-state lawsuit intended to block the deal. A federal judge has temporarily paused the controversial merger between Paramount and Warner Bros., according to a report by The New York Times. This restraining order lasts for 14 days, though could stretch out even longer if both parties agree.…",
-          "url": "https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/"
-        },
-        {
           "source": "Axios",
           "lang": "en",
           "headline": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
@@ -73,32 +24,53 @@
           "url": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused"
         },
         {
-          "source": "CNBC",
+          "source": "Ars Technica",
           "lang": "en",
-          "headline": "Paramount and Warner Bros. merger hit with temporary restraining order",
-          "excerpt": "Paramount Skydance's proposed acquisition of Warner Bros. Discovery hit its first official roadblock when a judge granted a temporary restraining order on the merger as part of a lawsuit brought by state attorneys general. California District Judge Araceli Martínez-Olguín signed off on the order Monday after hearing arguments from both sides in an Oakland courtroom on Friday.…",
-          "url": "https://www.cnbc.com/2026/07/20/paramount-wbd-merger-delay.html"
+          "headline": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+          "excerpt": "A federal judge today ordered Paramount Skydance and Warner Bros. Discovery to halt their $111 billion merger, handing an early win to states that sued to block the deal. The ruling granted a temporary restraining order prohibiting the firms from completing the merger and from consolidating their operations.…",
+          "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/"
         },
         {
           "source": "TechCrunch",
           "lang": "en",
-          "headline": "Judge pauses $110B Paramount-Warner Bros. merger",
-          "excerpt": "Paramount Skydance’s proposed acquisition of Warner Bros. Discovery (WBD) has hit a roadblock after a judge temporarily paused the deal in response to a lawsuit filed by a coalition of 12 state attorneys general who argue that the merger would harm competition. U.S. District Judge Araceli Martínez-Olguín issued a 14-day pause on Monday after hearing arguments from both sides last week.…",
-          "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/"
+          "headline": "What to know about the landmark Warner Bros. Discovery sale",
+          "excerpt": "Earlier this year, the streaming and entertainment industry witnessed one of its most high-stakes megadeals ever, stunning industry observers. Not only is it historic in its size, but it is also predicted to disrupt Hollywood and the media business as we know it. After years of Warner Bros.…",
+          "url": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Judge pauses the controversial Paramount-Warner Bros. merger for two weeks",
+          "excerpt": "A judge has paused the Paramount / Warner Bros. deal to review a multi-state lawsuit.",
+          "url": "https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Every 2026 World Cup Ad Ranked",
-      "coverage": 6,
+      "coverage": 7,
       "perspectives": [
         {
           "source": "Adweek",
           "lang": "en",
           "headline": "Every 2026 World Cup Ad Ranked",
-          "excerpt": "See every FIFA World Cup ad ranked by effectiveness according to EDO’s TV Outcomes Score.",
+          "excerpt": "Every World Cup Ad Ranked by EDO’s TV Outcomes The 2026 World Cup has come to an end, and now it’s time to find out which ads scored big. TV data and measurement company EDO has calculated the effectiveness of every ad during the World Cup and has shared the results with ADWEEK.…",
           "url": "https://www.adweek.com/creativity/top-world-cup-ads-2026/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Spain welcomes back its World Cup heroes",
+          "excerpt": "Spain has welcomed back its heroes. The day after their victory over Argentina in the 2026 World Cup final, the new world champions returned to Madrid, trophy in hand. They can now also add a second coveted gold star above the team's national badge, to go with the first star for winning the 2010 FIFA World Cup title. For an entire generation, this was the first experience of winning a world title.",
+          "url": "https://www.france24.com/en/spain-welcomes-back-its-world-cup-heroes"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "The World Cup Could Not Be Americanized",
+          "excerpt": "The World Cup Could Not Be Americanized Spain’s 1–0 win over Argentina demonstrated all of the ways that this sport is still foreign in the United States. A World Cup on North American soil ended with the most thoroughly imported, overseas-style final match possible.…",
+          "url": "https://www.theatlantic.com/culture/2026/07/world-cup-spain-argentina/688000/?utm_source=feed"
         },
         {
           "source": "ABC News",
@@ -106,20 +78,6 @@
           "headline": "WATCH:  How star-studded World Cup halftime show came together",
           "excerpt": "How star-studded World Cup halftime show came together Some of music’s biggest global superstars, from Madonna to Shakira and BTS, joined forces for the first-ever FIFA World Cup halftime show.…",
           "url": "https://abcnews.com/video/134911670/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Taking stock of 2026 World Cup: Football's biggest show yet",
-          "excerpt": "Taking stock of 2026 World Cup: Football's biggest show yet July 20, 2026Football didn't have it easy at the 2026 World Cup, co-hosted by the United States, Mexico and Canada. There were questionable decisions by FIFA, the sport's governing body, as well as a lot of spectacle and a final in which only one team actually played football.…",
-          "url": "https://www.dw.com/en/taking-stock-of-2026-world-cup-football-s-biggest-show-yet/a-78032847?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "FIFA World Cup 2026: Who had the most goals and assists at the tournament?",
-          "excerpt": "FIFA World Cup 2026: Who had the most goals and assists at the tournament? FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals. As Spain bask in the glory of their World Cup win in the streets of Madrid, and Argentina come to terms with being dethroned, the curtain has officially fallen on the FIFA World Cup 2026.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss"
         },
         {
           "source": "Inc.",
@@ -132,43 +90,113 @@
     },
     {
       "category": "🌍 World",
-      "headline_en": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "coverage": 5,
+      "headline_en": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+      "coverage": 6,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Wired",
           "lang": "en",
-          "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-          "excerpt": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+          "headline": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+          "excerpt": "Nearly seven years after Apple debuted the Apple Card, Samsung is following the iPhone maker's footsteps with the Galaxy Card, aiming for its own slice of the credit card market. The announcement comes two days before Samsung's second Galaxy Unpacked event of the year, where it's expected to showcase new smartwatches and folding smartphones.…",
+          "url": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/"
         },
         {
-          "source": "The Guardian",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Lebanese army accuses Israelis of firing near troops as president prepares to meet Trump – Middle East crisis live",
-          "excerpt": "Lebanese army accuses Israeli forces of firing near its troops in 'pilot zone' in southern Lebanon The Lebanese army accused Israel of firing near its troops as they were being deployed to an area in southern Lebanon. In a statement on X, the army said its soldiers were operating in Zawtar al-Gharbiyeh when Israeli forces “opened fire in the vicinity of these units”.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
+          "headline": "What are the best ways to lower your credit card interest rates now? Here's what some experts think.",
+          "excerpt": "What are the best ways to lower your credit card interest rates now? Here's what some experts think. It's not a great time to be a credit card borrower. The typical consumer now carries a card balance of $6,577, according to TransUnion.…",
+          "url": "https://www.cbsnews.com/news/best-ways-lower-credit-card-rates-what-experts-think/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Samsung just unveiled a Galaxy credit card ahead of Unpacked",
+          "excerpt": "Samsung just unveiled a Galaxy credit card ahead of Unpacked It offers larger cash rewards when you buy the company's products. Samsung just unveiled a credit card ahead of its big Unpacked event on July 22. The Samsung Galaxy Card is not as exciting a reveal as, say, a new foldable, but it could be useful for company diehards.…",
+          "url": "https://www.engadget.com/2218871/samsung-just-unveiled-a-galaxy-credit-card-ahead-of-unpacked/"
+        },
+        {
+          "source": "CNN World",
+          "lang": "en",
+          "headline": "Experts: this is the best cash back card of 2022",
+          "excerpt": "If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. When the Wells Fargo Active Cash® Card (rates and fees) hit the market, it quickly stood out among our experts as one of the best all-around, no-annual-fee credit cards. It now holds our Best Credit Card for 2026 title for its reliable 2% cash rewards and everyday value.…",
+          "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-active-cash-card-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welac2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Samsung is launching its first U.S. credit card with rewards tied to its own devices",
+          "excerpt": "Samsung Electronics America unveiled the Samsung Galaxy Card on Monday, marking the company's first credit card program in the United States. The card is issued by Barclays U.S. Consumer Bank and runs on the Visa $V network.…",
+          "url": "https://qz.com/samsung-galaxy-card-credit-card-barclays-visa-072126"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Инфляционные ожидания россиян подскочили до 14,7% — максимума с начала войны",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Bell",
+          "lang": "ru",
+          "headline": "Инфляционные ожидания россиян подскочили до 14,7% — максимума с начала войны",
+          "excerpt": "Инфляционные ожидания россиян подскочили до 14,7% — максимума с начала войны The Bell Инфляционные ожидания населения на год вперед в июле выросли до 14,7% с 12,4% месяцем ранее, следует из оперативной справки «инФОМ» по опросу, проведенному по заказу Банка России. Показатель стал максимальным с марта 2022 года: тогда, сразу после вторжения в Украину, они взлетали до 18,3%.…",
+          "url": "https://thebell.io/inflyatsionnye-ozhidaniya-rossiyan-podskochili-do-147--maksimuma-s-nachala-voyny"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Инфляционные ожидания россиян выросли до 14,7% в июле",
+          "excerpt": "Инфляционные ожидания россиян выросли до 14,7% в июле Инфляционные ожидания жителей России на ближайший год в июле увеличились до 14,7%. В июне показатель составлял 12,4%, следует из результатов опроса «инФОМ», проведенного по заказу Банка России. Согласно данным регулятора, одновременно выросла и оценка текущей инфляции населением. В июле россияне оценивали ее в 15,1% против 14,2% в июне.…",
+          "url": "https://www.vedomosti.ru/economics/news/2026/07/21/1215377-inflyatsionnie-ozhidaniya"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Инфляционные ожидания россиян в июле подскочили до максимума за последние годы",
+          "excerpt": "Инфляционные ожидания россиян в июле подскочили до максимума за последние годы Москва. 21 июля. INTERFAX.RU - Инфляционные ожидания населения РФ в июле подскочили до 14,7%, максимального уровня за последние несколько лет, следует из краткого опроса \"инФОМ\", проведенного по заказу Банка России. Вблизи этого уровня показатель находился в декабре 2021 года (14,8%).…",
+          "url": "https://www.interfax.ru/business/1104603"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump Targets Canada With 50% Tariff Citing Trade Discrimination",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump Targets Canada With 50% Tariff Citing Trade Discrimination",
+          "excerpt": "Gen X Brands Esprit, Gap and More Bring Wave of Nostalgia 02:53 A Look at the Latest Financial Scams: 'Whaling,' Job Offers, More 04:21 $1 Billion up for Grabs as Mega Millions and Powerball Prizes Soar 00:37 Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement 02:08 Hundreds Gather to Honor Nolan Wells at His Funeral 02:29 Spain Celebrates FIFA World Cup Win With Huge Victory Parade 02…",
+          "url": "https://www.today.com/video/qatari-gifted-air-force-to-be-sent-for-security-upgrades-267004997581"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Trump wants to ‘max out’ Air Force One",
+          "excerpt": "President Donald Trump said his new Air Force One needs to be upgraded. &#8220;It has a lot of capability,&#8221; Trump said Sunday , but &#8220;in about a month ​or so, they’re gonna send it to have it be maxed out.&#8221; He said it would take &#8220;about a month,&#8221; but did not share any details on what upgrades would take place.…",
+          "url": "https://www.fastcompany.com/91576541/trump-wants-to-max-out-air-force-one"
         },
         {
           "source": "Axios",
           "lang": "en",
-          "headline": "Trump hosts Lebanon's president as Israel begins first pullback",
-          "excerpt": "Lebanese President Joseph Aoun will meet President Trump in the Oval Office on Tuesday — a sitdown that comes as the Israeli military begins its first withdrawal from Lebanon under a U.S.-brokered agreement . Why it matters: The Trump administration is politically invested in strengthening Aoun, isolating Hezbollah and pushing for an Israeli-Lebanese peace agreement.…",
-          "url": "https://www.axios.com/2026/07/21/lebanon-israel-trump-aoun-hezbollah"
+          "headline": "U.S. to slap 50% tariffs on Canadian goods",
+          "excerpt": "The Trump administration said Monday that it will impose an additional 50% tariff on certain Canadian goods — including hockey sticks, wine and cement — accusing Canada of discriminating against U.S. exports. Why it matters: The move ratchets up tensions in an increasingly bitter trade dispute between two of the world's closest economic partners.…",
+          "url": "https://www.axios.com/2026/07/20/trump-tariffs-canada-trade-war"
         },
         {
-          "source": "Euronews",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Lebanese army begins deployment to southern regions after Israel deal",
-          "excerpt": "Beirut announced the beginning of its mobilisation to the southern Lebanese regions as President Aoun prepares for a high-stakes meeting with US President Donald Trump on Tuesday to conclude his four-day visit to Washington. The Lebanese army announced on Tuesday that it had begun deploying to an area in the south, one of three \"pilot zones\" outlined in a deal with Israel to disarm Hezbollah.…",
-          "url": "http://www.euronews.com/2026/07/21/lebanese-army-begins-deployment-to-southern-regions-after-israel-deal"
+          "headline": "US imposes new 50% tariff on many Canadian goods",
+          "excerpt": "US imposes new 50% tariff on many Canadian goods July 21, 2026US President Donald Trump's administration on Monday announced it was imposing 50% tariffs on a wide range of Canadian goods.…",
+          "url": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Al Jazeera",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
-          "excerpt": "Lebanon’s Joseph Aoun to meet Trump: What to expect The Lebanese president is seeking Washington’s support for his agenda, including diplomacy with Israel. Lebanon’s President Joseph Aoun is set for talks with his United States counterpart Donald Trump at the White House on Tuesday, as the government in Beirut pushes for Israeli withdrawal from the south and grapples with internal divisions.…",
-          "url": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss"
+          "headline": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
+          "excerpt": "The U.S. is imposing additional 50% tariffs on a range of Canadian goods in response to alleged trade discrimination against multiple U.S. products and industries, senior Trump administration officials said Monday.…",
+          "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html"
         }
       ]
     },
@@ -185,18 +213,18 @@
           "url": "https://www.axios.com/2026/07/20/trump-backed-nordone-enters-senate-race"
         },
         {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Sen. Darline Graham running for full term to replace late brother Lindsey Graham",
+          "excerpt": "South Carolina Sen. Darline Graham announced Monday that she will seek a full, six-year term to replace her brother, Lindsey Graham, in the Senate. Graham last week was appointed by South Carolina Gov. Henry McMaster to fill the seat of her brother, who died unexpectedly on July 11, through the end of the year.…",
+          "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html"
+        },
+        {
           "source": "ABC News",
           "lang": "en",
           "headline": "Darline Graham, Lindsey Graham's sister, says she will run for full Senate term",
           "excerpt": "Darline Graham, Lindsey Graham's sister, says she will run for full Senate term Her announcement comes after President Trump endorsed her for a full term. Sen. Darline Graham, the sister of late Republican Sen. Lindsey Graham, confirmed in an interview with Fox News that aired Monday she will run for the seat for a full term, in addition to serving out the rest of Lindsey Graham's unfinished one.…",
           "url": "https://abcnews.com/Politics/darline-graham-lindsey-grahams-sister-run-full-senate/story?id=134926606"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Sen. Darline Graham says she’s running for a full 6-year term after Trump urged her to jump into the race",
-          "excerpt": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race. Graham said in an interview with Fox News’ Sean Hannity that she will run in next month’s special primary election to appear on the November ballot.…",
-          "url": "https://www.nbcnews.com/politics/2026-election/sen-darline-graham-says-running-full-6-year-term-trump-urged-jump-race-rcna588415"
         },
         {
           "source": "CBS News",
@@ -206,53 +234,74 @@
           "url": "https://www.cbsnews.com/video/darline-graham-joins-race-lindsey-graham-south-carolina-senate-seat-backing-trump/"
         },
         {
-          "source": "CNBC",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "Sen. Darline Graham running for full term to replace late brother Lindsey Graham",
-          "excerpt": "South Carolina Sen. Darline Graham announced Monday that she will seek a full, six-year term to replace her brother, Lindsey Graham, in the Senate. Graham last week was appointed by South Carolina Gov. Henry McMaster to fill the seat of her brother, who died unexpectedly on July 11, through the end of the year.…",
-          "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html"
+          "headline": "Sen. Darline Graham says she’s running for a full 6-year term after Trump urged her to jump into the race",
+          "excerpt": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race. Graham said in an interview with Fox News’ Sean Hannity that she will run in next month’s special primary election to appear on the November ballot.…",
+          "url": "https://www.nbcnews.com/politics/2026-election/sen-darline-graham-says-running-full-6-year-term-trump-urged-jump-race-rcna588415"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
+      "headline_en": "Britain’s New Prime Minister Must Stand Up to Trump",
       "coverage": 5,
       "perspectives": [
         {
-          "source": "NPR News",
+          "source": "Foreign Policy",
           "lang": "en",
-          "headline": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
-          "excerpt": "Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.",
-          "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora"
+          "headline": "Britain’s New Prime Minister Must Stand Up to Trump",
+          "excerpt": "Britain’s New Prime Minister Must Stand Up to Trump Keir Starmer allowed his country to be humiliated by Washington. Burnham should learn from his mistakes. The United Kingdom will see its seventh prime minister in just over 10 years when Andy Burnham enters 10 Downing Street on July 20.…",
+          "url": "https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/"
         },
         {
-          "source": "Wired",
+          "source": "DW English",
           "lang": "en",
-          "headline": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
-          "excerpt": "In the middle of a diarrhea shitstorm, the Food and Drug Administration and lettuce supplier Taylor Farms appear to be facing off in a passive aggressive battle of technicalities. On July 17, the California-based company issued a voluntary recall on iceberg lettuce sourced from Central Mexico.…",
-          "url": "https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/"
+          "headline": "Meet Andy Burnham, Britain's new prime minister",
+          "excerpt": "Meet Andy Burnham, Britain's new prime minister Published June 22, 2026last updated July 20, 2026Nearly a month after the resignation of Keir Starmer, former Manchester Mayor Andy Burnham, one of the most popular politicians in Britain, has become the country's seventh prime minister in 10 years.…",
+          "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Business Insider",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Taylor Farms highlighted an FDA mistake. PR veterans say it muddied the message.",
-          "excerpt": "After this article was published, Taylor Farms said in a statement on its website dated July 20 that there had been \"significant confusion over outbreak communication\" and that the company remained \"deeply concerned for the health of those who are ill.\" Taylor Farms also detailed steps it was taking during the investigation, including halting purchases of iceberg lettuce grown in central Mexico.…",
-          "url": "https://www.businessinsider.com/crisis-pr-pros-taylor-farms-response-to-fda-test-2026-7"
+          "headline": "UK cuts VAT on energy bills ahead of prime minister's first cabinet meeting",
+          "excerpt": "Britain's new Prime Minister Andy Burnham kickstarted his programme to ease the cost of living for millions of Britons by planning to remove tax on household electricity bills. The VAT cut is meant to reassure the markets ahead of his first cabinet meeting, with the new prime minister saying it will be funded by the scrapping of his predecessor's digital ID scheme.…",
+          "url": "https://www.france24.com/en/uk-cuts-vat-on-energy-bills-ahead-of-prime-minister-s-first-cabinet-meeting"
         },
         {
-          "source": "CBS News",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Lettuce from Taylor Farms still focus of probe into cyclospora outbreak, FDA says",
-          "excerpt": "Lettuce from Taylor Farms still focus of probe into cyclospora outbreak, FDA says The FDA said on Monday its investigation into the source of the cyclospora outbreak continues \"to converge on shredded iceberg lettuce from Taylor Farms locations in central Mexico.\" It comes after the agency said on Sunday the lettuce sample tested from Taylor Farms was a false positive. Carter Evans has more.",
-          "url": "https://www.cbsnews.com/video/lettuce-from-taylor-farms-still-focus-of-probe-into-cyclospora-outbreak-fda-says/"
+          "headline": "Burnham Appoints First AI Minister to Cabinet in Tech Reshuffle",
+          "excerpt": "Britain’s new Prime Minister Andy Burnham has appointed Kanishka Narayan as minister for artificial intelligence, making the post a cabinet-level position for the first time.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet"
         },
         {
-          "source": "Axios",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Cyclospora investigation still points to recalled lettuce, FDA says",
-          "excerpt": "The FDA said Monday it still thinks Taylor Farms lettuce is likely behind a Cyclospora outbreak , even after pulling back earlier test results linking the produce to the parasite.…",
-          "url": "https://www.axios.com/2026/07/20/fda-cyclospora-taylor-farms-lettuce-false-positive"
+          "headline": "Opinion: Burnham is Britain's new prime minister. Now what?",
+          "excerpt": "Andy Burnham wasted little time making his mark. Within hours of taking office, Britain's new prime minister Andy Burnham surprised Westminster with his choice of finance minister, opting for John Healey instead of the widely expected Shabana Mahmood.…",
+          "url": "https://www.cnbc.com/2026/07/21/andy-burnham-uk-prime-minister-vat.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Минобороны сообщило о полете российских бомбардировщиков над Балтийским морем",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Минобороны сообщило о полете российских бомбардировщиков над Балтийским морем",
+          "excerpt": "Минобороны сообщило о полете российских бомбардировщиков над Балтийским морем Дальние бомбардировщики Ту-22М3 ВКС России выполнили плановый полет над нейтральными водами Балтийского моря. Об этом сообщила пресс-служба Минобороны России. Полет длился более четырех часов. Бомбардировщики сопровождались самолетами Су-35С.…",
+          "url": "https://www.kommersant.ru/doc/8831493"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Минобороны РФ сообщило о полете дальних бомбардировщиков Ту-22М3 над Балтикой",
+          "excerpt": "Минобороны РФ сообщило о полете дальних бомбардировщиков Ту-22М3 над Балтикой Москва. 21 июля. INTERFAX.RU - Дальние бомбардировщики Ту-22М3 выполнили четырехчасовой плановый полет в воздушном пространстве над нейтральными водами Балтийского моря, сообщило во вторник Минобороны РФ.…",
+          "url": "https://www.interfax.ru/russia/1104615"
         }
       ]
     },
@@ -276,11 +325,11 @@
           "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon"
         },
         {
-          "source": "Euronews",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Tanker attacked in Strait of Hormuz as US strikes Iran for tenth consecutive night",
-          "excerpt": "As fighting escalates between both sides, Iran's interior minister travelled to Pakistan, a key mediator in the conflict, for talks. Iran's Revolutionary Guard said on Tuesday that it struck US military assets in Bahrain and Kuwait, state media reported.…",
-          "url": "http://www.euronews.com/2026/07/21/tanker-attacked-in-strait-of-hormuz-as-us-strikes-iran-for-tenth-consecutive-night"
+          "headline": "Middle East war stuck in 'cycle of enhanced risk' as US and Iran exchange strikes",
+          "excerpt": "The US has bombed Iran for a tenth consecutive night, following the killing of American soldiers in Jordan and Iraq. Washington continues to call for an end to Iranian attacks on vessels in the Strait of Hormuz. For its part, Iran says it is at 'full scale war' with the US.…",
+          "url": "https://www.france24.com/en/middle-east-war-stuck-in-cycle-of-enhanced-risk-as-us-and-iran-exchange-strikes"
         },
         {
           "source": "DW English",
@@ -290,116 +339,172 @@
           "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-as-trump-vows-revenge/live-78042474?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "France 24",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Middle East war stuck in 'cycle of enhanced risk' as US and Iran exchange strikes",
-          "excerpt": "The US has bombed Iran for a tenth consecutive night, following the killing of American soldiers in Jordan and Iraq. Washington continues to call for an end to Iranian attacks on vessels in the Strait of Hormuz. For its part, Iran says it is at 'full scale war' with the US.…",
-          "url": "https://www.france24.com/en/middle-east-war-stuck-in-cycle-of-enhanced-risk-as-us-and-iran-exchange-strikes"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Samsung establishes a robotics division",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Samsung establishes a robotics division",
-          "excerpt": "Samsung establishes a robotics division Dongkun Lee, formerly of Hyundai, will oversee its strategy. Samsung has created a new division called RX or Robotics eXperience for all of its robotics projects. Its strategy will be headed by Dongkun Lee, who joined Samsung in May as an Executive Vice President. Before he joined Samsung, Lee led Hyundai's robotics strategy, including Boston Dynamics'.…",
-          "url": "https://www.engadget.com/2219517/samsung-establishes-its-own-robotics-division/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Samsung Hires Ex-Boston Dynamics Executive in Robotics Push",
-          "excerpt": "Samsung Electronics Co. has hired one of South Korea’s leading robotics executives from Hyundai Motor Group to oversee a new robotics division, escalating competition in a sector emerging as the next battleground among global technology companies.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Humanoid Raises $152 Million At $1.35 Billion Valuation: Europe’s Newest Robot Unicorn",
-          "excerpt": "Europe has a new billion-dollar startup, and it’s Humanoid, a two-year-old company headquartered in London that developed its humanoid robot, HMND 01, in near-record time. Today, London-based Humanoid announced that it has raised a $152 million Series A at a $1.35 billion post-money valuation.…",
-          "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/21/humanoid-raises-152-million-at-135-billion-valuation-europes-newest-robot-unicorn/"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Samsung is launching a robotics division to build humanoid robots",
-          "excerpt": "Samsung Electronics announced Tuesday the launch of a dedicated robotics division — called RX, short for Robotics eXperience — bringing together the company's work in the field as it searches for fresh engines of growth.…",
-          "url": "https://qz.com/samsung-rx-robotics-division-humanoid-robots-072126"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
-          "excerpt": "Samsung Electronics shares rose after the company said Tuesday it is creating a robotics division as the South Korean tech giant seeks new sources of growth. The newly created RX, or Robotics eXperience, will consolidate Samsung's robotics capabilities and is intended to drive a mid- to long-term strategy from core tech development to commercialization, the company said in an emailed statement.…",
-          "url": "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html"
+          "headline": "Iran attacks U.S. allies as 3 American soldiers killed in escalating war",
+          "excerpt": "Latest Updates: Iran launches new attacks on U.S. allies after 3 American troops killed in escalating war What to know about the Iran war: - Iran said it targeted U.S. assets in Kuwait, Bahrain and Jordan Tuesday, and a vessel in the Strait of Hormuz, after the U.S. military said it carried out a 10th consecutive night of strikes on Iranian military infrastructure.…",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-troops-killed-wounded-jordan-base/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "headline_en": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+          "excerpt": "Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products. The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Trump imposes 50% tariffs on Canadian goods",
+          "excerpt": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
+          "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Trump is slapping Canada with 50% tariffs over autos, alcohol, and dairy disputes",
+          "excerpt": "On motor vehicles, the White House said Canadian imports of U.S. cars fell approximately 22%, or $5.6 billion, from April 2025 through March 2026 compared to the same period a year earlier, after Canada imposed a 25% tariff on U.S.-made vehicles while leaving vehicles from other countries untaxed. On alcohol, all but two Canadian provinces and territories halted purchasing and retailing of U.S.…",
+          "url": "https://qz.com/trump-50-percent-tariffs-canada-autos-alcohol-dairy-072126"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
+          "excerpt": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada 02:16 UP NEXT U.S. service member killed in Northern Iraq, says U.S.…",
+          "url": "https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump to impose 50% tariffs on some Canadian goods. Here's what's impacted",
+          "excerpt": "Trump to impose 50% tariffs on some Canadian goods. Here's what's impacted President Trump has signed an order imposing new 50% tariffs on a range of Canadian goods from cement to wine and dairy products. They are set to take effect Aug. 19. Nancy Cordes reports.",
+          "url": "https://www.cbsnews.com/video/trump-to-impose-50-tariffs-on-some-canadian-goods-heres-whats-impacted/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
       "coverage": 5,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-          "excerpt": "Lamine Yamal celebrates World Cup win with little brother who charmed fans - Published Spanish footballer Lamine Yamal may have lifted the World Cup but it is his little brother Keyne who appears to have stolen the spotlight.…",
-          "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss"
+          "headline": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "excerpt": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia - Published Yemen's Houthis have announced a \"maritime embargo\" against Saudi Arabia. The Iran-backed group's military spokesman said it would begin immediately and was in retaliation for a Saudi blockade of ports and airports in Houthi-controlled north-western Yemen.…",
+          "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "ABC News",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "WATCH:  Spain celebrates World Cup title",
-          "excerpt": "Spain celebrates World Cup title The World Cup champions returned home as heroes after defeating Argentina 1-0 on Sunday.…",
-          "url": "https://abcnews.com/video/134943144/"
+          "headline": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
+          "excerpt": "Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.",
+          "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Business Insider",
           "lang": "en",
-          "headline": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
-          "excerpt": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants Hollywood actor Samuel L Jackson was among those who criticised Argentina at the World Cup, with racism among the allegations.…",
-          "url": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss"
+          "headline": "Taylor Farms highlighted an FDA mistake. PR veterans say it muddied the message.",
+          "excerpt": "After this article was published, Taylor Farms said in a statement on its website dated July 20 that there had been \"significant confusion over outbreak communication\" and that the company remained \"deeply concerned for the health of those who are ill.\" Taylor Farms also detailed steps it was taking during the investigation, including halting purchases of iceberg lettuce grown in central Mexico.…",
+          "url": "https://www.businessinsider.com/crisis-pr-pros-taylor-farms-response-to-fda-test-2026-7"
         },
         {
-          "source": "The Atlantic",
+          "source": "Axios",
           "lang": "en",
-          "headline": "The World Cup Could Not Be Americanized",
-          "excerpt": "The World Cup Could Not Be Americanized Spain’s 1–0 win over Argentina demonstrated all of the ways that this sport is still foreign in the United States. A World Cup on North American soil ended with the most thoroughly imported, overseas-style final match possible.…",
-          "url": "https://www.theatlantic.com/culture/2026/07/world-cup-spain-argentina/688000/?utm_source=feed"
+          "headline": "Cyclospora investigation still points to recalled lettuce, FDA says",
+          "excerpt": "The FDA said Monday it still thinks Taylor Farms lettuce is likely behind a Cyclospora outbreak , even after pulling back earlier test results linking the produce to the parasite.…",
+          "url": "https://www.axios.com/2026/07/20/fda-cyclospora-taylor-farms-lettuce-false-positive"
         },
         {
-          "source": "Euronews",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "Spain fans celebrate World Cup victory",
-          "excerpt": "Spain fans celebrate their World Cup final victory over Argentina in Times Square, New York, waving flags, chanting and lifting a replica trophy.",
-          "url": "http://www.euronews.com/video/2026/07/20/spain-fans-celebrate-world-cup-victory"
+          "headline": "Why the FDA’s Retracted Contamination Claim Is Still a Massive Problem for Taylor Farms in Cyclospora Outbreak",
+          "excerpt": "The agency admits a sample was a false positive, but the epidemiological investigation into the multi-state Cyclospora outbreak continues.",
+          "url": "https://www.inc.com/lucia-auerbach/fda-cyclospora-outbreak-taylor-farms-recall-strategy/91376701"
         }
       ]
     },
     {
-      "category": "📈 Economy",
-      "headline_en": "Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads",
+      "category": "🌍 World",
+      "headline_en": "Отца экс-главы ФБК* исключили из списка террористов",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Отца экс-главы ФБК* исключили из списка террористов",
+          "excerpt": "Краткий пересказ от РИА ИИ - Михаил Волков исключен из перечня террористов и экстремистов. - В октябре 2025 года Михаил Волков был приговорен к штрафу в 300 тысяч рублей за финансирование ФБК*. МОСКВА, 21 июл - РИА Новости.…",
+          "url": "https://ria.ru/20260721/rossiya-2106069714.html"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Отца экс-главы ФБК Волкова исключили из перечня террористов и экстремистов",
+          "excerpt": "Отца экс-главы ФБК Волкова исключили из перечня террористов и экстремистов Отец бывшего главы Фонда борьбы с коррупцией Имя Михаила Волкова больше не значится в перечне лиц, причастных к террористической и экстремистской деятельности. В апреле 2025 г.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/07/21/1215405-eks-glavi-fbk-volkova"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Dozens hurt in Bologna protests after man dies while being restrained by police",
       "coverage": 4,
       "perspectives": [
         {
-          "source": "FT",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads",
-          "excerpt": "Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads",
-          "url": "https://www.ft.com/content/812d7feb-34d6-4f0f-8193-b037aee7ec86?syn-25a6b1a6=1"
+          "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+          "excerpt": "Dozens hurt in Bologna protests after man dies while being restrained by police - Published Protests have taken place in Italy after the death of a Moroccan-born man while being forcibly restrained by two police officers in the northern city of Bologna. Several thousand people took to the streets on Monday night demanding \"justice for Abderrahim Fakir\".…",
+          "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Protests in Italy after death of Moroccan man under police restraint",
+          "excerpt": "Teargas and water cannon used on protesters after Abderrahim ⁠Fakir died pleading for help from police Police have clashed with demonstrators during a protest in the Italian city of Bologna after a Moroccan-born man died pleading for help under police restraint.…",
+          "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Protests erupt in Bologna after Moroccan man dies under police restraint",
+          "excerpt": "Human rights campaigners and Italy's opposition parties are demanding answers regarding the death of a man who died under police restraint as he pleaded for help.…",
+          "url": "https://www.france24.com/en/protests-erupt-in-bologna-after-moroccan-man-dies-under-police-restraint"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Anti-police protests in Italy after Moroccan man dies during arrest",
+          "excerpt": "Protesters have clashed with police in Italy after the death of a Moroccan man after officers restrained him on the ground.",
+          "url": "https://news.sky.com/story/anti-police-protests-erupt-in-bologna-after-moroccan-man-dies-during-arrest-13565485"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement",
+      "coverage": 4,
+      "perspectives": [
         {
           "source": "NBC News",
           "lang": "en",
           "headline": "Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement",
-          "excerpt": "A Look at the Latest Financial Scams: 'Whaling,' Job Offers, More 04:21 $1 Billion up for Grabs as Mega Millions and Powerball Prizes Soar 00:37 Now Playing Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement 02:08 UP NEXT Hundreds Gather to Honor Nolan Wells at His Funeral 02:29 Spain Celebrates FIFA World Cup Win With Huge Victory Parade 02:30 Exclusive: Discovery Channel Finds Pan A…",
+          "excerpt": "Gen X Brands Esprit, Gap and More Bring Wave of Nostalgia 02:53 A Look at the Latest Financial Scams: 'Whaling,' Job Offers, More 04:21 $1 Billion up for Grabs as Mega Millions and Powerball Prizes Soar 00:37 Now Playing Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement 02:08 UP NEXT Hundreds Gather to Honor Nolan Wells at His Funeral 02:29 Spain Celebrates FIFA World Cup Win With Hu…",
           "url": "https://www.today.com/video/novo-nordisk-sues-eli-lilly-over-weight-loss-drug-advertisement-267010117600"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ozempic maker sues US rival over ad campaign",
+          "excerpt": "Ozempic maker sues US rival over ad campaign July 21, 2026Denmark pharmaceutical giant Novo Nordisk announced on Tuesday that it is suing its main competitor, the US-based Eli Lilly for \"false and misleading\" advertisements.…",
+          "url": "https://www.dw.com/en/ozempic-maker-sues-us-rival-over-ad-campaign/a-78054485?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "Quartz",
@@ -419,120 +524,92 @@
     },
     {
       "category": "🌍 World",
-      "headline_en": "It's official: now avoid credit card interest into 2024",
+      "headline_en": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
       "coverage": 4,
-      "perspectives": [
-        {
-          "source": "CNN World",
-          "lang": "en",
-          "headline": "It's official: now avoid credit card interest into 2024",
-          "excerpt": "If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. If you're carrying credit card debt — or expecting upcoming expenses — interest can make it harder to get ahead. The Citi Simplicity® Card gives you a clear window to reset.…",
-          "url": "https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Samsung just unveiled a Galaxy credit card ahead of Unpacked",
-          "excerpt": "Samsung just unveiled a Galaxy credit card ahead of Unpacked It offers larger cash rewards when you buy the company's products. Samsung just unveiled a credit card ahead of its big Unpacked event on July 22. The Samsung Galaxy Card is not as exciting a reveal as, say, a new foldable, but it could be useful for company diehards.…",
-          "url": "https://www.engadget.com/2218871/samsung-just-unveiled-a-galaxy-credit-card-ahead-of-unpacked/"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Samsung is launching its first U.S. credit card with rewards tied to its own devices",
-          "excerpt": "Samsung Electronics America unveiled the Samsung Galaxy Card on Monday, marking the company's first credit card program in the United States. The card is issued by Barclays U.S. Consumer Bank and runs on the Visa $V network.…",
-          "url": "https://qz.com/samsung-galaxy-card-credit-card-barclays-visa-072126"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "Does Your Credit Card Even Plunk?",
-          "excerpt": "Physical credit cards should be a thing of the past. Over the past few years, touchless services such as Apple Pay have driven a boom in the digital-payment industry: Digital wallets now account for about half of global online purchases and one-third of point-of-sale payments.…",
-          "url": "https://www.theatlantic.com/technology/2026/07/metal-credit-cards-heavy-popular-chase-bank/687947/?utm_source=feed"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Pointers for Burnham on what Britain really wants",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Britain’s New Prime Minister Must Stand Up to Trump",
-          "excerpt": "Britain’s New Prime Minister Must Stand Up to Trump Keir Starmer allowed his country to be humiliated by Washington. Burnham should learn from his mistakes. The United Kingdom will see its seventh prime minister in just over 10 years when Andy Burnham enters 10 Downing Street on July 20.…",
-          "url": "https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Burnham Appoints First AI Minister to Cabinet in Tech Reshuffle",
-          "excerpt": "Britain’s new Prime Minister Andy Burnham has appointed Kanishka Narayan as minister for artificial intelligence, making the post a cabinet-level position for the first time.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Opinion: Burnham is Britain's new prime minister. Now what?",
-          "excerpt": "Andy Burnham wasted little time making his mark. Within hours of taking office, Britain's new prime minister Andy Burnham surprised Westminster with his choice of finance minister, opting for John Healey instead of the widely expected Shabana Mahmood.…",
-          "url": "https://www.cnbc.com/2026/07/21/andy-burnham-uk-prime-minister-vat.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-          "excerpt": "Dozens hurt in Bologna protests after man dies while being restrained by police - Published Protests have taken place in Italy after the death of a Moroccan-born man while being forcibly restrained by two police officers in the northern city of Bologna. Several thousand people took to the streets on Monday night demanding \"justice for Abderrahim Fakir\".…",
-          "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
+          "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+          "excerpt": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal - Published Lebanon's army says its troops have begun deploying to a \"pilot zone\" in the south of the country following the withdrawal of Israeli forces under a US-brokered agreement reached last month.…",
+          "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Protests in Italy after death of Moroccan man under police restraint",
-          "excerpt": "Police have clashed with demonstrators during a protest in the Italian city of Bologna after a Moroccan-born man died pleading for help under police restraint. Human rights campaigners and Italy’s opposition parties have demanded urgent answers over the death on Sunday of Abderrahim Fakir, 42, who had lived in Italy since he was five years old and ran a small removals and cleaning business.…",
-          "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police"
+          "headline": "Lebanese army accuses Israelis of firing near troops as president prepares to meet Trump – Middle East crisis live",
+          "excerpt": "Lebanese army accuses Israeli forces of firing near its troops in 'pilot zone' in southern Lebanon The Lebanese army accused Israel of firing near its troops as they were being deployed to an area in southern Lebanon. In a statement on X, the army said its soldiers were operating in Zawtar al-Gharbiyeh when Israeli forces “opened fire in the vicinity of these units”.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
         },
         {
-          "source": "France 24",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Bologna's protesters call for accountability after man dies during police arrest",
-          "excerpt": "Clashes broke out between security personnel and protesters in the Italian city of Bologna. Demonstrators out on the street, calling for accountability after a man died whilst being detained by police. The incident drawing comparisons with the murder of George Floyd in the United States. Some viewers may find some images disturbing.",
-          "url": "https://www.france24.com/en/bologna-s-protesters-call-for-accountability-after-man-dies-during-police-arrest"
+          "headline": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+          "excerpt": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal Aoun is seeking US backing to end the fighting between Israel and Hezbollah and secure an Israeli withdrawal from southern Lebanon.…",
+          "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump hosts Lebanon's president as Israel begins first pullback",
+          "excerpt": "Lebanese President Joseph Aoun will meet President Trump in the Oval Office on Tuesday — a sitdown that comes as the Israeli military begins its first withdrawal from Lebanon under a U.S.-brokered agreement . Why it matters: The Trump administration is politically invested in strengthening Aoun, isolating Hezbollah and pushing for an Israeli-Lebanese peace agreement.…",
+          "url": "https://www.axios.com/2026/07/21/lebanon-israel-trump-aoun-hezbollah"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-      "coverage": 3,
+      "category": "💼 Business",
+      "headline_en": "Госдума приняла закон о легализации криптовалют",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-          "excerpt": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
-          "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Госдума приняла закон о легализации криптовалют",
+          "excerpt": "Госдума приняла закон о легализации криптовалют Предполагается, что он вступит в силу с 1 сентябряДепутаты Госдумы приняли законопроект «О цифровой валюте и цифровых правах», который должен определить правила работы крипторынка в России. Соответствующий документ опубликован в думской электронной базе. Законопроект был принят сразу во втором и третьем чтениях.…",
+          "url": "https://www.vedomosti.ru/finance/news/2026/07/21/1215360-zakon-kriptovalyut"
         },
         {
-          "source": "France 24",
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "Госдума приняла законопроект о регулировании криптовалют в России",
+          "excerpt": "Он вступит в силу с 1 сентября 2026 года.Депутаты приняли законопроект сразу во втором и третьем, окончательном чтении. Он описывает основные правила будущего регулирования крипторынка. Теперь его должен согласовать Совфед и подписать президент.Сделки через посредников смогут совершать как неквалифицированные, так и квалифицированные инвесторы, рассказал ЦБ.…",
+          "url": "https://vc.ru/crypto/3038767-regulirovanie-kriptovaljut-v-rossii?from=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Anthropic's record $1.5 billion copyright settlement with authors was just approved",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Quartz",
           "lang": "en",
-          "headline": "India's opposition leader calls for Modi to step down as youth-led 'Cockroach' protests press on",
-          "excerpt": "Rahul Gandhi, India's opposition leader, called for Prime Minister Narendra Modi to resign on Tuesday \"for destroying the future\" of the country's youth. The youth-led Cockroach movement continued their protests in New Delhi, refusing to leave their sit-in site a day after police used tear has and batons to disperse demonstrators marching towards parliament.",
-          "url": "https://www.france24.com/en/asia-pacific/20260721-india-opposition-leader-calls-for-modi-to-step-down-as-cockroach-protestors-press-on"
+          "headline": "Anthropic's record $1.5 billion copyright settlement with authors was just approved",
+          "excerpt": "Anthropic's $1.5 billion settlement of a class action copyright lawsuit brought by authors and publishers received final court approval on Monday. U.S. District Judge Araceli Martinez-Olguin, sitting in the Northern District of California, signed off on the agreement, which is believed to be the largest settlement in the history of U.S. copyright law, according to Reuters.",
+          "url": "https://qz.com/anthropic-copyright-settlement-authors-approval-072126"
         },
         {
-          "source": "DW English",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "India: Modi addresses exam leaks which sparked CJP protest",
-          "excerpt": "India: Modi addresses exam leaks which sparked CJP protest Published July 21, 2026last updated July 21, 2026What you need to know - Modi has told MPs of his coalition that strong action was taken against those involved in the medical exam paper leaks - Gandhi has called on Modi and his home minister to step down - Cockroach Janta Party founder Abhijeet Dipke has reportedly said at a press conferen…",
-          "url": "https://www.dw.com/en/india-modi-addresses-exam-leaks-which-sparked-cjp-protest/live-78043926?maca=en-rss-en-all-1573-rdf"
+          "headline": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit",
+          "excerpt": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit Writers sued Anthropic in 2024 for using pirated copies of their work to train Claude. Anthropic's record-breaking $1.5 billion settlement for an AI copyright lawsuit filed by writers has been approved by a federal judge in San Francisco.…",
+          "url": "https://www.engadget.com/2219475/judge-approves-anthropic-1-5-billion-settlement-authors/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Anthropic’s landmark $1.5B copyright settlement is approved",
+          "excerpt": "Anthropic can finally start cutting checks to a group of authors and book publishers that sued the AI lab over copyright infringement. A federal judge gave final approval Monday of Anthropic’s landmark $1.5 billion settlement of a class action copyright lawsuit, Reuters reported. Judge William Alsup of the U.S.…",
+          "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Anthropic AI copyright lawsuit: Update as judge approves massive settlement and payout for authors",
+          "excerpt": "Anthropic will finally have to pay authors for pirating their books. On Monday, U.S. District Judge Araceli Martínez-Olguín approved a $1.5 billion AI copyright settlement . The payout is believed to be the largest ever for a U.S. copyright suit. Companies like Facebook parent Meta Platforms and ChatGPT maker OpenAI have also faced copyright lawsuits from authors.…",
+          "url": "https://www.fastcompany.com/91577047/anthropic-ai-lawsuit-settlement-payout-for-authors-update"
         }
       ]
     },
@@ -566,85 +643,71 @@
     },
     {
       "category": "🌍 World",
-      "headline_en": "Andy Burnham formally appointed U.K. prime minster",
+      "headline_en": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "NBC News",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Andy Burnham formally appointed U.K. prime minster",
-          "excerpt": "President Trump vows revenge on Iran for killing U.S. service members 02:03 Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada 02:16 Tate brothers in Miami court after new U.K. charges 03:02 India’s Cockroach Janta Party movement grows as thousands of protesters gather 00:41 Gas Prices Rise Back to $4 a Gallon as US-Iran War Escalates 01:53 U.S.…",
-          "url": "https://www.nbcnews.com/now/video/andy-burnham-formally-appointed-u-k-prime-minster-266940485538"
+          "headline": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+          "excerpt": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
+          "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "India's opposition leader calls for Modi to step down as youth-led 'Cockroach' protests press on",
+          "excerpt": "Rahul Gandhi, India's opposition leader, called for Prime Minister Narendra Modi to resign on Tuesday \"for destroying the future\" of the country's youth. The youth-led Cockroach movement continued their protests in New Delhi, refusing to leave their sit-in site a day after police used tear has and batons to disperse demonstrators marching towards parliament.",
+          "url": "https://www.france24.com/en/asia-pacific/20260721-india-opposition-leader-calls-for-modi-to-step-down-as-cockroach-protestors-press-on"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Meet Andy Burnham, Britain's new prime minister",
-          "excerpt": "Meet Andy Burnham, Britain's new prime minister Published June 22, 2026last updated July 20, 2026Nearly a month after the resignation of Keir Starmer, former Manchester Mayor Andy Burnham, one of the most popular politicians in Britain, has become the country's seventh prime minister in 10 years.…",
-          "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "5 Key Moments From Andy Burnham’s First Day as U.K. Prime Minister, Including His Invite to President Trump",
-          "excerpt": "Andy Burnham was officially appointed the U.K.’s new Prime Minister during a meeting with King Charles III at Buckingham Palace on Monday.…",
-          "url": "https://time.com/article/2026/07/20/andy-burnham-uk-prime-minister-day-one-trump-invitation/"
+          "headline": "India: Modi addresses exam leaks which sparked CJP protest",
+          "excerpt": "India: Modi addresses exam leaks which sparked CJP protest Published July 21, 2026last updated July 21, 2026What you need to know - Modi has told MPs of his coalition that strong action was taken against those involved in the medical exam paper leaks - Gandhi has called on Modi and his home minister to step down - Cockroach Janta Party founder Abhijeet Dipke has reportedly said at a press conferen…",
+          "url": "https://www.dw.com/en/india-modi-addresses-exam-leaks-which-sparked-cjp-protest/live-78043926?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-      "coverage": 3,
+      "category": "🌍 World",
+      "headline_en": "Аэропорт Внуково купит у Шереметьево часть Домодедово",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "VentureBeat",
-          "lang": "en",
-          "headline": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-          "excerpt": "Hugging Face’s incident response team first turned to frontier AI models to analyze a breach of the company’s production infrastructure, and the models refused to help. Commercial safety guardrails built to stop attackers blocked every forensic query because they treated the IR team’s real exploit data the same way they would treat a live attack.…",
-          "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems"
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Аэропорт Внуково купит у Шереметьево часть Домодедово",
+          "excerpt": "Аэропорт Внуково купит у Шереметьево часть Домодедово Московский аэропорт Внуково выкупит у Шереметьево 25% компании, которая контролирует группу «Домодедово». Сумма сделки, по данным РБК, составит 16,5 миллиарда рублей. Внуково выкупит долю ООО «Перспектива» — компании, выкупившей у Росимущества группу «Домодедово» за 66 миллиардов рублей.…",
+          "url": "https://meduza.io/news/2026/07/21/aeroport-vnukovo-kupit-u-sheremetievo-chast-domodedovo"
         },
         {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-          "excerpt": "Hugging Face, a platform that hosts AI models and datasets, said its internal datasets and service credentials were compromised in a hack last week. The company disclosed the breach on Friday, but said it was still investigating whether any customer or partner data was stolen during the incident.…",
-          "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/"
-        },
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "An AI agent breached Hugging Face before an AI defender caught it: What users should do next",
-          "excerpt": "An AI agent breached Hugging Face before an AI defender caught it: What users should do next Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Hugging Face discloses a cyberattack that compromised internal infrastructure and credentials. - An autonomous AI agent has been blamed for the breach.…",
-          "url": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/"
+          "source": "RB.ru",
+          "lang": "ru",
+          "headline": "Аэропорт Внуково станет совладельцем Домодедово — сумму сделки оценивают в 16,5 млрд ₽",
+          "excerpt": "Аэропорт Внуково станет совладельцем Домодедово — сумму сделки оценивают в 16,5 млрд ₽ Чтобы выкупить долю в активе, Внуково придётся воспользоваться банковским кредитомАэропорт Внуково выкупит 25% Домодедово у ООО «Перспектива» — дочерней компании аэропорта Шереметьево, сообщает РБК. Стоимость сделки составит около 16,5 млрд рублей.…",
+          "url": "https://rb.ru/news/aeroport-vnukovo-stanet-sovladelcem-domodedovo-summu-sdelki-ocenivayut-v-165-mlrd/"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Mediators are pushing a 10-day ceasefire. Chips are rebounding. Earnings are beating",
+      "headline_en": "The five fiscal challenges facing John Healey",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "Quartz",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "Mediators are pushing a 10-day ceasefire. Chips are rebounding. Earnings are beating",
-          "excerpt": "U.S. stock futures pointed higher on Tuesday as semiconductor stocks rebounded and an early round of corporate earnings results came in above expectations, even as fighting between the U.S. and Iran continued. S&P 500 futures rose 0.6% and Nasdaq 100 futures climbed 1.4% Tuesday as semiconductor stocks led a recovery and 87% of early S&P 500 reporters topped estimates U.S.…",
-          "url": "https://qz.com/chip-stocks-rebound-earnings-iran-ceasefire-072126"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive",
-          "excerpt": "US stocks rose on Tuesday as investors braced for a flurry of tech earnings reports amid signs of a revival in chip stocks, with fresh US tariffs on Canada and Middle East hostilities also in focus. The tech-heavy Nasdaq Composite (^IXIC) jumped 0.9% as semiconductor names took center stage ahead of Big Tech results this week.…",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html"
+          "headline": "UK Finance Sees Steady Hand in Healey as New Chancellor",
+          "excerpt": "Britain’s financial industry welcomed John Healey’s appointment as chancellor of the exchequer, hoping the Treasury’s seventh occupant this decade will deliver stability.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/uk-finance-sees-steady-hand-in-healey-as-new-chancellor"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
-          "excerpt": "The U.S. completed a fresh round of strikes against Iran on Monday evening as Yemen's Iran-backed Houthis threatened to impose a naval blockade on Saudi Arabia, potentially opening a new front in the Middle East conflict.…",
-          "url": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html"
+          "headline": "All eyes are on John Healey, the UK's new finance minister. Here’s what’s at stake",
+          "excerpt": "Andy Burnham began his tenure as the U.K.'s seventh prime minister in 10 years this week — but investors' attention is now on John Healey, who was named Chancellor of the Exchequer late on Monday. Britain's new finance minister faces a delicate balancing act between delivering Burnham's potentially more left-leaning agenda and calming financial markets.…",
+          "url": "https://www.cnbc.com/2026/07/21/andy-burnham-john-healey-chancellor-gilts-jamie-dimon.html"
         }
       ]
     },
@@ -661,144 +724,39 @@
           "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Mexican drug lord 'El Mayo' sentenced to life without parole in US prison",
-          "excerpt": "Mexican drug lord 'El Mayo' sentenced to life without parole July 20, 2026Mexican drug trafficker Ismael \"El Mayo\" Zambada was sentenced to life in prison without the possibility of parole on Tuesday for co-founding and leading the notorious Sinaloa cartel.…",
-          "url": "https://www.dw.com/en/mexican-drug-lord-el-mayo-sentenced-to-life-without-parole-in-us-prison/a-78042164?maca=en-rss-en-all-1573-rdf"
-        },
-        {
           "source": "Al Jazeera",
           "lang": "en",
           "headline": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
           "excerpt": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison Mexican drug lord ‘El Mayo’ sentenced to life in US prison Mexican drug kingpin Ismael ‘El Mayo’ Zambada has been sentenced to life in prison in the US, following a plea deal last year when he admitted to trafficking millions of kilograms of cocaine.…",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-          "excerpt": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia - Published Yemen's Houthis have announced a \"maritime embargo\" against Saudi Arabia. The Iran-backed group's military spokesman said it would begin immediately and was in retaliation for a Saudi blockade of ports and airports in Houthi-controlled north-western Yemen.…",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "CNBC",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Iran's Houthi allies declare maritime embargo against Saudi Arabia, escalating threat to oil market",
-          "excerpt": "Houthi militants in Yemen on Monday declared a maritime embargo against Saudi Arabia effective immediately, threatening to exacerbate the oil supply disruption triggered by Iran's attacks on tankers in the Strait of Hormuz. The Houthis have repeatedly threatened to close the Bab el-Mandeb Strait during the U.S.-Iran war.…",
-          "url": "https://www.cnbc.com/2026/07/20/iran-houthi-yemen-saudi-arabia.html"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Yemen’s Houthis threaten Bab el-Mandeb closure in embargo on Saudi Arabia",
-          "excerpt": "The Iran-backed Houthis declared a maritime embargo on Saudi Arabia after accusing the kingdom of attacking Sana'a airport and maintaining a years-long blockade, putting one of the world's busiest shipping lanes at risk.…",
-          "url": "http://www.euronews.com/2026/07/20/yemens-houthis-threaten-bab-el-mandeb-closure-in-embargo-on-saudi-arabia"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Jamie Dimon shared the one characteristic he says sinks CEOs",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Jamie Dimon shared the one characteristic he says sinks CEOs",
-          "excerpt": "Jamie Dimon has watched executives rise and fall for decades. The trait that sinks them, he says, isn't the one you'd guess. The JPMorgan boss says it isn't arrogance that ruins leaders, it's insecurity. And the warning signs are flattery, friendly hires, and glossy PowerPoints.…",
-          "url": "https://www.businessinsider.com/jpmorgan-jamie-dimon-insecurity-sinks-ceo-podcast-2026-7"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Jamie Dimon warned investors are missing market risks — and won't buy stocks or bonds",
-          "excerpt": "The JPMorgan Chase CEO cited geopolitical threats and rising government deficits as risks markets have not fully priced in Dimon made the comments in an interview with the Master Investor Podcast with Wilfred Frost, recorded July 16 and released Monday.…",
-          "url": "https://qz.com/jamie-dimon-market-risks-stocks-bonds-072126"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-          "excerpt": "JPMorgan Chase CEO Jamie Dimon said investors are underestimating the risks facing the global economy and that he wouldn't buy either equities or long-dated U.S. Treasurys at their current prices. In an hourlong interview with Wilfred Frost released late Monday, Dimon said markets aren't fully accounting for a growing list of geopolitical and fiscal threats.…",
-          "url": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Rare identical quadruplets born in Australia",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Rare identical quadruplets born in Australia",
-          "excerpt": "Rare identical quadruplets born in Australia - Published An Australian woman has given birth to rare, naturally conceived identical quadruplets after a pregnancy described as \"extremely high risk\" by the Royal Brisbane and Women's Hospital.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Woman gives birth to rare identical quadruplets",
-          "excerpt": "Woman gives birth to rare identical quadruplets A woman has given birth to naturally conceived identical quadruplet daughters, all sharing one placenta and developing from a single fertilized egg in one of the few cases of its kind in the world.…",
-          "url": "https://abcnews.com/video/134941435/"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "'One in 15 million chance' identical quadruplets born in Australia",
-          "excerpt": "An Australian woman has given birth to identical quadruplets conceived naturally from a single embryo - in a one in 15 million chance occurrence.",
-          "url": "https://news.sky.com/story/four-precious-miracles-identical-quadruplets-born-in-australia-in-a-one-in-15-million-chance-13565549"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-          "excerpt": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks - Published US President Donald Trump has imposed a 50% tariff on a wide range of goods imported from Canada, in retaliation for what he called \"unequal treatment\" of US cars, dairy and alcohol. Everyday consumer items like wine and hockey sticks and industrial goods such as cement are among the goods targeted.…",
-          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
-          "excerpt": "Trump prepares fresh tariffs on dozens of countries, FT reports President Donald Trump is poised to unleash fresh tariffs on dozens of countries as soon as this week, the Financial Times reported on Tuesday, with his temporary 10% global tariff scheduled to expire on Friday.…",
-          "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+          "headline": "Mexican drug lord 'El Mayo' sentenced to life without parole in US prison",
+          "excerpt": "Mexican drug lord 'El Mayo' sentenced to life without parole July 20, 2026Mexican drug trafficker Ismael \"El Mayo\" Zambada was sentenced to life in prison without the possibility of parole on Tuesday for co-founding and leading the notorious Sinaloa cartel.…",
+          "url": "https://www.dw.com/en/mexican-drug-lord-el-mayo-sentenced-to-life-without-parole-in-us-prison/a-78042164?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "AliExpress hit with record EU fine",
+      "headline_en": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
       "coverage": 3,
       "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "AliExpress hit with record EU fine",
-          "excerpt": "AliExpress hit with record EU fine July 20, 2026AliExpress said it plans to appeal a penalty imposed by European Union (EU) regulators, who found shortcomings in the firm's efforts to curb illegal, unsafe and counterfeit goods.…",
-          "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-all-1573-rdf"
-        },
         {
           "source": "Ars Technica",
           "lang": "en",
           "headline": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
           "excerpt": "Yesterday, the European Commission slapped AliExpress with the largest fine yet under the Digital Services Act (DSA), exceeding $625 million.…",
           "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "AliExpress hit with record EU fine",
+          "excerpt": "AliExpress hit with record EU fine July 20, 2026AliExpress said it plans to appeal a penalty imposed by European Union (EU) regulators, who found shortcomings in the firm's efforts to curb illegal, unsafe and counterfeit goods.…",
+          "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "Engadget",
@@ -810,58 +768,51 @@
       ]
     },
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "coverage": 3,
+      "category": "🌍 World",
+      "headline_en": "Склад Wildberries в Котовске, пострадавший от удара ВСУ, возобновит работу",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Anthropic’s landmark $1.5B copyright settlement is approved",
-          "excerpt": "Anthropic can finally start cutting checks to a group of authors and book publishers that sued the AI lab over copyright infringement. A federal judge gave final approval Monday of Anthropic’s landmark $1.5 billion settlement of a class action copyright lawsuit, Reuters reported. Judge William Alsup of the U.S.…",
-          "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Склад Wildberries в Котовске, пострадавший от удара ВСУ, возобновит работу",
+          "excerpt": "Склад Wildberries в Котовске, пострадавший от удара ВСУ, возобновит работу 23 июля маркетплейс Wildberries возобновит работу своего склада в городе Котовске Тамбовской области, в ночь на 18 июля подвергшегося атаке украинских дронов. «23 июля, после завершения оценки состояния логистического комплекса в Котовске, склад снова сможет принимать поставки.…",
+          "url": "https://meduza.io/news/2026/07/20/wildberries-vozobnovit-rabotu-sklada-v-kotovske-postradavshego-ot-udara-vsu"
         },
         {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Anthropic's record $1.5 billion copyright settlement with authors was just approved",
-          "excerpt": "Anthropic's $1.5 billion settlement of a class action copyright lawsuit brought by authors and publishers received final court approval on Monday. U.S. District Judge Araceli Martinez-Olguin, sitting in the Northern District of California, signed off on the agreement, which is believed to be the largest settlement in the history of U.S. copyright law, according to Reuters.",
-          "url": "https://qz.com/anthropic-copyright-settlement-authors-approval-072126"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit",
-          "excerpt": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit Writers sued Anthropic in 2024 for using pirated copies of their work to train Claude. Anthropic's record-breaking $1.5 billion settlement for an AI copyright lawsuit filed by writers has been approved by a federal judge in San Francisco.…",
-          "url": "https://www.engadget.com/2219475/judge-approves-anthropic-1-5-billion-settlement-authors/"
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "Склад Wildberries в Котовске возобновит работу 23 июля 2026 года",
+          "excerpt": "По логистическому центру в Электростали новостей о возобновлении работы пока нет.Источник: WildberriesОбновлено в 14:50 мск. Wildberries также изменит режим работы трёх подмосковных складов — «Коледино», «Новоколедино» и «Сынково». Они не будут работать с с 2:00 до 6:00 мск.…",
+          "url": "https://vc.ru/marketplace/3037709-sklad-wildberries-v-kotovske-vozobnovit-rabotu?from=rss"
         }
       ]
     },
     {
-      "category": "📈 Economy",
-      "headline_en": "Nebius Advances On Nvidia Stake Disclosure Amid AI Cloud Swoon",
+      "category": "💡 Tech & AI",
+      "headline_en": "Garmin Cirqa Is Here: 10 Top Facts About Garmin’s Screen-Free Tracker",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "Yahoo Finance",
+          "source": "Forbes",
           "lang": "en",
-          "headline": "Nebius Advances On Nvidia Stake Disclosure Amid AI Cloud Swoon",
-          "excerpt": "Nebius (NBIS) stock popped on Tuesday after Nvidia (NVDA) disclosed a 9% stake in the cloud computing specialist in a regulatory filing. Nebius shares had advanced 118% in 2026 as of Monday's market close, but have pulled back sharply since mid-June along with other artificial intelligence infrastructure stocks.…",
-          "url": "https://www.investors.com/news/technology/nebius-stock-nbis-nvidia-stake-coreweave-cloud-computing/?src=A00220&yptr=yahoo"
+          "headline": "Garmin Cirqa Is Here: 10 Top Facts About Garmin’s Screen-Free Tracker",
+          "excerpt": "Garmin has announced one of its most important products in a while, the Garmin Cirqa. This is its entry to a relatively hot category of wearable: the screen-free fitness tracker. It’s an alternative to the Fitbit Air, the Whoop band or, for those looking a little deeper, something like the Polar Loop or Amazfit Helio Strap. The Garmin Cirqa’s key appeal is much the same as those.…",
+          "url": "https://www.forbes.com/sites/andrewwilliams/2026/07/21/garmin-cirqa-is-here-10-top-facts-about-garmins-screen-free-tracker/"
         },
         {
-          "source": "Quartz",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "Nebius stock surged after Nvidia disclosed a 9.3% stake in the AI cloud company",
-          "excerpt": "Nebius stock climbed 7% in premarket trading on Tuesday after Nvidia $NVDA disclosed a 9.3% stake in the Amsterdam-based AI cloud company. According to a filing released Monday, the position totals approximately 22.26 million shares, a figure that incorporates shares tied to a warrant Nvidia received through its $2 billion investment in the company.",
-          "url": "https://qz.com/nvidia-nebius-stake-ai-cloud-072126"
+          "headline": "Garmin’s new screen-free fitness tracker doesn’t require a subscription",
+          "excerpt": "Garmin announced a new smart band today designed to track “advanced fitness and wellness features” without a screen to eliminate distractions and push its battery life to up to 10 days between charges.…",
+          "url": "https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables"
         },
         {
-          "source": "CNBC",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Nebius stock surges as Nvidia discloses 9.3% stake in neocloud",
-          "excerpt": "Nebius stock surged 6% on Tuesday after Nvidia disclosed a 9.3% stake in the neocloud. The Amsterdam-based company has emerged as one of Europe's leading neoclouds, providing artificial intelligence compute, and has inked multiple deals with tech giants in 2026 amid massive infrastructure spending.…",
-          "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html"
+          "headline": "Garmin Debuts $200 Screenless Fitness Band in Challenge to Whoop",
+          "excerpt": "Garmin Ltd. introduced a $200 screenless fitness tracker, becoming the latest company to enter a segment popularized by Whoop Inc.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop"
         }
       ]
     },
@@ -894,100 +845,177 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Demonstrations break out in Bologna after Moroccan man dies while being restrained by police",
+      "category": "💡 Tech & AI",
+      "headline_en": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "France 24",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Demonstrations break out in Bologna after Moroccan man dies while being restrained by police",
-          "excerpt": "Protesters and police clashed in Bologna, Italy on Monday after Moroccan-born entrepreneur Abderrahim Fakir died while being forcibly restrained by police. Widely shared footage of Fakir's death show police holding the 42-year-old face-down on the ground, where he repeatedly calls for help before falling still.",
-          "url": "https://www.france24.com/en/europe/20260721-demonstrations-break-out-in-bologna-after-moroccan-man-dies-while-being-restrained-by-police"
+          "headline": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
+          "excerpt": "Samsung Electronics shares rose after the company said Tuesday it is creating a robotics division as the South Korean tech giant seeks new sources of growth. The newly created RX, or Robotics eXperience, will consolidate Samsung's robotics capabilities and is intended to drive a mid- to long-term strategy from core tech development to commercialization, the company said in an emailed statement.…",
+          "url": "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html"
         },
         {
-          "source": "DW English",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "Italy: Protests in Bologna over death of immigrant in police custody",
-          "excerpt": "Italy: Protests over death of immigrant in police custody July 21, 2026A day after police and protestors clashed in the northern Italian city of Bologna, local authorities on Tuesday urged residents to remain calm and await the results of an official investigation into the death of Abderrahim Fakir.…",
-          "url": "https://www.dw.com/en/italy-protests-in-bologna-over-death-of-immigrant-in-police-custody/a-78048027?maca=en-rss-en-all-1573-rdf"
+          "headline": "Samsung establishes a robotics division",
+          "excerpt": "Samsung establishes a robotics division Dongkun Lee, formerly of Hyundai, will oversee its strategy. Samsung has created a new division called RX or Robotics eXperience for all of its robotics projects. Its strategy will be headed by Dongkun Lee, who joined Samsung in May as an Executive Vice President. Before he joined Samsung, Lee led Hyundai's robotics strategy, including Boston Dynamics'.…",
+          "url": "https://www.engadget.com/2219517/samsung-establishes-its-own-robotics-division/"
         },
         {
-          "source": "Sky News",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Anti-police protests in Italy after Moroccan man dies during arrest",
-          "excerpt": "Protesters have clashed with police in Italy after the death of a Moroccan man after officers restrained him on the ground.",
-          "url": "https://news.sky.com/story/anti-police-protests-erupt-in-bologna-after-moroccan-man-dies-during-arrest-13565485"
+          "headline": "Samsung Hires Ex-Boston Dynamics Executive in Robotics Push",
+          "excerpt": "Samsung Electronics Co. has hired one of South Korea’s leading robotics executives from Hyundai Motor Group to oversee a new robotics division, escalating competition in a sector emerging as the next battleground among global technology companies.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Не попавшие в «Артек» дети получат приоритетные путевки после открытия лагеря",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Не попавшие в «Артек» дети получат приоритетные путевки после открытия лагеря",
+          "excerpt": "Не попавшие в «Артек» дети получат приоритетные путевки после открытия лагеря Руководство «Артека» сохранит путевки детей, не попавших в лагерь в эту смену. Они получат приоритет на поездку в центр после его открытия, сообщил министр просвещения Сергей Кравцов. В конце июня власти Крыма приостановили все виды организованного детского отдыха.…",
+          "url": "https://www.kommersant.ru/doc/8831474"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Кравцов: не попавшие в «Артек» дети получат путевки в приоритетном порядке",
+          "excerpt": "Кравцов: не попавшие в «Артек» дети получат путевки в приоритетном порядке Все дети, не попавшие в «Артек» в текущую смену, получат путевки в приоритетном порядке после возобновления работы лагеря. Об этом заявил министр просвещения России Сергей Кравцов, передает Минпросвещения в Max.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/07/21/1215392-ne-popavshie-v-artek"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
+      "headline_en": "Rare identical quadruplets born in Australia",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "Al Jazeera",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
-          "excerpt": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet Burnham is attempting to act quickly to deliver on promises to tackle the UK’s cost of living crisis.…",
-          "url": "https://www.aljazeera.com/news/2026/7/21/andy-burnham-to-cut-taxes-on-electricity-bills-announces-new-uk-cabinet?traffic_source=rss"
+          "headline": "Rare identical quadruplets born in Australia",
+          "excerpt": "Rare identical quadruplets born in Australia - Published An Australian woman has given birth to rare, naturally conceived identical quadruplets after a pregnancy described as \"extremely high risk\" by the Royal Brisbane and Women's Hospital.…",
+          "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "DW English",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "UK's new PM Andy Burnham cuts household electricity tax",
-          "excerpt": "UK's new PM Andy Burnham cuts household electricity tax July 21, 2026Britain's new Prime Minister Andy Burnham on Tuesday announced that there would be a cut in taxes on household electricity bills, by removing VAT from October 1.…",
-          "url": "https://www.dw.com/en/uk-s-new-pm-andy-burnham-cuts-household-electricity-tax/a-78043392?maca=en-rss-en-all-1573-rdf"
+          "headline": "'One in 15 million chance' identical quadruplets born in Australia",
+          "excerpt": "An Australian woman has given birth to identical quadruplets conceived naturally from a single embryo - in a one in 15 million chance occurrence.",
+          "url": "https://news.sky.com/story/four-precious-miracles-identical-quadruplets-born-in-australia-in-a-one-in-15-million-chance-13565549"
         },
         {
-          "source": "France 24",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "'A lot of aspirations, a lot of priorities, but already criticism' for new UK government",
-          "excerpt": "The UK has a new prime minister and a new government that seem eager to get started on its promise to change the path the country is on. Ahead of a first cabinet meeting, a cut in the VAT on energy bills has been announced, as cost of living as come out as one of the government's main priorities. But the announcement is already being criticised. FRANCE 24's Benedicte Paviot tells us more.",
-          "url": "https://www.france24.com/en/a-lot-of-aspirations-a-lot-of-priorities-but-already-criticism-for-new-uk-government"
+          "headline": "WATCH:  Woman gives birth to rare identical quadruplets",
+          "excerpt": "Woman gives birth to rare identical quadruplets A woman has given birth to naturally conceived identical quadruplet daughters, all sharing one placenta and developing from a single fertilized egg in one of the few cases of its kind in the world.…",
+          "url": "https://abcnews.com/video/134941435/"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "US Stock Futures Rise as Chipmaker Rebound Overshadows Iran War",
-      "coverage": 2,
+      "headline_en": "Scoop: Trump AI security agency head resigns",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "Axios",
           "lang": "en",
-          "headline": "US Stock Futures Rise as Chipmaker Rebound Overshadows Iran War",
-          "excerpt": "US stock futures advanced on Tuesday as a rebound in chipmakers at the center of the artificial-intelligence trade overshadowed the re-escalation in the US-Iran war.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/us-stock-futures-rise-as-chipmaker-rebound-overshadows-iran-war"
+          "headline": "Scoop: Trump AI security agency head resigns",
+          "excerpt": "Chris Fall, the director of the Center for AI Standards and Innovation, is resigning just three months after taking over the federal AI testing institute, the Commerce Department confirmed on Monday. Why it matters: The abrupt departure comes as the Trump administration grapples with how to deploy AI safely and the agency hashes out standards.…",
+          "url": "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns"
         },
         {
-          "source": "Yahoo Finance",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "Nasdaq Futures Rise as Tech Stocks Follow Asia's Lead",
-          "excerpt": "Nasdaq Futures Rise as Tech Stocks Follow Asia's Lead",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072126/card/nasdaq-futures-rise-as-tech-stocks-follow-asia-s-lead-BMToz8nn73H86UOBCXkI?siteid=yhoof2&yptr=yahoo"
+          "headline": "Trump’s latest AI czar has already resigned",
+          "excerpt": "Chris Fall, the director of the Center for AI Standards and Innovation (CAISI), has resigned, the agency confirmed to multiple news outlets. He was appointed just three months ago after the last appointee, Collin Burns, left in less than a week, The Washington Post reported at the time.…",
+          "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump administration's head of AI safety agency resigns after 3 months on job",
+          "excerpt": "Chris Fall, the head of the Center for AI Standards and Innovation, resigned from his role as director just three months after he was picked for the job by the Trump administration, CNBC confirmed on Monday. CAISI, part of the U.S.…",
+          "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+          "excerpt": "JPMorgan Chase CEO Jamie Dimon said investors are underestimating the risks facing the global economy and that he wouldn't buy either equities or long-dated U.S. Treasurys at their current prices. In an hourlong interview with Wilfred Frost released late Monday, Dimon said markets aren't fully accounting for a growing list of geopolitical and fiscal threats.…",
+          "url": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Jamie Dimon shared the one characteristic he says sinks CEOs",
+          "excerpt": "Jamie Dimon has watched executives rise and fall for decades. The trait that sinks them, he says, isn't the one you'd guess. The JPMorgan boss says it isn't arrogance that ruins leaders, it's insecurity. And the warning signs are flattery, friendly hires, and glossy PowerPoints.…",
+          "url": "https://www.businessinsider.com/jpmorgan-jamie-dimon-insecurity-sinks-ceo-podcast-2026-7"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Jamie Dimon warned investors are missing market risks — and won't buy stocks or bonds",
+          "excerpt": "The JPMorgan Chase CEO cited geopolitical threats and rising government deficits as risks markets have not fully priced in Dimon made the comments in an interview with the Master Investor Podcast with Wilfred Frost, recorded July 16 and released Monday.…",
+          "url": "https://qz.com/jamie-dimon-market-risks-stocks-bonds-072126"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+      "headline_en": "Белгородский оперштаб сообщил о еще четырех пострадавших от атак БПЛА",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
-          "excerpt": "Nearly seven years after Apple debuted the Apple Card, Samsung is following the iPhone maker's footsteps with the Galaxy Card, aiming for its own slice of the credit card market. The announcement comes two days before Samsung's second Galaxy Unpacked event of the year, where it's expected to showcase new smartwatches and folding smartphones.…",
-          "url": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/"
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Белгородский оперштаб сообщил о еще четырех пострадавших от атак БПЛА",
+          "excerpt": "Белгородский оперштаб сообщил о еще четырех пострадавших от атак БПЛА Москва. 21 июля. INTERFAX.RU - В Белгородской области еще четыре человека пострадали от атак БПЛА, сообщил региональный оперштаб. \"В поселке Октябрьский Белгородского округа в результате атаки FPV-дрона на частный дом две женщины получили осколочные ранения различных частей тела.…",
+          "url": "https://www.interfax.ru/russia/1104623"
         },
         {
-          "source": "CNN World",
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "В Белгородской области четыре человека пострадали из-за атак ВСУ",
+          "excerpt": "Краткий пересказ от РИА ИИ - В Белгородском и Ракитянском округах четыре мирные жительницы пострадали в результате атак дронов ВСУ. - Пострадавшие получили медицинскую помощь, госпитализация никому не потребовалась. БЕЛГОРОД, 21 июл - РИА Новости.…",
+          "url": "https://ria.ru/20260721/vsu-2106069436.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Experts: this is the best cash back card of 2022",
-          "excerpt": "If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. When the Wells Fargo Active Cash® Card (rates and fees) hit the market, it quickly stood out among our experts as one of the best all-around, no-annual-fee credit cards. It now holds our Best Credit Card for 2026 title for its reliable 2% cash rewards and everyday value.…",
-          "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-active-cash-card-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welac2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn"
+          "headline": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
+          "excerpt": "As part of the Trump administration’s continuing attack on left-leaning groups, the US state department has listed several activists and organizations as “front groups and fellow travelers” for Cuba, including Hasan Piker and Amazon Labor Union founder Chris Smalls.…",
+          "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba"
+        },
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "State Department Frames Cuba as Major Threat via Left-Wing Groups",
+          "excerpt": "State Department Frames Cuba as Major Threat via Left-Wing Groups The report comes amid growing U.S. efforts to overturn Cuba’s government. A 100-page report released on Monday by the U.S. State Department argues that Cuba has sought to bring down the United States through decades of subversive operations, many of them tied to U.S. domestic left-wing causes.…",
+          "url": "https://foreignpolicy.com/2026/07/20/state-department-cuba-report-left-wing-terrorism-rubio-trump/"
         }
       ]
     },
@@ -1013,37 +1041,58 @@
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "Inside Ukraine's war robot revolution",
+      "category": "🌍 World",
+      "headline_en": "Appeals court denies Biden bid to block release of tapes with biographer, for now",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Business Insider",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Inside Ukraine's war robot revolution",
-          "excerpt": "Russia's invasion of Ukraine has ignited an unprecedented uncrewed arms race, transforming what began as a brutal artillery war into a new mechanized nightmare of drones and robots that can hunt, strike, and kill.…",
-          "url": "https://www.businessinsider.com/inside-ukraines-war-robot-revolution-2026-7"
+          "headline": "Appeals court denies Biden bid to block release of tapes with biographer, for now",
+          "excerpt": "Appeals court denies Biden bid to block release of tapes with biographer for now Washington — A federal appeals court on Monday night denied a bid from former President Joe Biden to keep the Justice Department from giving a conservative think tank redacted transcripts and audio recordings of conversations he had with his biographer roughly a decade ago, but stayed the opinion until Aug.…",
+          "url": "https://www.cbsnews.com/news/biden-bid-block-release-biographer-tapes-denied-decision-put-on-hold/"
         },
         {
-          "source": "France 24",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "Russia-Ukraine war: First half of 2026 sees sharp rise in civilian casualties",
-          "excerpt": "Russia-Ukraine war: First half of 2026 sees sharp rise in civilian casualties The first six months of 2026 saw a steep rise in the number of civilians killed or wounded in the war between Russia and Ukraine, the UN said Tuesday. Both Moscow and Kyiv have increased the number of air strikes targeting vital infrastructure as the Russian invasion grinds into its fifth year.…",
-          "url": "https://www.france24.com/en/europe/20260721-russia-ukraine-war-first-half-of-2026-sees-sharp-rise-in-civilian-casualties"
+          "headline": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
+          "excerpt": "WASHINGTON — A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and transcripts of his interviews with a memoir ghostwriter before he was elected president. A divided three-judge panel from the U.S. Court of Appeals for the District of Columbia Circuit suspended its decision until Aug. 3 to allow more time for Biden to consider another appeal.…",
+          "url": "https://www.nbcnews.com/politics/joe-biden/court-rejects-joe-biden-lawsuit-doj-release-memoir-recordings-rcna588515"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Михаил Ефремов исполнит первую после выхода из колонии роль в фильме",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Михаил Ефремов исполнит первую после выхода из колонии роль в фильме",
+          "excerpt": "Михаил Ефремов исполнит первую после выхода из колонии роль в фильме Актер Михаил Ефремов исполнит главную роль в фильме «Отец. Еще отец». Это станет его первой ролью в кино после освобождения из колонии в 2025 году. Фильм был представлен во время питчинга «Фонда кино» в Министерстве культуры. Трансляция велась на сайте компании.…",
+          "url": "https://www.kommersant.ru/doc/8831441"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Михаил Ефремов исполнит одну из главных ролей в фильме «Отец. Еще отец»",
+          "excerpt": "Михаил Ефремов исполнит одну из главных ролей в фильме «Отец. Еще отец» Актер Михаил Ефремов сыграет главную роль в фильме «Отец. Еще отец», который станет его первой киноролью после освобождения из колонии в 2025 г. Проект представили на питчинге «Фонда кино» в Министерстве культуры, трансляция велась на сайте компании.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/07/21/1215404-mihail-efremov"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
+      "headline_en": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "coverage": 2,
       "perspectives": [
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
-          "excerpt": "CNBC's Jim Cramer said Monday that the artificial intelligence trade has become too noisy and unpredictable to aggressively put new money to work — at least for now. \"If you own too much tech, you're going to be slaughtered, and you won't even know what hit you,\" the \"Mad Money\" host said. \"For the moment, it's time to go to other sectors.…",
-          "url": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html"
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "excerpt": "My top 10 things to watch Tuesday, July 21 1. Is SK Hynix in charge of this market? The South Korean memory-chip maker's New York-listed shares are up over 6% this morning. So you might've guessed that Nasdaq futures are also up big. The question is: Will it hold? The Nasdaq Composite's strong start yesterday fizzled, ultimately ending the day flat. 2.…",
+          "url": "https://www.cnbc.com/2026/07/21/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html"
         },
         {
           "source": "Yahoo Finance",
@@ -1055,128 +1104,65 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Tate brothers appear in US court for extradition proceedings",
+      "category": "💼 Business",
+      "headline_en": "Humanoid Raises $152 Million At $1.35 Billion Valuation: Europe’s Newest Robot Unicorn",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Forbes",
           "lang": "en",
-          "headline": "Tate brothers appear in US court for extradition proceedings",
-          "excerpt": "Tate brothers appear in US court for extradition proceedings - Published Controversial influencer Andrew Tate and his brother Tristan have appeared in a federal courtroom in Miami, marking the beginning of extradition proceedings to the UK over a slate of new charges that includes rape and sex trafficking.…",
-          "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
+          "headline": "Humanoid Raises $152 Million At $1.35 Billion Valuation: Europe’s Newest Robot Unicorn",
+          "excerpt": "Europe has a new billion-dollar startup, and it’s Humanoid, a two-year-old company headquartered in London that developed its humanoid robot, HMND 01, in near-record time. Today, London-based Humanoid announced that it has raised a $152 million Series A at a $1.35 billion post-money valuation.…",
+          "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/21/humanoid-raises-152-million-at-135-billion-valuation-europes-newest-robot-unicorn/"
         },
         {
-          "source": "DW English",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "Tate brothers to fight extradition to UK, says lawyer",
-          "excerpt": "Tate brothers to fight extradition to UK, says lawyer July 21, 2026Controversial social media influencers Andrew Tate and his brother Tristan Tate will fight extradition to the United Kingdom, where the two are accused of rape and sex trafficking, their lawyer said Monday.…",
-          "url": "https://www.dw.com/en/tate-brothers-to-fight-extradition-to-uk-says-lawyer/a-78043889?maca=en-rss-en-all-1573-rdf"
+          "headline": "This New York School Is Becoming a Humanoid Robot Company’s Biggest Test. There’s Just 1 Problem",
+          "excerpt": "Salamanca City Central School District is spending nearly $58,000 on a lifelike robot and AI tutor. Whether it improves learning remains to be seen.",
+          "url": "https://www.inc.com/georgia-fearn/new-york-school-ai-humanoid-robot-realbotix-onconetix-realdoll/91376080"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
+      "headline_en": "U.S. strikes Iran again after troop deaths",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "CNBC",
+          "source": "Axios",
           "lang": "en",
-          "headline": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
-          "excerpt": "DETROIT — General Motors raised several key 2026 earnings forecasts Tuesday after beating Wall Street's second-quarter expectations as the company's North American operations continue to drive its results.…",
-          "url": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html"
+          "headline": "U.S. strikes Iran again after troop deaths",
+          "excerpt": "The U.S. military launched fresh strikes against Iran on Sunday evening, after announcing the death of one American service member and the recovery of another's remains following an Iranian missile strike in Jordan. The big picture: The deaths underscore the growing toll of the U.S.- Iran conflict as both countries continue military attacks and the risk of further escalation rises.…",
+          "url": "https://www.axios.com/2026/07/19/us-military-finds-service-member-remains-jordan"
         },
         {
-          "source": "Quartz",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "General Motors beat earnings expectations and raised its full-year profit outlook",
-          "excerpt": "General Motors $GM reported second-quarter revenue of $48.03 billion and adjusted earnings of $3.57 per share on Tuesday, topping Wall Street expectations and prompting the automaker to raise several full-year forecasts for the second time in 2026.…",
-          "url": "https://qz.com/general-motors-earnings-q2-2026-guidance-raise-072126"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Gaza celebrates World Cup victory of Spanish team they took into their hearts",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Gaza celebrates World Cup victory of Spanish team they took into their hearts",
-          "excerpt": "The Spanish football team’s World Cup win has been celebrated in the streets of Gaza, where Spain’s support for Palestinian rights and Israel’s backing for the Argentinian team turned the competition into more than a football showdown. Gathered at cafes and outdoor screenings, Palestinians defied the risk of Israeli attacks to cheer on a team they had taken to their hearts.…",
-          "url": "https://www.theguardian.com/football/2026/jul/21/gaza-celebrates-world-cup-victory-of-spanish-team-they-took-into-their-hearts"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Victorious Spanish team parade through Madrid after World Cup triumph",
-          "excerpt": "Spain's World Cup-winning football team received a rapturous welcome as an open-top bus parade wound its way through central Madrid on Monday. Fans packed the streets, waving Spanish flags and cheering as the players travelled from near Moncloa Palace to Cibeles Square after Sunday's 1-0 victory over Argentina in the World Cup final. Supporters lined the route hours before the team arrived.…",
-          "url": "http://www.euronews.com/video/2026/07/21/victorious-spanish-team-parade-through-madrid-after-world-cup-triumph"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "New Air Force One jet to be 'maxed out,' Trump says, after security concerns raised",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "New Air Force One jet to be 'maxed out,' Trump says, after security concerns raised",
-          "excerpt": "New Air Force One jet to be 'maxed out,' Trump says, after security concerns raised The 747-8 took its first flight with President Donald Trump on board on July 1. The new Air Force One will be \"maxed out\" with security features, undergoing an upgrade that's expected to put the Qatari-gifted jet out of commission for about a month, President Donald Trump said on Sunday.…",
-          "url": "https://abcnews.com/Politics/new-air-force-jet-maxed-trump-after-security/story?id=134909028"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Trump wants to ‘max out’ Air Force One",
-          "excerpt": "President Donald Trump said his new Air Force One needs to be upgraded. &#8220;It has a lot of capability,&#8221; Trump said Sunday , but &#8220;in about a month ​or so, they’re gonna send it to have it be maxed out.&#8221; He said it would take &#8220;about a month,&#8221; but did not share any details on what upgrades would take place.…",
-          "url": "https://www.fastcompany.com/91576541/trump-wants-to-max-out-air-force-one"
+          "headline": "2 soldiers from Texas and Hawaii killed in Iran strike in Jordan; 1 still missing",
+          "excerpt": "2 soldiers from Texas and Hawaii killed in Iran strike on base in Jordan; 1 still missing The Pentagon has identified two U.S. Army soldiers killed in an Iranian strike on a military base in Jordan over the weekend. A third service member was also missing in action from the attack, U.S. Central Command said. Unidentified remains were later found in the area, the military said Sunday.…",
+          "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Tesla investors want answers about a potential merger with SpaceX",
+      "headline_en": "Путин возглавит делегацию России на саммите АТЭС в Китае",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Tesla investors want answers about a potential merger with SpaceX",
-          "excerpt": "Whispers that Elon Musk might combine Tesla and SpaceX are growing — and investors want answers. Shareholders took to an online Tesla investor forum to submit questions for executives ahead of the company's second-quarter earnings and clamor for more details about a rumored merger with SpaceX.…",
-          "url": "https://www.businessinsider.com/tesla-investors-spacex-merger-earnings-questions-elon-musk-2026-7"
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Путин возглавит делегацию России на саммите АТЭС в Китае",
+          "excerpt": "Путин возглавит делегацию России на саммите АТЭС в Китае Президент России Владимир Путин возглавит российскую делегацию на саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС). Об этом сообщил посол по особым поручениям МИД РФ Марат Бердыев в интервью ТАСС. Форум пройдет 18-19 ноября в китайском Шэньчжэне.…",
+          "url": "https://www.kommersant.ru/doc/8831445"
         },
         {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "If You Invested $2K in the SpaceX IPO, How Much Do You Have Now?",
-          "excerpt": "SpaceX's IPO was the biggest in history, raising $75 billion at $135 a share.1 The offering sparked much excitement, with retail investors keen on buying into one of the world's most closely watched companies.…",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-2k-spacex-ipo-much-120000836.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
-          "excerpt": "A Russian warship conducted a rare live-fire exercise in the Channel 45 miles south of Plymouth on Monday, the day Andy Burnham was appointed as prime minister. The Neustrashimy suddenly announced it intended to fire its guns and requested that a British warship, which had been tracking it, retreat to a safe distance.…",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says",
-          "excerpt": "A Russian warship has carried out a live-fire military exercise around 40 nautical miles (46 miles) off the British coast.",
-          "url": "https://news.sky.com/story/russian-warship-carries-out-live-fire-weapons-exercise-46-miles-off-uk-coast-mod-says-13561289"
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Путин возглавит делегацию РФ на саммите АТЭС в Китае",
+          "excerpt": "Путин возглавит делегацию РФ на саммите АТЭС в Китае Президент России Владимир Путин возглавит российскую делегацию на саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС), который пройдет 18–19 ноября в китайском Шэньчжэне. Об этом в интервью ТАСС сообщил посол по особым поручениям МИД РФ Марат Бердыев. По его словам, нынешний год в АТЭС будет насыщенным и продуктивным.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/21/1215390-putin-vozglavit-delegatsiyu"
         }
       ]
     }
