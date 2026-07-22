@@ -1,28 +1,1148 @@
 {
-  "collected_at": "2026-07-21T14:18:36.682191+00:00",
+  "collected_at": "2026-07-22T06:09:37.959868+00:00",
   "total_sources": 63,
-  "total_entries": 907,
+  "total_entries": 929,
   "story_count": 40,
   "stories": [
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Paramount and Warner Bros mega merger paused by judge",
+      "headline_en": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself",
+      "coverage": 10,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself",
+          "excerpt": "AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face",
+          "url": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+          "excerpt": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+          "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "OpenAI admits its models hacked Hugging Face on their own",
+          "excerpt": "OpenAI admits its models hacked Hugging Face on their own They escaped an isolated environment for testing and infiltrated Hugging Face without human input. Picture this: A couple of powerful AI models being tested by their company escaped a controlled environment, got on the internet and then hacked a machine learning repository on their own, without human input.…",
+          "url": "https://www.engadget.com/2220436/openai-admits-models-hacked-hugging-face-on-their-own/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Here's what smart people are saying about OpenAI models hacking Hugging Face on their own",
+          "excerpt": "An AI agent broke out of its sandbox, got onto the internet, and broke into another company's systems all on its own, according to OpenAI. Hugging Face, an open-source AI platform, announced last week it had experienced a security incident in which an autonomous AI agent had accessed some of its internal datasets, but said the large language model behind the intrusion was unknown.…",
+          "url": "https://www.businessinsider.com/smart-people-react-openai-hugging-face-hacking-cybersecurity-incident-2026-7"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "OpenAI Says Its Models Accidentally Hacked Hugging Face",
+          "excerpt": "OpenAI said its advanced artificial intelligence models inadvertently hacked Hugging Face Inc. in an “unprecedented” incident that prompted fresh calls for curbs on the technology.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "France passes law banning under-15s from social media",
       "coverage": 7,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Paramount and Warner Bros mega merger paused by judge",
-          "excerpt": "Paramount and Warner Bros mega merger paused by judge - Published A US federal judge has temporarily blocked the proposed $110bn (Â£85bn) merger between media giants Paramount Skydance and Warner Bros Discovery.…",
-          "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
+          "headline": "France passes law banning under-15s from social media",
+          "excerpt": "France passes law banning under-15s from social media - Published France's parliament has approved a law to ban social media for under-15s from January 2027, making it the first European country to block young people from the platforms.…",
+          "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "France becomes first EU country to ban social media access for under-15s",
+          "excerpt": "France’s parliament has approved a bill banning social media access for children under 15, making it the first EU country to bar children from apps such as TikTok. The president, Emmanuel Macron, has championed the ban as a key reform of his final term in office and pledged to enforce it by September.…",
+          "url": "https://www.theguardian.com/world/2026/jul/21/france-ban-social-media-access-under-15s"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "'It has to work': France nears approval of under-15 social media ban",
+          "excerpt": "France's two houses of parliament are expected to give final approval to legislation that bars under-15s from social media. The bill comes amid concern over mental health of young people. If approved, France would follow Australia's lead, where the world's first ban ​for under-16s ‌on platforms including Facebook, Snapchat, TikTok and YouTube came into ⁠force in December.",
+          "url": "https://www.france24.com/en/video/20260721-it-has-to-work-france-nears-approval-of-under-15-social-media-ban"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "France becomes first EU country to officially ban social media for children",
+          "excerpt": "France becomes first EU country to officially ban social media for children France becomes first EU country to officially ban social media for children France will ban social media for under-15s from September 1, following the UK and Australia’s moves toward blanket restrictions.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "These are the countries moving to ban social media for children",
+          "excerpt": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+          "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+          "excerpt": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+          "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Hegseth estimates rising cost of Iran war now at $37.5bn – as it happened",
+          "excerpt": "This blog is now closed. Read our latest full report here . Lebanon’s president, Joseph Aoun, is due to meet Donald Trump for the first time today as he wraps up a four-day visit to Washington. The meeting coincides with ongoing US-mediated talks between Lebanon and Israel.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
         },
         {
           "source": "Axios",
           "lang": "en",
-          "headline": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
-          "excerpt": "A federal judge has paused Paramount Skydance's takeover of Warner Bros. Discovery in response to a lawsuit last week from a dozen state attorneys general looking to block the deal on antitrust grounds. Why it matters: The delay represents the most significant legal challenge related to the merger globally to-date.…",
-          "url": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused"
+          "headline": "Trump hosts Lebanon's president as Israel begins first pullback",
+          "excerpt": "Lebanese President Joseph Aoun will meet President Trump in the Oval Office on Tuesday — a sitdown that comes as the Israeli military begins its first withdrawal from Lebanon under a U.S.-brokered agreement . Why it matters: The Trump administration is politically invested in strengthening Aoun, isolating Hezbollah and pushing for an Israeli-Lebanese peace agreement.…",
+          "url": "https://www.axios.com/2026/07/21/lebanon-israel-trump-aoun-hezbollah"
         },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "As he hosts the Lebanese president, Trump says the US 'will help' the country",
+          "excerpt": "US and Lebanese Presidents Donald Trump and Joseph Aoun met for the first time ever on July 20, as Trump hosted his Lebanese counterpart in the White House. This comes as the Lebanese army is taking over pilot safe zones in South Lebanon as pressure builds on the government to disarm Hezbollah and it seeks to get Israel to leave the region.…",
+          "url": "https://www.france24.com/en/as-he-hosts-the-lebanese-president-trump-says-the-us-will-help-the-country"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Trump promises US support for Lebanon in White House meeting with president",
+          "excerpt": "Lebanon and Israel have held rare direct talks mediated by Washington. Aoun’s visit was the first to the White House by a Lebanese president since 2009.…",
+          "url": "http://www.euronews.com/2026/07/21/trump-promises-us-support-for-lebanon-in-white-house-meeting-with-president"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Один человек погиб, 10 пострадали при атаке БПЛА на склады в Краснодарском крае",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Один человек погиб, 10 пострадали при атаке БПЛА на склады в Краснодарском крае",
+          "excerpt": "Один человек погиб, 10 пострадали при атаке БПЛА на склады в Краснодарском крае Один человек погиб и 10 пострадали при атаке беспилотников на Краснодарский край. Об этом сообщил губернатор Вениамин Кондратьев. По словам чиновника, погиб сотрудник склада в Армавире, который атаковали дроны. При ударе по складу Wildberries в Краснодаре пострадали, по уточненным данным, 10 человек.…",
+          "url": "https://www.kommersant.ru/doc/8831829"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Один человек погиб и 10 пострадали при атаке на Кубань",
+          "excerpt": "Один человек погиб и 10 пострадали при атаке на Кубань Один человек погиб при падении обломков украинского беспилотника на территорию предприятия в Армавире. Еще 10 пострадали в результате атаки на склад в Краснодаре, сообщил губернатор края Вениамин Кондратьев. По его словам, трое раненых находятся в тяжелом состоянии, один – в состоянии средней тяжести. Их госпитализировали.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/22/1215540-odin-chelovek-pogib"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Один человек погиб, 10 ранены после ночной атаки БПЛА на Кубань",
+          "excerpt": "Один человек погиб, 10 ранены после ночной атаки БПЛА на Кубань Москва. 22 июля. INTERFAX.RU - Один человек погиб в результате массированной ночной атаки беспилотников на Краснодарский край, еще 10 человек пострадали, сообщил в среду губернатор региона Вениамин Кондратьев. \"В Армавире обломки беспилотника попали на территорию одного из предприятий, в результате чего погиб сотрудник (...).…",
+          "url": "https://www.interfax.ru/russia/1104725"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Middle East live: US launches 11th night of Iran strikes as diplomacy falters",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Middle East live: US launches 11th night of Iran strikes as diplomacy falters",
+          "excerpt": "The US military launched an 11th straight night of strikes on Iran early Wednesday, with President Donald Trump saying the US was \"not finished\" attacking the Middle Eastern nation. The strikes followed Tehran's attacks on Gulf states, and its Houthi allies threatening to blockade Saudi ports. Follow our liveblog for the latest developments.…",
+          "url": "https://www.france24.com/en/middle-east/20260722-middle-east-live-us-launches-11th-night-of-iran-strikes-as-diplomacy-falters"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US expands strikes on 11th straight night of attacks",
+          "excerpt": "US expands strikes on 11th straight night of attacks as Iran fires on Kuwait US expands strikes on 11th straight night of attacks The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit, marking a broadening of the campaign.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Trump says US has no interest in Iran talks as cost of war increases",
+          "excerpt": "The US entered its 11th consecutive night of strikes on Iran, while Tehran expanded its offensive against Gulf states. Meanwhile, Pakistan stepped up diplomatic efforts in hopes of salvaging the interim deal between the two.…",
+          "url": "http://www.euronews.com/2026/07/22/trump-says-us-has-no-interest-in-iran-talks-as-cost-of-war-increases"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night",
+          "excerpt": "U.S. Secretary of State Marco Rubio on Wednesday accused Iran of not honoring the Strait of Hormuz deal, while reiterating that Washington was \"committed to diplomacy\" in the Middle East. His comments come as U.S.…",
+          "url": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. launches strikes on Iran for 11th consecutive night",
+          "excerpt": "The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.",
+          "url": "https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
+          "excerpt": "President Volodymyr Zelenskyy fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine's armed forces following days of protests demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief.",
+          "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Zelenskyy replaces Ukraine's top general after days of protests",
+          "excerpt": "Zelenskyy replaces Ukraine's top general after days of protests Kyiv — Ukraine's President Volodymyr Zelenskyy announced Tuesday that he will replace his top general, Oleksandr Syrskyi. The latest shakeup follows six days of protests against last week's ouster of Ukraine's Minister of Defense Mykhailo Fedorov.…",
+          "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-fires-general-after-protests/"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from grace",
+          "excerpt": "In a significant move in the middle of a war, Ukraine's president has sacked his military chief and is seeking to woo a former defence minister back into the fold – just days after ousting him too.",
+          "url": "https://news.sky.com/story/why-zelenskyy-has-sacked-ukraines-armed-forces-chief-13565831"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Ukraine’s Zelenskyy fires his commander in chief after protests and major rift",
+          "excerpt": "Ukrainian President Volodymyr Zelenskyy fired his commander in chief, Oleksandr Syrskyi, on Tuesday, bowing to pressure after the removal of popular Defense Minister Mykhailo Fedorov sparked the fiercest leadership crisis of his presidency. Zelenskyy announced on Telegram that Mykhailo Drapatyi will replace Syrskyi.…",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine's Zelenskyy fires military chief after days of protests",
+          "excerpt": "Mass protests in recent days in Kyiv and other Ukrainian cities had called for the removal of commander-in-chief Oleksandr Syrskyi. Volodymyr Zelenskyy has named Mykhailo Drapatyi as the army's new chief.",
+          "url": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
+          "excerpt": "Trump gives update on war with Iran during meeting with Lebanese president 09:32 Now Playing Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada 02:16 UP NEXT U.S. service member killed in Northern Iraq, says U.S.…",
+          "url": "https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump slaps additional 50% tariff on certain Canadian goods",
+          "excerpt": "Trump slaps additional 50% tariff on certain Canadian goods The tariffs will take effect 30 days from now. The Trump administration announced Monday it will hit Canada with a 50% tariff on many goods imported into the United States, citing Canada's retaliation to Trump's tariffs in 2025.…",
+          "url": "https://abcnews.com/Politics/trump-slaps-additional-50-tariff-canadian-goods/story?id=134929955"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Trump imposes 50% tariffs on Canadian goods citing disputes over autos",
+          "excerpt": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products. The move could unleash a new wave of economic chaos, with risks of higher inflation and further fraying of relations between two nations that had been closely woven together before Trump's return to the White House.…",
+          "url": "http://www.euronews.com/business/2026/07/21/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Trump Imposes 50% Tariff Hike on Canadian Goods",
+          "excerpt": "President Donald Trump on Monday signed proclamations imposing additional 50% tariffs on certain goods from Canada in response to what the White House has called its North American neighbor’s “discriminatory treatment” of American products. The tariffs, which take effect in 30 days on Aug.…",
+          "url": "https://time.com/article/2026/07/21/trump-tariffs-canada-alcohol-motor-vehicles-dairy/"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Trump is slapping Canada with 50% tariffs over autos, alcohol, and dairy disputes",
+          "excerpt": "On motor vehicles, the White House said Canadian imports of U.S. cars fell approximately 22%, or $5.6 billion, from April 2025 through March 2026 compared to the same period a year earlier, after Canada imposed a 25% tariff on U.S.-made vehicles while leaving vehicles from other countries untaxed. On alcohol, all but two Canadian provinces and territories halted purchasing and retailing of U.S.…",
+          "url": "https://qz.com/trump-50-percent-tariffs-canada-autos-alcohol-dairy-072126"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Вертолет привлекут к тушению пожара на атакованном складе в Краснодаре",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Вертолет привлекут к тушению пожара на атакованном складе в Краснодаре",
+          "excerpt": "Вертолет привлекут к тушению пожара на атакованном складе в Краснодаре В Краснодаре к тушению пожара на атакованном беспилотником складе привлекут вертолет. Об этом говорится в сообщении краевого оперштаба. На месте работают 105 человек и более 37 единиц техники. Ранним утром украинские беспилотники атаковали склады Wildberries&Russ в Краснодаре и Невинномысске. Сотрудников эвакуировали.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/22/1215534-vertolet-privlekut"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "К тушению пожара в Невинномысске привлекли вертолет",
+          "excerpt": "Краткий пересказ от РИА ИИ - На логистическом комплексе в Невинномысске на Ставрополье произошел пожар. - К тушению пожара привлечен пожарный вертолет МЧС России. НАЛЬЧИК, 22 июл – РИА Новости. Вертолет привлекли к тушению пожара на логистическом комплексе в Невинномысске на Ставрополье, сообщил губернатор региона Владимир Владимиров.…",
+          "url": "https://ria.ru/20260722/pozhar-2106145671.html"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+          "excerpt": "It turns out that the Light Phone III—the dumbphone with pretty hardware, like an all-metal build and a monochrome OLED touchscreen—is “too similar to a smartphone.” That's one of the pieces of feedback that Brooklyn-based Light Phone has received in the past year since it launched the device, even if it doesn't have access to anywhere near the number of apps your smartphone does.…",
+          "url": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Light Just Unveiled a $299 Flip Phone With No Internet, Social Media, or Email",
+          "excerpt": "Young adults are re-sparking interest in a throwback technology.",
+          "url": "https://www.inc.com/jelinda-montes/light-299-flip-phone-no-internet-social-media-email-text/91372161"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Light made a flip phone — it’s colorful and it’s cheap",
+          "excerpt": "Kaiwei Tang helped create the iconic Motorola Razr over 20 years ago. Now, 10 years into building Light, the startup behind the minimalist smartphone alternative Light Phone, he’s as surprised as anyone that his customers are begging for a flip phone.…",
+          "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "The Light Flip is a minimalist flip phone that leaves out all those distracting apps",
+          "excerpt": "The Light Flip is a minimalist flip phone that leaves out all those distracting apps It's a mashup of the Light Phone III and an old-school flip phone. The Brooklyn-based minimalist phone maker Light is working on a new piece of hardware that is decidedly retro.…",
+          "url": "https://www.engadget.com/2219683/the-light-flip-is-a-minimalist-flip-phone-that-leaves-out-all-those-distracting-apps/"
+        },
+        {
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Light's new $299 flip phone has no apps and T9 texting, but aims to connect people",
+          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
+          "url": "https://www.zdnet.com/article/light-flip-news/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
+          "excerpt": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’",
+          "excerpt": "Volodymyr Zelenskyy has fired Ukraine’s commander-in-chief Oleksandr Syrskyi and offered a “prominent position” to the defence minister he sacked last week in a move that sparked nationwide protests. In a late-night TV address, Zelenskyy said he was appointing Mykhailo Drapatyi, a popular and innovative general, as the new head of Ukraine’s armed forces.…",
+          "url": "https://www.theguardian.com/world/2026/jul/21/zelenskyy-replaces-military-leader-and-brings-back-defence-minister-he-sacked"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Zelensky faces deepening political crisis as protests dig in",
+          "excerpt": "In Ukraine, protesters say they’re giving Volodymyr Zelensky until Friday to re-instate the popular Defence Minister Mykhailo Fedorov, and fire General Oleksandr Syrsky, the military chief of staff. The President removed Fedorov from his post last week, citing a clash between the two men. The protests have brought Syrsky’s unpopularity to the forefront.…",
+          "url": "https://www.france24.com/en/zelensky-faces-deepening-political-crisis-as-protests-dig-in"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Zelenskyy replaces Ukraine military chief after protests",
+          "excerpt": "Zelenskyy replaces Ukraine military chief after protests Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests. Ukrainian President Volodymyr Zelenskyy has fired Oleksandr Syrskii as the country’s commander-in-chief, appointing Mykhailo Drapatyi to lead the military.…",
+          "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Hegseth tells Senate war on Iran has so far cost $37.5bn at hearing to request more funds",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Hegseth tells Senate war on Iran has so far cost $37.5bn at hearing to request more funds",
+          "excerpt": "The US defense secretary, Pete Hegseth told the Senate on Tuesday that the US-Israel war on Iran had cost $37.5bn so far, as he faced lawmakers furious over the conflict’s soaring price tag and the deaths last week of three American service members.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "The Seventeen U.S. Service Members Killed in the Iran War",
+          "excerpt": "Seventeen American service members have died in the war in Iran in the months since the U.S. and Israel launched the initial military strikes on Feb. 28. About 447 more U.S. service members have been wounded in the conflict, according to the Pentagon’s Defense Casualty Analysis System, which was last updated on July 21.…",
+          "url": "https://time.com/article/2026/07/20/us-service-members-killed-wounded-iran-war-casualties/"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Pentagon identifies 4th service member killed as U.S.-Iran war escalates",
+          "excerpt": "Iran War Updates: Pentagon identifies 4th service member killed in recent days as U.S. carries out more strikes What to know about the Iran war: - The U.S. military released the name of a third soldier who is believed to have been killed in an Iranian strike on a base in Jordan, and identified a service member who was killed in Iraq, bringing the total number of U.S.…",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-troops-killed-wounded-jordan-base/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "US Carries out 10th Night of Strikes After Service Members Killed",
+          "excerpt": "Regular Coffee Consumption Linked to Health Benefits, AHA Says 00:27 Megan Rapinoe Talks Upcoming Podcast, Spain World Cup Victory 05:54 Gen X Brands Esprit, Gap and More Bring Wave of Nostalgia 02:53 A Look at the Latest Financial Scams: 'Whaling,' Job Offers, More 04:21 $1 Billion up for Grabs as Mega Millions and Powerball Prizes Soar 00:37 Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Adve…",
+          "url": "https://www.today.com/video/trump-says-iran-will-pay-for-killing-of-us-service-members-267004485593"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "В МИД России заявили о желании США видеть Путина на саммите G20 в Майами",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "В МИД России заявили о желании США видеть Путина на саммите G20 в Майами",
+          "excerpt": "Соединенные Штаты Америки хотят видеть президента России Владимира Путина на саммите «двадцатки» (G20) в Майами в декабре. Об этом заявил посол по особым поручениям МИД России Марат Бердыев в интервью ТАСС. «Президент США Дональд Трамп неоднократно публично отмечал, что считает участие в саммите главы российского государства Владимира Путина полезным.…",
+          "url": "https://lenta.ru/news/2026/07/22/v-mid-rossii-zayavili-o-zhelanii-ssha-videt-putina-na-sammite-g20-v-mayami/"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "МИД РФ: США хотели бы видеть Путина на саммите G20 в Майами",
+          "excerpt": "МИД РФ: США хотели бы видеть Путина на саммите G20 в Майами Американская сторона, которая в декабре примет саммит «большой двадцатки» (G20) в Майами, подает сигнал о заинтересованности в участии президента России Владимира Путина в мероприятии. Об этом в интервью ТАСС заявил посол по особым поручениям МИД РФ Марат Бердыев.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/22/1215515-mid-rf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "This beautiful data visualization shows how Spain obliterated Argentina in the World Cup final",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "This beautiful data visualization shows how Spain obliterated Argentina in the World Cup final",
+          "excerpt": "Spain dominated the ball and occupied the entire pitch at MetLife Stadium during the World Cup final against Argentina. It didn&#8217;t matter that Messi&#8217;s teammates fouled, elbowed , and used every trick to slow the Spaniards down and force the game to penalties.…",
+          "url": "https://www.fastcompany.com/91577156/world-cup-soccer-visualization-data"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Victorious Spanish team parade through Madrid after World Cup triumph",
+          "excerpt": "Spain's World Cup-winning football team received a rapturous welcome as an open-top bus parade wound its way through central Madrid on Monday. Fans packed the streets, waving Spanish flags and cheering as the players travelled from near Moncloa Palace to Cibeles Square after Sunday's 1-0 victory over Argentina in the World Cup final. Supporters lined the route hours before the team arrived.…",
+          "url": "http://www.euronews.com/video/2026/07/21/victorious-spanish-team-parade-through-madrid-after-world-cup-triumph"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "World Cup final draws record 62.8M U.S. viewers",
+          "excerpt": "Sunday's FIFA World Cup final drew more than 62.8 million viewers in the U.S., making it the most-watched World Cup final and soccer telecast in American history. Why it matters: The record audience underscores soccer's growing popularity in the U.S. and is likely to boost the value of future media rights.…",
+          "url": "https://www.axios.com/2026/07/21/world-cup-final-viewership-record"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Spain celebrates World Cup title",
+          "excerpt": "Spain celebrates World Cup title The World Cup champions returned home as heroes after defeating Argentina 1-0 on Sunday.…",
+          "url": "https://abcnews.com/video/134943144/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Mamdani says New York City can't arrest Netanyahu but the federal government should",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Mamdani says New York City can't arrest Netanyahu but the federal government should",
+          "excerpt": "New York Mayor Mamdani said the city would not be able to execute an arrest warrant issued by the top war-crimes court for Israel's Benjamin Netanyahu, but urged the federal government to do so.",
+          "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+          "excerpt": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him Mamdani: Netanyahu is a war criminal, but New York cannot arrest him New York City Mayor Zohran Mamdani releases a video statement calling for Israeli Prime Minister Benjamin Netanyahu to face trial for war crimes, citing the ICC’s arrest warrant.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Mamdani says he won't try to arrest Israel's Netanyahu",
+          "excerpt": "Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.…",
+          "url": "https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Mamdani says New York lacks authority to arrest Netanyahu, calls him ‘war criminal’",
+          "excerpt": "New York City Mayor Zohran Mamdani said Tuesday that city officials have determined they do not have the \"independent authority\" to arrest Israeli Prime Minister Benjamin Netanyahu on an arrest warrant issued by the International Criminal Court.…",
+          "url": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran live updates: Hegseth estimates war with Iran cost the US $37.5 billion",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Iran live updates: Hegseth estimates war with Iran cost the US $37.5 billion",
+          "excerpt": "11th night of US strikes against Iran concludes U.S. forces concluded an 11th straight night of strikes targeting Iran, U.S. Central Command said in a statement.…",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Hegseth says Iran war has cost $37.5 billion so far",
+          "excerpt": "Hegseth says Iran war has cost $37.5 billion so far Published July 22, 2026last updated July 22, 2026What you need to know - Pentagon chief Pete Hegseth requests fresh funding for Iran War in remarks to senators - Republicans unveil $95 billion military funding plan - Hegseth's testimony was interrrupted by protesters against the Iran war - US strikes Iran for 11th consecutive night, CENTCOM says …",
+          "url": "https://www.dw.com/en/hegseth-says-iran-war-has-cost-37-5-billion-so-far/live-78060128?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Hegseth says Iran war has cost $37.5B but sources say total could be far more",
+          "excerpt": "Hegseth says Iran war has cost $37.5 billion. Sources say the total price tag could be far more. Washington — Defense Secretary Pete Hegseth told lawmakers Tuesday the U.S.-Iran war has cost about $37.5 billion so far, as the Trump administration asks Congress to approve tens of billions of dollars in additional Pentagon funding to help underwrite the cost of the war.…",
+          "url": "https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+          "excerpt": "US defence chief Hegseth puts Iran war cost at $37.5bn so far Latest cost comes as Hegseth and Joint Chiefs of Staff Chairman Caine ask for $1.5 trillion budget, including $70bn for Iran war. United States Secretary of Defense Pete Hegseth has put the latest official price tag on the US-Israel war on Iran at $37.5bn.…",
+          "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Режим ЧС объявили в зоне пожара на логистическом комплексе на Ставрополье",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Режим ЧС объявили в зоне пожара на логистическом комплексе на Ставрополье",
+          "excerpt": "Краткий пересказ от РИА ИИ - В Невинномысске на логистическом комплексе произошло возгорание. - Губернатор Ставрополья Владимир Владимиров объявил в зоне пожара режим ЧС локального уровня. НАЛЬЧИК, 22 июл – РИА Новости. Режим ЧС объявили в зоне пожара на логистическом комплексе на Ставрополье, сообщил губернатор региона Владимир Владимиров.…",
+          "url": "https://ria.ru/20260722/nevinnomyssk-2106146059.html"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Режим ЧС ввели в Невинномысске из-за пожара на логистическом комплексе",
+          "excerpt": "Режим ЧС ввели в Невинномысске из-за пожара на логистическом комплексе Москва. 22 июля. INTERFAX.RU - Режим чрезвычайной ситуации локального уровня ввели в зоне пожара на логистическом комплексе в Невинномысске Ставропольского края, возникшего утром в среду из-за атаки БПЛА, сообщил губернатор края Владимир Владимиров.…",
+          "url": "https://www.interfax.ru/russia/1104724"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Google releases three new Gemini models — but no 3.5 Pro",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Google releases three new Gemini models — but no 3.5 Pro",
+          "excerpt": "On Tuesday, Google DeepMind released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. Gemini 3.6 Flash is Google’s “workhorse model” that promises improved capabilities in coding, knowledge work, and multimodal performance while reducing token usage by up to 17%, making it cheaper than its predecessor 3.5 Flash.…",
+          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Google is launching three new AI models, including a security tool to rival Anthropic",
+          "excerpt": "Google $GOOGL announced three new Gemini AI models on Tuesday, including a cybersecurity-focused model designed to detect and patch software vulnerabilities, which the company said will be restricted to governments and trusted partners at launch.…",
+          "url": "https://qz.com/google-gemini-36-flash-35-flash-lite-cyber-072126"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+          "excerpt": "Google announced a significant evolution of its AI models at I/O in May with the release of Gemini 3.5 Flash, and it’s not slowing down. The company revealed three new AI models today, including its first version of Gemini geared toward cybersecurity. However, none of the new models is the delayed Gemini 3.5 Pro, which was supposed to launch in June.…",
+          "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/"
+        },
+        {
+          "source": "VentureBeat",
+          "lang": "en",
+          "headline": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way",
+          "excerpt": "Google DeepMind today released three new proprietary AI models it says are among its most token-efficient yet: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber. The models aim to make AI agents faster, smarter, and cheaper at scale.…",
+          "url": "https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Why a Hunger Strike Is Rallying India’s Youth",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "Why a Hunger Strike Is Rallying India’s Youth",
+          "excerpt": "Why a Hunger Strike Is Rallying India’s Youth Sonam Wangchuk’s fast in solidarity with Cockroach movement protests joins a long tradition. On July 18, the award-winning Indian activist Sonam Wangchuk was picked up by the Delhi Police and taken to a state-run hospital against his will 20 days into a hunger strike.…",
+          "url": "https://foreignpolicy.com/2026/07/21/india-cockroach-protests-wangchuk-hunger-strike-fast/"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+          "excerpt": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
+          "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "India's Cockroach protests vow to continue despite police crackdown",
+          "excerpt": "The leaders of India's youth-led Cockroach movement are vowing to continue protesting a day after police cracked down on demonstrators. They have been demanding the country's education minister, Dharmendra Pradhan, resign amid repeated leaks for entrance tests to medical schools.…",
+          "url": "https://www.france24.com/en/india-s-cockroach-protests-vow-to-continue-despite-police-crackdown"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "How India's youth-led 'Cockroach' movement challenges Modi",
+          "excerpt": "How India's youth-led 'Cockroach' movement challenges Modi July 21, 2026Riot police fired tear gas and used batons in New Delhi as tens of thousands of supporters of the satirical Cockroach Janta Party (CJP) marched towards India's Parliament on Monday (July 20).…",
+          "url": "https://www.dw.com/en/how-india-s-youth-led-cockroach-movement-challenges-modi/a-78048621?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Innolight Seeks Up to $7 Billion in Biggest Hong Kong Listing in Years",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Innolight Seeks Up to $7 Billion in Biggest Hong Kong Listing in Years",
+          "excerpt": "China’s Zhongji Innolight Co. has started taking investor orders for a Hong Kong listing to raise as much as HK$55 billion ($7 billion), the city’s biggest in seven years.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/innolight-seeks-up-to-7-billion-in-biggest-hong-kong-listing-in-years"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "China’s Moonshot in Talks on Pre-IPO Funds at $50 Billion Value",
+          "excerpt": "Moonshot AI is preparing to begin discussions in August on a final round of fundraising before listing in Hong Kong, capitalizing on the excitement around its latest model to raise capital at a valuation of as much as $50 billion.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "China's Moonshot AI is seeking a $50 billion valuation in pre-IPO funding talks",
+          "excerpt": "Moonshot AI is in talks to raise capital at a valuation of as much as $50 billion ahead of a planned Hong Kong initial public offering, according to Bloomberg. The Beijing-based startup intends to begin those discussions in August, after closing a current funding round that values it at $31.5 billion, people familiar with the matter said.",
+          "url": "https://qz.com/moonshot-ai-pre-ipo-funding-50-billion-valuation-072126"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+          "excerpt": "For years, Chinese companies such as Alibaba and Baidu headed to the U.S. to list their shares, citing its deeper capital markets and higher valuations. Now, one American biotech firm is betting on doing the opposite. Axiom Biosciences, a San Diego-based developer of regenerative and genetic medicines, plans to go public in Hong Kong in 2027, followed by a secondary U.S. listing in 2029.…",
+          "url": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "К тушению пожара на складе Wildberries в Краснодаре привлекут вертолет",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "К тушению пожара на складе Wildberries в Краснодаре привлекут вертолет",
+          "excerpt": "К тушению пожара на складе Wildberries в Краснодаре привлекут вертолет К тушению пожара на складском комплексе в Краснодаре, который загорелся сегодня ночью из-за атаки беспилотников, привлекут вертолет, сообщили в краевом оперативном штабе. Сейчас огонь тушат 105 человек и больше 30 единиц техники, добавили в ведомстве. Штаб опубликовал кадры с места происшествия.…",
+          "url": "https://www.kommersant.ru/doc/8831787"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "К ликвидации пожара в складском комплексе в Краснодаре привлекут вертолет",
+          "excerpt": "К ликвидации пожара в складском комплексе в Краснодаре привлекут вертолет Москва. 22 июля. INTERFAX.RU - Вертолет будет привлечен к ликвидации пожара в складском комплексе в Краснодаре, сообщили в оперативном штабе Краснодарского края. \"К тушению пожара на складском комплексе в Краснодаре привлекут вертолет\", - говорится в сообщении в канале оперштаба в мессенджере Max.…",
+          "url": "https://www.interfax.ru/russia/1104714"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
+          "excerpt": "Rep. Andy Biggs has won the Republican primary in Arizona’s race for governor, NBC News projects, setting up a battleground state matchup this fall with Democratic Gov. Katie Hobbs. Biggs, a former chair of the conservative House Freedom Caucus who was endorsed by President Donald Trump, emerged from a primary field that included fellow Rep.…",
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Andy Biggs wins GOP nomination to challenge Democrat Katie Hobbs for Arizona governor",
+          "excerpt": "Andy Biggs wins GOP nomination to challenge Democrat Katie Hobbs for Arizona governor U.S. Rep. Andy Biggs has won the Republican nomination for Arizona governor PHOENIX -- U.S. Rep. Andy Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday. Biggs overwhelmingly defeated fellow U.S. Rep.…",
+          "url": "https://abcnews.com/US/wireStory/andy-biggs-wins-republican-nomination-challenge-democrat-katie-134938616"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
+          "excerpt": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects Rep. Andy Biggs, a close Trump ally who was endorsed by the president, has won the GOP nomination to take on Arizona's Democratic Gov. Katie Hobbs, the Associated Press projected. Biggs defeated a field of competitors, including Rep. David Schweikert, who is exiting Congress.…",
+          "url": "https://www.cbsnews.com/news/arizona-governors-race-results-katie-hobbs-andy-biggs-david-schweikert/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "RFK Jr. says cyclospora outbreak is 'under control'",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "RFK Jr. says cyclospora outbreak is 'under control'",
+          "excerpt": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control.\" \"We've identified the source of the outbreak, and the companies that are involved have implemented a recall,\" Kennedy said, responding to questions during a news briefing about healthcare fraud.…",
+          "url": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "RFK Jr. says cyclosporiasis outbreak is ‘under control’ amid investigation into its origins",
+          "excerpt": "Health Secretary Robert F. Kennedy Jr. said Tuesday the cyclosporiasis outbreak was “under control” even as health authorities continue to search for answers about why thousands of people in the U.S. have gotten sick. The Food and Drug Administration has linked the outbreak, which mainly causes severe diarrhea, to shredded iceberg lettuce from a Taylor Farms facility in central Mexico.…",
+          "url": "https://www.nbcnews.com/health/health-news/rfk-jr-says-cyclosporiasis-outbreak-control-mexico-casts-doubt-link-ta-rcna588604"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "7/21: CBS Evening News",
+          "excerpt": "Latest U.S. Iran War Tropical Storm World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
+          "url": "https://www.cbsnews.com/video/072126-cbs-evening-news/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "WATCH:  Woman gives birth to rare identical quadruplets",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Woman gives birth to rare identical quadruplets",
+          "excerpt": "Woman gives birth to rare identical quadruplets A woman has given birth to naturally conceived identical quadruplet daughters, all sharing one placenta and developing from a single fertilized egg in one of the few cases of its kind in the world.…",
+          "url": "https://abcnews.com/video/134941435/"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Australian woman gives birth to rare identical quadruplet daughters",
+          "excerpt": "Australian woman gives birth to rare identical quadruplet daughters Jenitar Na'amoana and her husband, Jortham, thought their family was complete after welcoming four children. Then came an unexpected surprise: four naturally conceived, identical daughters. Na'amoana, 34, gave birth to Emily, Harriet, Catherine and Alexa last week.…",
+          "url": "https://www.cbsnews.com/news/jenitar-naamoana-australian-woman-identical-quadruplet-daughters/"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "'One in 15 million chance' identical quadruplets born in Australia",
+          "excerpt": "An Australian woman has given birth to identical quadruplets conceived naturally from a single embryo - in a one in 15 million chance occurrence.",
+          "url": "https://news.sky.com/story/four-precious-miracles-identical-quadruplets-born-in-australia-in-a-one-in-15-million-chance-13565549"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Госдума приняла законопроект о регулировании криптовалют в России",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "Госдума приняла законопроект о регулировании криптовалют в России",
+          "excerpt": "Он вступит в силу с 1 сентября 2026 года.Депутаты приняли законопроект сразу во втором и третьем, окончательном чтении. Он описывает основные правила будущего регулирования крипторынка. Теперь его должен согласовать Совфед и подписать президент.Сделки через посредников смогут совершать как неквалифицированные, так и квалифицированные инвесторы, рассказал ЦБ.…",
+          "url": "https://vc.ru/crypto/3038767-regulirovanie-kriptovaljut-v-rossii?from=rss"
+        },
+        {
+          "source": "RB.ru",
+          "lang": "ru",
+          "headline": "Госдума приняла закон о регулировании крипторынка в России — новые правила начнут действовать уже в 2026 году",
+          "excerpt": "Госдума приняла закон о регулировании крипторынка в России — новые правила начнут действовать уже в 2026 году В России сохраняется запрет на оплату криптовалютой товаров и услугГосдума приняла закон, который впервые комплексно регулирует обращение цифровых валют и цифровых прав в России.…",
+          "url": "https://rb.ru/news/gosduma-prinyala-zakon-o-regulirovanii-kriptorynka-v-rossii-novye-pravila-nachnut-dejstvovat-uzhe-v-2026-godu/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+          "excerpt": "US renews strikes on Iran as Trump threatens to attack underground nuclear site - Published The US launched strikes on Iran for the 11th consecutive night late on Tuesday, as Tehran warned the US against targeting its nuclear facilities.…",
+          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US attacks Iran for 11th consecutive night",
+          "excerpt": "US attacks Iran for 11th consecutive night Explosions reported to have been heard in northwestern Iran’s Tabriz, as well as capital Tehran and southern Iran. US Central Command (CENTCOM) says it has completed its 11th consecutive evening of air strikes against Iran to further degrade the country’s “ability to threaten commercial shipping in the Strait of Hormuz”.…",
+          "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "What is Pickaxe Mountain? Trump says US will hit Iranian nuclear site 'pretty soon'",
+          "excerpt": "What is Pickaxe Mountain? Trump says US will hit Iranian nuclear site 'pretty soon' Pickaxe Mountain, under construction, has been spared in past attacks. President Donald Trump said Tuesday the U.S. would target Pickaxe Mountain, an Iranian nuclear site that is under construction and buried deep below the ground, as the war escalates amid 10 straight days of strikes.…",
+          "url": "https://abcnews.com/Politics/pickaxe-mountain-trump-us-hit-iranian-nuclear-site/story?id=134957036"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Takeaways from Hegseth's Senate hearing over Iran war funding",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Takeaways from Hegseth's Senate hearing over Iran war funding",
+          "excerpt": "Takeaways from Hegseth's Senate hearing over Iran war funding Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine testified Tuesday before a Senate panel to ask for an additional $67 billion to fight the war against Iran. CBS News' Caitlin Huey-Burns has more.",
+          "url": "https://www.cbsnews.com/video/takeaways-from-hegseth-senate-hearing-over-iran-war-funding/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money",
+          "excerpt": "Defense Secretary Pete Hegseth put the cost of the Iran war so far at $37.5 billion Tuesday at a contentious hearing where he told lawmakers the Trump administration needs nearly twice that much to continue military operations in the coming months.…",
+          "url": "https://www.nbcnews.com/politics/trump-administration/iran-war-cost-estimate-37-billion-pete-hegseth-senate-hearing-rcna588619"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+          "excerpt": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator Gary Peters.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Apple to Launch ‘Upgrade’ Device Leasing Program With Klarna to Spur Sales",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Apple to Launch ‘Upgrade’ Device Leasing Program With Klarna to Spur Sales",
+          "excerpt": "Apple Inc. is preparing to introduce Apple Upgrade, a leasing program that will mark one of the biggest-ever changes to how the company sells devices.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+          "excerpt": "As component and RAM shortages drive prices higher, Apple is reportedly launching an “Apple Upgrade” program for leasing new devices. According to Bloomberg’s Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of the lease.…",
+          "url": "https://www.theverge.com/tech/968750/apple-upgrade-program"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+          "excerpt": "Apple is reportedly teaming up with deferred payment processor Klarna to launch a new lease-to-own program for its devices. Bloomberg reported Tuesday that the program — dubbed Apple Upgrade — is set to launch next Tuesday, July 28. It will allow consumers to pay for their purchases over multi-year periods, including iPhones, iPads, Macs, and Apple Watches.…",
+          "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Минобороны РФ заявило, что за ночь сбиты 242 украинских дрона",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Минобороны РФ заявило, что за ночь сбиты 242 украинских дрона",
+          "excerpt": "Минобороны РФ заявило, что за ночь сбиты 242 украинских дрона Москва. 22 июля. INTERFAX.RU - Дежурные средства ПВО в течение ночи перехватили и уничтожили 242 украинских беспилотника, сообщило Минобороны РФ а среду.…",
+          "url": "https://www.interfax.ru/russia/1104722"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Силы ПВО за ночь сбили 242 украинских беспилотника",
+          "excerpt": "Краткий пересказ от РИА ИИ - Российские силы ПВО сбили 242 украинских беспилотника самолетного типа. - Беспилотники были уничтожены над территориями нескольких российских регионов и над акваториями Азовского и Черного морей. МОСКВА, 22 июл - РИА Новости.…",
+          "url": "https://ria.ru/20260722/pvo-2106143982.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Is Lettuce Safe to Eat? The Latest on the Cyclosporiasis Outbreak",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Is Lettuce Safe to Eat? The Latest on the Cyclosporiasis Outbreak",
+          "excerpt": "The U.S. Food and Drug Administration (FDA) said on Sunday, July 19, that a test that appeared to find Cyclospora in shredded iceberg lettuce was actually a “false positive.” The FDA previously said that laboratory testing had identified Cyclospora, the parasite responsible for a multistate diarrhea outbreak that has sickened thousands, in a sample of shredded iceberg lettuce supplied by Taylor Fa…",
+          "url": "https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
+          "excerpt": "The Food and Drug Administration's reversal on a key piece of its cyclosporiasis investigation has sparked confusion in the U.S., but the agency said Monday that it has not changed its main conclusions about the outbreak. The agency said Sunday a test that indicated a sample of iceberg lettuce supplied by Taylor Farms de Mexico carried the cyclospora parasite was a false positive.…",
+          "url": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "What false positive cyclospora test means for outbreak, according to former FDA medical officer",
+          "excerpt": "What false positive cyclospora test means for outbreak, according to former FDA medical officer The FDA is still hunting for the source of the cyclosporiasis outbreak after earlier test results proved to be a false positive. Dr. David Acheson, who has more than 40 years of medical and food safety experience, joins CBS News to discuss the issue.",
+          "url": "https://www.cbsnews.com/video/what-false-positive-cyclospora-test-means-outbreak-former-fda-medical-officer/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
+          "excerpt": "WASHINGTON — A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and transcripts of his interviews with a memoir ghostwriter before he was elected president. A divided three-judge panel from the U.S. Court of Appeals for the District of Columbia Circuit suspended its decision until Aug. 3 to allow more time for Biden to consider another appeal.…",
+          "url": "https://www.nbcnews.com/politics/joe-biden/court-rejects-joe-biden-lawsuit-doj-release-memoir-recordings-rcna588515"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Appeals court rejects Biden bid to block release of ghostwriter interview recordings",
+          "excerpt": "Appeals court rejects Biden bid to block release of ghostwriter interview recordings A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and transcripts of his interviews with a memoir ghostwriter before he was elected president WASHINGTON -- A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and tra…",
+          "url": "https://abcnews.com/US/wireStory/appeals-court-rejects-bidens-bid-block-release-recordings-134944724"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "US appeals court rejects Biden bid to block release of memoir ghostwriter recordings",
+          "excerpt": "A divided three-judge panel of the US Court of Appeals for the District of Columbia Circuit suspended its decision until 3 August to give Biden more time to consider a further appeal.",
+          "url": "http://www.euronews.com/2026/07/21/us-appeals-court-rejects-biden-bid-to-block-release-of-memoir-ghostwriter-recordings"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+          "excerpt": "Nearly seven years after Apple debuted the Apple Card, Samsung is following the iPhone maker's footsteps with the Galaxy Card, aiming for its own slice of the credit card market. The announcement comes two days before Samsung's second Galaxy Unpacked event of the year, where it's expected to showcase new smartwatches and folding smartphones.…",
+          "url": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/"
+        },
+        {
+          "source": "CNN World",
+          "lang": "en",
+          "headline": "It's official: now avoid credit card interest into 2024",
+          "excerpt": "If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. If you're carrying credit card debt — or expecting upcoming expenses — interest can make it harder to get ahead. The Citi Simplicity® Card gives you a clear window to reset.…",
+          "url": "https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Does Your Credit Card Even Plunk?",
+          "excerpt": "Physical credit cards should be a thing of the past. Over the past few years, touchless services such as Apple Pay have driven a boom in the digital-payment industry: Digital wallets now account for about half of global online purchases and one-third of point-of-sale payments.…",
+          "url": "https://www.theatlantic.com/technology/2026/07/metal-credit-cards-heavy-popular-chase-bank/687947/?utm_source=feed"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "США отказались передавать Украине военную помощь на $400 млн",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "США отказались передавать Украине военную помощь на $400 млн",
+          "excerpt": "США отказались передавать Украине военную помощь на $400 млн Администрация США отказалась передавать утвержденную Конгрессом дополнительную военную помощь Украине на сумму $400 млн. Об этом сообщил член Сената Дик Дурбин на слушаниях на Капитолийском холме. По словам господина Дурбина, деньги не будут доступны до тех пор, пока к власти не придет следующий американский президент.…",
+          "url": "https://www.kommersant.ru/doc/8831811"
+        },
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "США отказались передавать Украине военную помощь на 400 миллионов долларов. В чем причина?",
+          "excerpt": "Американский сенатор Дик Дурбин, выступая на слушаниях в комитете по ассигнованиям верхней палаты Конгресса, заявил, что администрация США отказалась передавать Украине военную помощь на 400 миллионов долларов. Ранее Конгрессом Соединенных Штатов была утверждена дополнительная военная помощь Киеву, включая средства на противовоздушную оборону.…",
+          "url": "https://lenta.ru/news/2026/07/22/long-ssha-otkazalis-peredavat-ukraine-voennuyu-pomosch-na-400-millionov-dollarov-v-chem-prichina/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue",
+          "excerpt": "Roughly 6,600 non-citizens were accidentally registered on New Jersey voter rolls following a software error in the state’s Motor Vehicle System, Gov. Mikie Sherrill announced on Tuesday.…",
+          "url": "https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "N.J. removes noncitizens from voter rolls after finding software glitch",
+          "excerpt": "New Jersey Gov. Mikie Sherrill (D) ordered the removal of self-identified noncitizens erroneously added to voter rolls after a software error led to some 6,600 people being incorrectly registered.…",
+          "url": "https://www.axios.com/2026/07/21/new-jersey-glitch-registered-noncitizens-elections"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "6,600 noncitizens were registered to vote in N.J. because of a ‘software error,’ governor says",
+          "excerpt": "Roughly 6,600 noncitizens were unwittingly registered to vote in New Jersey from 2023 to 2024, Gov. Mikie Sherrill said Tuesday. Roughly 400 of them improperly cast votes, she said. “They were registered as Democrats, Republicans and unaffiliated voters and were scattered across the state,” said Sherrill, a Democrat.…",
+          "url": "https://www.nbcnews.com/politics/2026-election/6600-noncitizens-registered-vote-nj-software-error-governor-says-rcna588524"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
+          "excerpt": "In the middle of a diarrhea shitstorm, the Food and Drug Administration and lettuce supplier Taylor Farms appear to be facing off in a passive aggressive battle of technicalities. On July 17, the California-based company issued a voluntary recall on iceberg lettuce sourced from Central Mexico.…",
+          "url": "https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Cyclospora outbreak map: See the states affected by the diarrhea parasite — and which have the most cases",
+          "excerpt": "The Midwest remains the hotspot of an outbreak of cyclosporiasis, a parasitic infection that can trigger weeks of watery diarrhea. At least 11,276 cases of cyclosporiasis have been reported across 46 states in 2026, according to Georgetown University's Health Security Operations Center, which is tracking state and national-level data.…",
+          "url": "https://www.businessinsider.com/cyclosporiasis-outbreak-map-diarrhea-parasite-what-states-2026-7"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
+          "excerpt": "Federal officials on Monday reaffirmed that iceberg lettuce from Taylor Farms still appears to be the source of Cyclospora, the microscopic parasite behind a multi-state surge in explosive diarrhea cases.…",
+          "url": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Wildfire in southern France 'contained' after hundreds evacuated from homes",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Wildfire in southern France 'contained' after hundreds evacuated from homes",
+          "excerpt": "The wildfire that has burned through 2,550 hectares in southern France is now “contained” despite remaining hot spots, regional fire chief Eric Grohin said Wednesday. Nearly 1,000 firefighters and dozens of aircraft battled the fast-moving blaze on Tuesday after flames forced hundreds of people to evacuate.",
+          "url": "https://www.france24.com/en/europe/20260722-fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-france"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Spain: Firefighters battle major wildfire north of Madrid",
+          "excerpt": "Spain: Firefighters battle major wildfire north of Madrid July 21, 2026Hundreds of firefighters and soldiers were battling a massive wildfire northeast of Madrid on Tuesday that has been raging since last week.…",
+          "url": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Wildfire spreads in southeastern France as firefighters battle blaze",
+          "excerpt": "Firefighting aircrafts and helicopters were deployed to tackle a fast-moving wildfire in France's Var department as extreme heat fuelled the blaze. The fire, which broke out near Les Arcs, had spread across around 200 hectares, destroying several homes and vehicles.…",
+          "url": "http://www.euronews.com/video/2026/07/21/wildfire-spreads-in-southeastern-france-as-firefighters-battle-blaze"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Горячая линия заработала в Ставропольском крае после атаки БПЛА на складской комплекс",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Горячая линия заработала в Ставропольском крае после атаки БПЛА на складской комплекс",
+          "excerpt": "Горячая линия заработала в Ставропольском крае после атаки БПЛА на складской комплекс Москва. 22 июля. INTERFAX.RU - Прокуратура Ставропольского края организовала работу горячей линии после атаки БПЛА на складской комплекс в Невинномысске, сообщает пресс-служба краевого надзорного ведомства. \"Сегодня город Невинномысск подвергся атаке БПЛА. Есть пострадавшие.…",
+          "url": "https://www.interfax.ru/russia/1104713"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "В Ставропольском крае после атаки БПЛА заработала горячая линия",
+          "excerpt": "Краткий пересказ от РИА ИИ - В Невинномысске произошел пожар на складском комплексе вследствие атаки БПЛА, пять человек обратились к медикам. - Прокуратура Ставропольского края организовала горячую линию для оперативного приема жалоб и оказания правовой помощи пострадавшим. НАЛЬЧИК, 22 июл – РИА Новости.…",
+          "url": "https://ria.ru/20260722/stavropole-2106147869.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump vows U.S. will soon bomb Iran's Pickaxe Mountain",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump vows U.S. will soon bomb Iran's Pickaxe Mountain",
+          "excerpt": "President Trump said Tuesday that the U.S. military will bomb Iran's Pickaxe Mountain, a deep underground site that the U.S. and Israel suspect could be used for nuclear activity.…",
+          "url": "https://www.axios.com/2026/07/21/trump-iran-pickaxe-mountain-bomb"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
+          "excerpt": "What to know about Pickaxe Mountain, an Iranian target noted by Trump President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.",
+          "url": "https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Trump says will be hitting Iran's Pickaxe Mountain nuclear complex 'pretty soon'",
+          "excerpt": "President Donald Trump said Tuesday the United States was far from finished with Iran and warned the next US military target could be an underground nuclear complex known as Pickaxe Mountain. FRANCE 24's James Vasina reports.",
+          "url": "https://www.france24.com/en/trump-says-will-be-hitting-iran-s-pickaxe-mountain-nuclear-complex-pretty-soon"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "coverage": 3,
+      "perspectives": [
         {
           "source": "Ars Technica",
           "lang": "en",
@@ -38,1131 +1158,53 @@
           "url": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/"
         },
         {
-          "source": "Engadget",
+          "source": "Axios",
           "lang": "en",
-          "headline": "Judge pauses the controversial Paramount-Warner Bros. merger for two weeks",
-          "excerpt": "A judge has paused the Paramount / Warner Bros. deal to review a multi-state lawsuit.",
-          "url": "https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Every 2026 World Cup Ad Ranked",
-      "coverage": 7,
-      "perspectives": [
-        {
-          "source": "Adweek",
-          "lang": "en",
-          "headline": "Every 2026 World Cup Ad Ranked",
-          "excerpt": "Every World Cup Ad Ranked by EDO’s TV Outcomes The 2026 World Cup has come to an end, and now it’s time to find out which ads scored big. TV data and measurement company EDO has calculated the effectiveness of every ad during the World Cup and has shared the results with ADWEEK.…",
-          "url": "https://www.adweek.com/creativity/top-world-cup-ads-2026/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Spain welcomes back its World Cup heroes",
-          "excerpt": "Spain has welcomed back its heroes. The day after their victory over Argentina in the 2026 World Cup final, the new world champions returned to Madrid, trophy in hand. They can now also add a second coveted gold star above the team's national badge, to go with the first star for winning the 2010 FIFA World Cup title. For an entire generation, this was the first experience of winning a world title.",
-          "url": "https://www.france24.com/en/spain-welcomes-back-its-world-cup-heroes"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "The World Cup Could Not Be Americanized",
-          "excerpt": "The World Cup Could Not Be Americanized Spain’s 1–0 win over Argentina demonstrated all of the ways that this sport is still foreign in the United States. A World Cup on North American soil ended with the most thoroughly imported, overseas-style final match possible.…",
-          "url": "https://www.theatlantic.com/culture/2026/07/world-cup-spain-argentina/688000/?utm_source=feed"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  How star-studded World Cup halftime show came together",
-          "excerpt": "How star-studded World Cup halftime show came together Some of music’s biggest global superstars, from Madonna to Shakira and BTS, joined forces for the first-ever FIFA World Cup halftime show.…",
-          "url": "https://abcnews.com/video/134911670/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "These Were the World Cup’s 5 Biggest Marketing Fails, According to Fans",
-          "excerpt": "These corporate attempts to charm at the FIFA World Cup fell flat.",
-          "url": "https://www.inc.com/ali-donaldson/these-were-the-world-cups-5-biggest-marketing-fails-according-to-fans/91376606"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
-          "excerpt": "Nearly seven years after Apple debuted the Apple Card, Samsung is following the iPhone maker's footsteps with the Galaxy Card, aiming for its own slice of the credit card market. The announcement comes two days before Samsung's second Galaxy Unpacked event of the year, where it's expected to showcase new smartwatches and folding smartphones.…",
-          "url": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "What are the best ways to lower your credit card interest rates now? Here's what some experts think.",
-          "excerpt": "What are the best ways to lower your credit card interest rates now? Here's what some experts think. It's not a great time to be a credit card borrower. The typical consumer now carries a card balance of $6,577, according to TransUnion.…",
-          "url": "https://www.cbsnews.com/news/best-ways-lower-credit-card-rates-what-experts-think/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Samsung just unveiled a Galaxy credit card ahead of Unpacked",
-          "excerpt": "Samsung just unveiled a Galaxy credit card ahead of Unpacked It offers larger cash rewards when you buy the company's products. Samsung just unveiled a credit card ahead of its big Unpacked event on July 22. The Samsung Galaxy Card is not as exciting a reveal as, say, a new foldable, but it could be useful for company diehards.…",
-          "url": "https://www.engadget.com/2218871/samsung-just-unveiled-a-galaxy-credit-card-ahead-of-unpacked/"
-        },
-        {
-          "source": "CNN World",
-          "lang": "en",
-          "headline": "Experts: this is the best cash back card of 2022",
-          "excerpt": "If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. When the Wells Fargo Active Cash® Card (rates and fees) hit the market, it quickly stood out among our experts as one of the best all-around, no-annual-fee credit cards. It now holds our Best Credit Card for 2026 title for its reliable 2% cash rewards and everyday value.…",
-          "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-active-cash-card-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welac2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Samsung is launching its first U.S. credit card with rewards tied to its own devices",
-          "excerpt": "Samsung Electronics America unveiled the Samsung Galaxy Card on Monday, marking the company's first credit card program in the United States. The card is issued by Barclays U.S. Consumer Bank and runs on the Visa $V network.…",
-          "url": "https://qz.com/samsung-galaxy-card-credit-card-barclays-visa-072126"
+          "headline": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
+          "excerpt": "A federal judge has paused Paramount Skydance's takeover of Warner Bros. Discovery in response to a lawsuit last week from a dozen state attorneys general looking to block the deal on antitrust grounds. Why it matters: The delay represents the most significant legal challenge related to the merger globally to-date.…",
+          "url": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Инфляционные ожидания россиян подскочили до 14,7% — максимума с начала войны",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Bell",
-          "lang": "ru",
-          "headline": "Инфляционные ожидания россиян подскочили до 14,7% — максимума с начала войны",
-          "excerpt": "Инфляционные ожидания россиян подскочили до 14,7% — максимума с начала войны The Bell Инфляционные ожидания населения на год вперед в июле выросли до 14,7% с 12,4% месяцем ранее, следует из оперативной справки «инФОМ» по опросу, проведенному по заказу Банка России. Показатель стал максимальным с марта 2022 года: тогда, сразу после вторжения в Украину, они взлетали до 18,3%.…",
-          "url": "https://thebell.io/inflyatsionnye-ozhidaniya-rossiyan-podskochili-do-147--maksimuma-s-nachala-voyny"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Инфляционные ожидания россиян выросли до 14,7% в июле",
-          "excerpt": "Инфляционные ожидания россиян выросли до 14,7% в июле Инфляционные ожидания жителей России на ближайший год в июле увеличились до 14,7%. В июне показатель составлял 12,4%, следует из результатов опроса «инФОМ», проведенного по заказу Банка России. Согласно данным регулятора, одновременно выросла и оценка текущей инфляции населением. В июле россияне оценивали ее в 15,1% против 14,2% в июне.…",
-          "url": "https://www.vedomosti.ru/economics/news/2026/07/21/1215377-inflyatsionnie-ozhidaniya"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Инфляционные ожидания россиян в июле подскочили до максимума за последние годы",
-          "excerpt": "Инфляционные ожидания россиян в июле подскочили до максимума за последние годы Москва. 21 июля. INTERFAX.RU - Инфляционные ожидания населения РФ в июле подскочили до 14,7%, максимального уровня за последние несколько лет, следует из краткого опроса \"инФОМ\", проведенного по заказу Банка России. Вблизи этого уровня показатель находился в декабре 2021 года (14,8%).…",
-          "url": "https://www.interfax.ru/business/1104603"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump Targets Canada With 50% Tariff Citing Trade Discrimination",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump Targets Canada With 50% Tariff Citing Trade Discrimination",
-          "excerpt": "Gen X Brands Esprit, Gap and More Bring Wave of Nostalgia 02:53 A Look at the Latest Financial Scams: 'Whaling,' Job Offers, More 04:21 $1 Billion up for Grabs as Mega Millions and Powerball Prizes Soar 00:37 Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement 02:08 Hundreds Gather to Honor Nolan Wells at His Funeral 02:29 Spain Celebrates FIFA World Cup Win With Huge Victory Parade 02…",
-          "url": "https://www.today.com/video/qatari-gifted-air-force-to-be-sent-for-security-upgrades-267004997581"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Trump wants to ‘max out’ Air Force One",
-          "excerpt": "President Donald Trump said his new Air Force One needs to be upgraded. &#8220;It has a lot of capability,&#8221; Trump said Sunday , but &#8220;in about a month ​or so, they’re gonna send it to have it be maxed out.&#8221; He said it would take &#8220;about a month,&#8221; but did not share any details on what upgrades would take place.…",
-          "url": "https://www.fastcompany.com/91576541/trump-wants-to-max-out-air-force-one"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "U.S. to slap 50% tariffs on Canadian goods",
-          "excerpt": "The Trump administration said Monday that it will impose an additional 50% tariff on certain Canadian goods — including hockey sticks, wine and cement — accusing Canada of discriminating against U.S. exports. Why it matters: The move ratchets up tensions in an increasingly bitter trade dispute between two of the world's closest economic partners.…",
-          "url": "https://www.axios.com/2026/07/20/trump-tariffs-canada-trade-war"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US imposes new 50% tariff on many Canadian goods",
-          "excerpt": "US imposes new 50% tariff on many Canadian goods July 21, 2026US President Donald Trump's administration on Monday announced it was imposing 50% tariffs on a wide range of Canadian goods.…",
-          "url": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
-          "excerpt": "The U.S. is imposing additional 50% tariffs on a range of Canadian goods in response to alleged trade discrimination against multiple U.S. products and industries, senior Trump administration officials said Monday.…",
-          "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Nordone to launch bid for Graham's Senate seat",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Nordone to launch bid for Graham's Senate seat",
-          "excerpt": "Sen. Darline Graham Nordone (R-S.C.) confirmed on Monday that she's jumping into the GOP race for her late brother Lindsey Graham's Senate seat. Why it matters: President Trump endorsed Nordone last week, giving her a boost ahead of the filing period for the seat, which opens Tuesday. What they're saying: \"I'm in,\" Nordone said when asked in a Fox News interview clip posted on X Monday.…",
-          "url": "https://www.axios.com/2026/07/20/trump-backed-nordone-enters-senate-race"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Sen. Darline Graham running for full term to replace late brother Lindsey Graham",
-          "excerpt": "South Carolina Sen. Darline Graham announced Monday that she will seek a full, six-year term to replace her brother, Lindsey Graham, in the Senate. Graham last week was appointed by South Carolina Gov. Henry McMaster to fill the seat of her brother, who died unexpectedly on July 11, through the end of the year.…",
-          "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Darline Graham, Lindsey Graham's sister, says she will run for full Senate term",
-          "excerpt": "Darline Graham, Lindsey Graham's sister, says she will run for full Senate term Her announcement comes after President Trump endorsed her for a full term. Sen. Darline Graham, the sister of late Republican Sen. Lindsey Graham, confirmed in an interview with Fox News that aired Monday she will run for the seat for a full term, in addition to serving out the rest of Lindsey Graham's unfinished one.…",
-          "url": "https://abcnews.com/Politics/darline-graham-lindsey-grahams-sister-run-full-senate/story?id=134926606"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Darline Graham joins race for Lindsey Graham's South Carolina Senate seat with backing of Trump",
-          "excerpt": "Darline Graham joins race for Lindsey Graham's South Carolina Senate seat with backing of Trump After the death of South Carolina Republican Sen. Lindsey Graham, his sister, Darline Graham, stepped in to serve out the remainder of his term. Now, she says she plans to run for the full term. CBS News' Fin Gómez has more details.",
-          "url": "https://www.cbsnews.com/video/darline-graham-joins-race-lindsey-graham-south-carolina-senate-seat-backing-trump/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Sen. Darline Graham says she’s running for a full 6-year term after Trump urged her to jump into the race",
-          "excerpt": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race. Graham said in an interview with Fox News’ Sean Hannity that she will run in next month’s special primary election to appear on the November ballot.…",
-          "url": "https://www.nbcnews.com/politics/2026-election/sen-darline-graham-says-running-full-6-year-term-trump-urged-jump-race-rcna588415"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Britain’s New Prime Minister Must Stand Up to Trump",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Britain’s New Prime Minister Must Stand Up to Trump",
-          "excerpt": "Britain’s New Prime Minister Must Stand Up to Trump Keir Starmer allowed his country to be humiliated by Washington. Burnham should learn from his mistakes. The United Kingdom will see its seventh prime minister in just over 10 years when Andy Burnham enters 10 Downing Street on July 20.…",
-          "url": "https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Meet Andy Burnham, Britain's new prime minister",
-          "excerpt": "Meet Andy Burnham, Britain's new prime minister Published June 22, 2026last updated July 20, 2026Nearly a month after the resignation of Keir Starmer, former Manchester Mayor Andy Burnham, one of the most popular politicians in Britain, has become the country's seventh prime minister in 10 years.…",
-          "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "UK cuts VAT on energy bills ahead of prime minister's first cabinet meeting",
-          "excerpt": "Britain's new Prime Minister Andy Burnham kickstarted his programme to ease the cost of living for millions of Britons by planning to remove tax on household electricity bills. The VAT cut is meant to reassure the markets ahead of his first cabinet meeting, with the new prime minister saying it will be funded by the scrapping of his predecessor's digital ID scheme.…",
-          "url": "https://www.france24.com/en/uk-cuts-vat-on-energy-bills-ahead-of-prime-minister-s-first-cabinet-meeting"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Burnham Appoints First AI Minister to Cabinet in Tech Reshuffle",
-          "excerpt": "Britain’s new Prime Minister Andy Burnham has appointed Kanishka Narayan as minister for artificial intelligence, making the post a cabinet-level position for the first time.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Opinion: Burnham is Britain's new prime minister. Now what?",
-          "excerpt": "Andy Burnham wasted little time making his mark. Within hours of taking office, Britain's new prime minister Andy Burnham surprised Westminster with his choice of finance minister, opting for John Healey instead of the widely expected Shabana Mahmood.…",
-          "url": "https://www.cnbc.com/2026/07/21/andy-burnham-uk-prime-minister-vat.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Минобороны сообщило о полете российских бомбардировщиков над Балтийским морем",
+      "headline_en": "Latest Oil Market News and Analysis for July 22",
       "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Минобороны сообщило о полете российских бомбардировщиков над Балтийским морем",
-          "excerpt": "Минобороны сообщило о полете российских бомбардировщиков над Балтийским морем Дальние бомбардировщики Ту-22М3 ВКС России выполнили плановый полет над нейтральными водами Балтийского моря. Об этом сообщила пресс-служба Минобороны России. Полет длился более четырех часов. Бомбардировщики сопровождались самолетами Су-35С.…",
-          "url": "https://www.kommersant.ru/doc/8831493"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Минобороны РФ сообщило о полете дальних бомбардировщиков Ту-22М3 над Балтикой",
-          "excerpt": "Минобороны РФ сообщило о полете дальних бомбардировщиков Ту-22М3 над Балтикой Москва. 21 июля. INTERFAX.RU - Дальние бомбардировщики Ту-22М3 выполнили четырехчасовой плановый полет в воздушном пространстве над нейтральными водами Балтийского моря, сообщило во вторник Минобороны РФ.…",
-          "url": "https://www.interfax.ru/russia/1104615"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-          "excerpt": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers - Published The US military says it launched another round of strikes against Iran to \"further degrade\" its capabilities to attack ships in the Strait of Hormuz. The 10th consecutive night of strikes took place after US President Donald Trump vowed to punish Iran for the deaths of US soldiers.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies",
-          "excerpt": "Nearly 100 US service members have been injured over the last two weeks of escalating strikes on Iran, the Pentagon has said, as Tehran launched a wave of reprisals to the tenth consecutive night of attacks.…",
-          "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Middle East war stuck in 'cycle of enhanced risk' as US and Iran exchange strikes",
-          "excerpt": "The US has bombed Iran for a tenth consecutive night, following the killing of American soldiers in Jordan and Iraq. Washington continues to call for an end to Iranian attacks on vessels in the Strait of Hormuz. For its part, Iran says it is at 'full scale war' with the US.…",
-          "url": "https://www.france24.com/en/middle-east-war-stuck-in-cycle-of-enhanced-risk-as-us-and-iran-exchange-strikes"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Iran war: US launches fresh strikes as Trump vows revenge",
-          "excerpt": "Iran war: US launches fresh strikes as Trump vows revenge Published July 20, 2026last updated July 21, 2026What you need to know - US launches 10th consecutive night of strikes on Iran - Iran says it targeted US base in Kuwait - Another tanker hit in Strait of Hormuz, UK Maritime Trade Agency says - Saudi Arabia condemns Houthis' Red Sea blockade Below is a roundup of the main developments from th…",
-          "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-as-trump-vows-revenge/live-78042474?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Iran attacks U.S. allies as 3 American soldiers killed in escalating war",
-          "excerpt": "Latest Updates: Iran launches new attacks on U.S. allies after 3 American troops killed in escalating war What to know about the Iran war: - Iran said it targeted U.S. assets in Kuwait, Bahrain and Jordan Tuesday, and a vessel in the Strait of Hormuz, after the U.S. military said it carried out a 10th consecutive night of strikes on Iranian military infrastructure.…",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-troops-killed-wounded-jordan-base/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-          "excerpt": "Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products. The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement.…",
-          "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump imposes 50% tariffs on Canadian goods",
-          "excerpt": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
-          "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Trump is slapping Canada with 50% tariffs over autos, alcohol, and dairy disputes",
-          "excerpt": "On motor vehicles, the White House said Canadian imports of U.S. cars fell approximately 22%, or $5.6 billion, from April 2025 through March 2026 compared to the same period a year earlier, after Canada imposed a 25% tariff on U.S.-made vehicles while leaving vehicles from other countries untaxed. On alcohol, all but two Canadian provinces and territories halted purchasing and retailing of U.S.…",
-          "url": "https://qz.com/trump-50-percent-tariffs-canada-autos-alcohol-dairy-072126"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
-          "excerpt": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada 02:16 UP NEXT U.S. service member killed in Northern Iraq, says U.S.…",
-          "url": "https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump to impose 50% tariffs on some Canadian goods. Here's what's impacted",
-          "excerpt": "Trump to impose 50% tariffs on some Canadian goods. Here's what's impacted President Trump has signed an order imposing new 50% tariffs on a range of Canadian goods from cement to wine and dairy products. They are set to take effect Aug. 19. Nancy Cordes reports.",
-          "url": "https://www.cbsnews.com/video/trump-to-impose-50-tariffs-on-some-canadian-goods-heres-whats-impacted/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-          "excerpt": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia - Published Yemen's Houthis have announced a \"maritime embargo\" against Saudi Arabia. The Iran-backed group's military spokesman said it would begin immediately and was in retaliation for a Saudi blockade of ports and airports in Houthi-controlled north-western Yemen.…",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
-          "excerpt": "Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.",
-          "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Taylor Farms highlighted an FDA mistake. PR veterans say it muddied the message.",
-          "excerpt": "After this article was published, Taylor Farms said in a statement on its website dated July 20 that there had been \"significant confusion over outbreak communication\" and that the company remained \"deeply concerned for the health of those who are ill.\" Taylor Farms also detailed steps it was taking during the investigation, including halting purchases of iceberg lettuce grown in central Mexico.…",
-          "url": "https://www.businessinsider.com/crisis-pr-pros-taylor-farms-response-to-fda-test-2026-7"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Cyclospora investigation still points to recalled lettuce, FDA says",
-          "excerpt": "The FDA said Monday it still thinks Taylor Farms lettuce is likely behind a Cyclospora outbreak , even after pulling back earlier test results linking the produce to the parasite.…",
-          "url": "https://www.axios.com/2026/07/20/fda-cyclospora-taylor-farms-lettuce-false-positive"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Why the FDA’s Retracted Contamination Claim Is Still a Massive Problem for Taylor Farms in Cyclospora Outbreak",
-          "excerpt": "The agency admits a sample was a false positive, but the epidemiological investigation into the multi-state Cyclospora outbreak continues.",
-          "url": "https://www.inc.com/lucia-auerbach/fda-cyclospora-outbreak-taylor-farms-recall-strategy/91376701"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Отца экс-главы ФБК* исключили из списка террористов",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "Отца экс-главы ФБК* исключили из списка террористов",
-          "excerpt": "Краткий пересказ от РИА ИИ - Михаил Волков исключен из перечня террористов и экстремистов. - В октябре 2025 года Михаил Волков был приговорен к штрафу в 300 тысяч рублей за финансирование ФБК*. МОСКВА, 21 июл - РИА Новости.…",
-          "url": "https://ria.ru/20260721/rossiya-2106069714.html"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Отца экс-главы ФБК Волкова исключили из перечня террористов и экстремистов",
-          "excerpt": "Отца экс-главы ФБК Волкова исключили из перечня террористов и экстремистов Отец бывшего главы Фонда борьбы с коррупцией Имя Михаила Волкова больше не значится в перечне лиц, причастных к террористической и экстремистской деятельности. В апреле 2025 г.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/07/21/1215405-eks-glavi-fbk-volkova"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-          "excerpt": "Dozens hurt in Bologna protests after man dies while being restrained by police - Published Protests have taken place in Italy after the death of a Moroccan-born man while being forcibly restrained by two police officers in the northern city of Bologna. Several thousand people took to the streets on Monday night demanding \"justice for Abderrahim Fakir\".…",
-          "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Protests in Italy after death of Moroccan man under police restraint",
-          "excerpt": "Teargas and water cannon used on protesters after Abderrahim ⁠Fakir died pleading for help from police Police have clashed with demonstrators during a protest in the Italian city of Bologna after a Moroccan-born man died pleading for help under police restraint.…",
-          "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Protests erupt in Bologna after Moroccan man dies under police restraint",
-          "excerpt": "Human rights campaigners and Italy's opposition parties are demanding answers regarding the death of a man who died under police restraint as he pleaded for help.…",
-          "url": "https://www.france24.com/en/protests-erupt-in-bologna-after-moroccan-man-dies-under-police-restraint"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Anti-police protests in Italy after Moroccan man dies during arrest",
-          "excerpt": "Protesters have clashed with police in Italy after the death of a Moroccan man after officers restrained him on the ground.",
-          "url": "https://news.sky.com/story/anti-police-protests-erupt-in-bologna-after-moroccan-man-dies-during-arrest-13565485"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement",
-          "excerpt": "Gen X Brands Esprit, Gap and More Bring Wave of Nostalgia 02:53 A Look at the Latest Financial Scams: 'Whaling,' Job Offers, More 04:21 $1 Billion up for Grabs as Mega Millions and Powerball Prizes Soar 00:37 Now Playing Novo Nordisk Sues Eli Lilly Over Weight Loss Drug Advertisement 02:08 UP NEXT Hundreds Gather to Honor Nolan Wells at His Funeral 02:29 Spain Celebrates FIFA World Cup Win With Hu…",
-          "url": "https://www.today.com/video/novo-nordisk-sues-eli-lilly-over-weight-loss-drug-advertisement-267010117600"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ozempic maker sues US rival over ad campaign",
-          "excerpt": "Ozempic maker sues US rival over ad campaign July 21, 2026Denmark pharmaceutical giant Novo Nordisk announced on Tuesday that it is suing its main competitor, the US-based Eli Lilly for \"false and misleading\" advertisements.…",
-          "url": "https://www.dw.com/en/ozempic-maker-sues-us-rival-over-ad-campaign/a-78054485?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Novo Nordisk is suing Eli Lilly over ads it says mislead consumers on weight loss drug efficacy",
-          "excerpt": "Novo's specific complaint centers on ads that compare the highest doses of Lilly's drugs to lower doses of Novo's treatments, without accounting for newer data on Novo's products.…",
-          "url": "https://qz.com/novo-nordisk-sues-eli-lilly-weight-loss-drug-ads-072126"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
-          "excerpt": "Novo Nordisk on Tuesday filed a lawsuit against Eli Lilly, alleging that its advertising campaigns for its blockbuster obesity and diabetes drugs are designed to mislead consumers about their superior efficacy relative to the Danish drugmaker's rival injections.…",
-          "url": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-          "excerpt": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal - Published Lebanon's army says its troops have begun deploying to a \"pilot zone\" in the south of the country following the withdrawal of Israeli forces under a US-brokered agreement reached last month.…",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Lebanese army accuses Israelis of firing near troops as president prepares to meet Trump – Middle East crisis live",
-          "excerpt": "Lebanese army accuses Israeli forces of firing near its troops in 'pilot zone' in southern Lebanon The Lebanese army accused Israel of firing near its troops as they were being deployed to an area in southern Lebanon. In a statement on X, the army said its soldiers were operating in Zawtar al-Gharbiyeh when Israeli forces “opened fire in the vicinity of these units”.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
-          "excerpt": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal Aoun is seeking US backing to end the fighting between Israel and Hezbollah and secure an Israeli withdrawal from southern Lebanon.…",
-          "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Trump hosts Lebanon's president as Israel begins first pullback",
-          "excerpt": "Lebanese President Joseph Aoun will meet President Trump in the Oval Office on Tuesday — a sitdown that comes as the Israeli military begins its first withdrawal from Lebanon under a U.S.-brokered agreement . Why it matters: The Trump administration is politically invested in strengthening Aoun, isolating Hezbollah and pushing for an Israeli-Lebanese peace agreement.…",
-          "url": "https://www.axios.com/2026/07/21/lebanon-israel-trump-aoun-hezbollah"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Госдума приняла закон о легализации криптовалют",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Госдума приняла закон о легализации криптовалют",
-          "excerpt": "Госдума приняла закон о легализации криптовалют Предполагается, что он вступит в силу с 1 сентябряДепутаты Госдумы приняли законопроект «О цифровой валюте и цифровых правах», который должен определить правила работы крипторынка в России. Соответствующий документ опубликован в думской электронной базе. Законопроект был принят сразу во втором и третьем чтениях.…",
-          "url": "https://www.vedomosti.ru/finance/news/2026/07/21/1215360-zakon-kriptovalyut"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Госдума приняла законопроект о регулировании криптовалют в России",
-          "excerpt": "Он вступит в силу с 1 сентября 2026 года.Депутаты приняли законопроект сразу во втором и третьем, окончательном чтении. Он описывает основные правила будущего регулирования крипторынка. Теперь его должен согласовать Совфед и подписать президент.Сделки через посредников смогут совершать как неквалифицированные, так и квалифицированные инвесторы, рассказал ЦБ.…",
-          "url": "https://vc.ru/crypto/3038767-regulirovanie-kriptovaljut-v-rossii?from=rss"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Anthropic's record $1.5 billion copyright settlement with authors was just approved",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Anthropic's record $1.5 billion copyright settlement with authors was just approved",
-          "excerpt": "Anthropic's $1.5 billion settlement of a class action copyright lawsuit brought by authors and publishers received final court approval on Monday. U.S. District Judge Araceli Martinez-Olguin, sitting in the Northern District of California, signed off on the agreement, which is believed to be the largest settlement in the history of U.S. copyright law, according to Reuters.",
-          "url": "https://qz.com/anthropic-copyright-settlement-authors-approval-072126"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit",
-          "excerpt": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit Writers sued Anthropic in 2024 for using pirated copies of their work to train Claude. Anthropic's record-breaking $1.5 billion settlement for an AI copyright lawsuit filed by writers has been approved by a federal judge in San Francisco.…",
-          "url": "https://www.engadget.com/2219475/judge-approves-anthropic-1-5-billion-settlement-authors/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Anthropic’s landmark $1.5B copyright settlement is approved",
-          "excerpt": "Anthropic can finally start cutting checks to a group of authors and book publishers that sued the AI lab over copyright infringement. A federal judge gave final approval Monday of Anthropic’s landmark $1.5 billion settlement of a class action copyright lawsuit, Reuters reported. Judge William Alsup of the U.S.…",
-          "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Anthropic AI copyright lawsuit: Update as judge approves massive settlement and payout for authors",
-          "excerpt": "Anthropic will finally have to pay authors for pirating their books. On Monday, U.S. District Judge Araceli Martínez-Olguín approved a $1.5 billion AI copyright settlement . The payout is believed to be the largest ever for a U.S. copyright suit. Companies like Facebook parent Meta Platforms and ChatGPT maker OpenAI have also faced copyright lawsuits from authors.…",
-          "url": "https://www.fastcompany.com/91577047/anthropic-ai-lawsuit-settlement-payout-for-authors-update"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Halliday’s New Smart Glasses Skip the Camera",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Halliday’s New Smart Glasses Skip the Camera",
-          "excerpt": "There’s a new pair of camera-less smart glasses in town: the Halliday G2, designed to listen to workplace meetings, absorb what happens, and summarize all the interesting bits, much like always-listening wearables. Halliday says the mics can be turned on for meetings, using AI voice commands, or making phone calls, but switch off when not in use.…",
-          "url": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "xMEMS unveils super tiny cooling fan that fits inside smart glasses",
-          "excerpt": "xMEMS unveils super tiny cooling fan that fits inside smart glasses The XMC-1200 won't be in production for another year, so we might see glasses with it in 2028. If smart glasses had better cooling, it would be easier for them to sustain processor performance, record longer videos and generally improve wearer comfort.…",
-          "url": "https://www.engadget.com/2218600/xmems-unveils-super-tiny-cooling-fan-that-fits-inside-smart-glasses/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Halliday’s latest smart glasses feature a much-improved display",
-          "excerpt": "I first slipped on Halliday’s original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the several other smart glasses on the show floor.…",
-          "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-          "excerpt": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
-          "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "India's opposition leader calls for Modi to step down as youth-led 'Cockroach' protests press on",
-          "excerpt": "Rahul Gandhi, India's opposition leader, called for Prime Minister Narendra Modi to resign on Tuesday \"for destroying the future\" of the country's youth. The youth-led Cockroach movement continued their protests in New Delhi, refusing to leave their sit-in site a day after police used tear has and batons to disperse demonstrators marching towards parliament.",
-          "url": "https://www.france24.com/en/asia-pacific/20260721-india-opposition-leader-calls-for-modi-to-step-down-as-cockroach-protestors-press-on"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "India: Modi addresses exam leaks which sparked CJP protest",
-          "excerpt": "India: Modi addresses exam leaks which sparked CJP protest Published July 21, 2026last updated July 21, 2026What you need to know - Modi has told MPs of his coalition that strong action was taken against those involved in the medical exam paper leaks - Gandhi has called on Modi and his home minister to step down - Cockroach Janta Party founder Abhijeet Dipke has reportedly said at a press conferen…",
-          "url": "https://www.dw.com/en/india-modi-addresses-exam-leaks-which-sparked-cjp-protest/live-78043926?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Аэропорт Внуково купит у Шереметьево часть Домодедово",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Аэропорт Внуково купит у Шереметьево часть Домодедово",
-          "excerpt": "Аэропорт Внуково купит у Шереметьево часть Домодедово Московский аэропорт Внуково выкупит у Шереметьево 25% компании, которая контролирует группу «Домодедово». Сумма сделки, по данным РБК, составит 16,5 миллиарда рублей. Внуково выкупит долю ООО «Перспектива» — компании, выкупившей у Росимущества группу «Домодедово» за 66 миллиардов рублей.…",
-          "url": "https://meduza.io/news/2026/07/21/aeroport-vnukovo-kupit-u-sheremetievo-chast-domodedovo"
-        },
-        {
-          "source": "RB.ru",
-          "lang": "ru",
-          "headline": "Аэропорт Внуково станет совладельцем Домодедово — сумму сделки оценивают в 16,5 млрд ₽",
-          "excerpt": "Аэропорт Внуково станет совладельцем Домодедово — сумму сделки оценивают в 16,5 млрд ₽ Чтобы выкупить долю в активе, Внуково придётся воспользоваться банковским кредитомАэропорт Внуково выкупит 25% Домодедово у ООО «Перспектива» — дочерней компании аэропорта Шереметьево, сообщает РБК. Стоимость сделки составит около 16,5 млрд рублей.…",
-          "url": "https://rb.ru/news/aeroport-vnukovo-stanet-sovladelcem-domodedovo-summu-sdelki-ocenivayut-v-165-mlrd/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "The five fiscal challenges facing John Healey",
-      "coverage": 3,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "UK Finance Sees Steady Hand in Healey as New Chancellor",
-          "excerpt": "Britain’s financial industry welcomed John Healey’s appointment as chancellor of the exchequer, hoping the Treasury’s seventh occupant this decade will deliver stability.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/uk-finance-sees-steady-hand-in-healey-as-new-chancellor"
+          "headline": "Latest Oil Market News and Analysis for July 22",
+          "excerpt": "Oil extended gains after President Donald Trump played down the prospect of near-term talks with Iran while threatening broader strikes, as risks to global supply spread beyond the Middle East to the Black Sea.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/latest-oil-market-news-and-analysis-for-july-22"
         },
         {
-          "source": "CNBC",
+          "source": "Euronews",
           "lang": "en",
-          "headline": "All eyes are on John Healey, the UK's new finance minister. Here’s what’s at stake",
-          "excerpt": "Andy Burnham began his tenure as the U.K.'s seventh prime minister in 10 years this week — but investors' attention is now on John Healey, who was named Chancellor of the Exchequer late on Monday. Britain's new finance minister faces a delicate balancing act between delivering Burnham's potentially more left-leaning agenda and calming financial markets.…",
-          "url": "https://www.cnbc.com/2026/07/21/andy-burnham-john-healey-chancellor-gilts-jamie-dimon.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-          "excerpt": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison - Published One of the most notorious figures in Mexico's drug cartels, Ismael \"El Mayo\" Zambada, will spend the rest of his life in prison, a US judge has ruled, two years after the kingpin was lured to the US in an elaborate sting operation.…",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
-          "excerpt": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison Mexican drug lord ‘El Mayo’ sentenced to life in US prison Mexican drug kingpin Ismael ‘El Mayo’ Zambada has been sentenced to life in prison in the US, following a plea deal last year when he admitted to trafficking millions of kilograms of cocaine.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Mexican drug lord 'El Mayo' sentenced to life without parole in US prison",
-          "excerpt": "Mexican drug lord 'El Mayo' sentenced to life without parole July 20, 2026Mexican drug trafficker Ismael \"El Mayo\" Zambada was sentenced to life in prison without the possibility of parole on Tuesday for co-founding and leading the notorious Sinaloa cartel.…",
-          "url": "https://www.dw.com/en/mexican-drug-lord-el-mayo-sentenced-to-life-without-parole-in-us-prison/a-78042164?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-          "excerpt": "Yesterday, the European Commission slapped AliExpress with the largest fine yet under the Digital Services Act (DSA), exceeding $625 million.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "AliExpress hit with record EU fine",
-          "excerpt": "AliExpress hit with record EU fine July 20, 2026AliExpress said it plans to appeal a penalty imposed by European Union (EU) regulators, who found shortcomings in the firm's efforts to curb illegal, unsafe and counterfeit goods.…",
-          "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "AliExpress hit with record $629 million fine for selling counterfeit and illegal products",
-          "excerpt": "AliExpress hit with record $629 million fine for selling counterfeit and illegal products Investigators found millions of counterfeit products, unsafe toys and dangerous cosmetics. The European Commission (EC) hit Chinese e-commerce giant AliExpress with a record €550 million ($629 million) fine for allowing the sale of counterfeit and harmful products in the bloc.…",
-          "url": "https://www.engadget.com/2218530/aliexpress-hit-with-record-629-million-fine-for-selling-counterfeit-and-illegal-products/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Склад Wildberries в Котовске, пострадавший от удара ВСУ, возобновит работу",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Склад Wildberries в Котовске, пострадавший от удара ВСУ, возобновит работу",
-          "excerpt": "Склад Wildberries в Котовске, пострадавший от удара ВСУ, возобновит работу 23 июля маркетплейс Wildberries возобновит работу своего склада в городе Котовске Тамбовской области, в ночь на 18 июля подвергшегося атаке украинских дронов. «23 июля, после завершения оценки состояния логистического комплекса в Котовске, склад снова сможет принимать поставки.…",
-          "url": "https://meduza.io/news/2026/07/20/wildberries-vozobnovit-rabotu-sklada-v-kotovske-postradavshego-ot-udara-vsu"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Склад Wildberries в Котовске возобновит работу 23 июля 2026 года",
-          "excerpt": "По логистическому центру в Электростали новостей о возобновлении работы пока нет.Источник: WildberriesОбновлено в 14:50 мск. Wildberries также изменит режим работы трёх подмосковных складов — «Коледино», «Новоколедино» и «Сынково». Они не будут работать с с 2:00 до 6:00 мск.…",
-          "url": "https://vc.ru/marketplace/3037709-sklad-wildberries-v-kotovske-vozobnovit-rabotu?from=rss"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Garmin Cirqa Is Here: 10 Top Facts About Garmin’s Screen-Free Tracker",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Garmin Cirqa Is Here: 10 Top Facts About Garmin’s Screen-Free Tracker",
-          "excerpt": "Garmin has announced one of its most important products in a while, the Garmin Cirqa. This is its entry to a relatively hot category of wearable: the screen-free fitness tracker. It’s an alternative to the Fitbit Air, the Whoop band or, for those looking a little deeper, something like the Polar Loop or Amazfit Helio Strap. The Garmin Cirqa’s key appeal is much the same as those.…",
-          "url": "https://www.forbes.com/sites/andrewwilliams/2026/07/21/garmin-cirqa-is-here-10-top-facts-about-garmins-screen-free-tracker/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Garmin’s new screen-free fitness tracker doesn’t require a subscription",
-          "excerpt": "Garmin announced a new smart band today designed to track “advanced fitness and wellness features” without a screen to eliminate distractions and push its battery life to up to 10 days between charges.…",
-          "url": "https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Garmin Debuts $200 Screenless Fitness Band in Challenge to Whoop",
-          "excerpt": "Garmin Ltd. introduced a $200 screenless fitness tracker, becoming the latest company to enter a segment popularized by Whoop Inc.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop"
+          "headline": "Four drone strikes in four days hit tankers carrying Kazakhstan's oil",
+          "excerpt": "Drone attacks on vessels in the Black Sea tasked with transporting Kazakhstan's oil persisted for multiple days, with Astana condemning the strikes. The CPC route carries around 80% of Kazakhstan's oil exports and more than 1% of global supply.…",
+          "url": "http://www.euronews.com/2026/07/21/four-drone-strikes-in-four-days-hit-tankers-carrying-kazakhstans-oil"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Trump’s proposed ban on Kimi and other Chinese AI models could strengthen Beijing’s hand",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Trump’s proposed ban on Kimi and other Chinese AI models could strengthen Beijing’s hand",
-          "excerpt": "The Trump administration has had plenty of targets in its sights in recent months. The newest are China’s cutting-edge AI models. Following the release of Kimi K3 , the latest model from Moonshot AI, the White House is reportedly considering options that could effectively ban models like it, along with Alibaba’s Qwen model, the latest version of which was released just days after K3.…",
-          "url": "https://www.fastcompany.com/91576757/trumps-proposed-ban-on-chinese-ai-models-could-strengthen-beijings-hand"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "The secret Trump administration battle to fight Chinese AI",
-          "excerpt": "The Trump administration is showing signs it could ban cutting-edge Chinese AI models — a momentous move that could lock in dominance by OpenAI and Anthropic. Why it matters: Parts of the administration have tried to implement de facto bans on foreign open-source models before, knowledgeable sources tell Axios. Last week's rise of Chinese model Kimi is reigniting those efforts.…",
-          "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "What China's internet is saying about Moonshot's hot new Kimi model",
-          "excerpt": "Moonshot AI's latest Kimi K3 model is giving China's internet plenty to talk about. The Chinese startup unveiled the open-weight model on Thursday, touting its ability to compete with leading systems from OpenAI and Anthropic at a fraction of the cost. Days later, Moonshot AI temporarily suspended new subscriptions, citing overwhelming demand that stretched its computing capacity.…",
-          "url": "https://www.businessinsider.com/what-china-internet-is-saying-about-moonshot-kimi-model-k3-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
-          "excerpt": "Samsung Electronics shares rose after the company said Tuesday it is creating a robotics division as the South Korean tech giant seeks new sources of growth. The newly created RX, or Robotics eXperience, will consolidate Samsung's robotics capabilities and is intended to drive a mid- to long-term strategy from core tech development to commercialization, the company said in an emailed statement.…",
-          "url": "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Samsung establishes a robotics division",
-          "excerpt": "Samsung establishes a robotics division Dongkun Lee, formerly of Hyundai, will oversee its strategy. Samsung has created a new division called RX or Robotics eXperience for all of its robotics projects. Its strategy will be headed by Dongkun Lee, who joined Samsung in May as an Executive Vice President. Before he joined Samsung, Lee led Hyundai's robotics strategy, including Boston Dynamics'.…",
-          "url": "https://www.engadget.com/2219517/samsung-establishes-its-own-robotics-division/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Samsung Hires Ex-Boston Dynamics Executive in Robotics Push",
-          "excerpt": "Samsung Electronics Co. has hired one of South Korea’s leading robotics executives from Hyundai Motor Group to oversee a new robotics division, escalating competition in a sector emerging as the next battleground among global technology companies.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Не попавшие в «Артек» дети получат приоритетные путевки после открытия лагеря",
+      "headline_en": "Nvidia раскрыла свою долю в Nebius Аркадия Воложа — производителю чипов принадлежит почти 10% компании",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Коммерсант",
+          "source": "RB.ru",
           "lang": "ru",
-          "headline": "Не попавшие в «Артек» дети получат приоритетные путевки после открытия лагеря",
-          "excerpt": "Не попавшие в «Артек» дети получат приоритетные путевки после открытия лагеря Руководство «Артека» сохранит путевки детей, не попавших в лагерь в эту смену. Они получат приоритет на поездку в центр после его открытия, сообщил министр просвещения Сергей Кравцов. В конце июня власти Крыма приостановили все виды организованного детского отдыха.…",
-          "url": "https://www.kommersant.ru/doc/8831474"
+          "headline": "Nvidia раскрыла свою долю в Nebius Аркадия Воложа — производителю чипов принадлежит почти 10% компании",
+          "excerpt": "Nvidia раскрыла свою долю в Nebius Аркадия Воложа — производителю чипов принадлежит почти 10% компании Это около 22,26 млн ценных бумагNvidia раскрыла размер своей доли в Nebius Group, созданной сооснователем «Яндекса» Аркадием Воложем, сообщает CNBC. Американскому производителю чипов принадлежит 9,3% акций компании — это около 22,26 млн ценных бумаг.…",
+          "url": "https://rb.ru/news/nvidia-raskryla-svoyu-dolyu-v-nebius-arkadiya-volozha-proizvoditelyu-chipov-prinadlezhit-pochti-10-kompanii/"
         },
         {
-          "source": "Ведомости",
+          "source": "The Bell",
           "lang": "ru",
-          "headline": "Кравцов: не попавшие в «Артек» дети получат путевки в приоритетном порядке",
-          "excerpt": "Кравцов: не попавшие в «Артек» дети получат путевки в приоритетном порядке Все дети, не попавшие в «Артек» в текущую смену, получат путевки в приоритетном порядке после возобновления работы лагеря. Об этом заявил министр просвещения России Сергей Кравцов, передает Минпросвещения в Max.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/07/21/1215392-ne-popavshie-v-artek"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Rare identical quadruplets born in Australia",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Rare identical quadruplets born in Australia",
-          "excerpt": "Rare identical quadruplets born in Australia - Published An Australian woman has given birth to rare, naturally conceived identical quadruplets after a pregnancy described as \"extremely high risk\" by the Royal Brisbane and Women's Hospital.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "'One in 15 million chance' identical quadruplets born in Australia",
-          "excerpt": "An Australian woman has given birth to identical quadruplets conceived naturally from a single embryo - in a one in 15 million chance occurrence.",
-          "url": "https://news.sky.com/story/four-precious-miracles-identical-quadruplets-born-in-australia-in-a-one-in-15-million-chance-13565549"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Woman gives birth to rare identical quadruplets",
-          "excerpt": "Woman gives birth to rare identical quadruplets A woman has given birth to naturally conceived identical quadruplet daughters, all sharing one placenta and developing from a single fertilized egg in one of the few cases of its kind in the world.…",
-          "url": "https://abcnews.com/video/134941435/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Scoop: Trump AI security agency head resigns",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Scoop: Trump AI security agency head resigns",
-          "excerpt": "Chris Fall, the director of the Center for AI Standards and Innovation, is resigning just three months after taking over the federal AI testing institute, the Commerce Department confirmed on Monday. Why it matters: The abrupt departure comes as the Trump administration grapples with how to deploy AI safely and the agency hashes out standards.…",
-          "url": "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Trump’s latest AI czar has already resigned",
-          "excerpt": "Chris Fall, the director of the Center for AI Standards and Innovation (CAISI), has resigned, the agency confirmed to multiple news outlets. He was appointed just three months ago after the last appointee, Collin Burns, left in less than a week, The Washington Post reported at the time.…",
-          "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump administration's head of AI safety agency resigns after 3 months on job",
-          "excerpt": "Chris Fall, the head of the Center for AI Standards and Innovation, resigned from his role as director just three months after he was picked for the job by the Trump administration, CNBC confirmed on Monday. CAISI, part of the U.S.…",
-          "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-          "excerpt": "JPMorgan Chase CEO Jamie Dimon said investors are underestimating the risks facing the global economy and that he wouldn't buy either equities or long-dated U.S. Treasurys at their current prices. In an hourlong interview with Wilfred Frost released late Monday, Dimon said markets aren't fully accounting for a growing list of geopolitical and fiscal threats.…",
-          "url": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Jamie Dimon shared the one characteristic he says sinks CEOs",
-          "excerpt": "Jamie Dimon has watched executives rise and fall for decades. The trait that sinks them, he says, isn't the one you'd guess. The JPMorgan boss says it isn't arrogance that ruins leaders, it's insecurity. And the warning signs are flattery, friendly hires, and glossy PowerPoints.…",
-          "url": "https://www.businessinsider.com/jpmorgan-jamie-dimon-insecurity-sinks-ceo-podcast-2026-7"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Jamie Dimon warned investors are missing market risks — and won't buy stocks or bonds",
-          "excerpt": "The JPMorgan Chase CEO cited geopolitical threats and rising government deficits as risks markets have not fully priced in Dimon made the comments in an interview with the Master Investor Podcast with Wilfred Frost, recorded July 16 and released Monday.…",
-          "url": "https://qz.com/jamie-dimon-market-risks-stocks-bonds-072126"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Белгородский оперштаб сообщил о еще четырех пострадавших от атак БПЛА",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Белгородский оперштаб сообщил о еще четырех пострадавших от атак БПЛА",
-          "excerpt": "Белгородский оперштаб сообщил о еще четырех пострадавших от атак БПЛА Москва. 21 июля. INTERFAX.RU - В Белгородской области еще четыре человека пострадали от атак БПЛА, сообщил региональный оперштаб. \"В поселке Октябрьский Белгородского округа в результате атаки FPV-дрона на частный дом две женщины получили осколочные ранения различных частей тела.…",
-          "url": "https://www.interfax.ru/russia/1104623"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В Белгородской области четыре человека пострадали из-за атак ВСУ",
-          "excerpt": "Краткий пересказ от РИА ИИ - В Белгородском и Ракитянском округах четыре мирные жительницы пострадали в результате атак дронов ВСУ. - Пострадавшие получили медицинскую помощь, госпитализация никому не потребовалась. БЕЛГОРОД, 21 июл - РИА Новости.…",
-          "url": "https://ria.ru/20260721/vsu-2106069436.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
-          "excerpt": "As part of the Trump administration’s continuing attack on left-leaning groups, the US state department has listed several activists and organizations as “front groups and fellow travelers” for Cuba, including Hasan Piker and Amazon Labor Union founder Chris Smalls.…",
-          "url": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba"
-        },
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "State Department Frames Cuba as Major Threat via Left-Wing Groups",
-          "excerpt": "State Department Frames Cuba as Major Threat via Left-Wing Groups The report comes amid growing U.S. efforts to overturn Cuba’s government. A 100-page report released on Monday by the U.S. State Department argues that Cuba has sought to bring down the United States through decades of subversive operations, many of them tied to U.S. domestic left-wing causes.…",
-          "url": "https://foreignpolicy.com/2026/07/20/state-department-cuba-report-left-wing-terrorism-rubio-trump/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-          "excerpt": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials - Published A former US Army soldier has been arrested after igniting a fire in front of a federal building in New York City, says the FBI.…",
-          "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Man arrested after allegedly setting off fireworks, starting fire outside NYC federal building",
-          "excerpt": "Man arrested after allegedly setting off fireworks, starting fire outside NYC federal building A former U.S. Army soldier is in custody after allegedly starting a fire and setting off fireworks in front of a federal building in New York City on Monday. The building houses dozens of agencies, including the FBI and ICE. Tom Hanson reports.",
-          "url": "https://www.cbsnews.com/video/man-arrested-after-allegedly-setting-off-fireworks-starting-fire-outside-nyc-federal-building/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Appeals court denies Biden bid to block release of tapes with biographer, for now",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Appeals court denies Biden bid to block release of tapes with biographer, for now",
-          "excerpt": "Appeals court denies Biden bid to block release of tapes with biographer for now Washington — A federal appeals court on Monday night denied a bid from former President Joe Biden to keep the Justice Department from giving a conservative think tank redacted transcripts and audio recordings of conversations he had with his biographer roughly a decade ago, but stayed the opinion until Aug.…",
-          "url": "https://www.cbsnews.com/news/biden-bid-block-release-biographer-tapes-denied-decision-put-on-hold/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
-          "excerpt": "WASHINGTON — A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and transcripts of his interviews with a memoir ghostwriter before he was elected president. A divided three-judge panel from the U.S. Court of Appeals for the District of Columbia Circuit suspended its decision until Aug. 3 to allow more time for Biden to consider another appeal.…",
-          "url": "https://www.nbcnews.com/politics/joe-biden/court-rejects-joe-biden-lawsuit-doj-release-memoir-recordings-rcna588515"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Михаил Ефремов исполнит первую после выхода из колонии роль в фильме",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Михаил Ефремов исполнит первую после выхода из колонии роль в фильме",
-          "excerpt": "Михаил Ефремов исполнит первую после выхода из колонии роль в фильме Актер Михаил Ефремов исполнит главную роль в фильме «Отец. Еще отец». Это станет его первой ролью в кино после освобождения из колонии в 2025 году. Фильм был представлен во время питчинга «Фонда кино» в Министерстве культуры. Трансляция велась на сайте компании.…",
-          "url": "https://www.kommersant.ru/doc/8831441"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Михаил Ефремов исполнит одну из главных ролей в фильме «Отец. Еще отец»",
-          "excerpt": "Михаил Ефремов исполнит одну из главных ролей в фильме «Отец. Еще отец» Актер Михаил Ефремов сыграет главную роль в фильме «Отец. Еще отец», который станет его первой киноролью после освобождения из колонии в 2025 г. Проект представили на питчинге «Фонда кино» в Министерстве культуры, трансляция велась на сайте компании.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/07/21/1215404-mihail-efremov"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-          "excerpt": "My top 10 things to watch Tuesday, July 21 1. Is SK Hynix in charge of this market? The South Korean memory-chip maker's New York-listed shares are up over 6% this morning. So you might've guessed that Nasdaq futures are also up big. The question is: Will it hold? The Nasdaq Composite's strong start yesterday fizzled, ultimately ending the day flat. 2.…",
-          "url": "https://www.cnbc.com/2026/07/21/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Jim Cramer says it may be time to trim comeback stock after 441% surge",
-          "excerpt": "I have watched Seagate's comeback story, and it has been one of the most impressive in the entire S&P 500. In fact, after the comeback, Seagate now ranks fourth in the top year-to-date S&P 500 performers according to Slickcharts. That performance is after Sandisk, Dell, and Micron.…",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-may-time-181700105.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Humanoid Raises $152 Million At $1.35 Billion Valuation: Europe’s Newest Robot Unicorn",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Humanoid Raises $152 Million At $1.35 Billion Valuation: Europe’s Newest Robot Unicorn",
-          "excerpt": "Europe has a new billion-dollar startup, and it’s Humanoid, a two-year-old company headquartered in London that developed its humanoid robot, HMND 01, in near-record time. Today, London-based Humanoid announced that it has raised a $152 million Series A at a $1.35 billion post-money valuation.…",
-          "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/21/humanoid-raises-152-million-at-135-billion-valuation-europes-newest-robot-unicorn/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "This New York School Is Becoming a Humanoid Robot Company’s Biggest Test. There’s Just 1 Problem",
-          "excerpt": "Salamanca City Central School District is spending nearly $58,000 on a lifelike robot and AI tutor. Whether it improves learning remains to be seen.",
-          "url": "https://www.inc.com/georgia-fearn/new-york-school-ai-humanoid-robot-realbotix-onconetix-realdoll/91376080"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "U.S. strikes Iran again after troop deaths",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "U.S. strikes Iran again after troop deaths",
-          "excerpt": "The U.S. military launched fresh strikes against Iran on Sunday evening, after announcing the death of one American service member and the recovery of another's remains following an Iranian missile strike in Jordan. The big picture: The deaths underscore the growing toll of the U.S.- Iran conflict as both countries continue military attacks and the risk of further escalation rises.…",
-          "url": "https://www.axios.com/2026/07/19/us-military-finds-service-member-remains-jordan"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "2 soldiers from Texas and Hawaii killed in Iran strike in Jordan; 1 still missing",
-          "excerpt": "2 soldiers from Texas and Hawaii killed in Iran strike on base in Jordan; 1 still missing The Pentagon has identified two U.S. Army soldiers killed in an Iranian strike on a military base in Jordan over the weekend. A third service member was also missing in action from the attack, U.S. Central Command said. Unidentified remains were later found in the area, the military said Sunday.…",
-          "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Путин возглавит делегацию России на саммите АТЭС в Китае",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Путин возглавит делегацию России на саммите АТЭС в Китае",
-          "excerpt": "Путин возглавит делегацию России на саммите АТЭС в Китае Президент России Владимир Путин возглавит российскую делегацию на саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС). Об этом сообщил посол по особым поручениям МИД РФ Марат Бердыев в интервью ТАСС. Форум пройдет 18-19 ноября в китайском Шэньчжэне.…",
-          "url": "https://www.kommersant.ru/doc/8831445"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Путин возглавит делегацию РФ на саммите АТЭС в Китае",
-          "excerpt": "Путин возглавит делегацию РФ на саммите АТЭС в Китае Президент России Владимир Путин возглавит российскую делегацию на саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС), который пройдет 18–19 ноября в китайском Шэньчжэне. Об этом в интервью ТАСС сообщил посол по особым поручениям МИД РФ Марат Бердыев. По его словам, нынешний год в АТЭС будет насыщенным и продуктивным.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/21/1215390-putin-vozglavit-delegatsiyu"
+          "headline": "Nvidia раскрыла долю в 9,3% в Nebius Аркадия Воложа",
+          "excerpt": "Nvidia в понедельник раскрыла в отчетности для Комиссии по ценным бумагам и биржам США (SEC) долю в 9,3% в компании Nebius. На премаркете во вторник акции Nebius прибавляли около 6,4%, до $194. За последние 12 месяцев бумага подорожала почти на 250%, а капитализация компании на утро вторника составляла около $46 млрд.…",
+          "url": "https://thebell.io/nvidia-raskryla-dolyu-v-93-v-nebius-arkadiya-volozha"
         }
       ]
     }
