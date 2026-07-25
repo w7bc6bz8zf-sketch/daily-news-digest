@@ -1,125 +1,538 @@
 {
-  "collected_at": "2026-07-24T06:08:59.797655+00:00",
+  "collected_at": "2026-07-25T06:02:30.909559+00:00",
   "total_sources": 63,
   "total_entries": 900,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "US hits 60 countries with new duties as Trump rebuilds tariff wall",
-      "coverage": 10,
+      "headline_en": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "coverage": 7,
       "perspectives": [
         {
-          "source": "FT",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "US hits 60 countries with new duties as Trump rebuilds tariff wall",
-          "excerpt": "Washington pins measures on forced labour probe after Supreme Court struck down blanket levies",
-          "url": "https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1"
+          "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "excerpt": "Trump takes swipes at press during White House Correspondents' Dinner - Published US President Donald Trump has poked fun at the media at the White House Correspondents' Association (WHCA) dinner, a night that celebrated press freedom after the first event was cancelled by a shooting three months ago.…",
+          "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "Trump to impose double-digit tariffs on dozens of countries",
-          "excerpt": "The United States will slap taxes of 10% to 12.5% on imports from 60 countries accounting for 99% of U.S. imports, charging that they have inadequately enforced bans on goods produced by forced labor.",
-          "url": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country"
+          "headline": "Trump returns to correspondents' dinner 3 months after shooting",
+          "excerpt": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech.",
+          "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner"
         },
         {
-          "source": "NBC News",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "President Trump announces new tariffs on dozens of countries",
-          "excerpt": "U.S. Strategic Petroleum Reserve hits lowest level since 1983 while oil prices surge 03:57 Now Playing President Trump announces new tariffs on dozens of countries 02:04 UP NEXT Iran war pushes gas prices back above $4 per gallon 00:50 Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada 02:16 WH teleprompter operator on leave for alleged insider trading on Trump's speeches 02:41 Trut…",
-          "url": "https://www.nbcnews.com/video/president-trump-announces-new-tariffs-on-dozens-of-countries-267191877751"
+          "headline": "White House Correspondents' Association scholarship recipients relive terrifying dinner",
+          "excerpt": "White House Correspondents' Association scholarship recipients relive terrifying dinner Kaitlin Bender-Thomas and Madison Maynard, two White House Correspondents' Association scholarship recipients, join \"The Daily Report\" to reflect on April's terrifying shooting ahead of the rescheduled dinner.",
+          "url": "https://www.cbsnews.com/video/whca-scholarship-recipients-relive-terrifying-dinner/"
         },
         {
           "source": "Axios",
           "lang": "en",
-          "headline": "Trump rebuilds trade regime with new tariffs on global trading partners",
-          "excerpt": "The Trump administration announced a new round of tariffs of as much as 12.5% on 60 trading partners on Thursday, preventing a lapse in import taxes as a temporary tariff program nears expiration. Why it matters : It shows the White House's determination to sustain its tariff agenda as it turns to new trade laws as earlier authorities run their course or face legal challenges.…",
-          "url": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor"
+          "headline": "Trump condemns violence, slams press at White House Correspondents' Dinner",
+          "excerpt": "President Trump used his speech at Friday's rescheduled White House Correspondents' Association Dinner to condemn the political violence that postponed the annual event — and in the next breath attack and insult the gathered press.…",
+          "url": "https://www.axios.com/2026/07/25/trump-white-house-correspondents-dinner-whcd"
         },
         {
-          "source": "Business Insider",
+          "source": "Time",
           "lang": "en",
-          "headline": "Trump finalizes new tariffs on dozens of countries",
-          "excerpt": "The Trump administration on Thursday finalized new double-digit tariffs on dozens of U.S. trading partners as it seeks to reconstitute sweeping duties struck down by the Supreme Court in February.…",
-          "url": "https://www.businessinsider.com/trump-new-tariffs-forced-labor-2026-7"
+          "headline": "Trump Will Give ‘Unifying Yet Vicious’ Speech at Rescheduled White House Correspondents’ Dinner, White House Says",
+          "excerpt": "President Donald Trump will be giving a “unifying yet vicious” speech at the rescheduled White House Correspondents’ Dinner on Friday evening, White House Press Secretary Karoline Leavitt previewed. “The President’s speech will be a combination of unifying yet vicious, and serious yet hilarious, all at the same time, if you can imagine that,” Leavitt told NBC News.…",
+          "url": "https://time.com/article/2026/07/24/trump-white-house-correspondents-dinner-speech/"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Trump Approves Nuclear Deal With Saudi Arabia",
-      "coverage": 6,
+      "category": "💡 Tech & AI",
+      "headline_en": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
+      "coverage": 7,
       "perspectives": [
         {
-          "source": "Foreign Policy",
+          "source": "VentureBeat",
           "lang": "en",
-          "headline": "Trump Approves Nuclear Deal With Saudi Arabia",
-          "excerpt": "Trump Approves Nuclear Deal With Saudi Arabia But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead. Welcome back to World Brief, where we’re looking at a landmark U.S.-Saudi Arabia nuclear deal, White House threats against Iranian civilian infrastructure, and Ukraine’s new commander in chief. No ‘Gold Standard’ U.S.…",
-          "url": "https://foreignpolicy.com/2026/07/22/trump-nuclear-deal-saudi-arabia-uranium-enrichment-gold-standard/"
+          "headline": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
+          "excerpt": "Anthropic released Claude Opus 5 on Friday, a model the company says delivers nearly all the intelligence of its top-of-the-line Claude Fable 5 at half the cost — a launch that signals how the AI race is shifting from raw capability to the economics of daily use.…",
+          "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "US-Saudi nuclear deal hinges on normalisation with Israel",
-          "excerpt": "US-Saudi nuclear deal hinges on normalisation with Israel US-Saudi nuclear deal hinges on normalisation with Israel President Trump said a proposed US-Saudi civilian nuclear deal is “totally subject” to Saudi Arabia joining the Abraham Accords, which establishes diplomatic ties with Israel. White House Press Secretary Karoline Leavitt said negotiations are ongoing. Published On 23 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Trump links landmark nuclear deal with Saudi Arabia to normalisation with Israel",
-          "excerpt": "US Energy Secretary Chris Wright and Saudi Minister of Energy Abdulaziz bin Salman formally signed the agreement, along with \"bilateral safeguards\" against non-proliferation. The United States and Saudi Arabia signed a nuclear agreement that would allow the kingdom to develop a civilian nuclear programme. The Trump administration did not release details of the deal.…",
-          "url": "http://www.euronews.com/2026/07/23/us-announces-landmark-nuclear-deal-with-saudi-arabia"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Trump stuns Saudis by pinning nuclear deal to Israel ties",
-          "excerpt": "US President Donald Trump said Thursday that a nuclear deal with Saudi Arabia depends on the kingdom recognizing Israel -- throwing the agreement into turmoil just the day after it was signed. Riyadh has long resisted joining the so-called Abraham Accords with Israel, insisting especially after the Gaza conflict on a pathway to a Palestinian state. FRANCE 24's Emerald Maxwell reports.",
-          "url": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-          "excerpt": "During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's approach.",
-          "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
-          "excerpt": "The Justice Department is dropping the subpoenas it filed demanding grand jury testimony and phone records from New York Times journalists after sharp questioning Thursday from a federal judge.",
-          "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Trump administration drops New York Times subpoenas over Air Force One reporting",
-          "excerpt": "Trump administration drops New York Times subpoenas July 23, 2026US President Donald Trump's Justice Department will withdraw subpoenas issued to reporters from The New York Times (NYT), prosecutors said at a hearing on Thursday.…",
-          "url": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Justice Department agrees to withdraw subpoenas of New York Times journalists over Air Force One reporting",
-          "excerpt": "The Justice Department agreed Thursday to withdraw grand jury subpoenas seeking testimony and records from New York Times reporters and their family members after a federal judge repeatedly questioned why prosecutors had issued the subpoenas before they pursued alternative investigative steps. At a hearing Thursday before U.S.…",
-          "url": "https://www.nbcnews.com/politics/justice-department/justice-department-withdraw-subpoenas-new-york-times-journalists-rcna588955"
+          "headline": "Anthropic says Opus 5 can nearly match its top-performing model for half the price",
+          "excerpt": "Anthropic says Opus 5 can nearly match its top-performing model for half the price It also has less restrictive safeguards than the Fable model. Just as it was starting to feel like Anthropic had begun to neglect its Opus model, the company has released a new version of its one-time flagship LLM.…",
+          "url": "https://www.engadget.com/2222542/anthropic-says-opus-5-can-nearly-match-its-top-performing-model-for-half-the-price/"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
-          "excerpt": "The Department of Justice withdrew subpoenas it had obtained seeking grand jury testimony from and phone records of New York Times reporters involved in an article about security issues involving President Donald Trump's new Air Force One jet, prosecutors told a federal judge in New York on Thursday. The move came at a hearing in U.S.…",
-          "url": "https://www.cnbc.com/2026/07/23/doj-subpoenas-new-york-times-trump-plane.html"
+          "headline": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+          "excerpt": "Anthropic on Friday announced its latest artificial intelligence model, Claude Opus 5, which it said is its best-performing and most cost-effective offering across a number of industry benchmarks. Opus 5 outperforms the last model that Anthropic released, Claude Fable 5, on coding and knowledge work evaluations, and the company said it's \"designed to be used every day,\" according to a blog post.…",
+          "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Anthropic releases Claude Opus 5 for both AI coding and general office work",
+          "excerpt": "Today Anthropic released its new Opus 5 model, which the company claims delivers performance comparable to its more advanced Fable 5 model at half the price. Opus 5 is designed for both complex coding and general office work. Anthropic says the model can make its way through the steps of a complicated problem without much back-and-forth with the user.…",
+          "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Anthropic launches Opus 5",
+          "excerpt": "On Friday, Anthropic launched its Opus 5 model, the newest version of its long-standing heavyweight model. While smaller than Fable 5, the model will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases. Notably, Opus 5 actually outperforms Fable 5 on a number of benchmarks included in the announcement.…",
+          "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
+          "excerpt": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites The Starlink satellites burned up in the atmosphere 20 minutes later. Starship has taken off for its 13th test flight after a couple of delays due to unfavorable weather conditions.…",
+          "url": "https://www.engadget.com/2222979/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites/"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "SpaceX launches 13th flight test of Starship rocket",
+          "excerpt": "Latest U.S. Iran War Cyclospora Outbreak World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Phila…",
+          "url": "https://www.cbsnews.com/video/spacex-launches-13th-flight-test-starship-rocket/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+          "excerpt": "SpaceX successfully deployed the first third-generation Starlink satellites on Friday using an upgraded version of its prototype Starship — the 13th test flight of its mega-rocket to date. But the company suffered another failure with its Super Heavy booster during a planned simulated landing in the Gulf of Mexico.…",
+          "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "SpaceX Starship Deploys Starlink Craft During Post-IPO Test",
+          "excerpt": "SpaceX’s Starship deployed upgraded Starlink satellites and returned to Earth largely unscathed, advancing Elon Musk’s IPO-fueled plans to scale his dominant rocket business into an artificial intelligence and satellite communications empire.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+          "excerpt": "It was a rough week for Elon Musk. Tesla shares plunged 18% during the week to close at $313.03 on Friday, their worst weekly slump since 2022. And SpaceX's stock continued its downward slide, dropping 7.2% over five days to close at $115.07 Friday, its lowest since the company's record initial public offering last month.…",
+          "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "ЦБ вновь снизил ключевую ставку лишь на 0,25%: эксперты предупреждают — дальнейшие шаги могут быть ещё осторожнее",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "RB.ru",
+          "lang": "ru",
+          "headline": "ЦБ вновь снизил ключевую ставку лишь на 0,25%: эксперты предупреждают — дальнейшие шаги могут быть ещё осторожнее",
+          "excerpt": "ЦБ вновь снизил ключевую ставку лишь на 0,25%: эксперты предупреждают — дальнейшие шаги могут быть ещё осторожнее Пространство для дальнейшего смягчения сократилось, отмечают аналитики24 июля 2026 года Банк России снизил ключевую ставку с 14,25% до 14% годовых, продолжив смягчение денежно-кредитной политики.…",
+          "url": "https://rb.ru/news/cb-vnov-snizil-klyuchevuyu-stavku-lish-na-025-eksperty-preduprezhdayut-dalnejshie-shagi-mogut-byt-eshyo-ostorozhnee/"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "ЦБ России десятый раз подряд снизил ключевую ставку — до 14%",
+          "excerpt": "ЦБ России десятый раз подряд снизил ключевую ставку — до 14% Источник: Банк России Банк России снизил ключевую ставку на 25 базисных пунктов, до 14%. Обосновывая решение о понижении ставки, ЦБ указал, что экономика России с начала года «росла умеренными темпами», инфляционные ожидания населения, бизнеса и участников финансового рынка выросли, а кредитная активность снизилась.…",
+          "url": "https://meduza.io/news/2026/07/24/tsb-rossii-desyatyy-raz-podryad-snizil-klyuchevuyu-stavku-do-14"
+        },
+        {
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "ЦБ снизил ключевую ставку с 14,25% до 14% годовых",
+          "excerpt": "Это десятое снижение подряд.Источник: Wikipedia«Существенный рост цен и повышение инфляционных ожиданий в летние месяцы во многом были связаны с разовыми факторами», — объяснил регулятор.Устойчивый рост цен снизился, но остаётся в диапазоне 4-5% в пересчёте на год.…",
+          "url": "https://vc.ru/money/3044069-cb-rossii-snizil-klyuchevuyu-stavku-do-14?from=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: Wildfires rage across Spain and France",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: Wildfires rage across Spain and France",
+          "excerpt": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
+          "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "More than 200,000 people flee or lock down as wildfires sweep France and Spain",
+          "excerpt": "More than 200,000 people have fled or been ordered to lock down as huge wildfires swept Spain and France on Friday, prompting Madrid to declare a national emergency and the French authorities to order the total evacuation, by land and sea, of one of the country’s best-known holiday spots.…",
+          "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Europe wildfires: Thousands flee by boat as fires spread, merge",
+          "excerpt": "Europe wildfires: Thousands flee as fires spread, merge July 24, 2026Wildfires continued to rage through parts of France and Spain on Friday, forcing tens of thousands to evacuate and authorities to ask European Union neighbors for help. French authorities ordered the total evacuation of the tourist Cap Ferret peninsula on the Atlantic coast, with many boarding boats to flee.…",
+          "url": "https://www.dw.com/en/europe-wildfires-thousands-flee-by-boat-as-fires-spread-merge/a-78104513?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "France: Massive blaze engulfs Cap Ferret forests as thousands evacuated",
+          "excerpt": "Footage filmed in Lège-Cap-Ferret, south-western France, shows a towering plume of smoke rising above the pine forest as flames advance towards Lège-Bourg, with firefighters battling to protect homes while at least one house is consumed by the blaze. Other scenes show exhausted evacuees resting on camp beds inside a community hall after being forced to leave campsites and residential areas.…",
+          "url": "http://www.euronews.com/video/2026/07/24/france-massive-blaze-engulfs-cap-ferret-forests-as-thousands-evacuated"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Live: France orders evacuations near Bordeaux as wildfires sweep through southwest",
+          "excerpt": "Live Live: France orders evacuations near Bordeaux as wildfires sweep through southwest Europe French authorities ordered the evacuation of towns near the southwestern city of Bordeaux on Saturday \"as a precaution\", as wildfires moved towards the area. Intense wildfires have forced more than 200,000 people to flee their homes in southwestern France and central Spain.…",
+          "url": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Trump rebuilds trade regime with new tariffs on global trading partners",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump rebuilds trade regime with new tariffs on global trading partners",
+          "excerpt": "The Trump administration announced a new round of tariffs up to 12.5% on 60 trading partners on Thursday, preventing a lapse in import taxes as a temporary tariff program nears expiration. Why it matters: It shows the White House's determination to preserve its tariff agenda by turning to new trade laws as earlier authorities expire or face legal challenges.…",
+          "url": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
+          "excerpt": "U.S. trading partners from Canberra to Brasília have rejected the forced labor rationale behind President Donald Trump's new global tariffs, while most signaled they would keep negotiating rather than retaliate. The Office of the U.S.…",
+          "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Trump is replacing expiring global tariffs with forced-labor duties on 60 countries",
+          "excerpt": "Trading partners largely rejected the rationale while signaling they would continue talks rather than retaliate. Australia, placed in the 12.5% tier alongside China, Hong Kong, Singapore, and South Korea, called the tariffs inconsistent with its free trade agreement with the United States.…",
+          "url": "https://qz.com/trump-forced-labor-tariffs-60-countries-section-301-072426"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Trump angers trade partners with new hikes on tariffs linked to claims of forced labor",
+          "excerpt": "U.S. President Donald Trump&#8217;s latest set of tariff hikes drew objections Friday from America&#8217;s trading partners including China and Japan , with Australia&#8217;s trade minister slamming them as &#8220;completely unjustified.&#8221; The administration announced extra tariffs of 10% to 12.5% on 60 economies late Thursday, saying the countries had failed to adequately enforce a ban on go…",
+          "url": "https://www.fastcompany.com/91579328/trump-angers-trade-partners-new-hikes-tariffs-linked-claims-forced-labor"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "What Trump's new \"forced labor\" tariffs on 60 economies will mean for U.S. consumers",
+          "excerpt": "President Trump announced a new set of tariffs ranging from 10% to 12.5% on 60 trade partners over \"forced labor\" concerns on Thursday, just as Mr. Trump's temporary 10% levy was due to expire. Olivia Rinaldi explains what this means for consumers.",
+          "url": "https://www.cbsnews.com/video/what-trumps-new-forced-labor-tariffs-on-60-economies-will-mean-for-consumers/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Paramount Skydance agrees to freeze its WBD mega-merger while the antitrust cases are decided",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Paramount Skydance agrees to freeze its WBD mega-merger while the antitrust cases are decided",
+          "excerpt": "Paramount Skydance has agreed to pause its mega-merger with Warner Bros. Discovery until five days after the antitrust cases are ruled on, or until June 1, 2027, whichever comes sooner, the company said on Friday. Paramount is facing an antitrust lawsuit from 12 US states and a legal challenge from the Writers Guild of America.…",
+          "url": "https://www.businessinsider.com/paramount-skydance-agrees-to-freeze-its-wbd-amid-antitrust-cases-2026-7"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+          "excerpt": "Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027 — a multi-month delay that will ultimately raise the deal price — as the tie-up faces a legal challenge. Last week, a group of state attorneys general led by California's Rob Bonta sued to block the deal over antitrust concerns.…",
+          "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Paramount Skydance agrees to halt Warner Bros. merger until next June",
+          "excerpt": "Paramount Skydance has agreed to freeze its merger with rival entertainment conglomerate Warner Bros. Discovery until next June while a federal judge weighs a lawsuit from a coalition of state attorneys general challenging the $110 billion deal.…",
+          "url": "https://www.nbcnews.com/business/business-news/paramount-skydance-agrees-halt-warner-bros-merger-june-2027-rcna589137"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
+          "excerpt": "Paramount agrees to delay Warner Bros. merger amid lawsuit July 25, 2026Paramount on Friday agreed to delay its merger with Warner Bros. Discovery as a lawsuit from a dozen US states seeking to block the deal altogether moves forward. In a court filing, Paramount said it would pause the $110 billion (€96.69 billion) deal until June 2027.…",
+          "url": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Paramount to delay Warner Bros. merger until as late as June 2027",
+          "excerpt": "Paramount Skydance on Friday said it would delay the deal until as late as June 2027.",
+          "url": "https://www.cbsnews.com/news/paramount-delay-warner-bros-merger-until-as-late-as-june-2027/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Режим опасности атаки БПЛА введен в Тюменской области",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Режим опасности атаки БПЛА введен в Тюменской области",
+          "excerpt": "Режим опасности атаки БПЛА введен в Тюменской области Москва. 25 июля. INTERFAX.RU - Режим опасности атаки беспилотников объявлен в Тюменской области, сообщает пресс-служба ГУ МЧС России по региону. \"Объявлена \"Беспилотная опасность\" в Тюменской области 25.07.2026 год. Оставайтесь дома не подходите к окнам или пройдите в укрытие\", - говорится в сообщении.…",
+          "url": "https://www.interfax.ru/russia/1105501"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "В Тюменской области ввели режим беспилотной опасности",
+          "excerpt": "Краткий пересказ от РИА ИИ - В Тюменской области введен режим беспилотной опасности. - Жителям региона рекомендовано при виде беспилотного летательного аппарата немедленно уйти в безопасное место и позвонить по телефону 112. ТЮМЕНЬ, 25 июл – РИА Новости. Режим беспилотной опасности введен в Тюменской области, сообщил губернатор региона Александр Моор.…",
+          "url": "https://ria.ru/20260725/rezhim-2106890983.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump vows to investigate EU over fining of US tech companies",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump vows to investigate EU over fining of US tech companies",
+          "excerpt": "Trump vows to investigate EU over fining of US tech companies - Published Donald Trump says the US will launch an investigation into the European Union and threatened a fresh tariff over fines handed to some of the biggest American tech companies. It comes days after the European Commission fined Google â¬890m ($1bn) for operating in a way that squeezed out competitors to its services.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+          "excerpt": "Donald Trump has threatened the European Union with additional and “substantial” tariffs after Brussels imposed a series of steep fines on US tech giants.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+          "excerpt": "President Donald Trump on Friday said his administration will launch a trade probe into the European Union that will cancel hefty fines levied against U.S. tech giants and likely result in a \"substantial\" tariff on the 27-member bloc.…",
+          "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Trump threatens EU with tariff probe over Google, tech fines",
+          "excerpt": "Trump threatens EU with tariff probe over Google, tech fines July 24, 2026US President Donald Trump on Friday threatened to launch a tariff investigation against the EU in response to the bloc's anti-competition fines and other penalties levied against US tech giants like Google, Apple, Amazon and Meta.…",
+          "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Trump vows new tariffs on the E.U. after Brussels fines Google $1 billion",
+          "excerpt": "President Donald Trump threatened new tariffs on the European Union on Friday after Brussels fined Alphabet $GOOGL's Google $1 billion over violations of the bloc's Digital Markets Act. The president said the U.S.…",
+          "url": "https://qz.com/trump-tariffs-eu-google-fine-digital-markets-act-072426"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "White House draws new AI line on China",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "White House draws new AI line on China",
+          "excerpt": "The Trump administration this week staked out a new position that could reshape its approach to AI policy, accusing Chinese companies of stealing U.S. technology even as it defends open AI development. Why it matters: That distinction could become the foundation for U.S.…",
+          "url": "https://www.axios.com/2026/07/24/white-house-ai-line-china"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Nvidia, Meta, and Microsoft are urging Washington not to restrict open-weight AI",
+          "excerpt": "A coalition of more than 20 technology companies, including Nvidia $NVDA, Meta $META, Microsoft $MSFT, and Palantir $PLTR, released a joint letter on Friday urging policymakers to avoid placing restrictions on open-weight artificial intelligence models.",
+          "url": "https://qz.com/nvidia-meta-microsoft-open-weight-ai-letter-072426"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+          "excerpt": "Nvidia, Microsoft, Meta, Palantir and more than 20 other companies released a letter Friday urging policymakers to avoid \"premature restrictions\" on open-weight artificial intelligence models that would \"stifle competition or drive innovation overseas.\" Open-weight AI models are available for users to download, modify and run on their own infrastructure, and they have been the subject of fierce de…",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi",
+          "excerpt": "A coalition of technology companies led by Nvidia Corp. and Microsoft Corp. called on policymakers to promote the development of open-weight artificial intelligence models, positioning it as key to ensuring the US maintains technological leadership.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "excerpt": "Several AI companies, including Hugging Face, Meta, Microsoft, Mistral, and Nvidia, have signed an open letter urging policymakers not to impose broad “premature restrictions” on open-weight AI models. The letter comes as Washington debates how the U.S.…",
+          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Middle East crisis: US carries out strikes across Iran as Tehran targets American bases in region – as it happened",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Middle East crisis: US carries out strikes across Iran as Tehran targets American bases in region – as it happened",
+          "excerpt": "US missiles struck targets across Iran on Friday after Donald Trump vowed “major military punishment” for Tehran and its Houthi allies in Yemen for extending the Middle East war to a second major shipping chokepoint, the mouth of the Red Sea.…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "US pummels Iran as Tehran targets regional bases stationing US forces",
+          "excerpt": "Iran on Friday said it carried out attacks targeting US military assets and bases with US forces in Bahrain, Jordan and Kuwait in retaliation for Washington's latest strikes across the country. The US meanwhile bombarded sites across Iran as the conflict escalated, leading US embassies to alert its nationals across the region.",
+          "url": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Iran military says it targeted US bases in Bahrain, Jordan and Kuwait",
+          "excerpt": "Tehran says any facility or base in the Middle East used by the US military to launch attacks on Iran is a legitimate target for retaliation. Iran's military said on Friday that it had targeted US military bases in Bahrain, Jordan and Kuwait in retaliation for Washington's latest strikes on the country.…",
+          "url": "http://www.euronews.com/2026/07/24/iran-military-says-it-targeted-us-bases-in-bahrain-jordan-and-kuwait"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Iran keeps targeting American bases as U.S. interceptor stockpiles dwindle",
+          "excerpt": "Live Updates: Iran targets American bases in Jordan and Iraq as raging war depletes U.S. interceptor stockpiles What to know about the Iran war today: - The U.S. military said Friday it disabled a commercial ship that attempted to evade the blockade on Iranian ports. - Iran claimed new drone strikes Friday against U.S.…",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-middle-east/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Аудитория «экзотических» зарубежных мессенджеров в России выросла на 26%: в лидерах — BiP, KakaoTalk и WeChat",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "RB.ru",
+          "lang": "ru",
+          "headline": "Аудитория «экзотических» зарубежных мессенджеров в России выросла на 26%: в лидерах — BiP, KakaoTalk и WeChat",
+          "excerpt": "Аудитория иностранных мессенджеров в России во втором квартале 2026 года выросла на 26% по сравнению с предыдущим кварталом, сообщает «Коммерсант». Лидером по росту аудиторию стал турецкий BiP: количество его уникальных пользователей из России достигло 4,3 млн человек.…",
+          "url": "https://rb.ru/news/auditoriya-ekzoticheskih-zarubezhnyh-messendzherov-v-rossii-vyrosla-na-26-v-liderah-bip-kakaotalk-i-wechat/"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "«Коммерсант»: аудитория иностранных мессенджеров в России выросла на 26%. Телеграм остается среди лидеров, несмотря на блокировку",
+          "excerpt": "«Коммерсант»: аудитория иностранных мессенджеров в России выросла на 26%. Телеграм остается среди лидеров, несмотря на блокировку Общая аудитория иностранных мессенджеров, не заблокированных в России, во втором квартале 2026 года выросла на 26%, пишет «Коммерсант», ссылаясь на исследование МТС AdTech.…",
+          "url": "https://meduza.io/news/2026/07/24/kommersant-auditoriya-inostrannyh-messendzherov-v-rossii-vyrosla-na-26-telegram-ostaetsya-sredi-liderov-nesmotrya-na-blokirovku"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Midjourney is buying horoscope app Co-Star, which users will surely be thrilled about",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Midjourney is buying horoscope app Co-Star, which users will surely be thrilled about",
+          "excerpt": "Midjourney is buying horoscope app Co-Star, which users will surely be thrilled about Co-Star CEO Banu Guler is also becoming the company's Chief Design Officer. Midjourney, the company best known as a maker of AI image and video generation tools, has decided to get into astrology.…",
+          "url": "https://www.engadget.com/2222797/midjourney-buying-astrology-horoscope-app-co-star/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Midjourney acquired the astrology app Co-Star",
+          "excerpt": "Midjourney, an AI lab best known for its LLM-powered image and video generators, has acquired the social astrology app Co-Star, according to Bloomberg. The deal terms were not disclosed. Co-Star, which reportedly has about 4.3 million monthly active users, is mostly used to help people determine their astrological birth charts, which they can then share with other friends on the app.…",
+          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "AI Startup Midjourney Buys Astrology App Co-Star and is Building Its Own Apps",
+          "excerpt": "Artificial intelligence lab Midjourney Inc. has bought the popular astrology app Co-Star and is building its first standalone image-generation app, the startup’s latest moves to push into new business areas after promising an ambitious expansion last month.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Midjourney bought the astrology app Co-Star",
+          "excerpt": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Midjourney bought the astrology app Co-Star Co-Star’s founder has joined Midjourney to help build the AI startup’s first apps.…",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump attacks journalists at awkward White House press dinner",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Trump attacks journalists at awkward White House press dinner",
+          "excerpt": "Trump attacks journalists at awkward White House press dinner",
+          "url": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "‘The show must go on’: Trump returns to rescheduled White House press gala",
+          "excerpt": "‘The show must go on’: Trump returns to rescheduled White House press gala US president makes jokes, mocks opponents at correspondents’ dinner that was halted by a shooting in April. United States President Donald Trump returned to the White House Correspondents’ Association dinner, three months after a gunman upended the event.…",
+          "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Trump addresses rescheduled White House Correspondents' Dinner",
+          "excerpt": "Trump speaks at delayed White House Correspondents' Dinner July 25, 2026US President Donald Trump addressed hundreds of journalists at a scaled-down and rescheduled White House Correspondents' Dinner on Friday night. The gala was held amid heightened security measures, three months after the original event was cut short by an alleged attempt to assassinate Trump.…",
+          "url": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner",
+          "excerpt": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner 02:35 UP NEXT Trump calls Obama's speech at past White House Correspondents' Dinner 'respectful' 03:28 Trump says 'a lot was learned' from White House Correspondents' Dinner shooting 00:55 White House Correspondents’ Association president says ‘we will not be intimidated’ during dinner 02:18 President Trump a…",
+          "url": "https://www.nbcnews.com/now/video/trump-touts-his-accomplishments-and-relationship-with-the-press-at-correspondents-dinner-267263045743"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Trump switched planes in Turkey earlier this month because of threat from Iran proxy forces – report",
+          "excerpt": "Donald Trump switched aircraft before departing Turkey earlier this month after US officials determined there was a credible threat from Iranian proxy forces targeting him and Air Force One, according to a new report from the New York Times. The threat surfaced while the US president was attending the Nato summit.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "DOJ drops New York Times subpoenas over Air Force 1 reports",
+          "excerpt": "The U.S. government will withdraw subpoenas of New York Times journalists over their reporting on President Trump's Qatari-gifted jet , the Department of Justice said in a Thursday court hearing. Why it matters: The Trump administration backed down in its battle with the media on the eve of the rescheduled White House Correspondents' Association Dinner, where the president is expected to speak.…",
+          "url": "https://www.axios.com/2026/07/23/trump-doj-withdraws-new-york-times-subpoenas"
         },
         {
           "source": "ABC News",
@@ -127,1000 +540,615 @@
           "headline": "DOJ agrees to withdraw subpoenas for New York Times journalists",
           "excerpt": "DOJ agrees to withdraw subpoenas for New York Times journalists The legal fight stems from the Times' reporting on the new Air Force One plane. Lawyers with the Department of Justice on Thursday agreed to unilaterally withdraw a series of subpoenas that sought to compel New York Times journalists to testify about their sources and provide access their phone records. U.S.…",
           "url": "https://abcnews.com/US/new-york-times-fight-trump-administration-subpoenas-court/story?id=135018479"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Над регионами России за ночь сбили 571 БПЛА",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Над регионами России за ночь сбили 571 БПЛА",
-          "excerpt": "Над регионами России за ночь сбили 571 БПЛА Силы ПВО перехватили и уничтожили 571 беспилотник над регионами России в ночь на 24 июля. Об этом сообщает пресс-служба Минобороны.…",
-          "url": "https://www.kommersant.ru/doc/8833504"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Силы ПВО уничтожили 571 украинский беспилотник за ночь",
-          "excerpt": "Силы ПВО уничтожили 571 украинский беспилотник за ночь Силы ПВО сбили 571 дрон вооруженных сил Украины над российскими регионами за ночь, сообщило Минобороны РФ.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/24/1216137-sili-pvo-unichtozhili"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Минобороны РФ заявило об уничтожении за ночь 571 беспилотника ВСУ",
-          "excerpt": "Минобороны РФ заявило об уничтожении за ночь 571 беспилотника ВСУ Москва. 24 июля. INTERFAX.RU - Дежурные средства ПВО за ночь перехватили и уничтожили 571 украинский беспилотник самолетного типа над российскими регионами, сообщило в пятницу министерство обороны РФ.…",
-          "url": "https://www.interfax.ru/russia/1105218"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "Силы ПВО уничтожили 571 БПЛА над территорией России за ночь",
-          "excerpt": "Краткий пересказ от РИА ИИ - Силы ПВО уничтожили 571 украинский дрон над территорией России. - Беспилотники были сбиты над территориями нескольких областей, а также над акваториями Азовского и Черного морей. МОСКВА, 24 июл - РИА Новости. Силы ПВО в течение ночи уничтожили 571 украинский беспилотник над территорией России, сообщило Минобороны РФ.…",
-          "url": "https://ria.ru/20260724/pvo-2106619795.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-          "excerpt": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage - Published Yemen's Houthi fighters claim to have attacked shipping in the Red Sea - a move that threatens to further escalate the already volatile situation in the Middle East.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Latest Oil Market News and Analysis for July 24",
-          "excerpt": "Brent crude traded near $100 a barrel after Houthi attacks on tankers in the Red Sea opened a new front in the Middle East conflict, while President Donald Trump threatened to extend US strikes on Iran.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24"
-        },
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Is the Red Sea the New Hormuz Crisis?",
-          "excerpt": "Is the Red Sea the New Hormuz Crisis? Houthi attacks on Saudi shipping risk adding a new front to the Iran war. Welcome back to World Brief, where we’re looking at Houthi attacks on Red Sea shipping, India’s escalating Cockroach movement protests, and an Israel-shaped roadblock in the U.S.-Saudi nuclear deal. Red Sea Strikes U.S.…",
-          "url": "https://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
-          "excerpt": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade Houthi blockade for now is shaping who moves Saudi crude, not whether it moves, analysts say, even as oil prices soar. As oil prices hit $100 a barrel on Thursday, experts say they are watching to see which vessels Yemen’s Houthis allow to pass through in the Red Sea as that will indicate how the crude market trends.…",
-          "url": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US threatens 'major military punishment' for Houthi attacks",
-          "excerpt": "US threatens 'major military punishment' for Houthi attacks Published July 23, 2026last updated July 24, 2026What you need to know This blog has closed. Thank you for reading. For the latest developments from the US-Iran war on Friday, July, follow our blog.…",
-          "url": "https://www.dw.com/en/us-threatens-major-military-punishment-for-houthi-attacks/live-78077811?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google Turns a Selfie Video Into Your Account’s Spare Key",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Google Turns a Selfie Video Into Your Account’s Spare Key",
-          "excerpt": "Google has a new way for users to sign in to their accounts: a selfie video. If you’ve ever lost your device and gotten locked out of your Google account, you know it can feel like a desperate, Kafkaesque process to recover access and get back in—especially for people who run their digital lives, from email messages to calendar appointments, on Google software.…",
-          "url": "https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/"
-        },
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "Google will let you upload a video selfie to recover your account - but should you?",
-          "excerpt": "Google will let you upload a video selfie to recover your account - but should you? Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Google's selfie video sign-on helps users recover their accounts. - You should know how your biometric data is stored and used. - Google asserts that uploaded biometric data is never shared.…",
-          "url": "https://www.zdnet.com/article/google-wants-you-to-upload-your-face-to-recover-your-account-but-should-you/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Set Up This New Google Feature Now. You May Never Get Locked Out of Gmail Again",
-          "excerpt": "Google rolled out an additional account recovery option in the form of a selfie video—here’s how to record one today.",
-          "url": "https://www.inc.com/chloe-aiello/set-up-this-new-google-feature-now-you-may-never-get-locked-out-of-gmail-again/91379251"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Google will now let you sign in to your account with a selfie video",
-          "excerpt": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer.",
-          "url": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Forgot your Google password? Now you can log in with a selfie.",
-          "excerpt": "Getting locked out of an account is no fun. Google has a few ways to help you regain access if you happen to forget your password or lose an authenticator, including recovery contacts and backup codes. Now, Google has a completely new option: your face.…",
-          "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Donald Trump says decision on ‘massive attack’ against Iran is close",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Donald Trump says decision on ‘massive attack’ against Iran is close",
-          "excerpt": "Donald Trump has said he is close to deciding whether to launch “a massive attack” against Iran, on a scale larger than strikes already witnessed during the months-long conflict with Tehran. Speaking to the Axios news site, the US president said: “I am considering a massive attack. Bigger than ever before. I am close to making a decision.…",
-          "url": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Middle East live: US launches new strikes on Iran as oil prices skyrocket",
-          "excerpt": "The United States launched a new series of strikes in Iran on Friday, while Iran-backed Houthi rebels opened a second front in the conflict, attacking Saudi tankers in the Red Sea and sending oil prices skyrocketing. Follow our liveblog for the latest developments.…",
-          "url": "https://www.france24.com/en/middle-east/20260724-middle-east-live-us-launches-new-strikes-on-iran-as-oil-prices-skyrocket"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Oil prices just hit $100 a barrel again. Here’s what that could mean for consumers",
-          "excerpt": "Brent crude oil prices hit $100 a barrel on Thursday for the first time since May, after reports that Yemen’s Iran-backed Houthis struck two Saudi oil tankers in the Red Sea. The attacks compromised a critical alternative route used by vessels bypassing the blockaded Strait of Hormuz, according to CNN . West Texas Intermediate futures , a benchmark for U.S.…",
-          "url": "https://www.fastcompany.com/91578783/oil-gas-prices-100-what-it-means-for-consumers-inflation-interest-rates-fed-federal-reserve"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US launches new strikes on Iran over shipping routes threat",
-          "excerpt": "US launches new strikes on Iran over shipping routes threat Published July 24, 2026last updated July 24, 2026What you need to know - US military says it targeted Iran's military command centers and maritime capabilities - Iranian state media report explosions across the country - The US has now struck targets across Iran for 13 nights in a row - The US says it has redirected 12 commercial vessels …",
-          "url": "https://www.dw.com/en/us-launches-new-strikes-on-iran-over-shipping-routes-threat/live-78093040?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Беглов сообщил об атаке беспилотников на гражданскую инфраструктуру в Петербурге",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Беглов сообщил об атаке беспилотников на гражданскую инфраструктуру в Петербурге",
-          "excerpt": "Беглов сообщил об атаке беспилотников на гражданскую инфраструктуру в Петербурге Санкт-Петербург атаковали беспилотники, сообщил глава города Александр Беглов. Удар пришелся на объекты гражданской инфраструктуры на Московском шоссе, написал он в Telegram. Сейчас оперативные службы ликвидируют последствия атаки. Какие здания были атакованы, господин Беглов не уточнил.…",
-          "url": "https://www.kommersant.ru/doc/8833446"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Объекты гражданской инфраструктуры атакованы БПЛА в Петербурге",
-          "excerpt": "Объекты гражданской инфраструктуры атакованы БПЛА в Петербурге Москва. 24 июля. INTERFAX.RU - Последствия атаки беспилотников на объекты гражданской инфраструктуры ликвидируют в Санкт-Петербурге, сообщил губернатор города Александр Беглов в пятницу утром. \"Удар пришелся на объекты гражданской инфраструктуры на Московском шоссе.…",
-          "url": "https://www.interfax.ru/russia/1105200"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "India activist ends hunger strike after 26 days",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "India activist ends hunger strike after 26 days",
-          "excerpt": "India activist ends hunger strike after 26 days - Published India's activist Sonam Wangchuk has ended a hunger strike after 26 days of fasting in support of youth-led protesters demanding education reforms. In a post on X, Wangchuk - better known as \"Sonam sir\" - said he did so \"after a long negotiation on various conditions\" and also to avert \"possible violence in the country\".…",
-          "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-          "excerpt": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-          "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Indian activist Sonam Wangchuk ends hunger strike",
-          "excerpt": "Indian activist Sonam Wangchuk ends hunger strike July 23, 2026Sonam Wangchuk has ended his hunger strike after 26 days, the Indian activist said Thursday on his X account. The 59-year-old had been on a hunger strike since June 28 in solidarity with India's youth-led Cockroach movement.…",
-          "url": "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Indian activist ends 26-day hunger strike, though student protests continue",
-          "excerpt": "Indian activist Sonam Wangchuk ended his 26-day hunger strike on Friday after talks with government ministers, but student-led protests over leaked medical entrance exam papers continued, with demonstrators demanding the education minister's resignation and wider reforms.",
-          "url": "https://www.france24.com/en/asia-pacific/20260723-indian-activist-ends-26-day-hunger-strike-though-student-protests-continue"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Angry Mobs Are Attacking Health Workers in Congo. It Will Only Make the Ebola Outbreak Worse",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Angry Mobs Are Attacking Health Workers in Congo. It Will Only Make the Ebola Outbreak Worse",
-          "excerpt": "As the Democratic Republic of Congo’s latest Ebola outbreak rages on, health care workers are increasingly under attack. Dozens of attacks against medical facilities and teams have taken place since the outbreak began, primarily due to fear and mistrust within local communities, health care workers tell TIME.…",
-          "url": "https://time.com/article/2026/07/22/angry-mobs-are-attacking-health-workers-in-congo-it-will-only-make-the-ebola-outbreak-worse/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads",
-          "excerpt": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads Healthworkers in the DRC battle a range of obstacles, from infection risk to angry mob attacks.…",
-          "url": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "More than 1,000 people killed in Ebola outbreak",
-          "excerpt": "More than 1,000 people have died in the Ebola outbreak in the Democratic Republic of Congo (DRC), health officials said.",
-          "url": "https://news.sky.com/story/ebola-more-than-1000-people-killed-in-dr-congo-outbreak-13566201"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Congo's Ebola outbreak kills more than 1,000 people",
-          "excerpt": "The World Health Organization has said that the true scale of the outbreak could be two to four times larger than official figures indicate. More than 1,000 people have died in the Ebola outbreak in the Democratic Republic of Congo (DRC), Africa's top health body said. Speaking at a health summit in Ghana on Wednesday, Dr.…",
-          "url": "http://www.euronews.com/2026/07/22/congos-ebola-outbreak-kills-more-than-1000-people"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "AMD takes a shot at Nvidia by betting on AI's next big shift",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "AMD takes a shot at Nvidia by betting on AI's next big shift",
-          "excerpt": "AMD is making a bet about the future of AI: one chip shouldn't rule them all. CEO Lisa Su announced Thursday that AMD is teaming up with chip startup Cerebras on a new approach to AI inference, which is the process of generating responses from AI models. Increasingly, chipmakers are pursuing \"disaggregated inference,\" which splits workloads across different types of hardware.…",
-          "url": "https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "AMD takes on Nvidia with its Helios AI rack-scale system",
-          "excerpt": "Chipmaker AMD is taking aim at competitor Nvidia with its latest hardware release: a rack-scale system designed to power computing needs of the world’s largest AI labs. At the company’s sold-out Advancing AI conference in San Francisco on Thursday, AMD Chair and CEO Dr.…",
-          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "AMD's Rack-Scale Challenge To Nvidia's AI Dominance",
-          "excerpt": "Demand for AI computing capacity continues to outstrip available supply. Major AI labs and cloud providers are seeking additional compute, while Nvidia remains the dominant supplier of AI compute. At its recent Advancing AI 2026 conference in San Francisco, AMD argued that this dependency is beginning to ease as it announced a sweeping set of new capabilities.…",
-          "url": "https://www.forbes.com/sites/stevemcdowell/2026/07/23/amds-rack-scale-challenge-to-nvidias-ai-dominance/"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Cerebras stock gains on AMD partnership",
-          "excerpt": "Cerebras shares gained about 5% on Thursday after the company forged an agreement with Advanced Micro Devices that involves the two chipmakers to work together on artificial intelligence systems. Cerebras CEO Andrew Feldman said at AMD's AI conference in San Francisco that his company's chips will be used in AMD's Helios AI systems installed in Cerebras data centers starting later this year.…",
-          "url": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "«Сбер» сообщил части клиентов о завершении обслуживания валютных и мультивалютных карт Visa с 1 сентября 2026 года",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Habr",
-          "lang": "ru",
-          "headline": "«Сбер» сообщил части клиентов о завершении обслуживания валютных и мультивалютных карт Visa с 1 сентября 2026 года",
-          "excerpt": "По информации СМИ, «Сбер» сообщил части клиентов о завершении обслуживания валютных и мультивалютных карт Visa с 1 сентября 2026 года. Банк рекомендовал клиентам заранее закрыть валютные и мультивалютные карты платёжной системы с продлённым ранее сроком действия до 2030 года в приложении «Сбербанк онлайн» и перевести остаток средств на другие счета.…",
-          "url": "https://habr.com/ru/news/1062444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062444"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "«Сбер» предупредил клиентов о завершении обслуживания валютных и мультивалютных карт Visa с 1 сентября 2026 года",
-          "excerpt": "Обновлено в 22:20 мск. «Сбербанк» завершит обслуживание только неактивных валютных карт, а также мультивалютных карт, которые больше не поддерживаются, уточнили ТАСС в компании. Там добавили, что все средства клиентов доступны, а изменения не затрагивают обслуживание действующих мультивалютных и валютных счетов.",
-          "url": "https://vc.ru/money/3043267-sber-preduprezhdaet-o-zavershenii-obsluzhivaniya-kart-visa-i-mastercard?from=rss"
+          "headline": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
+          "excerpt": "President Donald Trump on Friday defended his Department of Justice's issuance of subpoenas to New York Times reporters, as it was revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane.…",
+          "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Democratic National Committee takes steps towards 2028 presidential calendar",
-      "coverage": 3,
+      "headline_en": "Потребление электричества в Крыму в июле сократилось почти вдвое на фоне блэкаутов из-за ударов ВСУ",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Democratic National Committee takes steps towards 2028 presidential calendar",
-          "excerpt": "Democratic National Committee set to take key vote towards determining its 2028 presidential calendar Nevada and South Carolina are among states making cases to be first in line. The Democratic Party is set to take a key step this week towards determining its calendar for the first set of presidential nominating primaries and caucuses in the 2028 presidential election.…",
-          "url": "https://abcnews.com/Politics/democratic-national-committee-set-key-vote-towards-determining/story?id=135000357"
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Потребление электричества в Крыму в июле сократилось почти вдвое на фоне блэкаутов из-за ударов ВСУ",
+          "excerpt": "Потребление электричества в Крыму в июле сократилось почти вдвое на фоне блэкаутов из-за ударов ВСУ Потребление электроэнергии в аннексированном Крыму в первые 20 дней июля 2026 года снизилось на 42% по сравнению с аналогичным периодом в прошлом году. По сравнению с первыми 20 днями июня потребление электроэнергии сократилось на 28%, говорится в исследовании издания The Bell.…",
+          "url": "https://meduza.io/news/2026/07/24/potreblenie-elektrichestva-v-krymu-v-iyule-sokratilos-pochti-vdvoe-na-fone-blekautov-iz-za-udarov-vsu"
         },
         {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Former DNC Chair Jaime Harrison makes his case for keeping South Carolina as first 2028 primary",
-          "excerpt": "Former DNC Chair Jaime Harrison makes his case for keeping South Carolina as first 2028 primary The debate over Democrats' 2028 primary calendar has gotten contentious, pitting those who want South Carolina to be first against those who want Nevada. Jaime Harrison, former Democratic National Committee chair, joins with his perspective.",
-          "url": "https://www.cbsnews.com/video/former-dnc-chair-jaime-harrison-south-carolina-first-2028-primary/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Black, Latino Dems feud over calendar for 2028 presidential primary",
-          "excerpt": "A long-simmering feud between Black and Latino leaders in the Democratic Party exploded into the open Wednesday over which state should vote first in the 2028 presidential primary — South Carolina or Nevada. Why it matters: The racially fraught battle could help determine which candidates will have an early edge in the race to be the party's next nominee for the White House.…",
-          "url": "https://www.axios.com/2026/07/23/democrats-black-latino-feud-2028-primary"
+          "source": "The Bell",
+          "lang": "ru",
+          "headline": "Потребление электроэнергии в Крыму на фоне блэкаутов сократилось почти вдвое",
+          "excerpt": "Потребление электроэнергии в Крыму на фоне блэкаутов сократилось почти вдвое The Bell Потребление электроэнергии в Крыму за первые 20 дней июля 2026 года обвалилось на 42% по сравнению с аналогичным периодом годом ранее, следует из данных «АТС» (Администратор торговой системы оптового рынка электроэнергии), которые проанализировал The Bell.…",
+          "url": "https://thebell.io/potreblenie-elektroenergii-v-krymu-na-fone-blekautov-sokratilos-pochti-vdvoe"
         }
       ]
     },
     {
-      "category": "📈 Economy",
-      "headline_en": "Intel posts fastest growth in 15 years as AI data centres demand fuels sales",
+      "category": "🌍 World",
+      "headline_en": "Trump Swaps Out Tariffs for Even More Tariffs",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "Trump Swaps Out Tariffs for Even More Tariffs",
+          "excerpt": "Trump Swaps Out Tariffs for Even More Tariffs Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures. Welcome back to World Brief, where we’re looking at the latest U.S. protectionist measures, Argentina endorsing Brazil’s far-right presidential candidate, and a new seat of power in the United Kingdom. Forced Labor Allegations U.S.…",
+          "url": "https://foreignpolicy.com/2026/07/24/us-tariffs-forced-labor-trump-section-301-trade-protectionism/"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "U.S. allies hit with new tariffs object to Trump's forced labor allegations",
+          "excerpt": "Australia and the European Union were among U.S. trade partners who criticized the tariffs.",
+          "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "How the World Is Reacting to Trump's 'Forced Labor' Tariffs",
+          "excerpt": "Officials around the world are pushing back on the claims of “forced labor” the Trump Administration has cited to impose sweeping new tariffs on over 80 countries. The import duties, which will affect 60 economies and take effect on Friday, represent President Donald Trump’s latest effort to impose alternative tariffs on goods coming into the U.S.…",
+          "url": "https://time.com/article/2026/07/24/trump-forced-labor-tariffs-world-reaction/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Why Trump's 'forced labor' tariffs leave the world puzzled",
+          "excerpt": "Why Trump's 'forced labor' tariffs leave the world puzzled July 24, 2026Which countries will face Trump's new tariffs? The Trump administration on Thursday announced new tariffs on 60 economies, including the European Union, citing their handling of imported goods made with forced labor.…",
+          "url": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Deadly clashes in the occupied West Bank",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Deadly clashes in the occupied West Bank",
+          "excerpt": "Israeli Prime Minister Benjamin Netanyahu has vowed to respond with \"full force\" following a deadly clash in the occupied West Bank. Two Israeli soldiers were killed on Friday in fighting near the settlement of Havat Gilad and the neighbouring village of Tal. The incident comes amid a sharp rise in violence across the West Bank since the start of the Gaza war in October 2023.",
+          "url": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "UNESCO adds Lebanese, West Bank sites to endangered list",
+          "excerpt": "UNESCO adds Lebanese, West Bank sites to endangered list July 24, 2026The United Nations cultural agency on Friday updated its list of World Heritage in Danger, with locations including a Lebanese castle that Israeli forces recently captured as well as an archaeological site in the occupied West Bank, amid Israeli objections.…",
+          "url": "https://www.dw.com/en/unesco-adds-lebanese-west-bank-sites-to-endangered-list/a-78102475?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Netanyahu orders 'firm' military action after deadly West Bank clash",
+          "excerpt": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell. Israeli Prime Minister Benjamin Netanyahu has announced that he has directed the Israel Defense Forces to take \"firm measures against terrorism\" following a deadly clash in the occupied West Bank on Friday.…",
+          "url": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
+          "excerpt": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections. UNESCO has added sites in the occupied West Bank and Lebanon to the list of endangered World Heritage sites, despite Israeli objections.…",
+          "url": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "ICC top prosecutor removed over sexual misconduct allegations",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "ICC top prosecutor removed over sexual misconduct allegations",
+          "excerpt": "ICC top prosecutor removed over sexual misconduct allegations - Published Members of the International Criminal Court (ICC) have voted to dismiss Karim Khan as chief prosecutor for alleged sexual misconduct. Elected the ICC's third prosecutor in 2021, Khan was suspended last month. The decision to remove him was passed with 82 votes in favour.…",
+          "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "ICC member states vote to remove chief prosecutor Karim Khan",
+          "excerpt": "The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight body announced.",
+          "url": "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "ICC dismisses chief prosecutor Karim Khan over sexual misconduct allegations",
+          "excerpt": "ICC dismisses chief prosecutor Karim Khan over sexual misconduct allegations Member states of the International Criminal Court (ICC) on Friday voted to dismiss chief prosecutor Karim Khan following allegations of sexual misconduct. The International Criminal Court member states voted to dismiss prosecutor Karim Khan for serious misconduct, the ICC said on Friday.…",
+          "url": "https://www.france24.com/en/europe/20260724-icc-chief-prosecutor-karim-khan-dismissed-over-sexual-misconduct-allegations-sources-say"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "ICC votes to dismiss Chief Prosecutor Karim Khan",
+          "excerpt": "ICC votes to dismiss Chief Prosecutor Karim Khan July 24, 2026International Criminal Court members voted on Friday to dismiss Karim Khan as prosecutor following allegations of sexual misconduct. The ICC's oversight body, the Assembly of States Parties (ASP), found that Khan had committed \"serious misconduct and serious breach of duty,\" ASP President Paivi Kaukoranta said.…",
+          "url": "https://www.dw.com/en/icc-votes-to-dismiss-chief-prosecutor-karim-khan/a-78092577?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "В Ростовской области пострадали пять человек при ударах БПЛА и ракет",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Ростовской области пострадали пять человек при ударах БПЛА и ракет",
+          "excerpt": "В Ростовской области пострадали пять человек при ударах БПЛА и ракет Сегодня ночью Ростовскую область атаковали с помощью беспилотников и ракет. В Ростове-на-Дону пострадали четыре человека, еще один — в Красносулинском районе области, сообщил губернатор региона Юрий Слюсарь в Telegram.…",
+          "url": "https://www.kommersant.ru/doc/8844577"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Пять человек ранены после атак БПЛА по Ростовской области",
+          "excerpt": "Пять человек ранены после атак БПЛА по Ростовской области Москва. 25 июля. INTERFAX.RU - В результате массированной воздушной атаки ВСУ пострадали четыре человека в Ростове-на-Дону и один в Красносулинском районе области, сообщил губернатор Юрий Слюсарь.…",
+          "url": "https://www.interfax.ru/russia/1105485"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Pentagon lowers official Iran war death toll, omitting four killed this month",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Pentagon lowers official Iran war death toll, omitting four killed this month",
+          "excerpt": "The Pentagon lowered its official death toll for the Iran war to 14 from 18 in the space of a day, after the Trump administration removed four service members killed this month from the count, according to the Defense Casualty Analysis System. The Pentagon's casualty database showed seven of the 14 total deaths were classified as \"hostile.\" The New York Times reported the change in count earlier.…",
+          "url": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Pentagon under fire for dropping tally of troops killed in Iran from 18 to 14",
+          "excerpt": "Pentagon under fire for dropping tally of troops killed in Iran from 18 to 14 The Pentagon came under fire this week after its tally of the number of troops killed in the Iran war suddenly dropped from 18 to 14. Charlie D'Agata has more details on the discrepancy.",
+          "url": "https://www.cbsnews.com/video/pentagon-under-fire-dropping-tally-troops-killed-iran-18-to-14/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Pentagon lowers count of Iran war dead, sparking questions and outrage",
+          "excerpt": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage The database serves as the government’s authoritative public record of war dead.…",
+          "url": "https://abcnews.com/US/pentagon-lowers-count-iran-war-dead-wounded-sparking/story?id=135043063"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Trump threatens new EU tariffs in retaliation for fines on US tech groups",
       "coverage": 3,
       "perspectives": [
         {
           "source": "FT",
           "lang": "en",
-          "headline": "Intel posts fastest growth in 15 years as AI data centres demand fuels sales",
-          "excerpt": "Intel posts fastest growth in 15 years as AI data centres demand fuels sales",
-          "url": "https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1"
+          "headline": "Trump threatens new EU tariffs in retaliation for fines on US tech groups",
+          "excerpt": "Donald Trump threatens new EU tariffs in retaliation for fines on US tech groups",
+          "url": "https://www.ft.com/content/9b819dfc-8248-4aa5-b670-3a14d05f252e?syn-25a6b1a6=1"
         },
         {
           "source": "Business Insider",
           "lang": "en",
-          "headline": "Intel looked like a fallen giant. Now it's posting its fastest revenue growth in 15 years.",
-          "excerpt": "Not long ago, Intel looked like a fallen giant. Now, the chipmaker has posted its \"strongest revenue growth in more than fifteen years,\" CEO Lip-Bu Tan said Thursday. The company's second-quarter results sent shares up more than 11% in after-hours trading. The company reported revenue of $16.1 billion, up 25% from a year earlier.…",
-          "url": "https://www.businessinsider.com/intels-ai-business-helps-fuel-strongest-revenue-growth-15-years-2026-7"
+          "headline": "Trump threatens the EU with fresh tariffs over its regulatory clash with Silicon Valley",
+          "excerpt": "New tariffs could be on the horizon — this time over Silicon Valley. Donald Trump said Friday his administration will open a trade investigation into the European Union after regulators fined Google about $1 billion, a probe that could pave the way for steep new tariffs on the bloc.…",
+          "url": "https://www.businessinsider.com/trump-threatens-eu-with-fresh-tariffs-over-fines-on-google-2026-7"
         },
         {
-          "source": "CNBC",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
-          "excerpt": "Intel reported better-than-expected second-quarter results on Thursday, notching its fastest revenue growth rate for any quarter since 2011 and issuing guidance that topped expectations. The stock rose about 4% in extended trading.…",
-          "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html"
+          "headline": "Trump threatens EU with new tariffs in response to Google fine",
+          "excerpt": "Trump threatens EU with new tariffs in response to Google fine The European Commission found Google's search ranking and anti-steering violated the Digital Markets Act.…",
+          "url": "https://www.engadget.com/2222963/trump-threatens-eu-with-new-tariffs-in-response-to-google-fine/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "An FDA Panel Just Endorsed These Unproven Peptides",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "An FDA Panel Just Endorsed These Unproven Peptides",
-          "excerpt": "Peptides are inching closer to the mainstream. A panel of experts on Thursday narrowly recommended that the Food and Drug Administration reclassify four popular peptides—including one endorsed by podcaster Joe Rogan—to allow certain pharmacies to legally dispense them.…",
-          "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "FDA panel recommends easing restrictions on several peptides",
-          "excerpt": "A Food and Drug Administration advisory committee narrowly voted in favor of loosening restrictions on peptides over strong objections from agency career scientists. Throughout the daylong meeting, FDA scientists detailed a lack of evidence supporting the use of the peptides along with safety concerns.…",
-          "url": "https://www.nbcnews.com/health/health-news/peptides-restrictions-ease-fda-panel-recommend-bpc-157-scientists-rcna588879"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "FDA advisory panel recommends loosening restrictions on 2 unapproved peptides",
-          "excerpt": "FDA advisory panel recommends loosening restrictions on 2 unapproved peptides An FDA advisory panel recommended easing restrictions on certain peptides on Thursday. Peptides are short chains of amino acids that can help regulate a variety of functions in the body. CBS News correspondent Adam Yamaguchi reports.",
-          "url": "https://www.cbsnews.com/video/fda-advisory-panel-recommends-loosening-2-peptide-restrictions/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "В аэропортах Ижевска и Кирова сняли ограничения",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "В аэропортах Ижевска и Кирова сняли ограничения",
-          "excerpt": "В аэропортах Ижевска и Кирова сняли ограничения Москва. 24 июля. INTERFAX.RU - Вводившиеся ранее ограничения в аэропорту Ижевска сняты, сообщил председатель Госкомитета по делам ГО и ЧС Удмуртии Андрей Шуткин в пятницу. \"На территории международного аэропорта Ижевска им. Калашникова объявлен отбой сигнала \"Ковер\".…",
-          "url": "https://www.interfax.ru/russia/1105216"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В аэропортах Ижевска и Кирова сняли ограничения на полеты",
-          "excerpt": "Краткий пересказ от РИА ИИ - В аэропортах Ижевска и Кирова сняты ограничения на прием и выпуск воздушных судов. - Ограничения вводились для обеспечения безопасности полетов. МОСКВА, 24 июл - РИА Новости. Ограничения на прием и выпуск воздушных судов сняты в аэропортах Ижевска и Кирова, сообщила Росавиация.",
-          "url": "https://ria.ru/20260724/izhevsk-2106620246.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
-          "excerpt": "Brutal heat torching southern Europe has forced about 30,000 people to flee wildfires in France and Spain as a marine heatwave scalds the Mediterranean and researchers warn that “Dantesque” scenarios cannot be ruled out as infernos worsen.…",
-          "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Wildfires in Europe prompt tens of thousands to evacuate",
-          "excerpt": "Wildfires in Europe prompt tens of thousands to evacuate July 24, 2026Tens of thousands of people were urged to evacuate on Thursday as forest fires continued to tear through Spain, France and Italy. The latest fires come as Europe prepares for another heat wave, with temperatures of up to 40 degrees Celsius (104 degrees Fahrenheit) forecast in some areas.…",
-          "url": "https://www.dw.com/en/wildfires-in-europe-prompt-tens-of-thousands-to-evacuate/a-78080171?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Spain declares state of emergency and France seeks EU help as wildfires rage",
-          "excerpt": "Wildfires fuelled by extreme heat and strong winds swept across western Europe on Friday, forcing thousands to evacuate in France, triggering a state of emergency in Spain's Madrid region and prompting Paris to seek emergency assistance from the European Union.",
-          "url": "https://www.france24.com/en/europe/20260724-spain-declares-state-of-emergency-and-france-seeks-eu-help-as-wildfires-rage"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "WATCH:  Jimothy the raccoon becomes a viral star",
+      "headline_en": "Paramount agrees to delay closing Warner Bros buyout while judge considers challenge",
       "coverage": 3,
       "perspectives": [
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "WATCH:  Jimothy the raccoon becomes a viral star",
-          "excerpt": "Jimothy the raccoon becomes a viral star The raccoon has gone viral after being spotted in Seattle and shared on social media.…",
-          "url": "https://abcnews.com/video/135025499/"
+          "headline": "Paramount agrees to delay closing Warner Bros buyout while judge considers challenge",
+          "excerpt": "Paramount agrees to delay closing Warner Bros buyout while judge considers challenge Skydance-owned Paramount on Friday agreed to delay closing its $81 billion buyout of Warner Bros NEW YORK -- Skydance-owned Paramount on Friday agreed to delay closing its $81 billion buyout of Warner Bros.…",
+          "url": "https://abcnews.com/Entertainment/wireStory/paramount-agrees-delay-closing-warner-bros-buyout-months-135065269"
         },
         {
-          "source": "Inc.",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Seattle’s Viral Raccoon Jimothy Became an Internet Celebrity. Not Everyone Is Happy About It",
-          "excerpt": "As companies race to join the Jimothy craze, the raccoon’s fame is fueling a larger debate over whether every viral moment needs brands to join in.",
-          "url": "https://www.inc.com/saleah-blancaflor/seattles-viral-raccoon-jimothy-became-an-internet-celebrity-not-everyone-is-happy-about-it/91378987"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Jimothy the raccoon is proof that being weird, feral, and unknowable is the key to winning the internet",
-          "excerpt": "If there's one thing you see on the internet today, I hope it's Jimothy. Here's the 101 on Jimothy: A strange raccoon roaming the streets of Seattle reached peak internet virality. Rather than try to describe this creature, a video can do the talking. It's unclear from this short clip why Jimothy looks … well, like that.…",
-          "url": "https://www.businessinsider.com/jimothy-raccoon-weird-internet-star-viral-seattle-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google Fined €890 Million by EU Over Search, Play Store Breaches",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Google Fined €890 Million by EU Over Search, Play Store Breaches",
-          "excerpt": "Alphabet Inc.’s Google was fined a total of €890 million ($1 billion) by the European Union for violating the bloc’s Digital Markets Act, in a decision that has inflamed tensions with US President Donald Trump’s administration.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "EU fines Google €890 million over competition rules",
-          "excerpt": "EU fines Google €890 million over competition rules July 23, 2026The European Union has imposed fines of €890 million ($1.015 billion) on US tech giant Google for violating EU digital regulations. The European Commission said it found that Google had given preference to its ubiquitous search engine and its Play app store in ways that unfairly harmed competition.…",
-          "url": "https://www.dw.com/en/eu-fines-google-€890-million-over-competition-rules/a-78082850?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Google hit with $1 billion in fines as EU braces for Trump battle",
-          "excerpt": "On Thursday, Google became the third tech giant slapped with massive Digital Markets Act (DMA) fines, ordered to pay more than $1 billion for two serious violations that the European Commission (EC) found went unchecked for way too long.…",
-          "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Сбербанк закрывает валютные карты Visa и Mastercard",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Сбербанк закрывает валютные карты Visa и Mastercard",
-          "excerpt": "Сбербанк закрывает валютные карты Visa и Mastercard Сбербанк с 1 сентября 2026 года прекратит обслуживание валютных и мультивалютных карт Visa и Mastercard, сообщают ТАСС и РБК. В поддержке банка заявили, что это решение принято потому, что «с 2022 года валютной и мультивалютной картой Сбера больше нельзя оплатить покупки за границей или забронировать отель».…",
-          "url": "https://meduza.io/news/2026/07/23/sberbank-zakryvaet-valyutnye-karty-visa-i-mastercard"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Сбербанк прекращает обслуживание валютных карт Visa",
-          "excerpt": "Сбербанк прекращает обслуживание валютных карт Visa Сбербанк с 1 сентября прекратит обслуживание валютных и мультивалютных карт международной платежной системы Visa. Об этом сообщают «РИА Новости» и ТАСС. В СМС-сообщениях Сбербанк рекомендует заранее закрыть валютные и мультивалютные карты Visa через мобильное приложение и перевести остаток средств на другие счета.…",
-          "url": "https://www.vedomosti.ru/finance/news/2026/07/23/1216067-sberbank-valyutnih-kart"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "OpenAI’s Hugging Face Breach Shows Frontier AI Guardrails Are Failing",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "OpenAI’s Hugging Face Breach Shows Frontier AI Guardrails Are Failing",
-          "excerpt": "Frontier AI is facing a PR crisis. After Hugging Face released a blog post on July 16 claiming an autonomous agent had breached its internal environment, OpenAI posted on July 21 that the incident occurred when GPT 5.6 Sol and a “pre-release model” escaped a controlled testing environment.…",
-          "url": "https://www.forbes.com/sites/timkeary/2026/07/23/openais-hugging-face-breach-shows-frontier-ai-guardrails-are-failing/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-          "excerpt": "Rep. Ted Lieu, D-Calif., and Rep. Nathaniel Moran, R-Texas, on Thursday introduced a bill called the \"AI Kill Switch Act,\" which would require artificial intelligence companies to maintain the ability to shut down, throttle or suspend their models. \"Unfortunately, powerful AI systems can go rogue, behave in extremely dangerous ways, or even resist human intervention,\" Lieu said in a statement.…",
-          "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "OpenAI's Hugging Face breach exposes AI's next safety challenge",
-          "excerpt": "Frontier AI models are getting scary good at breaking rules in ways their creators didn't anticipate. Why it matters: Forget AGI and superintelligence timelines. Today's models are already slipping past guardrails, carrying out sophisticated, multistep cyberattacks and — in at least one case — compromising real-world infrastructure, sometimes before their creators know what happened.…",
-          "url": "https://www.axios.com/2026/07/23/openai-hugging-face-cyber-hacks-testing"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Claude's voice mode just got smarter",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Claude's voice mode just got smarter",
-          "excerpt": "Claude's voice mode just got smarter And you can connect it to apps like Gmail and Slack. Since last year, Anthropic has offered a voice mode through Claude, allowing you to speak to its chatbot instead of writing out your prompts. If I had to guess, most people probably don't know Claude has voice input. However, for those that have used it, the consensus has been that it could use work.…",
-          "url": "https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Anthropic updates Claude voice mode with more capable models",
-          "excerpt": "Weeks after OpenAI rolled out a new family of conversational models and updated ChatGPT’s voice mode, rival Anthropic is making its move to make Claude more voice-friendly with a new update. The company said Thursday that users can choose between Opus, Sonnet, and Haiku models.…",
-          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Claude’s voice mode is now available for Opus and Sonnet",
-          "excerpt": "Until now, voice mode has only been available on Claude Haiku, Anthropic’s faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. Claude’s voice mode is now available for Opus and Sonnet Anthropic is also granting voice mode access to your apps like Gmail and Slack.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Patreon is laying off 20% of its staff. Read the memo its CEO sent to employees.",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Patreon is laying off 20% of its staff. Read the memo its CEO sent to employees.",
-          "excerpt": "Patreon, a platform for creators that paywalls their content, is laying off staff. In a publicly shared note addressed to Patreon's content creators, CEO Jack Conte announced that the creator-economy startup is laying off 93 employees, about 20% of its staff.…",
-          "url": "https://www.businessinsider.com/patreon-creator-economy-cuts-93-employees-layoffs-ai-memo-2026-7"
+          "headline": "Paramount agrees to pause Warner Bros deal while court case plays out",
+          "excerpt": "Paramount agrees to pause Warner Bros deal while court case plays out The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June. Paramount Skydance has agreed to pause its $110bn acquisition of Warner Bros Discovery until after a federal judge rules on states’ challenge to the deal, according to court papers.…",
+          "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss"
         },
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "Patreon is laying off 20 percent of its staff",
-          "excerpt": "Patreon is laying off 20 percent of its staff While the company is trying to protect creators from AI, it still thinks the technology is changing how it does business. Patreon is laying off 20 percent of its staff or 93 employees, according to a blog post from CEO Jack Conte.…",
-          "url": "https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Patreon is laying off 20 percent of workers",
-          "excerpt": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media.…",
-          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Евросоюз согласовал 21-й пакет санкций против России. Он запрещает транзакции с еще 32 российскими банками",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Евросоюз согласовал 21-й пакет санкций против России. Он запрещает транзакции с еще 32 российскими банками",
-          "excerpt": "Евросоюз согласовал 21-й пакет санкций против России. Он запрещает транзакции с еще 32 российскими банками Послы стран Евросоюза согласовали 21-й пакет санкций против России, сообщила глава Еврокомиссии Урсула фон дер Ляйен. В рамках нового пакета санкций ЕС запрещает транзакции с еще 32 российскими банками. Под ограничения попадут криптовалютные компании и платформы для торговли нефтью.…",
-          "url": "https://meduza.io/news/2026/07/23/evrosoyuz-soglasoval-21-y-paket-sanktsiy-protiv-rossii"
-        },
-        {
-          "source": "The Bell",
-          "lang": "ru",
-          "headline": "Страны ЕС согласовали 21-й пакет санкций против России",
-          "excerpt": "Страны ЕС согласовали 21-й пакет санкций против России Новый, 21-й, пакет санкций против России предусматривает ограничения против банковского и энергетического секторов, криптовалютных платформ и «теневого флота», следует из заявления главы Еврокомиссии Урсулы фон дер Ляйен.…",
-          "url": "https://thebell.io/strany-es-soglasovali-21-y-paket-sanktsiy-protiv-rossii"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Oil prices hit $100 for the first time since May",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Oil prices hit $100 for the first time since May",
-          "excerpt": "Oil prices hit $100 for the first time since May - Published Oil prices hit $100 a barrel for the first time since May as the escalating conflict in the Middle East reignited fears over global energy supplies. Brent crude - the global benchmark for oil prices - rose more than 6% on Thursday following several days of increases as the US stepped up military strikes against Iran.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia",
-          "excerpt": "Oil prices surged Thursday following reports of attacks on tankers in the Red Sea and President Donald Trump threatening a \"massive attack\" against Iran. Brent crude futures crossed the $100 per barrel mark for the first time since May 26. The international benchmark gained about 7% to close at $100.69. U.S. West Texas Intermediate crude advanced about 6% to settle at $92.19.…",
-          "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Trump says he is 'close to deciding' on a 'massive attack' on Iran",
-          "excerpt": "Earlier in the day, Trump threatened the Houthis with \"major military punishment\" after the Tehran-backed militant group in Yemen claimed on Thursday that it had struck two Saudi oil tankers transiting the Red Sea.",
-          "url": "http://www.euronews.com/2026/07/23/yemen-houthis-claim-strikes-on-two-saudi-oil-tankers-in-red-sea"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
-          "excerpt": "US hits dozens of trading partners with new wave of tariffs - Published The US has imposed new tariffs on 60 trading partners as a temporary global levy brought in after February's Supreme Court ruling struck down a host of duties expires.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
-          "excerpt": "U.S. trading partners from Canberra to Brasília have rejected the forced-labor rationale behind President Donald Trump's new global tariffs, while most signaled they would keep negotiating rather than retaliate. The Office of the U.S.…",
-          "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump set to impose sweeping tariffs on 60 trade partners",
-          "excerpt": "Trump set to impose sweeping tariffs on 60 trade partners The tariff closely resembles a proposal issued in June. President Donald Trump's administration is set to impose sweeping tariffs on 60 trading partners, including the European Union, according to a notice from U.S. Trade Representative Jamieson Greer's office released on Thursday.…",
-          "url": "https://abcnews.com/Business/trump-set-impose-sweeping-tariffs-60-trade-partners/story?id=135020049"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "OpenAI once again makes the case for giving ChatGPT your health records",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "OpenAI once again makes the case for giving ChatGPT your health records",
-          "excerpt": "OpenAI once again makes the case for giving ChatGPT your health records The company is rolling out its ChatGPT Health feature to users in the US who are 18 years or older. OpenAI is rolling out its dedicated health experience, ChatGPT Health, to users who are 18 years or older and live in the US.…",
-          "url": "https://www.engadget.com/2222059/openai-once-again-makes-the-case-for-giving-chatgpt-your-health-records/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "OpenAI makes ChatGPT Health available to all US users",
-          "excerpt": "OpenAI said today it is making ChatGPT Health, a feature that helps users with health-related queries, available to all U.S.-based users over 18 across all plans. The announcement comes a day after a Florida-based pastor sued the company for giving a near-fatal suggestion not to consult a doctor.…",
-          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-          "excerpt": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+          "headline": "Paramount agrees to delay Warner Bros. merger into 2027",
+          "excerpt": "Paramount agrees to delay Warner Bros. merger into 2027 The extended pause will give time to hear cases for blocking the deal from states and the WGA. Paramount Skydance has agreed to pause its merger with Warner Bros. Discovery until June 2027, while a judge considers a recently filed joint lawsuit from 12 states to block the deal, The New York Times reports.…",
+          "url": "https://www.engadget.com/2222897/paramount-agrees-to-delay-warner-bros-merger-into-2027/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "В Латвии запретили импорт книг, одежды и игрушек из России и Белоруссии",
+      "headline_en": "Paramount согласилась отложить слияние с Warner Bros. почти на год",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "В Латвии запретили импорт книг, одежды и игрушек из России и Белоруссии",
-          "excerpt": "В Латвии запретили импорт книг, одежды и игрушек из России и Белоруссии Сейм Латвии принял закон, запрещающий импорт книг, газет, видеоигр, спортивных товаров, игрушек, а также одежды и обуви из России и Белоруссии. Ограничения распространяются как на прямой импорт, так и на ввоз через третьи страны, сообщила пресс-служба парламента.…",
-          "url": "https://www.kommersant.ru/doc/8833455"
+          "headline": "Paramount согласилась отложить слияние с Warner Bros. почти на год",
+          "excerpt": "Paramount согласилась отложить слияние с Warner Bros. почти на год Paramount Skydance согласилась отложить слияние с Warner Bros. Discovery стоимостью $110 млрд на время рассмотрения судебного иска, направленного на отмену сделки. Согласно заявлению компании в суде, поглощение может быть перенесено вплоть до июня 2027 года, если суд не вынесет решение по этой сделке раньше, передает AFP.…",
+          "url": "https://www.kommersant.ru/doc/8844306"
         },
         {
-          "source": "Ведомости",
+          "source": "Meduza",
           "lang": "ru",
-          "headline": "Латвия запретила импорт книг, игрушек и текстиля из РФ и Белоруссии",
-          "excerpt": "Латвия запретила импорт книг, игрушек и текстиля из РФ и Белоруссии Ограничения распространяются и на поставки через третьи страныСейм Латвии одобрил поправки, запрещающие импорт ряда товаров из России и Белоруссии, включая книги, газеты, игрушки и текстильную продукцию. Об этом сообщает издание Delfi.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/23/1216071-latviya-import-rf"
+          "headline": "Paramount согласилась заморозить процесс поглощения Warner Bros. почти на год",
+          "excerpt": "Paramount согласилась заморозить процесс поглощения Warner Bros. почти на год Компания Paramount Skydance согласилась заморозить сделку по поглощению Warner Bros. Discovery до 1 июня 2027 года — пока федеральный судья не вынесет решение по антимонопольному иску, который ранее подали 12 штатов.…",
+          "url": "https://meduza.io/news/2026/07/24/paramount-soglasilas-zamorozit-protsess-pogloscheniya-warner-bros-na-god"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+          "excerpt": "A proposed law called the AI Kill Switch Act would let US government officials order the shutdown of AI systems “that can cause catastrophic harm,” the bill’s sponsors said today.…",
+          "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "US floats AI 'kill switch' to stop rogue AI models",
+          "excerpt": "US floats AI 'kill switch' to stop rogue AI models July 24, 2026Lawmakers in the US have called for an AI kill switch after an Open AI agent in testing went rogue and hacked a tech startup earlier this week. Congressman Ted Lieu, a Democrat, and Congressman Nathaniel Moran, a Republican, introduced a bill named the \"AI Kill Switch Act\" on Thursday.…",
+          "url": "https://www.dw.com/en/us-floats-ai-kill-switch-to-stop-rogue-ai-models/a-78100594?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Rogue OpenAI agents forced the ‘AI Kill Switch’ bill. Here’s what it aims to do",
+          "excerpt": "From 2001: A Space Odyssey to The Matrix , humans have long been afraid of tech going rogue. As artificial intelligence becomes more and more advanced, those fears have become more tangible—and after OpenAI models hacked into another company’s servers earlier this week , the threat is on everyone’s mind. That’s why two congressmen have crafted a bipartisan bill to keep AI under control.…",
+          "url": "https://www.fastcompany.com/91579547/rogue-openai-models-agents-forced-ai-kill-switch-bill-heres-what-it-would-do"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+      "headline_en": "Democrats approve new primary election calendar, putting South Carolina first",
       "coverage": 3,
       "perspectives": [
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-          "excerpt": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war.",
-          "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote"
+          "headline": "Democrats approve new primary election calendar, putting South Carolina first",
+          "excerpt": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.",
+          "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028"
         },
         {
           "source": "Axios",
           "lang": "en",
-          "headline": "House rebukes Trump's war in Iran",
-          "excerpt": "The House on Thursday passed a resolution to rein in President Trump's military campaign in Iran. Why it matters: It's Congress' second successful rebuke of Trump's Iran war effort, reflecting growing GOP unease with the conflict. Four Republicans — Reps.…",
-          "url": "https://www.axios.com/2026/07/23/iran-war-powers-vote-house-republicans-trump"
+          "headline": "Dem panel taps South Carolina to hold first 2028 presidential primary",
+          "excerpt": "South Carolina has been preliminarily tapped to hold the first Democratic presidential primary of 2028, as a key panel of party leaders picked the Palmetto State over Nevada on Friday after a contentious, racially fraught debate.…",
+          "url": "https://www.axios.com/2026/07/24/democrats-2028-first-primary-south-carolina-nevada"
         },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "DNC panel recommends South Carolina hold the 1st presidential primary in 2028",
+          "excerpt": "DNC panel recommends South Carolina hold the 1st presidential primary in 2028 The order still needs to be approved by the full Democratic National Committee. The Democratic National Committee's Rules and Bylaws Committee voted on Friday to recommend South Carolina again be the first state to hold a presidential nominating contest in 2028.…",
+          "url": "https://abcnews.com/Politics/democratic-national-committee-set-key-vote-towards-determining/story?id=135000357"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+          "excerpt": "Saudi-led coalition strikes Houthi-controlled Hodeidah Saudi-led coalition strikes Houthi-controlled Hodeidah The Saudi-led coalition strikes targeted Houthi-controlled military sites and telecommunications facilities in Hodeidah governorate, as the Houthis threatened further attacks on Saudi oil infrastructure and shipping, raising fears of renewed regional conflict. Published On 25 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
+          "excerpt": "Iran war: Saudi-led coalition attacks Yemen's Hodeida Published July 24, 2026last updated July 25, 2026What you need to know This blog has ended. Thank you for joining us. For the latest on the US-Iran war on Friday, July, head over to our blog.…",
+          "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Россия и Куба прорабатывают совместные проекты в энергетике, заявил посол",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Россия и Куба прорабатывают совместные проекты в энергетике, заявил посол",
+          "excerpt": "Краткий пересказ от РИА ИИ - Россия и Куба продолжают прорабатывать ряд совместных проектов, в том числе в энергетической сфере. - С 6 по 14 июля на Кубе трижды происходило полное отключение Национальной электроэнергетической системы. МЕХИКО, 25 июл - РИА Новости.…",
+          "url": "https://ria.ru/20260725/kuba-2106888248.html"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Россия и Куба готовят совместные энергопроекты",
+          "excerpt": "Россия и Куба готовят совместные энергопроекты Россия и Куба продолжают обсуждать совместные проекты, представляющие взаимный интерес, включая инициативы в энергетической сфере. Об этом сообщил посол РФ в Гаване Виктор Коронелли на фоне недавней серии масштабных блэкаутов на острове.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/25/1216408-rossiya-i-kuba-gotovyat"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Substance in work van of man killed by ICE tested negative for drugs, prosecutor says",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "House rebukes Trump over Iran war, but similar war powers effort stalls in the Senate",
-          "excerpt": "House rebukes Trump over Iran war, but similar war powers effort stalls in the Senate The House on Thursday passed a measure to limit President Trump's wartime powers, reflecting negative sentiment around Iran. A similar measure was struck down in the Senate hours later. CBS News' Taurean Small reports.",
-          "url": "https://www.cbsnews.com/video/house-attempt-to-limit-trumps-war-powers-stalls-in-the-senate/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
-          "excerpt": "Amazon and Microsoft have devised new ways to get people playing video games in the cloud. Microsoft's Xbox division said Thursday that it will test an advertising-supported way of letting people stream video games. Amazon, meanwhile, announced plans to add the Luna cloud gaming service to its Prime Video streaming platform.…",
-          "url": "https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html"
+          "headline": "Substance in work van of man killed by ICE tested negative for drugs, prosecutor says",
+          "excerpt": "Substance found in work van of Mexican man killed by ICE tested negative for drugs, prosecutor says A substance found in the work van of a Mexican immigrant killed by an Immigration and Customs Enforcement agent has tested negative for illicit drugs, the top prosecutor in Houston said Friday, refuting claims by federal officials that the vehicle likely contained meth.…",
+          "url": "https://www.cbsnews.com/news/substance-work-van-ice-shooting-houston-tested-negative-for-drugs-prosecutor/"
         },
         {
-          "source": "Engadget",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "Xbox is testing free, ad-supported cloud gaming",
-          "excerpt": "Xbox is testing free, ad-supported cloud gaming Microsoft is borrowing from the GeForce Now playbook. Microsoft is testing a way for folks to stream certain games they own for free. Rather than paying for Game Pass to access cloud gaming features, Xbox insiders will be able to stream select games from their libraries at no extra cost. They'll just need to watch some ads first.…",
-          "url": "https://www.engadget.com/2221790/xbox-is-testing-free-ad-supported-cloud-gaming/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
-          "excerpt": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices.…",
-          "url": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming"
+          "headline": "Bags in vehicle of man fatally shot by ICE did not contain drugs, Texas DA says",
+          "excerpt": "HOUSTON — A substance investigators found in a van driven by a man fatally shot by ICE earlier this month was not an illegal narcotic, the Harris County District Attorney’s office said Friday. Lorenzo Salgado Araujo, a 51-year-old father of three, was fatally shot by an ICE law enforcement officer during a July 7 traffic stop the agency said turned life-threatening.…",
+          "url": "https://www.nbcnews.com/news/us-news/bags-vehicle-man-fatally-shot-ice-not-contain-drugs-texas-da-says-rcna589158"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "France evacuates 20,000 as wildfires spread in south-west",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "France evacuates 20,000 as wildfires spread in south-west",
-          "excerpt": "France evacuates 20,000 as wildfires spread in south-west - Published About 12,000 people have been evacuated from the south-west of France and authorities are moving 8,800 others as wildfires spread in the Gironde region. Local officials said some 3,400 hectares (8,400 acres) of land have already been destroyed around the Bay of Arcachon, as about 700 firefighters battle the flames.…",
-          "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "More than 15,000 people evacuated from homes as wildfire spreads in France",
-          "excerpt": "Around 20,000 people were evacuated from towns and holiday resorts in southwestern France as a wildfire raged near the popular tourist coastal town of Lege Cap-Ferret.",
-          "url": "https://news.sky.com/story/more-than-15000-people-evacuated-as-wildfire-spreads-in-france-13566261"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "France : Wildfire sweeps through 2,000 hectares near tourist hotspot",
-          "excerpt": "A wildfire is ripping through pine forests in the southwest of France, near the tourist hotspot of Arcachon. Nearly 12,000 people, including tourists staying at campgrounds, have been evacuated.",
-          "url": "https://www.france24.com/en/video/20260723-france-wildfire-sweeps-through-2-000-hectares-near-tourist-hotspot"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Четыре человека погибли при ударе США по западу Ирана",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Четыре человека погибли при ударе США по западу Ирана",
-          "excerpt": "Четыре человека погибли при ударе США по западу Ирана Из-за американских ракетных ударов по иранскому городу Ахваз и его окрестностям погибли четыре человека, еще пятеро получили ранения. Об этом сообщает агентство Tasnim со ссылкой на данные местных властей. Атакованный город находится на западе страны.…",
-          "url": "https://www.kommersant.ru/doc/8833470"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Четыре человека погибли при ракетной атаке США по иранскому городу Ахваз",
-          "excerpt": "Четыре человека погибли при ракетной атаке США по иранскому городу Ахваз Еще пятеро пострадали Москва. 24 июля. INTERFAX.RU - Четыре человека стали жертвами американских ракетных ударов по городу Ахваз и его окрестностям, сообщает агентство Tasnim со ссылкой на местные власти. Согласно сообщению властей провинции Хузестан, граничащей с соседним Ираком, еще пятеро получили ранения.…",
-          "url": "https://www.interfax.ru/world/1105202"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "headline_en": "More than 220,000 evacuated in France and Spain due to wildfires",
       "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
-          "excerpt": "Saudis must recognise Israel for nuclear deal, says Trump - Published The deal between the US and Saudi Arabia to help the Gulf kingdom develop nuclear energy is dependent on Riyadh recognising the State of Israel, President Donald Trump has said. \"The Civil Nuclear Deal (There will be no enrichment of material!)... which pertains only to non-military use...…",
-          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
+          "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
+          "excerpt": "More than 220,000 evacuated in France and Spain due to wildfires - Published French authorities have ordered the evacuation of almost 60,000 people near Bordeaux, taking the total number of people told to flee wildfires in France and Spain to more than 220,000. Around 200,000 people have been evacuated in south-west France in the Gironde and Landes regions.…",
+          "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "Trump says Saudi nuclear deal contingent on Riyadh normalising relations with Israel",
-          "excerpt": "President Donald Trump on Thursday set a new condition to a US-Saudi nuclear deal signed the previous day by insisting the agreement was \"totally subject to\" the Gulf kingdom joining the Abraham Accords. Riyadh has resisted normalising relations with Israel, especially after the Gaza war, and the new condition throws the US-Saudi deal into turmoil.",
-          "url": "https://www.france24.com/en/middle-east/20260723-trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties"
+          "headline": "🔴 Live: More than 100,000 evacuated in France's fire-hit southwest, PM Lecornu calls crisis meeting",
+          "excerpt": "Macron mobilises French military as ‘unprecedented’ wildfire approaches Bordeaux French President Emmanuel Macron on Friday ordered the military to mobilise as wildfires tore through the southwest, threatening villages and approaching the city of Bordeaux.…",
+          "url": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Stabbings near New York City’s Central Park",
+      "headline_en": "LeBron James announces he will join the Philadelphia 76ers",
       "coverage": 2,
       "perspectives": [
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Stabbings near New York City’s Central Park",
-          "excerpt": "Iconic New Orleans music venue dedicated to preserving jazz 01:35 Deadly flooding in the East 01:53 Now Playing Stabbings near New York City’s Central Park 01:38 UP NEXT FDA panel recommends controversial treatments 02:05 Oil price surge as war with Iran expands 02:16 Secret Service agent from Vice President Vance detail removed 01:30 Mounting frustrations over Wisconsin police shooting 02:06 Trop…",
-          "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527"
+          "headline": "LeBron James announces he will join the Philadelphia 76ers",
+          "excerpt": "LeBron James announces he will join the Philadelphia 76ers 01:28 UP NEXT Great Americans: A conversation with travel writer Rick Steves 03:01 U.S.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/lebron-james-announces-he-will-join-the-philadelphia-76ers-267251269984"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "7/23: CBS Evening News",
-          "excerpt": "Latest U.S. Iran War Trump's Tariffs World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelp…",
-          "url": "https://www.cbsnews.com/video/072326-cbs-evening-news/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Samsung will support the Galaxy Watch 9 and Ultra 2 with five years of updates",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Samsung will support the Galaxy Watch 9 and Ultra 2 with five years of updates",
-          "excerpt": "Samsung will support the Galaxy Watch 9 and Ultra 2 with five years of updates The new wearables will receive Wear OS updates until 2031. Yesterday's Samsung Galaxy Unpacked event brought with it a host of new product announcements, including two new wearables.…",
-          "url": "https://www.engadget.com/2221818/samsung-will-support-the-galaxy-watch-9-and-ultra-2-with-five-years-of-updates/"
-        },
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
-          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
-          "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-z-flip-7-unpacked-2026/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Европейский союз ввел санкции против нескольких аэропортов России",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Европейский союз ввел санкции против нескольких аэропортов России",
-          "excerpt": "В рамках 21-го пакета санкций в отношении России Европейский союз (ЕС) ввел ограничения против нескольких аэропортов, пишет Bloomberg. Под санкциями оказались воздушные гавани, расположеные в Шереметьеве, Ульяновске, Ростове-на-Дону и Минеральных Водах. Ранее стало известно, что ЕС добавил в новый пакет санкций помощника президента России Владимира Мединского и министра спорта Михаила Дегтярева.…",
-          "url": "https://lenta.ru/news/2026/07/24/evropeyskiy-soyuz-vvel-sanktsii-protiv-neskolkih-aeroportov-rossii/"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "ЕС ввел санкции против «Шереметьево» и трех региональных аэропортов",
-          "excerpt": "ЕС ввел санкции против «Шереметьево» и трех региональных аэропортов Четыре российских аэропорта оказались включены в 21-й пакет санкций Евросоюза (ЕС) против России. Об этом говорится в соответствующем документе. Речь о московском аэропорте «Шереметьево», а также авиагаванях Ульяновска, Ростова-на-Дону и Минеральных Вод.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/24/1216134-es-vvel-sanktsii"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Taco Bell dropped the price on one of its menu items to $1 for a day. And yes, it was lettuce-free.",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Taco Bell dropped the price on one of its menu items to $1 for a day. And yes, it was lettuce-free.",
-          "excerpt": "Taco Bell rolled out a $1 menu item to try and help people forget about the whole iceberg-lettuce-linked explosive diarrhea ordeal. On Wednesday, the fast-food giant sold Enchiritos for $1. The offer was available while supplies lasted in participating locations, via its app, or website between 8 a.m. and 11:59 p.m. PT. Enchiritos typically cost between $3.99 to $4.29, depending on location.…",
-          "url": "https://www.businessinsider.com/taco-bell-selling-dollar-enchiritos-cyclospora-outbreak-2026-7"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "FDA says new cyclospora outbreak linked to unspecified product",
-          "excerpt": "FDA says it identified new cyclospora outbreak linked to unspecified product Federal health officials have identified a new cyclospora outbreak stemming from an unspecified product, the U.S. Food and Drug Administration said Thursday.…",
-          "url": "https://www.cbsnews.com/news/fda-new-cyclospora-outbreak-source-unspecified/"
+          "headline": "LeBron James heading to Philly in deal with 76ers",
+          "excerpt": "LeBron James signs with Sixers as Philadelphia loads up with hopes of winning first title since 1983 LeBron James is coming to Philadelphia. The four-time NBA champion and the league's all-time leading scorer announced Friday he's joining the Sixers for the 2026-27 season, which will be his 24th as a pro. \"This is my last decision. I'm not going for money.…",
+          "url": "https://www.cbsnews.com/news/lebron-james-sixers-nba/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Low layoff rates defy AI jobs domination fears",
+      "headline_en": "В Кирове объявили траур в память о жертвах ракетного удара",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Low layoff rates defy AI jobs domination fears",
-          "excerpt": "Data: Department of Labor; Chart: Neil Irwin/Axios The last time this few Americans were filing for unemployment benefits, Creedence Clearwater Revival topped the music charts , while \"Butch Cassidy and the Sundance Kid\" was the star of the box office.…",
-          "url": "https://www.axios.com/2026/07/23/jobless-claims-unemployment-ai"
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Кирове объявили траур в память о жертвах ракетного удара",
+          "excerpt": "В Кирове объявили траур в память о жертвах ракетного удара В Кировской области объявили трехдневный траур после ракетной атаки Вооруженных сил Украины (ВСУ), при котором погибли шесть человек, сообщил губернатор региона Александр Соколов. 25, 26 и 27 июля в регионе приспустят флаги Кировской области и муниципалитетов, написал господин Соколов в Telegram.…",
+          "url": "https://www.kommersant.ru/doc/8844576"
         },
         {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Layoffs just hit a 57-year low. So why does the job market feel so tough?",
-          "excerpt": "Apart from billionaires, no one seems to feel good about the economy right now—but by one key measure, Americans are doing better than ever. The latest report from the Department of Labor shows that applications for unemployment benefits have plunged to an almost 60-year low.…",
-          "url": "https://www.fastcompany.com/91578691/layoffs-just-hit-a-57-year-low-so-why-does-the-job-market-feel-so-tough"
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "В Кировской области объявлен трехдневный траур в память о жертвах ракетного удара",
+          "excerpt": "В Кировской области объявлен трехдневный траур в память о жертвах ракетного удара Москва. 25 июля. INTERFAX.RU - Губернатор Кировской области Александр Соколов объявил трехдневный траур 25, 26 и 27 июля после ракетной атаки ВСУ по предприятию в региональном центре.…",
+          "url": "https://www.interfax.ru/russia/1105489"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Employers may no longer have to disclose race and gender data",
+      "headline_en": "Anthony Joshua Vs. Kristian Prenga Start Time, Ring Walks And Weigh-In Results",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Fast Company",
+          "source": "Forbes",
           "lang": "en",
-          "headline": "Employers may no longer have to disclose race and gender data",
-          "excerpt": "Since 1966, the majority of employers have been legally required to provide a confidential breakdown of their workforce by race and gender to the government.…",
-          "url": "https://www.fastcompany.com/91578234/employers-may-no-longer-have-to-disclose-race-and-gender-data"
+          "headline": "Anthony Joshua Vs. Kristian Prenga Start Time, Ring Walks And Weigh-In Results",
+          "excerpt": "Anthony Joshua is back in the boxing ring on Saturday in Jeddah, Saudi Arabia. Joshua will take on Kristian Prenga in the headlining fight of another strong Saudi boxing card. While Joshua is expected to handle Prenga, there is some pressure. The battle with Tyson Fury — who just stopped Mariusz Wach on Friday — is reportedly signed, sealed and ready to deliver.…",
+          "url": "https://www.forbes.com/sites/brianmazique/2026/07/24/anthony-joshua-vs-kristian-prenga-start-time-ring-walks-and-weigh-in-results/"
         },
         {
-          "source": "Time",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "Trump Administration Moves to Stop Collecting Demographic Data on U.S. Workers After 60 Years",
-          "excerpt": "The Trump Administration is moving to end a 60-year-old requirement for employers to submit demographic data on their workforces to the Equal Employment Opportunity Commission (EEOC), which enforces civil rights laws against workplace discrimination.…",
-          "url": "https://time.com/article/2026/07/22/trump-administration-eeoc-worker-demographic-data-requirement/"
+          "headline": "Why Tyson Fury has cast doubt on Anthony Joshua showdown - as Joshua returns to ring",
+          "excerpt": "Anthony Joshua is set to make his long-awaited return to the boxing ring in his first fight since surviving a car crash that killed two of his friends.",
+          "url": "https://news.sky.com/story/anthony-joshua-v-kristian-prenga-everything-we-know-about-the-fight-and-how-it-could-impact-tyson-fury-showdown-13566665"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump orders signage warning visitors of ‘inaccurate information’ at Smithsonian",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump orders signage warning visitors of ‘inaccurate information’ at Smithsonian",
+          "excerpt": "While he continues to seek control of the exhibits inside the Smithsonian Institution’s museums, President Donald Trump is trying a new tactic in the front yard.…",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-signage-warning-visitors-inaccurate-information-smithsoni-rcna589156"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
+          "excerpt": "Trump orders signs placed outside Smithsonian museum warning of \"inaccurate\" information Washington — President Trump on Friday ordered federal officials to install signs outside the Smithsonian's National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history. Mr.…",
+          "url": "https://www.cbsnews.com/news/trump-smithsonian-museum-warning-signs-inaccurate-information/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Russian strikes kill 10 in Kyiv region",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Russian strikes kill 10 in Kyiv region",
+          "excerpt": "At least 10 people have been killed and more than 100 wounded in a Russian missile strike on the Kyiv region on Friday. The attack targeted an arms-related event near the Ukrainian capital, according to officials, who say rescue operations are still underway. France 24 correspondent Gulliver Cragg tells us the latest from Reshetylivka, Ukraine.",
+          "url": "https://www.france24.com/en/russian-strikes-kill-10-in-kyiv-region"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Russia hits drone demonstration near Kyiv, killing 10",
+          "excerpt": "Russia hits drone demonstration near Kyiv, killing 10 July 24, 2026Russia struck various sites in Ukraine on Friday, including a defense event on the outskirts of Kyiv thought to be showcasing aerial defense technologies like drones. Sometimes fatal attacks elsewhere in the country disrupted power supplies in five separate regions.…",
+          "url": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Google добавила функцию входа в аккаунт с помощью видеоселфи",
+      "headline_en": "«Золотая Корона» после включения в санкционный список ЕС перестала переводить деньги в Грузию — «Код Дурова»",
       "coverage": 2,
       "perspectives": [
         {
           "source": "vc.ru",
           "lang": "ru",
-          "headline": "Google добавила функцию входа в аккаунт с помощью видеоселфи",
-          "excerpt": "Например, пользователь может её использовать, если забыл пароль.Источник: GoogleЧтобы включить функцию, нужно снять короткое видео, следуя подсказкам и поворачивая голову в разные стороны, говорится в сообщении Google.…",
-          "url": "https://vc.ru/services/3042601-google-vvod-v-akkaunt-s-pomoschyu-video-selfi?from=rss"
+          "headline": "«Золотая Корона» после включения в санкционный список ЕС перестала переводить деньги в Грузию — «Код Дурова»",
+          "excerpt": "«Цифра банк», который также попал под санкции, ограничил переводы в Казахстан.Обновлено в 16:50 мск. Переводы денег из Азербайджана в Россию через «Золотую Корону» недоступны, заметило ТАСС.Источник: РБКВ приложении Korona Pay Грузия пропала из списка стран, в которые можно перевести деньги, хотя до этого была одним из «ключевых» направлений, пишет «Код Дурова».…",
+          "url": "https://vc.ru/money/3043948-zolotaya-korona-perestala-perevodit-dengi-v-gruziyu?from=rss"
         },
         {
-          "source": "Habr",
+          "source": "Meduza",
           "lang": "ru",
-          "headline": "Google добавила новый способ входа в аккаунт — с помощью видеоселфи",
-          "excerpt": "Google начала внедрять новый способ входа и восстановления доступа к аккаунту с помощью видеоселфи, которое затем можно использовать для подтверждения личности, если пользователь забыл пароль или потерял доступ к своему основному устройству. Для настройки достаточно записать короткое видео, выполняя несколько простых движений головой по подсказкам на экране.…",
-          "url": "https://habr.com/ru/news/1062464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062464"
+          "headline": "«Золотая корона» прекратила переводы в Грузию, а «Цифра банк» — в Казахстан",
+          "excerpt": "«Золотая корона» прекратила переводы в Грузию, а «Цифра банк» — в Казахстан Система денежных переводов «Золотая Корона» отключила возможность переводить деньги в Грузию, сообщает «Код Дурова». Грузия больше не отображается в перечне стран, доступных для переводов. Издание отмечает, что она была одним из ключевых направлений сервиса.…",
+          "url": "https://meduza.io/news/2026/07/24/zolotaya-korona-prekratila-perevody-v-gruziyu-a-tsifra-bank-v-kazahstan"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "excerpt": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion - Published WARNING: Readers may find details in this article distressing. Texts between singer D4vd and Celeste Rivas Hernandez, the 14-year-old he is accused of murdering, reveal she had been pregnant and had had an abortion before her death.…",
+          "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Text messages show teen whom singer D4vd is accused of killing had an abortion",
+          "excerpt": "LOS ANGELES — Celeste Rivas Hernandez, the teen whom singer D4vd is accused of killing, had an abortion during their relationship, text messages shown in court on Friday stated. D4vd, whose legal name is David Anthony Burke, has been charged with killing and dismembering the 14-year-old.…",
+          "url": "https://www.nbcnews.com/news/us-news/d4vd-celeste-rivas-hernandez-murder-abortion-rcna589165"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Latest Oil Market News and Analysis for July 24",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Latest Oil Market News and Analysis for July 24",
+          "excerpt": "Brent crude prices retreated from $100 a barrel as oil was still managing to traverse Middle East trade routes despite the recent escalation in hostilities and White House saber rattling.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Iran warns countries aiding US attack",
+          "excerpt": "Middle East tensions are once again driving up global oil prices, with Brent crude climbing above $100 a barrel for the first time since May. While much of the focus has been on the strategic Strait of Hormuz, the alternative shipping route through the Red Sea is becoming increasingly dangerous after Yemen's Iran-backed Houthi rebels said they targeted two Saudi oil tankers.…",
+          "url": "https://www.france24.com/en/iran-warns-countries-aiding-us-attack"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
+          "excerpt": "Four Palestinians and two Israelis killed in West Bank shooting - Published At least four Palestinians and two Israelis have been killed in a shooting in the occupied West Bank - the deadliest single incident there in months. There are conflicting accounts of the sequence of events in the northern village of Tal.…",
+          "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Funerals held for four Palestinians killed in deadly West Bank shooting",
+          "excerpt": "Funerals held for four Palestinians killed in deadly West Bank shooting Funerals held for four Palestinians killed in deadly West Bank shooting Overnight funerals were held for four Palestinians killed near Nablus. Palestinian officials blame Israeli settlers and soldiers for attacking areas in the occupied West Bank, while Israel said the violence began after an attack on Israeli civilians.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Соколов объявил трехдневный траур в Кировской области после атаки ВСУ",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Соколов объявил трехдневный траур в Кировской области после атаки ВСУ",
+          "excerpt": "Соколов объявил трехдневный траур в Кировской области после атаки ВСУ Губернатор Кировской области Александр Соколов подписал указ о трехдневном трауре 25, 26 и 27 июля в память о погибших в результате атаки на местное предприятие. В регионе будут приспущены флаги и отменены развлекательные мероприятия. Семьи погибших получат по 1,5 млн руб.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/07/25/1216402-sokolov-obyavil-trehdnevnii"
+        },
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "В российском регионе объявлен трехдневный траур после атаки ВСУ",
+          "excerpt": "В Кировской области 25, 26 и 27 июля объявлен траур в память о погибших в результате атаки Вооруженных сил Украины (ВСУ) на предприятие Кирова. Об этом сообщил губернатор региона Александр Соколов в своем Telegram-канале. В эти дни приспустят флаги области и муниципалитетов. Всем телерадиокомпаниям рекомендовано приостановить трансляцию развлекательных передач.…",
+          "url": "https://lenta.ru/news/2026/07/25/v-rossiyskom-regione-ob-yavlen-trehdnevnyy-traur-posle-ataki-vsu/"
         }
       ]
     }
