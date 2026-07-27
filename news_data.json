@@ -1,41 +1,398 @@
 {
-  "collected_at": "2026-07-26T06:21:32.733419+00:00",
+  "collected_at": "2026-07-27T06:49:00.293117+00:00",
   "total_sources": 63,
-  "total_entries": 675,
-  "story_count": 40,
+  "total_entries": 575,
+  "story_count": 36,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Protesters celebrate resignation of India's education minister",
-      "coverage": 9,
+      "headline_en": "Berlin Pride attack suspect shot and killed during police operation",
+      "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Protesters celebrate resignation of India's education minister",
-          "excerpt": "Watch: Protesters celebrate resignation of India's education minister Protesters in India are celebrating after the resignation of the country's education minister, Dharmendra Pradhan. Tens of thousands of young people had been demonstrating in Delhi, demanding Pradhan resign after exam paper leaks and testing irregularities.…",
-          "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss"
+          "headline": "Berlin Pride attack suspect shot and killed during police operation",
+          "excerpt": "Berlin Pride attack suspect shot and killed during police operation - Published The man suspected of carrying out what authorities say was likely an \"Islamist terror attack\" at Berlin Pride has been shot and killed by police. Officers opened fire when Abdul Ballout, a 21-year-old German citizen with Lebanese heritage, rushed at them with a knife in Spandau, a western borough of Berlin.…",
+          "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Here’s the biggest news you missed this weekend",
+          "excerpt": "Berlin police shot and killed the suspect in this weekend’s deadly attack during the city’s Pride festival after he allegedly charged at officers with a knife while they tried to arrest him Sunday, authorities said. The 21-year-old suspect was found at 6 p.m. local time at an allotment garden complex in the Spandau district, Berlin police said.…",
+          "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-july-26-rcna589185"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "What to know about the Berlin Pride attack and the suspect killed by police",
+          "excerpt": "What to know about the Berlin Pride attack and the suspect killed by police One woman was killed and at least 29 others were hurt when prosecutors say 21-year-old Abdul Ballout allegedly drove a rented van into crowds celebrating Berlin Pride on Saturday. On Sunday, police shot and killed Ballout after they say he charged at officers with a bladed weapon. Imtiaz Tyab reports.",
+          "url": "https://www.cbsnews.com/video/what-to-know-about-the-berlin-pride-attack-and-the-suspect-killed-by-police/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Berlin Pride Attack Suspect Dies in Police Confrontation After Daylong Manhunt",
+          "excerpt": "Berlin Police shot and killed the suspect who allegedly rammed his vehicle into a crowd at Berlin Pride on Saturday night, leaving one dead and dozens injured.",
+          "url": "https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Apple is banking on privacy to set its smart glasses apart",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Apple is banking on privacy to set its smart glasses apart",
+          "excerpt": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they’ll launch by the end of 2027. Part of the hold-up may be around the company’s efforts to get its privacy features and messaging in order.…",
+          "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Apple Glasses May Debut at WWDC 2027: Privacy, Camera Features Versus Meta",
+          "excerpt": "Company debated whether glasses will be able to record video.",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
+          "excerpt": "Apple’s smart glasses delay reportedly stems in part from major privacy concerns The Apple team behind the upcoming smart glasses is reportedly exploring several tweaks related to user privacy. Apple is expected to soon reveal its entry into the smart glasses market, but it may be taking its time to make sure it gets user privacy right.…",
+          "url": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+          "excerpt": "As Apple prepares to launch its first smart glasses, the company is also wrestling with how to address consumer privacy concerns, according to Bloomberg’s Mark Gurman. Gurman reports that Apple has pushed back the launch target from early 2027, with the glasses now set for unveiling at the Worldwide Developers Conference in June 2027 and actually becoming available by the end of the year.…",
+          "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "coverage": 4,
+      "perspectives": [
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
-          "excerpt": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office.",
-          "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement"
+          "headline": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+          "excerpt": "The route for the iconic cycling race's final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
+          "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Tadej Pogacar joins the greats with fifth Tour de France title",
+          "excerpt": "Tadej Pogacar has won a record-equalling fifth Tour de France title after the final stage ended in Paris.",
+          "url": "https://news.sky.com/story/tadej-pogacar-joins-the-greats-with-fifth-tour-de-france-title-13567072"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Wildfire Disruptions to the Tour de France Show How Climate Change Is Shaping Sports",
+          "excerpt": "What should have been a standout moment in the world of sports was almost overshadowed on Sunday as 27-year-old Slovenian cyclist Tadej Pogačar took home his fifth Tour de France amid a last-minute course change in response to wildfires raging in the country’s southwest region. The disruption is one of a growing number of examples of extreme weather forcing changes to global sporting events.…",
+          "url": "https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/"
         },
         {
           "source": "Euronews",
           "lang": "en",
-          "headline": "India's 'Cockroach' movement ends protests after education minister resigns",
-          "excerpt": "Dharmendra Pradhan announced his resignation in a post on X, handing a major victory to the youth movement that spearheaded nationwide demonstrations, sit-ins and hunger strikes.",
-          "url": "http://www.euronews.com/2026/07/25/indias-cockroach-movement-ends-protests-after-education-minister-resigns"
+          "headline": "Moulin Rouge dancers welcome Tour de France finale in Paris",
+          "excerpt": "Moulin Rouge dancers took to the streets of Paris to perform the iconic French cancan as crowds gathered for the final stage of the Tour de France. The performance outside the famous cabaret drew spectators waiting for the cyclists to pass, adding a touch of French tradition to the race finale.…",
+          "url": "http://www.euronews.com/video/2026/07/26/moulin-rouge-dancers-welcome-tour-de-france-finale-in-paris"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Удмуртия подверглась самой массированной атаке БПЛА",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Удмуртия подверглась самой массированной атаке БПЛА",
+          "excerpt": "Удмуртия подверглась самой массированной атаке БПЛА Силы противовоздушной обороны (ПВО) отражают самую масштабную за последнее время атаку беспилотников на республику Удмуртия. Об этом сообщил глава региона Александр Бречалов. По его словам, уже уничтожено несколько украинских БПЛА. По предварительной информации, пострадавших нет. Бречалов уточнил, что опасность в регионе сохраняется.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/07/27/1216631-udmurtiya-podverglas"
+        },
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "Объявлено о самой массированной атаке ВСУ на регион в 1300 километрах от границы",
+          "excerpt": "Вооруженные силы Украины (ВСУ) нанесли по Удмуртии самый массированный удар за последнее время. Об этом объявил в Telegram глава региона Александр Бречалов. По сообщению чиновника, этот расположенный в 1300 километрах от границы с Украиной субъект федерации подвергся атаке беспилотников ВСУ, несколько дронов уже сбиты средствами противовоздушной обороны.…",
+          "url": "https://lenta.ru/news/2026/07/27/ob-yavleno-o-samoy-massirovannoy-atake-vsu-na-region-v-1300-kilometrah-ot-granitsy/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "‘House Of The Dragon’ Season 3, Episode 6 Review: The Butcher’s Ball",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "‘House Of The Dragon’ Season 3, Episode 6 Review: The Butcher’s Ball",
+          "excerpt": "Sunday evening’s episode of House of the Dragon gave us a healthy mix of action and death and more of the slow unraveling of Queen Rhaenyra and her tenuous grasp on the Iron Throne. Not to mention one character death that many fans of the series have been eagerly awaiting, though I found myself oddly conflicted when it actually came. Spoilers ahead.…",
+          "url": "https://www.forbes.com/sites/erikkain/2026/07/26/house-of-the-dragon-season-3-episode-6-review-the-butchers-ball/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "The 14 saddest deaths in 'House of the Dragon,' ranked",
+          "excerpt": "Warning: Major spoilers through \"House of the Dragon\" season three, episode six. If you're watching a show in the \"Game of Thrones\" universe, you should know you're signing up for some devastating character deaths. This is especially true for \"House of the Dragon,\" a prequel about the bloody civil war that decimated the Targaryen dynasty, based on George R. R.…",
+          "url": "https://www.businessinsider.com/house-of-the-dragon-saddest-deaths-ranked"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "House of the Dragon Just Unceremoniously Killed Off a Main Character. It Was the Right Move",
+          "excerpt": "Warning: This story contains spoilers for Episode 6 of House of the Dragon Season 3. After two seasons of cementing himself as one of the most hated characters in Westeros history (which, as Game of Thrones fans know, has no shortage of reprehensible monsters), Ser Criston Cole (Fabien Frankel) ultimately went out with little more than a whimper in Episode 6 of House of the Dragon Season 3.…",
+          "url": "https://time.com/article/2026/07/22/house-of-the-dragon-season-3-episode-6-criston-cole-death/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Shootout at Seattle food festival kills 3; police arrest gunman and search for another",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Shootout at Seattle food festival kills 3; police arrest gunman and search for another",
+          "excerpt": "Three people were killed and four others were injured in what police believe was a shootout between a pair of gunmen at a major food festival in Seattle on Sunday night.…",
+          "url": "https://www.nbcnews.com/news/us-news/multiple-people-injured-seattle-center-shooting-police-say-rcna589371"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Two people killed and five others injured in shooting incident at food festival in Seattle",
+          "excerpt": "Officials at a nearby medical centre said a toddler was among those admitted to the facility on Sunday after the shooting incident where four people remain hospitalised, including one in critical condition.",
+          "url": "http://www.euronews.com/2026/07/27/two-people-were-killed-and-five-others-injured-in-shooting-incident-at-food-festival-in-se"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "India news: 'Cockroaches' end protest after Education Minister Dharmendra Pradhan resigns",
-          "excerpt": "India news: 'Cockroaches' end protest after minister resigns Published July 25, 2026last updated July 25, 2026What you need to know - India's Education Minister Dharmendra Pradhan resigns - Cockroach movement ends protest in 'good faith' after talks with government - Cockroach Janta Party Founder Abhijeet Dipke says diagnosed with typhoid - Opposition leaders laud GenZ for 'victory' over Modi gove…",
-          "url": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf"
+          "headline": "US: At least two killed in shooting in Seattle",
+          "excerpt": "US: At least two killed in shooting in Seattle July 27, 2026At least two people were killed and five others were wounded, including a child, in a shooting during a food festival near the Space Needle in Seattle in the US state of Washington on Sunday evening, according to a city fire department spokesperson. Two people died at the scene, said Grace Nunez, Seattle Fire Department spokesperson.…",
+          "url": "https://www.dw.com/en/us-at-least-two-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Congo Ebola death toll tops 1,400 as vaccine trials start",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Congo Ebola death toll tops 1,400 as vaccine trials start",
+          "excerpt": "Congo Ebola death toll tops 1,400 as vaccine trials start July 27, 2026The Ebola outbreak in the Democratic Republic of Congo has continued to spread, with the number of confirmed infections rising to 3,200. The country's health authorities say that 1,405 people have died from the virus since the outbreak began in late April, with the current fatality rate standing at 43.9%.…",
+          "url": "https://www.dw.com/en/congo-ebola-death-toll-tops-1-400-as-vaccine-trials-start/a-78124937?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
+          "excerpt": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths Cases have surged by 1,000 in just 10 days as outbreak continues to spread across five provinces. The number of people infected with Ebola in the Democratic Republic of the Congo has risen to 3,200, according to government data, including at least 1,405 deaths.…",
+          "url": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Ebola cases in DR Congo surpass 3,000 - as health workers go on strike",
+          "excerpt": "The Democratic Republic of Congo (DRC) has recorded more than 3,000 confirmed cases of Ebola, as it continues to battle the fastest-growing outbreak of the disease in history.",
+          "url": "https://news.sky.com/story/ebola-cases-in-dr-congo-surpass-3000-as-health-workers-go-on-strike-13567032"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "ЕС может отказаться от крупных пакетов санкций против России, пишет FT",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "ЕС может отказаться от крупных пакетов санкций против России, пишет FT",
+          "excerpt": "Краткий пересказ от РИА ИИ - Двадцать первый пакет санкций ЕС против России может стать последним, пишет Financial Times. - Европейские чиновники признали, что этот подход больше не работает. - Сейчас Брюссель рассматривает новый подход к этому вопросу. МОСКВА, 27 июл — РИА Новости.…",
+          "url": "https://ria.ru/20260727/sanktsii-2107196679.html"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "FT: в ЕС допустили отказ от крупных пакетов санкций против России",
+          "excerpt": "FT: в ЕС допустили отказ от крупных пакетов санкций против России Источники издания заявили, что 21-пакет санкций может быть последнимВ Евросоюзе обсуждают изменение подхода к введению санкций против России после того, как Греция приостановила принятие нового санкционного пакета. Об этом сообщает газета Financial Times со ссылкой на европейских чиновников.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/27/1216634-v-es-dopustili"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+          "excerpt": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center Vendor’s livestream captures chaos as gunfire erupts at Seattle Center A vendor livestreaming from the Bite of Seattle festival captured the moment shots rang out near the Space Needle. At least two people were killed and five others, including a 2-year-old child, were wounded in the shooting. Published On 27 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "3 killed, 4 wounded in shooting near Seattle's Space Needle, authorities say",
+          "excerpt": "Shooting at food festival near Seattle's Space Needle leaves 3 dead, 4 wounded, authorities say Three people were killed and four others wounded in a shooting at a food festival near Seattle's Space Needle on Sunday evening, police said. A suspect was arrested and another was being sought, they said.…",
+          "url": "https://www.cbsnews.com/news/seattle-shooting-bite-of-seattle/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "3 dead, 4 injured in shooting at Seattle Center during food festival: Officials",
+          "excerpt": "3 dead, 4 injured in shooting at Seattle Center during food festival: Officials The shooting occurred during Bite of Seattle, an annual festival. Three people are dead and four others are injured after shots rang out at the Bite of Seattle food festival at the Seattle Center on Sunday, according to officials. Seattle Mayor Katie Wilson said a suspect has been taken into custody.…",
+          "url": "https://abcnews.com/US/multiple-people-shot-seattle-center-police/story?id=135108867"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Chinese chip champion CXMT soars more than 500% in market debut",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Chinese chip champion CXMT soars more than 500% in market debut",
+          "excerpt": "Chinese chip champion CXMT soars more than 500% in market debut",
+          "url": "https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "China Chipmaker CXMT Jumps 535% in Debut After Blockbuster IPO",
+          "excerpt": "CXMT Corp. surged as much as 535% in its Shanghai trading debut on Monday, propelling the memory chipmaker to become China’s largest onshore-listed company as investors piled into one of the country’s biggest artificial intelligence champions.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/china-memory-champion-cxmt-set-to-debut-after-9-8-billion-ipo"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut",
+          "excerpt": "Shares of chipmaker Changxin Technology Group rose more than 500% Monday as they debuted on Shanghai's tech-heavy STAR Market, making CXMT the most valuable China-listed company. The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share, making it Asia's biggest so far this year.…",
+          "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+          "excerpt": "Watch: At the scene of Berlin Pride attack as manhunt continues A manhunt is underway in Berlin after a vehicle drove into a crowded pride event, killing one person and injuring 16. Police have named the suspect as 21-year-old Abdul B and have released an image of him. A vehicle suspected of being used in the attack has been located by police inside the city's Tiergarten park.…",
+          "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
+          "excerpt": "German authorities have issued a wanted notice for a suspect in a deadly van ramming near Berlin’s Pride festival that has been described as an Islamist attack. The interior minister, Alexander Dobrindt, named the chief suspect as 21-year-old Abdul Ballout. German media reported he was a supporter of Islamic State with a criminal conviction in May.…",
+          "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Berlin Pride attacker served time for trying to join ISIS, officials say",
+          "excerpt": "Berlin Pride attacker served less than 2 years in prison for wanting to join ISIS, prosecutors say The 21-year-old man convicted in 2025 of trying to join ISIS and accused of ramming his rented vehicle into the Berlin LGBTQ+ Pride parade was killed by police on Sunday, a senior police official in Germany told CBS News.…",
+          "url": "https://www.cbsnews.com/news/berlin-lgbtq-pride-christopher-street-attack-ramming-suspect-search-germany/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Глава Удмуртии Бречалов сообщил о самой массированной атаке БПЛА",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Глава Удмуртии Бречалов сообщил о самой массированной атаке БПЛА",
+          "excerpt": "Глава Удмуртии Бречалов сообщил о самой массированной атаке БПЛА Средства ПВО отражают «самую массированную атаку за последнее время на объекты» в Удмуртии. Об этом утром 27 июля сообщил глава региона Александр Бречалов. «Опасность сохраняется, но к настоящему моменту уже сбиты несколько беспилотников, — сообщил чиновник. — По предварительным данным, пострадавших нет».…",
+          "url": "https://www.kommersant.ru/doc/8845271"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Утром в понедельник БПЛА атаковали объекты в Удмуртии",
+          "excerpt": "Утром в понедельник БПЛА атаковали объекты в Удмуртии Москва. 27 июля. INTERFAX.RU - Силы ПВО отражают массированную атаку беспилотников на Удмуртию утром в понедельник, сообщил глава республики Александр Бречалов. \"В настоящий момент силами и средствами противовоздушной обороны мы отражаем самую массированную атаку за последнее время на объекты Удмуртской Республики.…",
+          "url": "https://www.interfax.ru/russia/1105773"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "What we know so far about the Berlin Pride ramming attack",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "What we know so far about the Berlin Pride ramming attack",
+          "excerpt": "What we know so far about the Berlin Pride ramming attack - Published One woman has been killed and at least 29 others injured after a van was driven into a crowd at a Berlin Pride event on Saturday night, in what officials say was likely an \"Islamist terror attack\". The suspect, 21-year-old Abdul Ballout, has been shot and killed during a police operation in west Berlin.…",
+          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Berlin Pride attack: What we know so far",
+          "excerpt": "Berlin Pride attack: What we know so far July 26, 2026What happened? On Saturday night, around 10 p.m., a white van drove into a crowd some 100 meters (328 feet) away from a Christopher Street Day celebration near Brandenburg Gate in the heart of Berlin.…",
+          "url": "https://www.dw.com/en/berlin-pride-attack-what-we-know-so-far/a-78122611?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Sam Altman says we are in the singularity: 'This is the moment'",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Sam Altman says we are in the singularity: 'This is the moment'",
+          "excerpt": "OpenAI's CEO says we've reached a point in the AI race that is the stuff of science fiction novels. \"We are now, like, in the singularity,\" Sam Altman said on Saturday's episode of the \"Relentless\" podcast. The singularity is often regarded as the point at which artificial intelligence surpasses human intelligence and begins advancing at a pace that's difficult for people to predict or control.…",
+          "url": "https://www.businessinsider.com/sam-altman-openai-the-singularity-agi-prediction-anthropic-nvidia-2026-7"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "What Sam Altman will tell the White House this week",
+          "excerpt": "OpenAI CEO Sam Altman heads to Washington this week to preview the company's most powerful AI yet, pushing for speedy approval of a model that just hacked a real company. Why it matters: He'll tout a model powerful enough to solve an 80-year-old math problem, breach another company's system unprompted and begin to make complex work more cost-efficient for U.S. business.…",
+          "url": "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "India news: Modi announces task force to reform exams",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "India news: Modi announces task force to reform exams",
+          "excerpt": "India news: Modi announces task force to reform exams Published July 26, 2026last updated July 26, 2026What you need to know - Modi announces task force to reform India's examination system - Indian Home Minister Amit Shah says youth and students more important for BJP than any post - India has a new education minister in Bharatiya Janata Party veteran Pralhad Joshi - Cockroach Janta Party's found…",
+          "url": "https://www.dw.com/en/india-news-modi-announces-task-force-to-reform-exams/live-78117719?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "Time",
@@ -47,961 +404,443 @@
       ]
     },
     {
+      "category": "💼 Business",
+      "headline_en": "На подлете к Москве сбили три дрона",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "На подлете к Москве сбили три дрона",
+          "excerpt": "На подлете к Москве сбили три дрона Силы ПВО сбили три беспилотника, летевших на Москву, сообщил мэр Сергей Собянин. Он уточнил, что на месте падения обломков работают экстренные службы. Информации о пострадавших или разрушениях нет. Сегодня ночью в Ярославле перекрывали движение транспорта в сторону Москвы из-за атаки БПЛА. Аэропорт Ярославля ограничил прием и отправку самолетов.…",
+          "url": "https://www.kommersant.ru/doc/8845230"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Уничтожены три беспилотника, летевших на Москву",
+          "excerpt": "Уничтожены три беспилотника, летевших на Москву Москва. 27 июля. INTERFAX.RU - Мэр Москвы Сергей Собянин сообщил о трех сбитых беспилотниках, летевших на столицу. Собянин в своем канале в мессенджере Max отметил, что специалисты экстренных служб работают на месте падения обломков.",
+          "url": "https://www.interfax.ru/moscow/1105765"
+        }
+      ]
+    },
+    {
       "category": "🌍 World",
-      "headline_en": "More than 300,000 flee wildfires in France and Spain",
-      "coverage": 9,
+      "headline_en": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+      "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "More than 300,000 flee wildfires in France and Spain",
-          "excerpt": "More than 300,000 flee wildfires in France and Spain - Published Firefighters are struggling to contain wildfires in south-west France as strong winds push flames towards the city of Bordeaux, with one official saying they \"are far from having the fire under control.\" More than 300,000 people in France and Spain have fled fires which have been raging for days, as winds and high temperatures hamper…",
-          "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+          "headline": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+          "excerpt": "Argentinian leader calls Brazilian president a 'thief' and a 'convict' - Published Brazil has recalled its ambassador to Buenos Aires after Argentina's president hit out at the Brazilian president, referring to him as a \"thief\" and a \"convict\".…",
+          "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Brazil recalls ambassador to Argentina over Milei's remarks",
+          "excerpt": "Brazil recalls ambassador to Argentina over Milei's remarks July 27, 2026Brazil recalled its ambassador to Argentina on Sunday after Argentinian President Javier Milei insulted his Brazilian counterpart Luiz Inacio Lula da Silva during a visit to the country.…",
+          "url": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+          "excerpt": "PM pledges continued support for Ukraine ahead of Zelensky visit - Published Andy Burnham has pledged to continue the UK's \"unwavering\" support for Ukraine ahead of meeting Volodymyr Zelensky on Monday.…",
+          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
+          "excerpt": "Volodymyr Zelenskyy will become Andy Burnham’s first overseas visitor as prime minister, in a visit that Burnham said underlined Britain’s “unwavering” backing for Ukraine.…",
+          "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
+          "excerpt": "Is NVDA a good stock to buy? We came across a bullish thesis on NVIDIA Corporation on Compounding Your Wealth's Substack by Sergey. In this article, we will summarize the bulls' thesis on NVDA. NVIDIA Corporation's share was trading at $206.84 as of July 24th. NVDA's trailing and forward P/E were 32 and 23.5 respectively according to Yahoo Finance.…",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-good-stock-190442460.html"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Here's the tech stock to buy in a market losing patience with tech",
+          "excerpt": "It's not the spend, it's the return. That's what Friday's technology stock plunge said. I think it just might be the most significant tech selloff in more than a year. We need to know — potentially — what we are facing. We need to know if the trillion-dollar spigot is drying up — or it is just a dry spell.…",
+          "url": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Конор Макгрегор выбыл из соревнований на год из-за травмы",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Конор Макгрегор выбыл из соревнований на год из-за травмы",
+          "excerpt": "Конор Макгрегор выбыл из соревнований на год из-за травмы Бывший чемпион Абсолютного бойцовского чемпионата (UFC) в двух весовых категориях Конор Макгрегор не сможет выступать еще год из-за травмы колена, полученной в последнем поединке. Об этом сообщил глава UFC Дана Уайт. Конор Макгрегор после получения травмы, 12 июля Фото: Mark J.…",
+          "url": "https://www.kommersant.ru/doc/8845293"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Конор Макгрегор выбыл на год из-за травмы",
+          "excerpt": "Краткий пересказ от РИА ИИ - Конор Макгрегор выбыл из соревнований на год из-за травмы. - На турнире UFC 329 в Лас-Вегасе 12 июля Макгрегор проиграл Максу Холлоуэю техническим нокаутом. МОСКВА, 27 июл - РИА Новости. Бывший чемпион UFC ирландец Конор Макгрегор выбыл на год из-за травмы, сообщил на пресс-конференции генеральный директор промоушена Дэйна Уайт.…",
+          "url": "https://ria.ru/20260727/makgregor-2107191545.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Gold Climbs as Pause in Mideast Fighting Curbs Inflation Risk",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Over 250,000 People Flee Wildfires Ravaging France and Spain",
-          "excerpt": "More than 250,000 people fled towns and villages in Spain and France as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Europe wildfires: more than 300,000 flee homes and holiday accommodation as fires rage",
-          "excerpt": "Key events About 220,000 people have been evacuated from the main forest fire raging in the south-west of France that now threatens the city of Bordeaux, according to French authorities. The latest evacuations have been in villages around Bordeaux while 60km (37 miles) of the main A63 highway from Bordeaux to the Spanish border has been closed because of the fires, regional authorities said.…",
-          "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "France and Spain fires force more than 200,000 to flee homes",
-          "excerpt": "At least one person has died in a fire in Spain, according to officials.",
-          "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "French wildfires trigger mass evacuations around Bordeaux",
-          "excerpt": "French wildfires trigger mass evacuations around Bordeaux French wildfires trigger mass evacuations around Bordeaux Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France. The blazes have destroyed nearly 98,000 hectares, closed Bordeaux Airport and prompted France to seek international help as firefighters battle to contain the flames.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "coverage": 8,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
-          "excerpt": "Trump takes swipes at press during White House Correspondents' Dinner - Published US President Donald Trump took swipes at the media at the White House Correspondents' Association (WHCA) dinner, a night celebrating press freedom, after the first event was cancelled by a shooting three months ago.…",
-          "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Trump returns to White House Correspondents' Dinner after April shooting",
-          "excerpt": "The president appeared to be in good spirits throughout the evening and joked about a third term in office. US President Donald Trump marked his return to the White House Correspondents' Dinner on Friday night, delivering a rambling speech laden with swipes at attending media. \"I am delighted to be here,\" Trump told the crowd as he opened his speech. \"Amazing people. A lot of people that I like.…",
-          "url": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Trump praises secret service at White House correspondents' dinner",
-          "excerpt": "Fraser Jackson has more.",
-          "url": "https://www.france24.com/en/trump-praises-secret-service-at-white-house-correspondents-dinner"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Trump addresses rescheduled White House Correspondents' Dinner",
-          "excerpt": "Trump speaks at delayed White House Correspondents' Dinner July 25, 2026US President Donald Trump addressed hundreds of journalists at a scaled-down and rescheduled White House Correspondents' Dinner on Friday night. The gala was held amid heightened security measures, three months after the original event was cut short by an alleged attempt to assassinate Trump.…",
-          "url": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Trump Will Give ‘Unifying Yet Vicious’ Speech at Rescheduled White House Correspondents’ Dinner, White House Says",
-          "excerpt": "President Donald Trump will be giving a “unifying yet vicious” speech at the rescheduled White House Correspondents’ Dinner on Friday evening, White House Press Secretary Karoline Leavitt previewed. “The President’s speech will be a combination of unifying yet vicious, and serious yet hilarious, all at the same time, if you can imagine that,” Leavitt told NBC News.…",
-          "url": "https://time.com/article/2026/07/24/trump-white-house-correspondents-dinner-speech/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "На Эльбрусе одного из запросивших помощь альпинистов нашли живым",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "На Эльбрусе одного из запросивших помощь альпинистов нашли живым",
-          "excerpt": "Краткий пересказ от РИА ИИ - Спасатели нашли живым одного из альпинистов из Боснии и Герцеговины на Эльбрусе. - Поиски еще троих альпинистов продолжаются. НАЛЬЧИК, 26 июл — РИА Новости. Спасатели нашли живым одного из участников подъема на Эльбрус, сообщили РИА Новости в экстренных службах Кабардино-Балкарии.…",
-          "url": "https://ria.ru/20260726/elbrus-2107028905.html"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "На Эльбрусе нашли живым одного из боснийских альпинистов",
-          "excerpt": "На Эльбрусе нашли живым одного из боснийских альпинистов В Кабардино-Балкарии на Эльбрусе продолжается спасательная операция, найден живым один из участников восхождения, поиски еще троих членов группы продолжаются. Об этом пишет «РИА Новости» со ссылкой на экстренные службы республики. «Один из альпинистов из Боснии найден живым, поиски еще троих продолжаются», – сообщил собеседник агентства.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/07/26/1216507-elbruse-nashli-zhivim"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Одного из пропавших на Эльбрусе альпинистов нашли живым",
-          "excerpt": "Одного из пропавших на Эльбрусе альпинистов нашли живым, об этом сообщает РИА Новости со ссылкой на источник в экстренных службах Кабардино-Балкарии. Отмечается, что одного из боснийских альпинистов обнаружили, поиски еще троих продолжаются. В Следственном комитете уточнили, что один человек спустился с горы и сообщил, что двоим членам группы стало плохо при восхождении. Спасатели нашли их тела.…",
-          "url": "https://lenta.ru/news/2026/07/26/odnogo-iz-propavshih-na-elbruse-alpinistov-nashli-zhivym/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "SpaceX's Starship splashes down in Indian Ocean after successful test flight",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "SpaceX's Starship splashes down in Indian Ocean after successful test flight",
-          "excerpt": "SpaceX's Starship splashes down in Indian Ocean after successful test flight US aerospace company SpaceX carried out a successful test flight of its14-storey Starship rocket Friday, blasting off from Texas to land gently in the waters of the Indian Ocean. It's the first such success since US tech billionaire Elon Musk's SpaceX went public in June.…",
-          "url": "https://www.france24.com/en/americas/20260725-spacex-starship-splashes-down-in-indian-ocean-after-successful-test-flight"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
-          "excerpt": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites The Starlink satellites burned up in the atmosphere 20 minutes later. Starship has taken off for its 13th test flight after a couple of delays due to unfavorable weather conditions.…",
-          "url": "https://www.engadget.com/2222979/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Starship completes 1st test flight since SpaceX IPO",
-          "excerpt": "Starship completes 1st test flight since SpaceX IPO July 25, 2026SpaceX's Starship megarocket completed a test flight on Friday, the first since Elon Musk's company went public on Wall Street in June. The ship splashed down into the Indian Ocean, which was celebrated by SpaceX employees watching along from the firm's headquarters in Starbase, Texas.…",
-          "url": "https://www.dw.com/en/starship-completes-1st-test-flight-since-spacex-ipo/a-78107347?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "SpaceX launches massive Starship rocket in first test flight since IPO",
-          "excerpt": "SpaceX launched its massive Starship rocket Friday evening from its company town and launch facility in Starbase, Texas, in a 13th test flight and the first since the company's record IPO last month. The rocket's Super Heavy booster detached from the Starship spacecraft about two minutes into the flight, and made a controlled splashdown in the Gulf.…",
-          "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
-          "excerpt": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner.",
-          "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Troy Jackson picked to challenge Collins in Maine after Platner's exit",
-          "excerpt": "Democrats selected former Maine Senate President Troy Jackson on Saturday to challenge Republican Sen. Susan Collins this fall after Graham Platner's embattled campaign ended.…",
-          "url": "https://www.axios.com/2026/07/25/maine-troy-jackson-susan-collins-platner"
+          "headline": "Gold Climbs as Pause in Mideast Fighting Curbs Inflation Risk",
+          "excerpt": "Gold rose, after a pause in fighting between the US and Iran over the weekend eased oil supply risks and inflationary concerns.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/gold-climbs-after-pause-in-mideast-fighting-cuts-inflation-fears"
         },
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Maine Democrats select Troy Jackson as Senate candidate",
-          "excerpt": "Hundreds of thousands race to escape wildfires in France and Spain 02:04 Daredevils jump off Seattle’s Space Needle 01:17 Inside the battle for clean energy on Native American land 02:34 Anti-ICE demonstrations across the country 01:47 Now Playing Maine Democrats select Troy Jackson as Senate candidate 00:58 UP NEXT Good News: Meet the airport worker going the extra mile 01:37 Saudi Arabia trades …",
-          "url": "https://www.nbcnews.com/nightly-news/video/maine-democrats-select-troy-jackson-as-senate-candidate-267274821994"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "A liberal lumberjack may soon be Maine's Democrat Senate nominee. Who's Troy Jackson?",
-          "excerpt": "A liberal lumberjack could soon be Maine's Democratic Senate nominee. Who is Troy Jackson? Jackson, who comes from a rural logging family, could take on Susan Collins. After 30 years in office, Republican Sen. Susan Collins thought she was going to take on Democrat Graham Platner, a political outsider and oyster farmer from Maine's coast, in the state's closely watched Senate race in November.…",
-          "url": "https://abcnews.com/Politics/liberal-lumberjack-maines-democratic-senate-nominee-troy-jackson/story?id=134991873"
+          "headline": "New diplomatic push to end war with Iran",
+          "excerpt": "Out-of-control wildfires burn in Europe as millions brace for severe weather in the U.S.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/new-diplomatic-push-to-end-war-with-iran-267287621965"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "coverage": 4,
+      "headline_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "excerpt": "Trump orders Smithsonian to post warnings about 'inaccurate' US history - Published President Donald Trump has ordered signs to be placed outside the Smithsonian National Museum of American History, to caution visitors about exhibits his administration views as \"inaccurate\".…",
-          "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss"
+          "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "excerpt": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say - Published Israeli settlers have set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say, as tensions in the territory continue to flare.…",
+          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "CBS News",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
-          "excerpt": "Trump orders signs placed outside Smithsonian museum warning of \"inaccurate\" information Washington — President Trump on Friday ordered federal officials to install signs outside the Smithsonian's National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history. Mr.…",
-          "url": "https://www.cbsnews.com/news/trump-smithsonian-museum-warning-signs-inaccurate-information/"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "Trump’s Trigger Warnings",
-          "excerpt": "Trump’s Trigger Warnings The president is ordering new signs outside the Smithsonian to warn Americans about history. Incensed by the Smithsonian but lacking immediate power to do anything about it, Donald Trump has resorted to trolling the world’s largest museum complex from the sidewalk.…",
-          "url": "https://www.theatlantic.com/culture/2026/07/trump-smithsonian-signs/688069/?utm_source=feed"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump orders new signs outside Smithsonian saying some exhibits are inaccurate",
-          "excerpt": "Trump orders new signs outside Smithsonian saying some exhibits are inaccurate President Donald Trump has ordered his administration to install signs at the Smithsonian's U.S. history museum President Donald Trump ordered his administration Friday to install signs in front of the Smithsonian Institution 's U.S.…",
-          "url": "https://abcnews.com/Politics/wireStory/trump-orders-new-signs-smithsonian-exhibits-inaccurate-135069136"
+          "headline": "Israeli settlers torch mosques in occupied West Bank",
+          "excerpt": "Israeli settlers torch mosques in occupied West Bank July 26, 2026Israeli settlers in the occupied West Bank set fire to two mosques early Sunday as well as scrawling buildings with graffiti that local Palestinian officials near Nablus said called for \"revenge.\" \"The mosque was in its final stage and was ready to receive worshippers. It had already been furnished with couches.…",
+          "url": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "МИД Ирана призвал ЕС и ООН отреагировать на удар по иранскому судну в Каспийском море",
+      "headline_en": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
       "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "МИД Ирана призвал ЕС и ООН отреагировать на удар по иранскому судну в Каспийском море",
-          "excerpt": "МИД Ирана призвал ЕС и ООН отреагировать на удар по иранскому судну в Каспийском море Министр иностранных дел Ирана Аббас Аракчи провел телефонный разговор с главой евродипломатии Каей Каллас. Он призвал Евросоюз и Организацию Объединенных Наций отреагировать на удар по иранскому торговому судну в Каспийском море.…",
-          "url": "https://www.kommersant.ru/doc/8844779"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Что случилось этой ночью: воскресенье, 26 июля",
-          "excerpt": "Что случилось этой ночью: воскресенье, 26 июля Украинский удар по иранскому судну в Каспие, Трамп не хочет эскалировать конфликт с Ираном, гибель альпинистов на Эльбрусе Москва. 26 июля. INTERFAX.RU - Краткая сводка событий, произошедших к утру: - Глава МИД Ирана Аббас Аракчи призвал ЕС и СБ ООН отреагировать на украинский удар по иранскому судну в Каспийском море.…",
-          "url": "https://www.interfax.ru/world/1105631"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
-          "excerpt": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
-          "url": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
-          "excerpt": "Yemen’s Iran-backed Houthi rebels claimed a missile attack on the southern Saudi city of Jizan on Saturday, after vowing retaliation against the kingdom for attacks this week. Iran, meanwhile, reported no strikes overnight on Saturday for the first time after two weeks of US attacks. The Iranian health ministry spokesperson, Hossein Kermanpour, said: “Iran had a peaceful night” in a post on X.…",
-          "url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
-          "excerpt": "Iran war: Houthis vow response to Saudi strikes on Hodeida Published July 25, 2026last updated July 25, 2026What you need to know - Houthi rebels in Yemen say Friday's Saudi strikes on the port city of Hodeida hit civilian infrastructure, injuring two people - Saudi Arabia says it will do everything necessary to protect its shipping amid a Houthi-enforced maritime blockade in the Red Sea - A flare…",
-          "url": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Saudi Arabia trades fire with Iran-backed rebels in Yemen",
-          "excerpt": "Hundreds of thousands race to escape wildfires in France and Spain 02:04 Daredevils jump off Seattle’s Space Needle 01:17 Inside the battle for clean energy on Native American land 02:34 Anti-ICE demonstrations across the country 01:47 Maine Democrats select Troy Jackson as Senate candidate 00:58 Good News: Meet the airport worker going the extra mile 01:37 Now Playing Saudi Arabia trades fire wit…",
-          "url": "https://www.nbcnews.com/nightly-news/video/saudi-arabia-trades-fire-with-iran-backed-rebels-in-yemen-267275333912"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "One dead and 16 injured after van drives into Berlin Pride crowd",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "One dead and 16 injured after van drives into Berlin Pride crowd",
-          "excerpt": "One dead and 16 injured after van drives into Berlin Pride crowd",
-          "url": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-          "excerpt": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
-          "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Van rams into Berlin Pride crowd, killing one and injuring 15",
-          "excerpt": "Van rams into Berlin Pride crowd, killing one and injuring 16 A van ploughed into crowds at Berlin's annual LGBTQ+ Pride celebrations on Saturday, killing one person and injuring at least 16 others before crashing into a tree. Police and prosecutors on Sunday issued a wanted notice for a 21-year-old identified only as Abdul B, and warned members of the public to avoid direct contact with him.…",
-          "url": "https://www.france24.com/en/europe/20260725-van-rams-berlin-pride-crowd-killing-one-and-injuring-15"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "One killed, 16 injured after van mows into crowd and people stabbed at Berlin Pride",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "One killed, 16 injured after van mows into crowd and people stabbed at Berlin Pride",
-          "excerpt": "German authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride festival that left one person dead and injured at least 16 others. Police and prosecutors asked for help in finding the 21-year-old, whom they identified as Abdul B.…",
-          "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
-          "excerpt": "Berlin: 1 dead, 16 injured in car ramming at CSD Pride event Published July 25, 2026last updated July 26, 2026What you need to know - 1 person was killed and 3 people suffered life-threatening injuries after a van drove into a crowd at one of Europe's biggest LGBTQ+ Pride events - Police have identified a suspect associated with 'the Islamist scene in Berlin' - The suspect is named as 21-year-old …",
-          "url": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
-          "excerpt": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people. One person has died and more than a dozen are injured after a car drove into a crowd at an LGBTQ parade in Berlin, German police say.…",
-          "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "ВС России ночью нанесли групповой удар по предприятиям ВПК Украины",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "ВС России ночью нанесли групповой удар по предприятиям ВПК Украины",
-          "excerpt": "Краткий пересказ от РИА ИИ - Армия России нанесла групповой удар по предприятиям ВПК Украины в Киеве. - Поражены предприятия, задействованные в производстве, сборке, хранении беспилотных летательных аппаратов и комплектующих к ним. ВС МОСКВА, 26 июл - РИА Новости. Армия России ночью поразила предприятия ВПК в Киеве, сообщило министерство обороны.…",
-          "url": "https://ria.ru/20260726/spetsoperatsiya-2107028577.html"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Минобороны РФ заявило о групповом ударе по предприятиям ВПК Украины в Киеве",
-          "excerpt": "Минобороны РФ заявило о групповом ударе по предприятиям ВПК Украины в Киеве Москва. 26 июля. INTERFAX.RU - Российские военные минувшей ночью нанесли групповой удар по предприятиям военно-промышленного комплекса Украины в Киеве, задействованные в производстве БПЛА, сообщило Минобороны РФ в воскресенье.…",
-          "url": "https://www.interfax.ru/russia/1105630"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Warner Bros. is suing Amazon for poaching employees",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Warner Bros. is suing Amazon for poaching employees",
-          "excerpt": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing.…",
-          "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Amazon accused of poaching HBO employees in Warner Bros. lawsuit",
-          "excerpt": "Amazon accused of poaching HBO employees in Warner Bros. lawsuit Warner Bros. said Amazon was riding on the 'coattails of other well-established Hollywood mainstays.' Warner Bros.…",
-          "url": "https://www.engadget.com/2223135/amazon-accused-poaching-hbo-employees-warner-bros-lawsuit/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-          "excerpt": "Warner Bros. Discovery filed a lawsuit this week accusing Amazon of interference with contractual relations, breach of contract, and unfair competition. As reported by Deadline, the lawsuit alleges Amazon has been “hurriedly seeking to pirate away a number of contracted employees,” including Pia Barlow, an HBO Max marketing executive who recently joined Amazon MGM Studios. Warner Bros.…",
-          "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
-          "excerpt": "Iran war: Saudi-led coalition attacks Yemen's Hodeida Published July 24, 2026last updated July 25, 2026What you need to know This blog has ended. Thank you for joining us. For the latest on the US-Iran war on Friday, July, head over to our blog.…",
-          "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
-          "excerpt": "Saudi Arabia said on Saturday that its coalition forces struck Houthi militia in Yemen after the Iran-backed group claimed to have attacked two Saudi oil tankers in the Red Sea earlier in the week. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen. The latest salvos appeared to indicate an escalation in fighting in a second front in the Iran war.…",
-          "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
-          "excerpt": "Yemen's Houthis target Saudi oil facilities along the Red Sea Yemen’s Houthis target Saudi oil facilities along the Red Sea Yemen’s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco, in the latest escalation between the two sides. Saudi authorities say they intercepted the missile and drone attacks. Yousef Mowry has more details from Sanaa. Published On 26 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump vows to investigate EU over fining of US tech companies",
-      "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Trump vows to investigate EU over fining of US tech companies",
-          "excerpt": "Trump vows to investigate EU over fining of US tech companies - Published Donald Trump says the US will launch an investigation into the European Union and threatened a fresh tariff over fines handed to some of the biggest American tech companies. It comes days after the European Commission fined Google â¬890m ($1bn) for operating in a way that squeezed out competitors to its services.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
+          "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "excerpt": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat - Published Israeli Prime Minister Benjamin Netanyahu said he planned to attend the UN General Assembly in New York City this autumn, despite the city's mayor, Zohran Mamdani, making threats to arrest him.…",
+          "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "DW English",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Trump threatens EU with tariff probe over Google, tech fines",
-          "excerpt": "Trump threatens EU with tariff probe over Google, tech fines July 24, 2026US President Donald Trump on Friday threatened to launch a tariff investigation against the EU in response to the bloc's anti-competition fines and other penalties levied against US tech giants like Google, Apple, Amazon and Meta.…",
-          "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-          "excerpt": "President Donald Trump on Friday said his administration will launch a trade probe into the European Union that will cancel hefty fines levied against U.S. tech giants and likely result in a \"substantial\" tariff on the 27-member bloc.…",
-          "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Силы ПВО за ночь сбили 133 беспилотника ВСУ над регионами России",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Силы ПВО за ночь сбили 133 беспилотника ВСУ над регионами России",
-          "excerpt": "Силы ПВО за ночь сбили 133 беспилотника ВСУ над регионами России Силы противовоздушной обороны сбили 133 украинских беспилотника над регионами России, сообщает Минобороны. Сведения приводятся на период с 20:00 мск 25 июля по 08:00 мск 26 июля.…",
-          "url": "https://www.kommersant.ru/doc/8844793"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "За ночь над регионами России сбили 133 украинских беспилотника",
-          "excerpt": "За ночь над регионами России сбили 133 украинских беспилотника Силы противовоздушной обороны России за прошедшую ночь перехватили и уничтожили 133 украинских беспилотников, сообщило Минобороны. Дроны сбиты над Белгородской, Брянской, Калужской, Курской, Орловской, Ростовской и Смоленской областями, Московским регионом, Краснодарским краем, Крымом и над Черным морем.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/26/1216506-za-noch-nad-regionami"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Samsung's new Ultra foldable is impressive, but I'd pay close attention to this model",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "Samsung's new Ultra foldable is impressive, but I'd pay close attention to this model",
-          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
-          "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-hands-on/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Samsung Confirms New Amazon Freebie For Millions Of Galaxy Users",
-          "excerpt": "After sending out discount codes to Galaxy Z Fold 8 buyers, Samsung has also brought back its free Amazon Music offer, which appeared and disappeared quickly after the Galaxy S26 launch, for millions of Galaxy phone and tablet buyers. Read on for more and don’t forget to subscribe to my free newsletter for the latest freebies and deal updates.…",
-          "url": "https://www.forbes.com/sites/jaymcgregor/2026/07/25/samsung-amazon-music-freebie-galaxy-s25-galaxy-s26-galaxy-tab-s11/"
+          "headline": "Netanyahu accuses Mamdani of ‘fomenting hate’ in calls for PM’s arrest",
+          "excerpt": "Benjamin Netanyahu said on Sunday that Zohran Mamdani, the New York City mayor, is “fomenting hate” by calling the Israeli prime minister a war criminal who should be arrested over Israel’s war in Gaza if he visits the city for the United Nations general assembly.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "WATCH:  Missing hiker rescued in Grand Canyon",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "WATCH:  Missing hiker rescued in Grand Canyon",
-          "excerpt": "Missing hiker rescued in Grand Canyon An 83-year-old hiker was rescued after being missing for more than 24 hours. He became separated from a friend during a hike before a helicopter spotted him and rescuers led him to safety.…",
-          "url": "https://abcnews.com/video/135080243/"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Man, 83, who went missing near Grand Canyon rescued after overnight search",
-          "excerpt": "83-year-old man who went missing near Grand Canyon rescued after overnight search An 83-year-old man who failed to return from a hike inside the Grand Canyon National Park was safely rescued after an all-night search, Arizona officials said on social media Saturday. The man, identified by the National Park Service as Gerald Guinn, of Utah, was hiking with another person at 12:30 p.m.…",
-          "url": "https://www.cbsnews.com/news/grand-canyon-kaibab-forest-missing-hiker-rescued-kane-county/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Joshua Vs. Prenga Results: Wild Highlights, 3 Knockdowns, Crazy Comeback",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Joshua Vs. Prenga Results: Wild Highlights, 3 Knockdowns, Crazy Comeback",
-          "excerpt": "Anthony Joshua escaped a scare against Kristian Prenga in Jeddah, Saudi Arabia on Saturday. The heavyweights headlined the latest Saudi boxing card and major stakes for Joshua and his upcoming bout with Tyson Fury is still on track. Let’s talk boxing. Joshua-Prenga Results Anthony Joshua def. Kristian Prenga via second-round KO Wow, that was much more eventful than we thought it would be.…",
-          "url": "https://www.forbes.com/sites/brianmazique/2026/07/25/anthony-joshua-vs-kristian-prenga-live-results-tracker-for-full-card/"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Anthony Joshua wins comeback bout in second-round knockout",
-          "excerpt": "Anthony Joshua has won his comeback bout against Kristian Prenga with a second-round knockout.",
-          "url": "https://news.sky.com/story/anthony-joshua-wins-comeback-bout-against-kristian-prenga-in-second-round-knockout-13567028"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Карим Хан решил оспорить решение о его отстранении с поста прокурора МУС",
+      "headline_en": "«Автозавод СПб» ушел в летний корпоративный отпуск",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Карим Хан решил оспорить решение о его отстранении с поста прокурора МУС",
-          "excerpt": "Карим Хан решил оспорить решение о его отстранении с поста прокурора МУС Карим Хан намерен оспорить решение Ассамблеи государств — участников Римского статута об отстранении его от должности прокурора Международного уголовного суда (МУС). Как передает The Guardian, адвокаты Карима Хана раскритиковали дисциплинарный процесс и назвали его процессуально несправедливым.…",
-          "url": "https://www.kommersant.ru/doc/8844767"
+          "headline": "«Автозавод СПб» ушел в летний корпоративный отпуск",
+          "excerpt": "«Автозавод СПб» ушел в летний корпоративный отпуск ООО «Автозавод Санкт-Петербург», производство которого идет на бывшей площадке Nissan, с 27 июля по 16 августа приостановило сборку автомобилей Lada Iskra на период летнего корпоративного отпуска. Об этом сообщает «Интерфакс».…",
+          "url": "https://www.kommersant.ru/doc/8845208"
         },
         {
-          "source": "Ведомости",
+          "source": "Interfax",
           "lang": "ru",
-          "headline": "Карим Хан оспорит решение о его отстранении с поста прокурора МУС",
-          "excerpt": "Карим Хан оспорит решение о его отстранении с поста прокурора МУС Карим Хан будет оспаривать решение о его отстранении с поста прокурора Международного уголовного суда (МУС). Об этом сообщает ТАСС со ссылкой на адвоката Хана, партнера американской юридической фирмы Bindmans LLP Тайаба Али.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/25/1216493-karim-han-mus"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "God Of War: Laufey Release Date Revealed In Major Announcement",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "God Of War: Laufey Release Date Revealed In Major Announcement",
-          "excerpt": "God of War: Laufey is releasing the same week as Valentine's Day. Despite the powerful action and vicious fight scenes the franchise is known for, Laufey is still shaping up as a bit of a love story. The game will drop on February 16, 2027. Here's everything we know. Let's talk video games.…",
-          "url": "https://www.forbes.com/sites/brianmazique/2026/07/25/god-of-war-laufey-release-date-has-been-revealed-in-major-announcement/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "God of War Laufey will hit PS5 on February 16",
-          "excerpt": "God of War Laufey will hit PS5 on February 16 Venture through the afterlife of the gods while playing as Faye. The next major installment in the God of War franchise, featuring Kratos' wife Laufey, is set to be released on February 16 of next year.…",
-          "url": "https://www.engadget.com/2223260/god-of-war-laufey-release-date-ps5-february-2027/"
+          "headline": "\"Автозавод СПб\" ушел в летний корпоративный отпуск",
+          "excerpt": "\"Автозавод СПб\" ушел в летний корпоративный отпуск Москва. 27 июля. INTERFAX.RU - ООО \"Автозавод Санкт-Петербург\" (ведет деятельность на бывшей площадке Nissan) с 27 июля приостановило сборку автомобилей Lada Iskra на период летнего корпоративного отпуска, сообщили \"Интерфаксу\" в пресс-службе предприятия.…",
+          "url": "https://www.interfax.ru/russia/1105754"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+      "headline_en": "Houthis claim Saudi drone downed over northwestern Yemen",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
-          "excerpt": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles in polls ahead of matchup with President Lula.…",
-          "url": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss"
+          "headline": "Houthis claim Saudi drone downed over northwestern Yemen",
+          "excerpt": "Houthis claim Saudi drone downed over northwestern Yemen Houthis claim Saudi drone downed over northwestern Yemen Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen. Footage released by the group appears to show the burning wreckage of the aircraft, a day after the Houthis said they attacked Saudi oil facilities. Published On 26 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss"
         },
         {
-          "source": "France 24",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Flavio Bolsonaro launches presidential bid in Brazil despite challenges",
-          "excerpt": "Flavio Bolsonaro launches presidential bid in Brazil despite challenges Flavio Bolsonaro on Saturday formally launched his campaign for Brazil's October presidential election, seeking to extend his family's grip on the country's far-right movement despite a series of scandals that have dented his once-strong challenge to incumbent President Luiz Inacio Lula da Silva.…",
-          "url": "https://www.france24.com/en/americas/20260725-crisis-hit-flavio-bolsonaro-launches-presidential-candidacy-in-brazil"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Meta walks back limits for its smart glasses' Conversation Focus feature, for now",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Meta walks back limits for its smart glasses' Conversation Focus feature, for now",
-          "excerpt": "Meta walks back limits for its smart glasses' Conversation Focus feature, for now A company spokesperson said that it’s “still exploring all our options for the best approach.” If you're an owner of any of Meta's AI glasses, you should take advantage of the Conversation Focus feature while you can.…",
-          "url": "https://www.engadget.com/2223212/meta-walks-back-rate-limits-for-smart-glasses-conversation-focus/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-          "excerpt": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly — even though that feature runs locally on your glasses and doesn’t require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge.…",
-          "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Боксер Эррол Спенс объявил о завершении карьеры после боя с Цзю",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Боксер Эррол Спенс объявил о завершении карьеры после боя с Цзю",
-          "excerpt": "Боксер Эррол Спенс объявил о завершении карьеры после боя с Цзю Бывший чемпион мира по версиям IBF, WBC, WBA американец Эррол Спенс завершил профессиональную карьеру. Заявление 36-летний боксер сделал сразу после боя с австралийцем Тимом Цзю, который прошел 26 июля в Австралии.…",
-          "url": "https://www.kommersant.ru/doc/8844799"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "Эррол Спенс объявил о завершении карьеры после боя с Цзю",
-          "excerpt": "Краткий пересказ от РИА ИИ - Эррол Спенс объявил о завершении боксерской карьеры после поражения в поединке против Тима Цзю. - Спенс уступил Цзю в бою, который прошел в Австралии и продлился всю дистанцию, победа досталась сыну экс-абсолютного чемпиона мира Константина Цзю единогласным решением судей. - Американец завершил карьеру с 28 победами и двумя поражениями в возрасте 36 лет.…",
-          "url": "https://ria.ru/20260726/spens-2107031573.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Jensen Huang has a message about AI doomerism for his fellow tech leaders",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Jensen Huang has a message about AI doomerism for his fellow tech leaders",
-          "excerpt": "Nvidia CEO Jensen Huang wants other AI leaders to quit the doomerism . “The fact that [AI] is going to be the end of humanity—it&#8217;s complete nonsense,&#8221; Huang told Axios in an interview published Thursday.…",
-          "url": "https://www.fastcompany.com/91579649/jensen-huang-has-a-message-about-ai-doomerism-for-his-fellow-tech-leaders"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington",
-          "excerpt": "In his first-ever post on X, Nvidia CEO Jensen Huang called attention to how some of the biggest names in AI and tech are rallying together to defend the future of open-weight AI models. \"AI will transform every industry, power every company, and be built by every country,\" Huang wrote on X.…",
-          "url": "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7"
+          "headline": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+          "excerpt": "Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap with the Ukraine conflict. Iran said the attack left one sailor dead and injured several others.…",
+          "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Tony Romo arrested in Wisconsin on suspicion of driving while intoxicated",
+      "headline_en": "Pentagon lists 4 killed in Iran war under \"Overseas Operations Casualties\"",
       "coverage": 2,
       "perspectives": [
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Tony Romo arrested in Wisconsin on suspicion of driving while intoxicated",
-          "excerpt": "Former Cowboys star Tony Romo arrested on suspicion of driving while intoxicated in Wisconsin, sheriff says Former Dallas Cowboys quarterback and current CBS Sports NFL analyst Tony Romo was arrested on suspicion of driving drunk in Milwaukee, the county sheriff's office confirmed. Romo was pulled over around 6 p.m.…",
-          "url": "https://www.cbsnews.com/news/tony-romo-arrest-drunk-driving-milwaukee/"
+          "headline": "Pentagon lists 4 killed in Iran war under \"Overseas Operations Casualties\"",
+          "excerpt": "Pentagon lists 4 killed in Iran war under \"Overseas Operations Casualties\" on website The Pentagon website that informs the public about the dead and wounded in military conflicts now lists four service members killed in Jordan and Iraq in July under \"Overseas Operations Casualties\" — separate from 14 other service members who have been killed during the war with Iran.…",
+          "url": "https://www.cbsnews.com/news/pentagon-4-killed-iran-war-overseas-operations-casualties/"
         },
         {
-          "source": "NBC News",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Tony Romo arrested and booked on suspicion of impaired driving in Milwaukee",
-          "excerpt": "CBS football analyst and former Dallas Cowboys quarterback Tony Romo was arrested Thursday night in Milwaukee on suspicion of intoxicated driving, officials said. Romo, 46, was pulled over on southbound Interstate 43 at about 6:18 p.m. CT after he “performed poorly” on standardized field sobriety tests, according to Milwaukee County Sheriff’s records.…",
-          "url": "https://www.nbcnews.com/news/us-news/former-cowboys-qb-tony-romo-booked-suspicion-impaired-driving-rcna589122"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "At least 35 killed after two buses collide in eastern Syria",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "At least 35 killed after two buses collide in eastern Syria",
-          "excerpt": "At least 35 killed after two buses collide in eastern Syria At least 35 killed after two buses collide in eastern Syria At least 35 people have been killed and dozens injured after two buses collided on a major highway linking eastern Syria to Damascus. The crash comes amid wider concerns over road safety and deteriorating transport infrastructure following years of war. Published On 25 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Dozens dead after buses collide in eastern Syria",
-          "excerpt": "Dozens dead after buses collide in eastern Syria July 25, 2026At least 35 people were killed and 30 others were injured when two buses collided in eastern Syria. The crash happened on Saturday on a highway linking Damascus with Deir al-Zour province. What else do we know about the crash? The Interior Ministry said one bus was carrying security personnel, while the other was carrying civilians.…",
-          "url": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "В 15 городах и районах Ростовской области возникли проблемы с электроснабжением",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "В 15 городах и районах Ростовской области возникли проблемы с электроснабжением",
-          "excerpt": "В 15 городах и районах Ростовской области возникли проблемы с электроснабжением Губернатор Ростовской области Юрий Слюсарь сообщил, что из-за непогоды как минимум в 15 городах и районах региона возникли проблемы с электроснабжением. Ранее в Ростовской области прошел сильный ливень с грозой и штормовым ветром.…",
-          "url": "https://www.kommersant.ru/doc/8844761"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Электроснабжение нарушено в 15 городах и районах Ростовской области",
-          "excerpt": "Электроснабжение нарушено в 15 городах и районах Ростовской области Москва. 25 июля. INTERFAX.RU - Перебои с энергоснабжением зафиксированы в 15 городах и районах Ростовской области в результате штормового ветра, грозы и сильного ливня, сообщил губернатор региона Юрий Слюсарь в субботу. \"Непогода вызвала крайне негативные последствия в ряде городов и районов Ростовской области (...).…",
-          "url": "https://www.interfax.ru/russia/1105611"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ebola cases in DR Congo surpass 3,000 - as health workers go on strike",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Ebola cases in DR Congo surpass 3,000 - as health workers go on strike",
-          "excerpt": "The Democratic Republic of Congo (DRC) has recorded more than 3,000 confirmed cases of Ebola, as it continues to battle the fastest-growing outbreak of the disease in history.",
-          "url": "https://news.sky.com/story/ebola-cases-in-dr-congo-surpass-3000-as-health-workers-go-on-strike-13567032"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
-          "excerpt": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’ Outbreak is spreading at the fastest rate ever recorded as confirmed cases in DRC surpass 3,000.…",
-          "url": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Tunisia marks Saied's emergency measures anniversary amid deadly power crisis",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Tunisia marks Saied's emergency measures anniversary amid deadly power crisis",
-          "excerpt": "Between 150 and 200 people are reported dead after more than a week of blackouts during an exceptional heatwave, as Tunisia marks five years since President Kais Saied suspended parliament and concentrated power in the presidency. The authorities have not confirmed the death toll.…",
-          "url": "http://www.euronews.com/2026/07/25/tunisia-marks-saieds-emergency-measures-anniversary-amid-deadly-power-crisis"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
-          "excerpt": "Tunisians mark fifth year of emergency rule with calls for Saied to go Thousands rally in Tunis calling for ‘fall of the regime’ five years since President Kais Saied suspended parliament. Thousands of Tunisians have rallied in the capital to demand the resignation of President Kais Saied, denouncing worsening living conditions, democratic backsliding and mismanagement of the state.…",
-          "url": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss"
+          "headline": "Pentagon quietly updates how it categorizes Iran war casualties",
+          "excerpt": "Pentagon quietly updates how it categorizes Iran war casualties 18 U.S. service members have been killed since the war began. The Pentagon has updated its public-facing casualty database after abruptly revising its Iran war casualty figures last week, when it reduced the number of U.S.…",
+          "url": "https://abcnews.com/US/pentagon-quietly-updates-categorizes-iran-war-casualties/story?id=135101765"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Prime Video's Blade Runner 2099 now has a trailer and release date of November 25",
+      "headline_en": "Here's our first look at Apple TV's Neuromancer adaptation",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "Prime Video's Blade Runner 2099 now has a trailer and release date of November 25",
-          "excerpt": "Prime Video's Blade Runner 2099 now has a trailer and release date of November 25 The eight-episode series stars Michelle Yeoh and Hunter Schafer. We finally have a trailer for Blade Runner 2099, after nearly five years of waiting. This is the first live-action TV show in franchise history, though there was an animated series called Blade Runner: Black Lotus.…",
-          "url": "https://www.engadget.com/2222782/prime-video-blade-runner-2099-trailer-release-date/"
+          "headline": "Here's our first look at Apple TV's Neuromancer adaptation",
+          "excerpt": "Here's our first look at Apple TV's Neuromancer adaptation We also now know when it will be released: January 22, 2027. The Apple TV series based on William Gibson's genre-defining 1984 cyberpunk novel, Neuromancer, will hit the streaming platform on January 22 of next year. Apple dropped the news at San Diego Comic-Con this weekend alongside the first official teaser.…",
+          "url": "https://www.engadget.com/2223559/first-look-apple-tv-neuromancer-adaptation-teaser-trailer/"
         },
         {
           "source": "Ars Technica",
           "lang": "en",
-          "headline": "SDCC teaser gives us our first good look at Blade Runner 2099",
-          "excerpt": "It’s been nearly five years since Ridley Scott first announced his plans for a TV spinoff of his sci-fi masterpiece Blade Runner (1982) and the 2017 sequel Blade Runner 2049. It’s finally here—or almost, anyway. Prime Video debuted the first teaser for the new ten-episode series, Blade Runner 2099, at San Diego Comic-Con on Friday.…",
-          "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/"
+          "headline": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+          "excerpt": "Apple TV is fast eclipsing HBO as the go-to platform for prestige TV, especially science fiction, with standout fare like Slow Horses, Severance, Foundation, For All Mankind, Murderbot, Silo, Pluribus, and Widow’s Bay, among others. Add the upcoming Neuromancer series to that list, an adaption of William Gibson’s hugely influential 1984 cyberpunk novel of the same name.…",
+          "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/"
         }
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "«Внуково» и «Шереметьево» возобновили работу",
+      "category": "🌍 World",
+      "headline_en": "Два человека погибли, пятеро ранены в результате атаки ВСУ на Ростовскую область",
       "coverage": 2,
       "perspectives": [
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "«Внуково» и «Шереметьево» возобновили работу",
-          "excerpt": "«Внуково» и «Шереметьево» возобновили работу В столичных аэропортах «Внуково» и «Шереметьево» сняли ограничения на рейсы, сообщили в Росавиации. Меру отменили в 06:39 мск. Ограничения вводили для обеспечения безопасности полетов. С 03:54 аэропорты принимали и отправляли рейсы по согласованию с соответствующими органами. Ночью меру также вводила аэрогавань в Сочи.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/26/1216503-vnukovo-sheremetevo"
-        },
         {
           "source": "Interfax",
           "lang": "ru",
-          "headline": "Внуково и Шереметьево возобновили работу",
-          "excerpt": "Внуково и Шереметьево возобновили работу Москва. 26 июля. INTERFAX.RU - Временные ограничения отменены в столичных аэропортах Внуково и Шереметьево, сообщили в Росавиации утром в воскресенье. \"Аэропорты Внуково, Шереметьево. Сняты ограничения на прием и выпуск воздушных судов\", - говорится в сообщении. Ранее в ночь на воскресенье приостанавливал работу аэропорт Сочи",
-          "url": "https://www.interfax.ru/russia/1105624"
+          "headline": "Два человека погибли, пятеро ранены в результате атаки ВСУ на Ростовскую область",
+          "excerpt": "Два человека погибли, пятеро ранены в результате атаки ВСУ на Ростовскую область Москва. 27 июля. INTERFAX.RU - В Ростове-на-Дону погибли два мирных жителя, пятеро получили ранения после воздушной атаки на регион, сообщил глава региона Юрий Слюсарь в понедельник. \"Ночная воздушная атака привела к трагическим последствиям. В Ростове-на-Дону погибли два человека, супруги.…",
+          "url": "https://www.interfax.ru/russia/1105753"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "В Ростове-на-Дону украинский беспилотник попал в многоэтажный дом. В результате атаки в городе погибли два человека, еще пятеро ранены",
+          "excerpt": "В Ростове-на-Дону украинский беспилотник попал в многоэтажный дом. В результате атаки в городе погибли два человека, еще пятеро ранены Два человека — муж и жена — погибли в результате удара украинских беспилотников в Ростове-на-Дону в ночь на 27 июля. Еще пять человек, в том числе подросток, получили ранения, сообщил глава Ростовской области Юрий Слюсарь.…",
+          "url": "https://meduza.io/news/2026/07/27/v-rostove-na-donu-ukrainskiy-bespilotnik-popal-v-mnogoetazhnyy-dom-v-rezultate-ataki-v-gorode-pogibli-dva-cheloveka-esche-pyatero-raneny"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say",
+      "headline_en": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "CBS News",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say",
-          "excerpt": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say as manhunt continues Berlin police have identified a suspect with ties to Islamic \"circles\" in the German capital after a car plowed into a crowd at the city's LGBTQ+ parade Saturday, killing one person and injuring at least 16.…",
-          "url": "https://www.cbsnews.com/news/berlin-lgbtq-pride-car-crash/"
+          "headline": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
+          "excerpt": "A man suspected of driving a van into a crowd near Berlin’s Pride festival then going on a knife rampage in an Islamist terror attack has been shot dead by police, German officials have said. Police confirmed on Sunday evening that the chief suspect had been shot dead, reportedly during an operation at an allotment garden complex in the capital’s Spandau district.…",
+          "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany"
         },
         {
-          "source": "ABC News",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "1 dead, several injured after vehicle drives into crowd at Berlin LGBTQ celebration",
-          "excerpt": "1 dead, several injured after vehicle drives into crowd during Berlin LGBTQ celebrations Police said a manhunt for a suspect or suspects was underway. Police in Berlin said a manhunt was underway after a vehicle drove into a crowd during the city's LGBTQ celebrations Saturday, killing one person and injuring several others.…",
-          "url": "https://abcnews.com/International/manhunt-underway-after-vehicle-drives-crowd-berlin-lgtbq/story?id=135089674"
+          "headline": "Suspect in Berlin Pride vehicle attack is dead, police say",
+          "excerpt": "Germany's interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack,\" and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
+          "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride"
         }
       ]
     },
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "category": "📈 Economy",
+      "headline_en": "US pauses Iran attacks for second night after Trump advised to halt bombing",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "TechCrunch",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "excerpt": "Prentis, a new AI research lab focused on computer use models, co-founded by serial entrepreneur Ritankar Das and tech heavyweights Reid Hoffman and Mark Pincus, is in talks to raise $100 million at a $1 billion valuation, according to two people familiar with the discussions.…",
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+          "headline": "US pauses Iran attacks for second night after Trump advised to halt bombing",
+          "excerpt": "The US has paused strikes on Iran for a third night as top military officials advised Donald Trump to halt his bombing campaign, and diplomatic negotiations have continued to avoid a return to all-out war. Oil prices fell on Monday as markets responded to the pause in combat.…",
+          "url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz"
         },
         {
-          "source": "Yahoo Finance",
+          "source": "Axios",
           "lang": "en",
-          "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "excerpt": "Prentis, a new AI research lab focused on computer use models, co-founded by serial entrepreneur Ritankar Das and tech heavyweights Reid Hoffman and Mark Pincus, is in talks to raise $100 million at a $1 billion valuation, according to two people familiar with the discussions.…",
-          "url": "https://finance.yahoo.com/technology/ai/articles/prentis-ai-lab-co-founded-222558055.html"
+          "headline": "Top U.S. military commander in Middle East advised halting Hormuz bombing",
+          "excerpt": "The top U.S. military commander in the Middle East, Adm. Brad Cooper, recommended stopping the bombing campaign around the Strait of Hormuz because it has reached the limit of its effectiveness, according to two sources with knowledge of his position. Why it matters: The recommendation by Cooper, the commander of the U.S.…",
+          "url": "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Brazil's Flávio Bolsonaro to challenge Lula after winning party nomination",
+      "headline_en": "Can Pakistan-administered Kashmir elections calm tensions?",
       "coverage": 2,
       "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Brazil's Flávio Bolsonaro to challenge Lula after winning party nomination",
-          "excerpt": "Flávio Bolsonaro received backing from Argentine President Javier Milei and a message of support from Israeli Prime Minister Benjamin Netanyahu, while he seeks further endorsements from allies of US President Donald Trump Brazilian Senator Flávio Bolsonaro, son of former President Jair Bolsonaro, was confirmed on Saturday as the presidential candidate of his father's Liberal Party, setting up a ch…",
-          "url": "http://www.euronews.com/2026/07/25/brazils-flavio-bolsonaro-to-challenge-lula-after-winning-party-nomination"
-        },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Flavio Bolsonaro gets party nod to run against Brazil's Lula",
-          "excerpt": "Flavio Bolsonaro gets party nod to run against Brazil's Lula July 25, 2026Flavio Bolsonaro, son of Brazil's former President Jair Bolsonaro, was confirmed Saturday as his father's Liberal Party candidate to challenge incumbent President Luiz Inacio Lula da Silva. \"Bolsonaro's blood flows here,\" he declared at the party convention in Sao Paulo.…",
-          "url": "https://www.dw.com/en/flavio-bolsonaro-gets-party-nod-to-run-against-brazil-s-lula/a-78115503?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Путин поздравил моряков с Днем ВМФ",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Путин поздравил моряков с Днем ВМФ",
-          "excerpt": "Путин поздравил моряков с Днем ВМФ Президент России Владимир Путин поздравил моряков с Днем Военно-морского флота. Он отметил, что серийное строительство боевых кораблей продолжается, а морская составляющая ядерной триады набирает мощь. «Сегодня военные моряки достойно несут и приумножают традиции нашего флота.…",
-          "url": "https://www.kommersant.ru/doc/8844771"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Путин поздравил военных моряков с Днем ВМФ",
-          "excerpt": "Путин поздравил военных моряков с Днем ВМФ Москва. 26 июля. INTERFAX.RU - Военно-морские силы России эффективно решают стоящие перед ними задачи, набирает мощь морская составляющая ядерной триады, заявил президент РФ Владимир Путин. \"Сегодня военные моряки достойно несут и приумножают традиции нашего флота.…",
-          "url": "https://www.interfax.ru/russia/1105626"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says",
-          "excerpt": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says It reportedly took the company a week before it realized the AI agent it was testing had escaped. It took OpenAI a week before it discovered that the agent it was testing broke free and infiltrated Hugging Face on its own, according to Reuters.…",
-          "url": "https://www.engadget.com/2223141/openai-rogue-agent-days-hacking-spree-reuters/"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
-          "excerpt": "Even in the AI age, some conversations are best had in person. Last week, after Hugging Face suffered an unusual security breach involving an AI agent running on OpenAI models, the company's CEO, Clem Delangue, boarded a flight to San Francisco to meet with the maker of ChatGPT. A week later, in the \"spirit of transparency,\" Delangue shared on X what he asked of OpenAI.…",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Typhoon Noul hits southern China as more than 700,000 evacuate, flights canceled",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Typhoon Noul hits southern China as more than 700,000 evacuate, flights canceled",
-          "excerpt": "Typhoon Noul hits southern China as more than 700,000 evacuate, flights canceled Typhoon Noul made landfall early Sunday local time and was bringing winds and heavy rain to southern China, including Hong Kong, over the weekend. It prompted the evacuation of hundreds of thousands of people in Guangdong province, with the region on high alert and dozens of flights canceled.…",
-          "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
+          "headline": "Can Pakistan-administered Kashmir elections calm tensions?",
+          "excerpt": "Can Pakistan-administered Kashmir elections calm tensions? July 26, 2026The first phase of local elections in Pakistan-administered Kashmir is scheduled for Monday, July 27, amid calls for a boycott from the recently outlawed Jammu Kashmir Joint Awami Action Committee (JAAC), a grassroots alliance of civil society groups.…",
+          "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
-          "excerpt": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region. Typhoon Noul has hit southern China, including Hong Kong, bringing strong winds and heavy rain to the region and prompting the evacuation of hundreds of thousands of people in Guangdong province.…",
-          "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Paramount agrees to delay Warner Bros. merger into 2027",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Paramount agrees to delay Warner Bros. merger into 2027",
-          "excerpt": "Paramount agrees to delay Warner Bros. merger into 2027 The extended pause will give time to hear cases for blocking the deal from states and the WGA. Paramount Skydance has agreed to pause its merger with Warner Bros. Discovery until June 2027, while a judge considers a recently filed joint lawsuit from 12 states to block the deal, The New York Times reports.…",
-          "url": "https://www.engadget.com/2222897/paramount-agrees-to-delay-warner-bros-merger-into-2027/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
-          "excerpt": "Paramount agrees to delay Warner Bros. merger amid lawsuit July 25, 2026Paramount on Friday agreed to delay its merger with Warner Bros. Discovery as a lawsuit from a dozen US states seeking to block the deal altogether moves forward. In a court filing, Paramount said it would pause the $110 billion (€96.69 billion) deal until June 2027.…",
-          "url": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-rdf"
+          "headline": "Thousands march in Pakistan-administered Kashmir amid election unrest",
+          "excerpt": "Thousands march in Pakistan-administered Kashmir amid election unrest Thousands march in Pakistan-administered Kashmir amid election unrest Thousands gathered in Pakistan-administered Kashmir's Rawalakot before marching towards Muzaffarabad as protests over governance and electoral reforms continued ahead of regional elections.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_26-07-sv-pakistan-kashmir-march-km-270726?traffic_source=rss"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Иран обвинил Украину в ударе по торговому судну в Каспийском море",
+      "headline_en": "Нефть Brent подешевела после приостановки ударов США по Ирану",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Нефть Brent подешевела после приостановки ударов США по Ирану",
+          "excerpt": "Нефть Brent подешевела после приостановки ударов США по Ирану Нефть стала дешевле после того, как США приостановили удары по Ирану. В первые несколько минут торгов цена нефти марки Brent упала более чем на 7% и опустилась ниже $90 за баррель, но затем отыграла потери и торговалась выше $93, пишет Bloomberg.…",
+          "url": "https://www.vedomosti.ru/finance/news/2026/07/27/1216614-neft-brent-podeshevela"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Нефть Brent подешевела до $92,09 после приостановки США и Ираном взаимных ударов",
+          "excerpt": "Нефть Brent подешевела до $92,09 после приостановки США и Ираном взаимных ударов Москва. 27 июля. INTERFAX.RU - Цены на нефть резко снижаются в понедельник благодаря появившимся надеждам на дипломатическое урегулирование конфликта на Ближнем Востоке после приостановки США и Ираном взаимных ударов.…",
+          "url": "https://www.interfax.ru/world/1105771"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Sudan civil war: Civilians used as 'human shields'",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Sudan civil war: Civilians used as 'human shields'",
+          "excerpt": "Sudan civil war: Civilians used as 'human shields' July 26, 2026Flattened houses and rubble where a school once stood: These are the scenes that have appeared in footage of the Sudanese city of El Obeid published by Ayin Network, a nonpartisan Sudanese media outlet.…",
+          "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
+          "excerpt": "Sudan’s army regains control of highway linking Khartoum with El Obeid Sudan’s army regains control of highway linking Khartoum with El Obeid Sudan’s army says it has regained full control of Al Sadarat highway linking Khartoum to El Obeid, a city that’s been under siege by the rival paramilitary Rapid Support Forces. Al Jazeera’s Almigdad Alruhaid reports from Khartoum. Published On 27 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
+          "excerpt": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall Police said they received numerous calls after multi-storey scaffolding along Cheung Sha Wan Road collapsed in powerful winds on Saturday. No injuries have been reported.…",
+          "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "10 killed and nearly two dozen injured after flash floods hit tourist site in northwestern China",
+          "excerpt": "Severe weather alerts were sent to many areas across the region as Typhoon Noul made landfall on Sunday.",
+          "url": "http://www.euronews.com/2026/07/27/10-killed-and-close-to-two-dozen-injured-after-flash-floods-hit-tourist-site-in-northweste"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
+          "excerpt": "Authorities in France battled to contain a huge wildfire near Bordeaux as the forecast of another heatwave threatened to deepen the crisis and the Spanish prime minister, Pédro Saánchez, warned Spain and the Iberian peninsula were suffering the effects of the climate emergency.…",
+          "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Firefighters battle to contain wildfires still burning near Bordeaux",
+          "excerpt": "Firefighters battle to contain wildfires still burning near Bordeaux Firefighters battle to contain wildfires still burning near Bordeaux Wildfires in southwestern France are continuing to burn near the city of Bordeaux. Tens of thousands have been evacuated from surrounding regions, and across the southwest of France a total of around 220,000 have been evacuated. Published On 27 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-to-contain-wildfires-still-burning-near-bordeaux?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "При стрельбе в центре Сиэтла погибли два человека",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Иран обвинил Украину в ударе по торговому судну в Каспийском море",
-          "excerpt": "Иран обвинил Украину в ударе по торговому судну в Каспийском море Украина атаковала принадлежавшее Ирану торговое судно в Каспийском море утром 25 июля, сообщило МИД Исламской республики. Погиб моряк, еще один — пострадал. Ведомство осудило удар и заявило, что он нарушает устав ООН.…",
-          "url": "https://www.kommersant.ru/doc/8844751"
+          "headline": "При стрельбе в центре Сиэтла погибли два человека",
+          "excerpt": "При стрельбе в центре Сиэтла погибли два человека В центре Сиэтла произошла стрельба на гастрономическом фестивале. Погибли два человека, еще пятеро получили ранения, сообщает NBC News. В пожарной службе уточнили, что обе жертвы погибли до прибытия спасателей. Пострадавшие госпитализированы с огнестрельными ранениями, в том числе в руку, ногу, живот и голень.…",
+          "url": "https://www.kommersant.ru/doc/8845212"
         },
         {
-          "source": "Ведомости",
+          "source": "Meduza",
           "lang": "ru",
-          "headline": "Иран обвинил Украину в атаке на торговое судно в Каспийском море",
-          "excerpt": "Иран обвинил Украину в атаке на торговое судно в Каспийском море Один человек погибИранский МИД заявил о нападении Украины на иранское торговое судно в Каспийском море. Текст сообщения приводит агентство IRNA в своем Telegram-канале. Согласно заявлению, атака произошла утром 25 июля. В результате взрыва на борту погиб один моряк, еще один получил ранения.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/25/1216490-iran-ukrainu-atake"
+          "headline": "В Сиэтле открыли стрельбу на фестивале еды. Погибли два человека",
+          "excerpt": "В Сиэтле открыли стрельбу на фестивале еды. Погибли два человека Источник: The Seattle Times В Сиэтле вечером 26 июля произошла стрельба на гастрономическом фестивале Bite of Seattle. Два человека погибли, еще как минимум пятеро, включая ребенка, были ранены, сообщает газета The Seattle Times. Фестиваль проходил в комплексе «Сиэтл-центр».…",
+          "url": "https://meduza.io/news/2026/07/27/v-sietle-otkryli-strelbu-na-festivale-edy-pogibli-dva-cheloveka"
         }
       ]
     }
