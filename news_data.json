@@ -1,1021 +1,1147 @@
 {
-  "collected_at": "2026-07-28T06:08:00.245982+00:00",
+  "collected_at": "2026-07-29T06:13:29.916755+00:00",
   "total_sources": 63,
-  "total_entries": 851,
+  "total_entries": 881,
   "story_count": 40,
   "stories": [
     {
-      "category": "📈 Economy",
-      "headline_en": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban",
-          "excerpt": "Anthropic CEO Dario Amodei said Monday that he has \"never advocated\" for a ban on open-weight AI models , rejecting accusations that his lab is seeking to shield its closed-model business from competition.…",
-          "url": "https://www.axios.com/2026/07/27/anthropic-open-weight-ban-china-dario-amodei"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
-          "excerpt": "Silicon Valley leaders from Anthropic PBC’s Dario Amodei to Nvidia Corp.’s Jensen Huang warned against a US crackdown on open-weight artificial intelligence systems, deepening a debate about how Washington should respond to a surprise breakthrough from Chinese startup Moonshot.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-          "excerpt": "Anthropic founder and CEO Dario Amodei responded on Monday afternoon to murmuring in the industry that his company somehow supports efforts by the U.S. government to ban open-weight Chinese models, or possibly open-weight models generally.…",
-          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
-          "excerpt": "Anthropic CEO Dario Amodei said on Monday that his company has \"never advocated for a ban on open-weights models,\" an attempt to beat back criticism emerging across the tech industry that the AI lab is trying to exert excessive control over the future of artificial intelligence.…",
-          "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Dario Amodei rejects speculations that Anthropic wants to ban all open-weight AI models",
-          "excerpt": "Dario Amodei is clearing the air on open-weight AI models. The Anthropic CEO on Monday pushed back against claims that his AI startup wants Washington to ban open-weight AI models and said that critics have misunderstood the company's position.…",
-          "url": "https://www.businessinsider.com/dario-amodei-blog-post-anthropic-banning-open-weight-ai-models-2026-7"
-        }
-      ]
-    },
-    {
       "category": "🌍 World",
-      "headline_en": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
-      "coverage": 4,
+      "headline_en": "Watch: The moment quake hit Japan",
+      "coverage": 6,
       "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: The moment quake hit Japan",
+          "excerpt": "The moment Tuesday's powerful earthquake hit Japan A powerful earthquake struck Japanâs Kyushu island on 28 July, forcing more than 150,000 people to evacuate. The quake caused power outages, damaged roads, brought down part of a castle wall, and destroyed a footbridge.…",
+          "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Japan Earthquake Leaves 13 Dead",
+          "excerpt": "Rescuers continued the hunt for survivors in the ruins of a shopping mall on the southwestern island of Kyushu on Wednesday, after a major earthquake in which 13 people have been confirmed dead so far. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-29/japan-earthquake-leaves-13-dead"
+        },
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
-          "excerpt": "Donald Trump has once again warned that the US will return to “strong military action” against Iran if diplomatic efforts do not bring a rapid resolution to the crisis in the Middle East. “We are in very deep talks with Iran. If they don’t work out, we will go back to very strong military action,” the US president told Axios on Monday.…",
-          "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails"
+          "headline": "‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing",
+          "excerpt": "At least 13 people were killed when a 6.8 magnitude earthquake struck southern Japan on Tuesday, injuring hundreds and knocking out power and water to tens of thousands. “There are people who are still waiting to be rescued, and it’s a race against time,” the prime minister, Sanae Takaichi, said on Wednesday.…",
+          "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks"
         },
         {
-          "source": "Axios",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Trump to Axios: I'm ready for \"strong military action\" if  Iran talks fail",
-          "excerpt": "President Trump told Axios on Monday that he decided to pause U.S. strikes on Iran in order to give negotiations another chance, but stressed that he could order a return to expanded military operations if diplomacy fails. Why it matters: The current negotiations are focused on a new deal that would reopen the Strait of Hormuz and relaunch talks on a comprehensive nuclear deal.…",
-          "url": "https://www.axios.com/2026/07/27/trump-interview-iran-bombing-pause"
+          "headline": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
+          "excerpt": "Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 13 people.",
+          "url": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Trump says Iran talks taking place during pause in US military strikes",
-          "excerpt": "Trump says Iran talks taking place during pause in US military strikes Trump says Iran talks taking place during pause in US military strikes US President Donald Trump says talks with Iran are continuing during a pause in US military strikes, adding he believes there is ‘a good chance’ of a breakthrough but warning military action could resume if negotiations fail. Published On 28 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump threatens more strikes on Iran if new talks stall",
-          "excerpt": "Trump threatens more strikes on Iran if new talks stall President Trump threatened to resume strikes on Iran if his current attempt at diplomacy fails, despite some concerns within the administration over the United States' declining military stockpile. Eleanor Watson reports.",
-          "url": "https://www.cbsnews.com/video/trump-threatens-new-strikes-on-iran/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "15-year-old shot into Seattle food festival crowd during deadly gunfight, prosecutors allege",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "15-year-old shot into Seattle food festival crowd during deadly gunfight, prosecutors allege",
-          "excerpt": "SEATTLE — A judge ordered a 15-year-old held in juvenile detention Monday in connection with a gunfight at a crowded Seattle food festival that killed three people and injured at least four others. Prosecutors said the gunfight involved the 15-year-old, a 19-year-old man who died at the scene and possibly a third person. Officials said the shooting could be gang-related.…",
-          "url": "https://www.nbcnews.com/news/us-news/seattle-food-festival-shooting-may-gang-related-prosecutors-say-rcna589412"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Manhunt underway for suspect in Seattle food festival shooting as new details about incident emerge",
-          "excerpt": "Manhunt underway for suspect in Seattle food festival shooting as new details about incident emerge A manhunt is underway in Seattle for a suspect after police say a possible dispute turned into a mass shooting Sunday. It happened at a summer food festival near the iconic Space Needle. Three people were killed and a toddler was among the injured. Carter Evans has the latest.",
-          "url": "https://www.cbsnews.com/video/manhunt-underway-for-suspect-in-seattle-food-festival-shooting-as-new-details-about-incident-emerge/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US: At least 3 killed in shooting in Seattle",
-          "excerpt": "US: At least 3 killed in shooting in Seattle July 27, 2026At least three people were killed and four others wounded, including a child, in a shooting during a food festival near the Space Needle in Seattle in the US state of Washington on Sunday evening, according to a city fire department spokesperson.…",
-          "url": "https://www.dw.com/en/us-at-least-3-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Seattle police say shooting incident at food festival over the weekend may have been gang related",
-          "excerpt": "The shooting incident killed three people, one of them now identified as one of the shooters, and injured four others, including a two-year-old boy, according to Seattle police.…",
-          "url": "http://www.euronews.com/2026/07/28/seattle-police-say-shooting-incident-at-food-festival-over-the-weekend-may-have-been-gang-"
+          "headline": "Latest images of damage as death toll from Japan’s Kyushu quake rises",
+          "excerpt": "Latest images of damage as death toll from Japan’s Kyushu quake rises Latest images of damage as death toll from Japan’s Kyushu quake rises The death toll from Japan’s Kyushu island quake rises to 13. Japan’s Prime Minister says there are still people waiting to be rescued from the damage caused by the 7.1-magnitude quake. Published On 29 Jul 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Средства ПВО сбили за ночь над Россией 356 беспилотников ВСУ",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Средства ПВО сбили за ночь над Россией 356 беспилотников ВСУ",
-          "excerpt": "Средства ПВО сбили за ночь над Россией 356 беспилотников ВСУ За минувшую ночь средства ПВО уничтожили над российскими регионами 356 украинских БПЛА. Об этом сообщили в Минобороны РФ.…",
-          "url": "https://www.kommersant.ru/doc/8846142"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Минобороны РФ сообщило об уничтожении за ночь 356 украинских дронов",
-          "excerpt": "Минобороны РФ сообщило об уничтожении за ночь 356 украинских дронов Москва. 28 июля. INTERFAX.RU - Дежурные средства ПВО в течение ночи перехватили и уничтожили над российскими регионами 356 украинских беспилотников самолетного типа, сообщило Минобороны РФ во вторник.…",
-          "url": "https://www.interfax.ru/russia/1105992"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Силы ПВО сбили 356 украинских беспилотников за ночь над регионами РФ",
-          "excerpt": "Силы ПВО сбили 356 украинских беспилотников за ночь над регионами РФ Системы противовоздушной обороны (ПВО) уничтожили 356 беспилотников вооруженных сил Украины (ВСУ) в период с 20:00 мск 27 июля до 8:00 мск 28 июля. Об этом сообщило Минобороны РФ.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/28/1216932-sili-pvo-sbili"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump says Iran war talks taking place during lull in strikes",
-      "coverage": 4,
+      "headline_en": "Trump administration bans new Chinese humanoid robots",
+      "coverage": 6,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Trump says Iran war talks taking place during lull in strikes",
-          "excerpt": "Trump says Iran war talks taking place during lull in strikes - Published US President Donald Trump has said \"there are very friendly negotiations going on\" about the conflict with Iran, after the warring sides did not exchange strikes for a third straight day.…",
-          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
+          "headline": "Trump administration bans new Chinese humanoid robots",
+          "excerpt": "Trump administration bans new Chinese humanoid robots - Published The Trump administration on Tuesday announced a ban on new foreign-made humanoid robot imports to the US over \"unacceptable risks\" to America's national security. The move applies to advanced robots - including humanoid and four-legged machines.…",
+          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Foreign Policy",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "What to Expect at the Trump-Netanyahu Showdown",
-          "excerpt": "What to Expect at the Trump-Netanyahu Showdown Once close allies, the two leaders are at odds on the Iran war. Welcome back to World Brief, where we’re looking at Israel’s agenda heading into talks at the White House, the uncertain status of U.S.-Iran peace talks, and wildfires spreading across France and Spain.…",
-          "url": "https://foreignpolicy.com/2026/07/27/netanyahu-trump-visit-israel-iran-war-elections-mamdani-united-nations/"
+          "headline": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+          "excerpt": "The Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US.…",
+          "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Business Insider",
           "lang": "en",
-          "headline": "Iran war live: Trump says US talking to Tehran, set to meet Netanyahu",
-          "excerpt": "Live updatesLive updates, Iran war live: Trump says US talking to Tehran, set to meet Netanyahu Iran says US ‘struggling’ to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump. Published On 28 Jul 2026 - US President Donald Trump says Washington is having “very friendly talks” with Tehran but suggests he is not prepared for prolonged negotiations.…",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss"
+          "headline": "The Trump administration has banned imports of new Chinese humanoid robots and power inverters",
+          "excerpt": "The Trump administration is expanding its tech crackdown on China. The Federal Communications Commission announced new restrictions on Tuesday targeting imports of advanced Chinese robots and power inverters, as part of a broader push to secure the domestic AI supply chain.…",
+          "url": "https://www.businessinsider.com/trump-expands-tech-crackdown-on-china-imports-to-humanoid-robots-2026-7"
         },
         {
-          "source": "DW English",
+          "source": "Forbes",
           "lang": "en",
-          "headline": "Iran war: Netanyahu in Washington for meeting with Trump",
-          "excerpt": "Iran war: Netanyahu in Washington for meeting with Trump Published July 28, 2026last updated July 28, 2026What you need to know - Benjamin Netanyahu arrives in Washington - Israeli PM set to meet President Trump for the first time since the start of the Iran war - US sets date for next Israel-Lebanon talks Read below for the latest developments concerning the Iran war and the wider Middle East on …",
-          "url": "https://www.dw.com/en/iran-war-netanyahu-in-washington-for-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
-          "excerpt": "Amazon has asked federal regulators to approve a request to launch up to 5,105 internet satellites as part of a constellation that will provide direct-to-device connectivity. The company first telegraphed plans to launch a D2D network in April, when Amazon announced that it would acquire satellite operator Globalstar in a deal worth about $11.6 billion.…",
-          "url": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Amazon wants to deploy 5,105 satellites for its direct-to-mobile service",
-          "excerpt": "Amazon wants to deploy 5,105 satellites for its direct-to-mobile service Amazon's Leo subsidiary has launched more than 390 satellites so far. While SpaceX already has thousands of satellites in Earth's orbit, Amazon is eager to advance its plans to establish its own satellite constellation.…",
-          "url": "https://www.engadget.com/2224233/amazon-wants-to-deploy-5105-satellites-for-its-direct-to-mobile-service/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
-          "excerpt": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for “voice, messaging, data, and emergency services.” If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028.…",
-          "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network"
+          "headline": "United States Bans Chinese Humanoid & Quadruped Robots, Citing National Security",
+          "excerpt": "The Federal Communications Commission moved to block a new generation of Chinese robots from the U.S. market, adding \"advanced robotic devices\" such as humanoid robots and quadrupeds to its Covered List of gear deemed too risky to authorize for sale in the United States.…",
+          "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/28/united-states-bans-chinese-humanoid--quadruped-robots-citing-national-security/"
         },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Amazon Seeks FCC Nod to Beam Satellite Coverage to Mobile Phones",
-          "excerpt": "Amazon.com Inc. has requested permission from the US Federal Communications Commission to launch a direct-to-device network of 5,000 satellites to provide mobile services to cell phones from space, furthering the company’s competition with SpaceX.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-27/amazon-seeks-fcc-nod-to-beam-satellite-coverage-to-mobile-phones"
+          "headline": "US Risks Broadening China Tech Clash With Robot, Inverter Curbs",
+          "excerpt": "Washington risked widening its tech confrontation with China by restricting more foreign-made goods, including some humanoid robots and power inverters.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump, Congress and world leaders to honor the late Sen. Lindsey Graham in Washington",
+      "headline_en": "Japan earthquake injures at least 100 and kills two inside shopping mall",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Japan earthquake injures at least 100 and kills two inside shopping mall",
+          "excerpt": "A 6.8-magnitude earthquake has shaken south Japan, killing at least two people and leaving at least 100 people injured. Some are trapped and presumed dead inside a shopping mall. The earthquake hit Kumamoto prefecture on the southern Kyushu island late on Tuesday afternoon, knocking out power to thousands of homes and damaging roads, bridges and buildings.…",
+          "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Japan hit by 7.1-magnitude earthquake",
+          "excerpt": "Japanese media is reporting that there are a number of casualties following the 7.1 magnitude earthquake in Japan. Authorities have said people are trapped in a shopping mall after its second floor collapsed, including casualties. Rescue efforts are ongoing.",
+          "url": "https://www.france24.com/en/japan-hit-by-7-1-magnitude-earthquake"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Japan quake kills at least 13; more trapped in collapsed mall, factory",
+          "excerpt": "Japan earthquake kills at least 13 as rescuers search for people trapped in damaged mall and factory A major earthquake in Japan's southwest on Tuesday killed at least 13 people and left several injured or missing after a shopping center and a paper mill were heavily damaged, Prime Minister Sanae Takaichi said.…",
+          "url": "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Japan: Rescue 'race against time' after deadly earthquake hits Kumamoto",
+          "excerpt": "Japan: Rescuers 'race against time' after deadly earthquake Published July 28, 2026last updated July 29, 2026A powerful 7.1-magnitude earthquake struck Kumamoto Prefecture on Japan's southern island of Kyushu on Tuesday afternoon, triggering emergency warnings and prompting authorities to assess the extent of the damage.…",
+          "url": "https://www.dw.com/en/japan-rescue-race-against-time-after-deadly-earthquake-hits-kumamoto/a-78143660?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "At least 13 killed in Japan earthquake as rescuers race to find others trapped in rubble",
+          "excerpt": "At least 13 people have been killed in southwestern Japan after a magnitude-7.1 earthquake, Prime Minister Sanae Takaichi said Wednesday, as rescuers searched for survivors of collapses at a shopping mall and a paper mill. “Even now, there are people waiting to be rescued, and this is a race against time.…",
+          "url": "https://www.nbcnews.com/world/asia/least-13-killed-japan-earthquake-others-trapped-rubble-rcna589771"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Дурову предъявили обвинение в содействии терроризму",
       "coverage": 3,
+      "perspectives": [
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Дурову предъявили обвинение в содействии терроризму",
+          "excerpt": "Краткий пересказ от РИА ИИ - Дурову предъявлено обвинение по статье о содействии террористической деятельности. - По информации ФСБ, администрация Telegram не удалила каналы, чаты и боты, активно используемые спецслужбами Украины для подготовки диверсионно-террористических актов в России. МОСКВА, 29 июл - РИА Новости.…",
+          "url": "https://ria.ru/20260729/durov-2107653616.html"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Основателю Telegram Дурову предъявлено обвинение в содействии терроризму",
+          "excerpt": "Основателю Telegram Дурову предъявлено обвинение в содействии терроризму Начата процедура его объявления в международный розыск – ФСБНачалась процедура объявления основателя мессенджера Telegram Павла Дурова в международный розыск. Ему предъявлено обвинение в рамках уголовного дела по статье о содействии террористической деятельности (ч. 1.1 ст.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/07/29/1217223-durov-obyavlen"
+        },
+        {
+          "source": "The Bell",
+          "lang": "ru",
+          "headline": "Дурову предъявили обвинение в содействии терроризму, его планируют объявить в международный розыск",
+          "excerpt": "Дурову предъявили обвинение в содействии терроризму, его планируют объявить в международный розыск The Bell Основателю Telegram Павлу Дурову предъявлено обвинение по делу о содействии террористической деятельности (ч. 1.1 ст. 205.1 УК РФ), начата процедура его объявления в международный розыск, сообщил ТАСС со ссылкой на Центр общественных связей ФСБ.…",
+          "url": "https://thebell.io/durovu-predyavili-obvinenie-v-sodeystvii-terrorizmu-ego-planiruyut-obyavit-v-mezhdunarodnyy-rozysk"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
+          "excerpt": "Lawmakers, foreign leaders and President Trump gathered Tuesday for the first of two days of funeral services for the late South Carolina Sen. Lindsey Graham.",
+          "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump calls Graham \"beloved friend\" and \"American original\" in eulogy",
+          "excerpt": "Trump calls Sen. Lindsey Graham an \"American original\" at funeral as lawmakers, world leaders pay respects What to know about the funeral service for Sen. Lindsey Graham - Sen.…",
+          "url": "https://www.cbsnews.com/live-updates/lindsey-graham-funeral-trump-washington-dc/"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Lindsey Graham’s Last Laugh",
+          "excerpt": "Lindsey Graham’s Last Laugh The senator’s funeral featured foreign dignitaries, security lines, and a eulogy from the president whose approval he never stopped seeking. Lindsey Graham always had a deep appreciation for earpieces, motorcades, and heavily secured environments.…",
+          "url": "https://www.theatlantic.com/politics/2026/07/lindsey-graham-funeral-washington/688094/?utm_source=feed"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Trump Pays Tribute to Lindsey Graham: ‘He Died Doing the Work He Was Born to Do’",
+          "excerpt": "The DC Brief Twice A WeekMaking sense of what matters most in Washington. A somber President Donald Trump paid tribute on Tuesday to his rival-turned-honest broker Lindsey Graham, a longtime fixture of Washington whose three decades in political office steadied the United States’ hawkish posture and reflected the increasingly combative nature of the modern conservative movement.…",
+          "url": "https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Watch President Trump's full tribute to Sen. Lindsey Graham",
+          "excerpt": "Watch President Trump's full tribute to Sen. Lindsey Graham during the funeral service at Washington National Cathedral. The president recalled their past working together and previous rivalry running against each other in 2016.",
+          "url": "https://www.nbcnews.com/video/watch-president-trump-s-full-tribute-to-sen-lindsey-graham-267401285762"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
+          "excerpt": "The US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike sites in Iraq that Tehran-backed militias have used to launch attacks in recent days. In what Washington cast as “an attempted surprise attack” by Tehran, Iran had launched multiple ballistic missiles at US forces in the Middle East, shattering a brief pause in fighting.…",
+          "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias",
+          "excerpt": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias Published July 29, 2026last updated July 29, 2026What you need to know - US military says Iranian ballistic missiles intercepted - The confrontation comes after a days-long lull in fighting - US, Saudi Arabia announce striking Iranian-backed militias in Iraq - Netanyahu hails his White House meeting with Trump despite tensions Read below…",
+          "url": "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. and Saudi Arabia strike \"Iran-aligned terrorists\" in Iraq",
+          "excerpt": "U.S. and Saudi Arabia strike Iran-backed groups in Iraq after attacks on American forces The U.S. and Saudi militaries launched airstrikes late Tuesday on Iranian-backed groups in Iraq, U.S. Central Command said, after Iran and its proxies allegedly targeted American forces over the last few days. The strikes could pose a challenge to a five-day lull in U.S.…",
+          "url": "https://www.cbsnews.com/news/us-saudi-arabia-strike-iran-proxies-iraq-after-attacks-on-american-forces/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "US intercepts Iranian attack and launches joint strikes with Saudi Arabia against Iran-backed militias in Iraq",
+          "excerpt": "The US military warned Iran to halt its attacks carried out directly or via its regional proxies against Washington’s assets in the Gulf or Saudi Arabia’s energy infrastructure to “avoid further military response”.",
+          "url": "http://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Middle East live: US and Saudi Arabia launch strikes on Iraq, target Iran allies",
+          "excerpt": "US and Saudi warplanes carried out strikes on Tuesday against Iran-backed militants in Iraq who launched more than two dozen drone attacks in recent days, the US military said. Meanwhile, Iran's Revolutionary Guards said they struck and halted three oil tankers in the Strait of Hormuz early Wednesday. Follow our liveblog for the latest developments.…",
+          "url": "https://www.france24.com/en/middle-east/20260729-live-us-and-saudi-arabia-launch-strikes-on-iraq-target-iran-allies"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+          "excerpt": "The 51-year-old daughter of the late former President Alberto Fujimori, Peru's new conservative leader has pledged to fight crime with an \"iron fist.\"",
+          "url": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Protests in Lima as Keiko Fujimori sworn in as Peru president",
+          "excerpt": "Protests in Lima as Keiko Fujimori sworn in as Peru president Protests in Lima as Keiko Fujimori sworn in as Peru president Keiko Fujimori has been sworn in as Peru’s president amid protests and promises to crackdown on crime. The daughter of former President Alberto Fujimori took office as protesters condemned her inauguration and demanded justice for those killed during anti-government unrest.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Peru's newly inaugurated President Fujimori vows military-led crackdown on crime",
+          "excerpt": "Peru's newly inaugurated President Fujimori vows military-led crackdown on crime Peru's newly inaugurated President Keiko Fujimori – the ninth in just a decade – pledged to deploy the armed forces to crime-ridden areas and adopt a hardline security strategy as Peru grapples with its worst wave of gang violence, extortion and illegal mining in decades.…",
+          "url": "https://www.france24.com/en/americas/20260728-peru-s-fujimori-vows-military-led-crackdown-on-crime-after-taking-office"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Fujimori takes charge in Peru amid China, US balancing act",
+          "excerpt": "Fujimori takes charge in Peru amid China, US balancing act Published July 27, 2026last updated July 28, 2026Keiko Fujimori's swearing in on Tuesday marked the return of a political movement that had been out of power for more than a quarter century.…",
+          "url": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Keiko Fujimori takes office as Peru's president, vowing to end decade of instability",
+          "excerpt": "The Popular Force leader becomes Peru's first female president, returning Fujimorism to power after 26 years. She is due to deliver her inaugural address and unveil her cabinet. King Felipe VI attended the ceremony in Lima.…",
+          "url": "http://www.euronews.com/2026/07/28/keiko-fujimori-takes-office-as-perus-president-vowing-to-end-decade-of-instability"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Россия объявила Павла Дурова в международный розыск",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "Россия объявила Павла Дурова в международный розыск",
+          "excerpt": "Основатель Telegram Павел Дуров обвиняется в содействии террористической деятельности, он объявляется в международный розыск. Об этом говорится в сообщении Центра общественных связей ФСБ России, поступившем в редакцию «Ленты.ру».…",
+          "url": "https://lenta.ru/news/2026/07/29/rossiya-ob-yavit-pavla-durova-v-mezhdunarodnyy-rozysk/"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "ФСБ сообщила об обвинении Павла Дурова в содействии террористической деятельности",
+          "excerpt": "ФСБ сообщила об обвинении Павла Дурова в содействии террористической деятельности Он объявляется в международный розыск Москва. 29 июля. INTERFAX.RU - ФСБ заявила, что создателю Telegram Павлу Дурову предъявлено обвинение в содействии террористической деятельности, поскольку администрация мессенджера не удаляет каналы и боты, используемые для координации терактов и диверсий в РФ.…",
+          "url": "https://www.interfax.ru/russia/1106228"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump asks Supreme Court to overturn $83.3 million award in E. Jean Carroll defamation case",
+      "coverage": 4,
       "perspectives": [
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Trump, Congress and world leaders to honor the late Sen. Lindsey Graham in Washington",
-          "excerpt": "WASHINGTON — World leaders, President Donald Trump and officials in Washington will pay their respects Tuesday to Republican Sen. Lindsey Graham, who died suddenly at age 71 this month and was one of the most prominent and influential lawmakers on Capitol Hill.…",
-          "url": "https://www.nbcnews.com/politics/congress/sen-lindsey-graham-funeral-plans-trump-netanyahu-dc-south-carolina-rcna589473"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Lindsey Graham's funeral to draw Trump remarks and world leaders in Washington",
-          "excerpt": "Lindsey Graham's funeral to draw Trump remarks and world leaders in Washington Sen. Lindsey Graham, the son of pool hall owners who rose to become one of the more influential politicians in the United States, will be eulogized in Washington WASHINGTON -- Sen. Lindsey Graham, the son of pool hall owners who rose to become one of his generation's more influential U.S.…",
-          "url": "https://abcnews.com/Politics/wireStory/lindsey-grahams-funeral-draw-trump-remarks-world-leaders-135141369"
+          "headline": "Trump asks Supreme Court to overturn $83.3 million award in E. Jean Carroll defamation case",
+          "excerpt": "President Donald Trump is again asking the Supreme Court to intervene in his yearslong legal battle with writer E. Jean Carroll, this time arguing that he should not have to pay an $83.3 million jury award on the grounds of presidential immunity.…",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-asks-supreme-court-overturn-833-million-award-e-jean-carroll-def-rcna589762"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
-          "excerpt": "Politicians and world leaders including Israeli Prime Minister Benjamin Netanyahu are gathering in Washington to meet with President Donald Trump while in town to honor the late Sen. Lindsey Graham at his funeral service Tuesday. At Trump's invitation, Netanyahu flew to Washington on Monday for the service, his office announced.…",
-          "url": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html"
+          "headline": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
+          "excerpt": "President Donald Trump and the Department of Justice on Tuesday separately asked the Supreme Court to overturn a civil court verdict that ordered him to pay the writer E. Jean Carroll $83.3 million for defaming her while denying her claim that he sexually assaulted her in a New York department store dressing room in the mid-1990s.…",
+          "url": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Scoop: Trump asks Supreme Court to overturn $83M judgment for E. Jean Carroll",
+          "excerpt": "President Trump 's lawyers are asking the U.S. Supreme Court to overturn the $83.3 million defamation judgment he was ordered to pay to E. Jean Carroll, Axios has learned. The judgment stemmed from Trump's 2019 statements in which he denied Carroll's claim that he'd sexually assaulted her in the 1990s and attacked her credibility, accusing her of making up the allegation.…",
+          "url": "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms",
+          "excerpt": "President Donald Trump’s Administration is seeking the Supreme Court’s intervention to push his election reform agenda ahead of the November midterms—by allowing nationwide implementation of an Executive Order restricting mail-in voting. In a Monday filing, the Justice Department requested the high court put on hold a district court ruling that prevented the enforcement of Trump’s order.…",
+          "url": "https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Аэропорт Домодедово принимает и отправляет рейсы по согласованию",
+      "headline_en": "Senate confirms Jay Clayton as new director of intelligence",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Senate confirms Jay Clayton as new director of intelligence",
+          "excerpt": "WASHINGTON — The Senate approved President Donald Trump’s choice to oversee the country’s spy agencies, with the Republican majority voting Tuesday to install top federal prosecutor Jay Clayton as the next director of national intelligence. Clayton, the U.S.…",
+          "url": "https://www.nbcnews.com/politics/national-security/senate-confirms-clayton-new-director-intelligence-rcna589654"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "US: Trump's intelligence chief pick Jay Clayton confirmed by Senate",
+          "excerpt": "US: Trump's pick Jay Clayton confirmed as intelligence chief July 29, 2026The US Senate on Tuesday confirmed Jay Clayton as Director of National Intelligence at a time when President Donald Trump has started reiterating his false claims about the 2020 election, which he lost.…",
+          "url": "https://www.dw.com/en/us-trump-s-intelligence-chief-pick-jay-clayton-confirmed-by-senate/a-78152450?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Senate confirms Jay Clayton as Trump's next intelligence chief",
+          "excerpt": "Senate confirms Jay Clayton as Trump's next intelligence chief Washington — The Senate on Tuesday confirmed Jay Clayton to lead the nation's intelligence agencies in a party-line vote that could be the key to unlock a path forward on a key surveillance authority that lapsed more than six weeks ago. The Senate voted 51 to 47 to install Clayton as director of national intelligence.…",
+          "url": "https://www.cbsnews.com/news/senate-confirms-jay-clayton-trump-intelligence-chief-dni-bill-pulte/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
+          "excerpt": "The Senate on Tuesday evening confirmed Jay Clayton as President Donald Trump's director of national intelligence, giving him authority over 18 U.S. intelligence agencies and access to the nation's most sensitive secrets. Clayton, a former chair of the Securities and Exchange Commission and current U.S. attorney for the Southern District of New York, was confirmed on a party-line, 51-47 vote.…",
+          "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Photos: Donald Trump and world leaders attend Lindsey Graham’s funeral",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Photos: Donald Trump and world leaders attend Lindsey Graham’s funeral",
+          "excerpt": "In Pictures Photos: Donald Trump and world leaders attend Lindsey Graham’s funeral Donald Trump said Lindsey Graham was a force in politics at the late senator’s funeral in DC. Hundreds of mourners have paid their respects to the late Senator Lindsey Graham of South Carolina. The Republican lawmaker and key ally of President Donald Trump unexpectedly died on July 11.…",
+          "url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "7/28: The Takeout with Major Garrett",
+          "excerpt": "Latest U.S. Iran War Fauci Diaries World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphi…",
+          "url": "https://www.cbsnews.com/video/072826-the-takeout-with-major-garrett/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Here’s Who Is Attending Lindsey Graham’s Funeral Services",
+          "excerpt": "Funeral services for the late Sen. Lindsey Graham started on Tuesday in the nation’s capital, with several notable political and media figures in town to attend the ceremonies. The Tuesday services are all taking place in Washington, D.C.; further ceremonies will take place in the South Carolina lawmaker’s home state on Wednesday.…",
+          "url": "https://time.com/article/2026/07/28/lindsey-graham-funeral-services-who-attending/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Zelensky visit White House in test to Maga's 'significant shift towards' Kyiv",
+          "excerpt": "Ukrainian President Volodymyr Zelensky is expected at the White House on July 28 for talks with US counterpart Donald Trump, as Kyiv seeks to win fresh diplomatic and military support in its fight against Russia. Zelensky is also in the US to attend US senator Lindsey Graham's funeral, an important support of Ukraine inside the Republican party.…",
+          "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Иран отверг предложение Омана по Ормузскому проливу",
       "coverage": 2,
       "perspectives": [
         {
           "source": "РИА Новости",
           "lang": "ru",
-          "headline": "Аэропорт Домодедово принимает и отправляет рейсы по согласованию",
-          "excerpt": "Краткий пересказ от РИА ИИ - Аэропорт \"Домодедово\" принимает и отправляет рейсы по согласованию с соответствующими органами. - Введены временные ограничения на использование воздушного пространства в районе аэропорта \"Домодедово\" для обеспечения безопасности полетов. МОСКВА, 28 июл - РИА Новости.…",
-          "url": "https://ria.ru/20260728/domodedovo--2107439918.html"
+          "headline": "Иран отверг предложение Омана по Ормузскому проливу",
+          "excerpt": "Краткий пересказ от РИА ИИ - Оман представил Ирану предложение о создании совместного механизма управления Ормузским проливом. - Иран отверг это предложение, заявив, что у инициативы нет шансов на успех.…",
+          "url": "https://ria.ru/20260729/iran-2107656189.html"
         },
         {
           "source": "Interfax",
           "lang": "ru",
-          "headline": "Аэропорт Пулково работает по согласованию",
-          "excerpt": "Аэропорт Пулково работает по согласованию Москва. 28 июля. INTERFAX.RU - Петербургский аэропорт Пулково принимает и отправляет самолеты по согласованию с соответствующими органами, сообщает Росавиация в мессенджере Мах.…",
-          "url": "https://www.interfax.ru/russia/1105989"
+          "headline": "Иран отверг предложение Омана о равном контроле над Ормузским проливом",
+          "excerpt": "Иран отверг предложение Омана о равном контроле над Ормузским проливом Москва. 29 июля. INTERFAX.RU - Иран отверг предложение Омана по равномерному распределению контроля над Ормузским проливом, сообщает The Wall Street Journal со ссылкой на осведомленные источники.…",
+          "url": "https://www.interfax.ru/world/1106213"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Uefa and PM criticise Infantino World Cup plan",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Uefa and PM criticise Infantino World Cup plan",
+          "excerpt": "Uefa and PM criticise Infantino World Cup plan - Published European football's governing body Uefa and Prime Minister Andy Burnham have criticised proposals from Fifa to seek private investment in its competitions, including the World Cup.…",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "European nations discussing World Cup boycott after FIFA's Infantino 'crosses a line'",
+          "excerpt": "European nations are discussing boycotting the World Cup if Gianni Infantino pushes ahead with plans to sell off part of FIFA to private investors, Sky News can reveal.",
+          "url": "https://news.sky.com/story/uefa-fury-as-fifa-boss-wants-to-sell-shares-in-world-cup-spin-off-venture-13567834"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe's UEFA",
+          "excerpt": "FIFA President Gianni Infantino’s plan to create a $20 billion company running the World Cup with private investors including the Kushner family was announced Tuesday — and immediately attacked by European soccer body UEFA. “It is not FIFA’s to sell,” UEFA said in a statement. “None of us are the owners of football.” FRANCE 24's James Vasina reports.",
+          "url": "https://www.france24.com/en/fifa-plan-for-kushner-backed-20-billion-operation-to-run-world-cup-meets-fury-from-europe-s-uefa"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
+          "excerpt": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA Football’s world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events. FIFA has proposed a plan to sell stakes in the World Cup and other events to private investors, provoking a furious response from the European football governing body, UEFA.…",
+          "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
+          "excerpt": "EBay and several former executives have agreed to pay nearly $56 million in a settlement with a Massachusetts couple who were the target of a bizarre harassment and stalking scheme. The couple, Ina and David Steiner, had been subjected to a \"terror campaign\" in 2019 that was \"designed to stop their reporting,\" attorneys for the Steiners said in a release.…",
+          "url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "eBay and its former execs settle cyberstalking case brought by journalist couple",
+          "excerpt": "eBay and its former execs settle cyberstalking case brought by journalist couple Ina and David Steiner will receive compensation after a 2019 campaign to silence their critiques of the company. eBay has reached a settlement with a pair of journalists who sued the company after its employees subjected them to a campaign of cyberstalking and harassment.…",
+          "url": "https://www.engadget.com/2225652/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+          "excerpt": "One of the most bizarre episodes in e-commerce history has come to a close. eBay and several former eBay employees have agreed to pay $56 million to a newsletter-writing couple who were targeted by the company’s former executives in a horrific targeted harassment campaign that took place in 2019.…",
+          "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+          "excerpt": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC.…",
+          "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development'",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development'",
+          "excerpt": "Senior officials at some of the nation's leading AI companies say it's time for the federal government to find a way to put the brakes on AI development if it's needed. \"We request that the U.S.…",
+          "url": "https://www.businessinsider.com/ai-open-letter-automated-development-2026-7"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "More Than ​​1,100 AI Workers Call for US to Pace Tech Growth",
+          "excerpt": "More than 1,100 staffers across top artificial intelligence firms have signed a petition that calls on the US government to support a mechanism that would help “deliberately pace” AI development to prevent the technology from advancing too fast, days after the ChatGPT maker disclosed that its tools had mistakenly hacked another firm’s internal systems.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "AI leaders sign a statement asking the government to do something about automated AI",
+          "excerpt": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development — or at least a speed-up of global coordinated governance efforts.…",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Top scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development",
+          "excerpt": "More than 1,000 employees at America’s leading AI companies, including senior staff members and some co-founders at OpenAI, Anthropic and Google DeepMind, signed a statement asking the U.S. government to help support international efforts to “deliberately pace” cutting-edge automated AI development.…",
+          "url": "https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "In 6 Words, Sam Altman Just Claimed That We’re Already in the Singularity",
-      "coverage": 3,
+      "headline_en": "Минпромторг добавил шесть моделей в список машин для работы в такси",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "In 6 Words, Sam Altman Just Claimed That We’re Already in the Singularity",
-          "excerpt": "The OpenAI CEO explained that this is a pivotal moment in human history and will be ‘awesome for the world.’",
-          "url": "https://www.inc.com/kit-eaton/in-6-words-sam-altman-just-claimed-that-were-already-in-the-singularity/91380586"
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Минпромторг добавил шесть моделей в список машин для работы в такси",
+          "excerpt": "Минпромторг добавил шесть моделей в список машин для работы в такси Минпромторг включил в реестр автомобилей для такси еще шесть моделей с локализованным производством в России. Соответствующее распоряжение правительства опубликовано на официальном портале правовой информации. В обновленный реестр впервые вошли Jetour Dashing, Tenet T4L, Tenet T8, Tenet A8, Omoda C7 и Jeland J6.…",
+          "url": "https://www.vedomosti.ru/auto/news/2026/07/28/1217167-minpromtorg-mashin-taksi"
         },
+        {
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "Минпромторг добавил в список автомобилей для такси ещё шесть моделей — Jetour Dashing, Tenet T8 и другие",
+          "excerpt": "После обновления в перечне будет 36 моделей.Источник: Tenet Список локализованных автомобилей, допущенных для работы в такси, пополнят шесть моделей. На соответствующее распоряжение правительства обратило внимание Autonews.Речь идёт о Jetour Dashing, Tenet T4L, Tenet T8, Tenet A8 (седан представили в июле 2026 года), Omoda C7 и Jeland J6.…",
+          "url": "https://vc.ru/transport/3051082-minpromtorg-dobavil-novye-modeli-avtomobilei-dlya-taksi?from=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "All 58 Marvel Cinematic Universe movies and TV series, ranked",
+      "coverage": 3,
+      "perspectives": [
         {
           "source": "Business Insider",
           "lang": "en",
-          "headline": "Has AI reached the singularity? What smart people are saying about Sam Altman's claim",
-          "excerpt": "Sam Altman said the singularity is here. Not everyone agrees. The singularity is often used to describe a point at which AI improves itself so quickly that humans can no longer reliably understand, predict, or control what comes next.…",
-          "url": "https://www.businessinsider.com/ai-singularity-experts-disagree-sam-altman-2026-7"
+          "headline": "All 58 Marvel Cinematic Universe movies and TV series, ranked",
+          "excerpt": "The Marvel Cinematic Universe has been a huge box-office force ever since its first film, \"Iron Man,\" debuted in 2008. Eighteen years and 37 more films later, the MCU has experienced its fair share of ups and downs, both critically and commercially.…",
+          "url": "https://www.businessinsider.com/mcu-movies-and-tv-series-ranked-by-critics-2022-6"
         },
         {
-          "source": "Forbes",
+          "source": "Time",
           "lang": "en",
-          "headline": "Sam Altman Says The AI Singularity Is Here. Is He Right?",
-          "excerpt": "OpenAI CEO Sam Altman says humanity has entered the AI singularity, the hypothetical point when artificial intelligence advances beyond our ability to predict or control it. “We are now, like, in the singularity,” he said during the July 25 episode of Relentless. “This is the moment.” The timing gave his claim weight.…",
-          "url": "https://www.forbes.com/sites/robertszczerba/2026/07/27/sam-altman-says-the-ai-singularity-is-here-is-he-right/"
+          "headline": "Spider-Man: Brand New Day Proves That You Can at Least Try to Build a Better Marvel Movie",
+          "excerpt": "At the end of 2021’s Spider-Man: No Way Home, Tom Holland’s Peter Parker/Spider-Man is a young man adrift. His best friend, Jacob Batalan’s Ned, and his girlfriend, Zendaya’s MJ, have been right by his side through most of the movie; at the end, a mystical spell erases their memory of him, ostensibly forever.…",
+          "url": "https://time.com/article/2026/07/28/spider-man-brand-new-day-review/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  'Spider-Man: Brand New Day' swings into Hollywood for world premiere",
+          "excerpt": "'Spider-Man: Brand New Day' swings into Hollywood for world premiere ABC News' Hanna Battah reports the buzziest stories of the day in \"GMA\" Pop News.…",
+          "url": "https://abcnews.com/video/135156080/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
+          "excerpt": "Zelenskyy visits Trump as Ukraine seeks stronger air defense July 28, 2026Ukrainian President Volodymyr Zelenskyy arrived in the United States for talks with President Donald Trump on Tuesday, saying Kyiv's top priority was securing stronger air defense and strategic cooperation as Russia intensified attacks.…",
+          "url": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Ukraine keeps up long-range strikes on Russian export and oil facilities as pressure on Moscow builds",
+          "excerpt": "Ukrainian President Volodymyr Zelenskyy said his forces had struck an export terminal in the western Rostov region, as well as oil facilities in the Yaroslavl and Udmurtia regions far from the front line.",
+          "url": "http://www.euronews.com/2026/07/27/ukraine-keeps-up-long-range-strikes-on-russian-export-and-oil-facilities-as-pressure-on-mo"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Former national security official on the importance of Trump's meetings with Netanyahu, Zelenskyy",
+          "excerpt": "Former national security official on the importance of Trump's meetings with Netanyahu, Zelenskyy Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu both met with President Trump separately at the White House on Tuesday. Former Clinton and Obama National Security Council member Charles Kupchan joins with analysis.",
+          "url": "https://www.cbsnews.com/video/former-national-security-official-importance-trump-meetings-netanyahu-zelenskyy/"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Elon Musk's solar ambitions have shifted from powering homes to powering Tesla's AI era",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Elon Musk's solar ambitions have shifted from powering homes to powering Tesla's AI era",
+          "excerpt": "About a decade ago, Tesla entered its solar-for-homes era with its contentious acquisition of SolarCity. Now, Tesla's solar dreams are taking a different shape as the company enters its AI era. Tesla has inked two long-term agreements to purchase power from utility-scale solar projects totaling about 600 megawatts of planned capacity.…",
+          "url": "https://www.businessinsider.com/tesla-elon-musk-ai-solar-ambitions-contourglobal-power-purchase-agreement-2026-7"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "As Elon Musk Promises The Future, Tesla Stock Slides Into The Past",
+          "excerpt": "Any investors hoping that Tesla stock might have turned over a new leaf by brushing off last week's losses were sorely disappointed on Monday. Not only did shares fall about 2%, they also reached the ignominious milestone of canceling out a year's worth of gains.…",
+          "url": "https://www.investors.com/news/tesla-earnings-elon-musk-electric-vehicles-robotaxis-optimus/?src=A00220&yptr=yahoo"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
+          "excerpt": "It's been a rough month for Elon Musk, if there is such a thing for the world's richest man. SpaceX and Tesla have erased a cumulative $1.5 trillion in market cap since mid-June, after an almost 50% sell-off in SpaceX since its high and an 18% drop in Tesla since earnings last week.…",
+          "url": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "В Тверской области загорелись декорации для киносъемок на 2 тыс. кв. м",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Тверской области загорелись декорации для киносъемок на 2 тыс. кв. м",
+          "excerpt": "В Тверской области загорелись декорации для киносъемок на 2 тыс. кв. м В деревне Большое Кобяково Тверской области загорелись декорации для киносъемок. Огонь охватил 30 строений на площади 2 тыс. кв. м, сообщило региональное ГУ МЧС. Никто не пострадал. ЧП случилось в Зубцовском округе. Пожарным удалось ликвидировать открытое горение 10 строений. Производится проливка и разборка конструкций.…",
+          "url": "https://www.kommersant.ru/doc/8847027"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "В Тверской области загорелись декорации для киносъемок на площади 2 тыс. кв. м",
+          "excerpt": "В Тверской области загорелись декорации для киносъемок на площади 2 тыс. кв. м Москва. 29 июля. INTERFAX.RU - Идет ликвидация пожара площадью 2 тыс. кв. м в Тверской области, где произошло возгорание декораций для киносъемок, сообщили в Главном управлении МЧС по Тверской области.…",
+          "url": "https://www.interfax.ru/russia/1106216"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran war: Netanyahu hails closed-door meeting with Trump",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Iran war: Netanyahu hails closed-door meeting with Trump",
+          "excerpt": "Iran war: Netanyahu hails closed-door meeting with Trump Published July 28, 2026last updated July 29, 2026What you need to know This blog has now closed.…",
+          "url": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump meets with Netanyahu for first time since Iran war began",
+          "excerpt": "Latest U.S. Iran War Fauci Diaries World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphi…",
+          "url": "https://www.cbsnews.com/video/trump-meets-with-netanyahu-for-first-time-since-iran-war/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions",
+          "excerpt": "President Trump and Israeli Prime Minister Benjamin Netanyahu met in the Oval Office Tuesday for a \"productive\" 90-minute session on the Iran war — free of any public sign of tensions that have marked their relationship over the past several weeks.…",
+          "url": "https://www.axios.com/2026/07/28/trump-netanyahu-oval-office-iran-war"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+          "excerpt": "Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his northern neighbour continue to incur an economic cost, new government data shows.…",
+          "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Canadian tourism slumped in the U.S. last year amid heightened tensions",
+          "excerpt": "Canadian tourism to U.S. fell 25% in 2025 amid political tensions, data shows Millions of Canadians shunned traveling to the U.S. last year, choosing to take more trips within the country and overseas, Canadian government data shows. Visits by Canadians to the U.S. in 2025 fell roughly 25%, resulting in billions less in tourism spending, according to the report.…",
+          "url": "https://www.cbsnews.com/news/canadian-tourism-to-the-us-plunged-25-2025/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Canadians' travel pullback costs U.S. tourism billions",
+          "excerpt": "Canadian travel to the U.S. fell 25% last year, according to a new Canadian government report, which says early 2026 data show the decline has persisted. Why it matters: The report provides some of the clearest measures yet of the economic cost to the U.S.…",
+          "url": "https://www.axios.com/2026/07/28/canada-us-tourism-losses-canadian-travel"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "China’s Moonshot Releases Breakthrough AI Model for Download",
+      "headline_en": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "Bloomberg Tech",
+          "source": "Ars Technica",
           "lang": "en",
-          "headline": "China’s Moonshot Releases Breakthrough AI Model for Download",
-          "excerpt": "Moonshot AI has made its Kimi K3 model available for public download, expanding its reach and influence in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download"
+          "headline": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+          "excerpt": "eBay and three former executives agreed to pay nearly $56 million in a settlement over a macabre campaign of cyberstalking and harassment that targeted two journalists in 2019. As we’ve previously written, the case involved deliveries of live cockroaches, a funeral wreath, a book about surviving the loss of a spouse, and a bloody pig mask to the home of a couple who run a news website.…",
+          "url": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/"
         },
         {
-          "source": "The Verge",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "Why China is giving away its best AI models",
-          "excerpt": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI’s Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Why China is giving away its best AI models Chinese labs like Moonshot are forcing OpenAI, Google, and Anthropic to rethink what they lock away.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
+          "headline": "They Criticized eBay. Then They Got Live Insects, a Bloody Pig Mask, and a Surveillance Team",
+          "excerpt": "After two journalists critiqued the online marketplace, executives targeted them with a harassment campaign. They just reached a $55.7 million settlement.",
+          "url": "https://www.inc.com/georgia-fearn/they-criticized-ebay-then-they-got-live-insects-bloody-pig-mask-surveillance-team/91381244"
         },
         {
-          "source": "VentureBeat",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
-          "excerpt": "Chinese AI startup Moonshot AI, creators of the increasingly famous &quot;Kimi K&quot; family of powerful, open AI models, today released the full weights for its largest and most performant version yet — Kimi K3 . But enterprises evaluating the model should read the attached custom Kimi K3 usage license as carefully as the benchmark charts.…",
-          "url": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know"
+          "headline": "eBay settles with couple \"terrorized\" in bizarre stalking scandal",
+          "excerpt": "eBay reaches $55.7 million settlement with Massachusetts couple that was \"terrorized\" in stalking scandal eBay has agreed to pay $55.7 million in a settlement with a Massachusetts couple that was the victim of a bizarre harassment and cyberstalking campaign orchestrated by former employees of the company.…",
+          "url": "https://www.cbsnews.com/news/ebay-settlement-cyberstalking-steiner/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "В Рязани эвакуировали склад Wildberries после атаки БПЛА",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Рязани эвакуировали склад Wildberries после атаки БПЛА",
+          "excerpt": "В Рязани эвакуировали склад Wildberries после атаки БПЛА Логистический объект Wildberries в Рязани эвакуировали, сообщила пресс-служба RWB. Это сделали в соответствии с требованиями безопасности, добавили там. Каких-либо подробностей в компании не привели.…",
+          "url": "https://www.kommersant.ru/doc/8847022"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Логистический объект Wildberries эвакуировали в Рязани",
+          "excerpt": "Логистический объект Wildberries эвакуировали в Рязани Москва. 29 июля. INTERFAX.RU - Сотрудники логистического объекта Wildberries были эвакуированы в Рязани, сообщили в пресс-службе RWB. \"Логистический объект компании в Рязани был эвакуирован в соответствии с требованиями безопасности\", - говорится в сообщении, опубликованном в телеграм-канале пресс-службы RWB.…",
+          "url": "https://www.interfax.ru/russia/1106217"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Iran and US trade strikes, shattering brief lull in fighting",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Iran and US trade strikes, shattering brief lull in fighting",
+          "excerpt": "Iran and US trade strikes, shattering brief lull in fighting - Published Iran has launched \"multiple\" ballistic missiles in an \"attempted surprise attack\" on American forces in the Middle East, the US military said, shattering a lull in the fighting. The attack occurred at 17:45 EDT (21:45 GMT) on Tuesday, with all missiles \"successfully intercepted\", said US Central Command (Centcom).…",
+          "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Iran missiles target US forces in Jordan after a five-day pause in war",
+          "excerpt": "Iran missiles target US forces in Jordan after a five-day pause in war Iran missiles target US forces in Jordan after a five-day pause in war The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+          "excerpt": "Iran targeted American forces in the Middle East with ballistic missiles late Tuesday stateside, U.S. Central Command said, raising tensions in the region again after the warring sides had briefly halted hostilities. Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.…",
+          "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Kentucky governor calls on McConnell to 'verbally address' Kentuckians or resign",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Kentucky governor calls on McConnell to 'verbally address' Kentuckians or resign",
+          "excerpt": "Kentucky governor calls on McConnell to 'verbally address' Kentuckians or resign Gov. Andy Beshear said he sought \"proof of [McConnell's] capacity.\" Kentucky Gov. Andy Beshear called on Monday for Sen. Mitch McConnell to either \"verbally\" show proof to Kentuckians that he can still serve in the Senate or to resign from Congress.…",
+          "url": "https://abcnews.com/Politics/kentucky-governor-calls-mcconnell-verbally-address-kentuckians-resign/story?id=135145243"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
+          "excerpt": "Kentucky Gov. Andy Beshear called on Sen. Mitch McConnell to publicly demonstrate that he remains capable of serving or resign, a day after McConnell's office said the 84-year-old Republican senator was still not medically cleared to leave rehabilitation.…",
+          "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Speak or resign: Beshear ups demand for McConnell health status",
+          "excerpt": "Kentucky Gov. Andy Beshear (D) demanded that Sen. Mitch McConnell (R-Ky.) verbally address constituents and demonstrate his ability to serve or resign his seat in a blunt letter sent to the senator and his staff. The big picture: It's been more than 40 days since 84-year-old conservative stalwart McConnell has appeared outside of pictures released by his office after being hospitalized.…",
+          "url": "https://www.axios.com/2026/07/28/mcconnell-health-update-beshear-demand-letter"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+          "excerpt": "OpenAI said Tuesday that the rogue AI agent that breached Hugging Face’s platform also hacked multiple third-party accounts and services as part of the attack. It's now clear that the unprecedented security incident, which arose during an internal test of OpenAI’s latest AI models, was more extensive than the company initially disclosed.…",
+          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing",
+          "excerpt": "The OpenAI agent that accessed a third-party system during the Hugging Face incident reached infrastructure tied to CyberGym, the project behind the ExploitGym benchmark it had been assigned to solve, a source familiar with the matter told Axios.…",
+          "url": "https://www.axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
+          "excerpt": "OpenAI’s rogue agent hacked an account at a second technology firm: Report The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers. The rogue artificial intelligence model that broke out of a controlled test and hacked another AI company also compromised a customer at a second technology firm, the Reuters news agency reports.…",
+          "url": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Павла Дурова объявили в международный розыск по делу о терроризме // ФСБ: основателя Telegram Павла Дурова объявили в розыск по делу о терроризме",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Павла Дурова объявили в международный розыск по делу о терроризме // ФСБ: основателя Telegram Павла Дурова объявили в розыск по делу о терроризме",
+          "excerpt": "Павла Дурова объявили в международный розыск по делу о терроризме ФСБ: основателя Telegram Павла Дурова объявили в розыск по делу о терроризме Основатель мессенджера Telegram Павел Дуров объявлен в международный розыск. Об этом 29 июля заявили в ФСБ России. Господину Дурову предъявили обвинение по уголовному делу о содействии террористической деятельности.…",
+          "url": "https://www.kommersant.ru/doc/8847075"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Дуров объявили в международный розыск",
+          "excerpt": "Краткий пересказ от РИА ИИ - Павлу Дурову, основателю Telegram, предъявлено обвинение по статье о содействии террористической деятельности. - Администрация Telegram не удалила каналы, чаты и боты, которые использовались спецслужбами Украины для подготовки диверсионно-террористических актов в России. - Павел Дуров объявлен в международный розыск. МОСКВА, 29 июл — РИА Новости.…",
+          "url": "https://ria.ru/20260729/durov-2107653146.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Iran launches missiles at U.S. base for first time since Trump paused strikes",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Iran launches missiles at U.S. base for first time since Trump paused strikes",
+          "excerpt": "Iran launched multiple ballistic missiles toward a U.S. military base in Jordan on Tuesday in what U.S. Central Command described as an \"attempted surprise attack.\" All of the missiles were intercepted, CENTCOM said in a statement . Why it matters: This marks Iran's first ballistic missile attack against a U.S.…",
+          "url": "https://www.axios.com/2026/07/28/iran-missile-attack-us-base-jordan"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. says it thwarted Iranian missile attack on troops in Middle East",
+          "excerpt": "Iran War Updates: U.S. thwarts Iranian missile attack on U.S. troops, strikes Iranian proxies in Iraq with Saudi forces What to know about the Iran war today: - U.S. Central Command said Tuesday night that it thwarted an \"attempted surprise attack\" by Iran's Revolutionary Guard, which it said launched multiple ballistic missiles at U.S. forces in the Middle East.…",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+          "excerpt": "Oil rose sharply in Asia trading, following renewed tensions in the Middle East after Iran launched an attack on American forces, while the U.S. along with the Saudis struck Tehran-backed sites in Iraq. Futures for international benchmark Brent crude for September delivery gained 3.42% to $86.97 a barrel. U.S. West Texas Intermediate futures advanced 3.58% to $82.09 per barrel.…",
+          "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
+          "excerpt": "Nearly 4,000 people have been evacuated from tourist sites on France’s Atlantic coast as the return of winds and extreme heat jeopardises firefighters’ battles to contain wildfires raging in France and Spain.…",
+          "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "🔴 Live: French wildfires flare up again as authorities evacuate 4,000 more from tourist sites",
+          "excerpt": "Wildfires in southwestern France flared up again on Tuesday ahead of a fourth heatwave of the summer, due to bring scorching temperatures to the region once more. The news came as French authorities ordered nearly 4,000 more people to evacuate tourist sites on the Atlantic coast on Tuesday as the resurgent heat threatened firefighters’ fragile hold on a vast wildfire west of Bordeaux.…",
+          "url": "https://www.france24.com/en/europe/20260728-live-massive-wildfires-near-bordeaux-still-under-control-after-calm-night-local-authorities-say"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Hundreds of thousands forced to evacuate in Europe from raging wildfires",
+          "excerpt": "Hundreds of thousands forced to evacuate in Europe from raging wildfires Wildfires are burning out of control as crews race to contain blazes in Spain and France. More than 300,000 people have evacuated their homes in one of Europe's biggest evacuations since World War II.…",
+          "url": "https://abcnews.com/video/135135633/"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
+      "headline_en": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
       "coverage": 3,
       "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
-          "excerpt": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes These are likely Apple’s last incremental updates before the new OS 27 generation debuts. Apple has released new updates to all of its platform operating systems. iOS 26.6, macOS 26.6, iPadOS 26.6, tvOS 26.6, watchOS 26.6 and visionOS 26.6 are all now available to the public.…",
-          "url": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "iOS 26.6 iPhone Release Has 78 Fixes And Future-Proofing Upgrades",
-          "excerpt": "July 27 update. This post, first published on July 26, has been updated to reflect the fact that the update is now out, who it’s for and how to get it. Apple iOS 26.6 may be the last iPhone update of the current cycle. Here are full details of what’s just been released.…",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/07/27/ios-266-release-next-iphone-update-is-almost-here-heres-the-target-date/"
-        },
         {
           "source": "Ars Technica",
           "lang": "en",
           "headline": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
           "excerpt": "Apple has released iOS, iPadOS, macOS, watchOS, and tvOS 26.6. Apart from potential security hotfixes, these are likely the last updates before the arrival of iOS 27, macOS 27, and so on. All of today’s releases include minor bug fixes, and there are numerous security updates: more than 150 for macOS 26.6.…",
           "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Два человека погибли в ДТП на Калужском шоссе в Москве",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Два человека погибли в ДТП на Калужском шоссе в Москве",
-          "excerpt": "Два человека погибли в ДТП на Калужском шоссе в Москве Два человека погибли в результате ДТП на Калужском шоссе в Москве, после которого произошло возгорание автомобиля. Об этом ТАСС сообщили в оперативных службах. По данным агентства, столкнулись грузовой автомобиль, легковая машина и мотоцикл. В столичном департаменте транспорта сообщили, что авария произошла в районе Вороново.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/07/27/1216906-dva-cheloveka-pogibli"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В Тульской области четыре человека погибли в ДТП с грузовиком",
-          "excerpt": "Краткий пересказ от РИА ИИ - На 299-м километре трассы М-2 «Крым» в Тульской области произошло ДТП с участием легкового и грузового автомобилей. - В результате аварии погибли четыре человека. ТУЛА, 28 июл – РИА Новости. Четыре человека погибли в ДТП с легковым и грузовым автомобилем на 299-м километре М-2 \"Крым\" в Тульской области, сообщили РИА Новости в пресс-службе ГУ МЧС России по региону.…",
-          "url": "https://ria.ru/20260728/dtp-2107441547.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Shots fired at US consulate in Toronto for a second time this year",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Shots fired at US consulate in Toronto for a second time this year",
-          "excerpt": "Shots fired at US consulate in Toronto for a second time this year - Published Police in Toronto are investigating after a gunshot was fired at the US consulate in the city - the second time this year such an incident has happened.…",
-          "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Shots fired near US consulate in Canada for second time in four months",
-          "excerpt": "Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the diplomatic compound in four months. “Officers heard a firearm being discharged in the area,” and “a white sedan was seen fleeing the scene”, Toronto police said on X. The area was cordoned off and shell casings were found.…",
-          "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Shot fired outside US consulate in Toronto for second time this year",
-          "excerpt": "Shot fired outside US consulate in Toronto for second time this year Canadian police have said youth are being recruited via encrypted messaging to carry out shootings in the Toronto area. At least one shot has been fired outside the US Consulate General in Toronto, in the second such incident in just four months.…",
-          "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Berlin Pride attack suspect had been released from prison despite ISIS ties",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Berlin Pride attack suspect had been released from prison despite ISIS ties",
-          "excerpt": "Berlin Pride attack suspect had been released from prison despite ISIS ties CBS News has learned that the 21-year-old man accused of plowing his vehicle through Berlin's Pride celebration on Saturday night had previously received a suspended sentence for charges related to his attempt to join ISIS. CBS News foreign correspondent Chris Livesay has the latest from Berlin.",
-          "url": "https://www.cbsnews.com/video/berlin-pride-attack-suspect-released-prison-isis-ties/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Berlin Pride Attack Suspect Dies in Police Confrontation After Daylong Manhunt",
-          "excerpt": "Authorities shot and killed the suspect believed to be responsible for a deadly attack at Berlin Pride on Saturday, according to police. The suspect, identified Sunday as Abdul Ballout, allegedly plowed a vehicle into a crowd of revelers, leaving one woman dead and at least 29 injured. Officials have said that the attack was likely motivated by Islamist extremism.…",
-          "url": "https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Berlin Pride attack: What we know so far",
-          "excerpt": "Berlin Pride attack: What we know so far July 26, 2026What happened? On Saturday night, around 10 p.m., a white van drove into a crowd some 100 meters (328 feet) away from a Christopher Street Day celebration near Brandenburg Gate in the heart of Berlin.…",
-          "url": "https://www.dw.com/en/berlin-pride-attack-what-we-know-so-far/a-78122611?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Off-duty police officer detains man who attacked three women with knives in Paris",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Off-duty police officer detains man who attacked three women with knives in Paris",
-          "excerpt": "A man attacked three women with knives in Paris before bystanders pinned him to the ground and an off-duty police officer detained him, the French interior minister, Laurent Nuñez, has said. The man attacked the three women, aged 19, 24 and 36, with two kitchen knives, severely wounding two of them, near Porte de Clichy on Monday, Nuñez said.…",
-          "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Video shows man subdued after stabbing three women in Paris",
-          "excerpt": "Video shows man subdued after stabbing three women in Paris Video shows man subdued after stabbing three women in Paris Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris. Bystanders and an off-duty police officer restrained the suspect, whose motive remains unknown. Published On 27 Jul 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Paris police arrest suspect after three women wounded in knife attack",
-          "excerpt": "Paris police arrest suspect after three women wounded in knife attack French police detained a man on Monday after he attacked three women with knives near Porte de Clichy in northern Paris, Interior Minister Laurent Nunez told reporters. The man attacked the three women, who were aged 19, 24 and 36, with two kitchen knives, severely wounding two of them, Nunez added.…",
-          "url": "https://www.france24.com/en/france/20260727-paris-police-arrest-suspect-after-knife-attack-three-women"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Стас Намин рассказал о попытке пасынка переложить вину за убийство на мать",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "Стас Намин рассказал о попытке пасынка переложить вину за убийство на мать",
-          "excerpt": "Краткий пересказ от РИА ИИ - Пасынок Стаса Намина, Роман Ткаченко, обвинялся в двойном убийстве бабушки и сводного брата. - Ткаченко признал факт убийства, объяснив, что в момент преступления находился не в нормальном состоянии и помнит события фрагментарно. - Мособлсуд приговорил Ткаченко к 18 годам колонии строгого режима, а апелляционный суд оставил приговор в силе.…",
-          "url": "https://ria.ru/20260728/namin-2107441344.html"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Намин: пасынок пытался переложить вину за убийство на свою мать",
-          "excerpt": "Намин: пасынок пытался переложить вину за убийство на свою мать Рок-музыкант Стас Намин обвинил своего пасынка в том, что он хотел возложить ответственность за двойное убийство на свою мать. Женщина прибыла на место преступления до правоохранителей, передает ТАСС со ссылкой на материалы дела.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/07/28/1216935-namin-pasinok-pitalsya"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Wildfire witnesses describe 'wall of flames', fear and stress",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Wildfire witnesses describe 'wall of flames', fear and stress",
-          "excerpt": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress - Published People in the French city of Bordeaux are feeling \"anxious and fearful\" as a wildfire burns just 15km (9.3 miles) from its outskirts, a resident has told the BBC.…",
-          "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
-          "excerpt": "Wildfires are ravaging southern France and spreading into Spain, forcing more than 300,000 people to flee ahead of further expected heatwaves during the week. French President Emmanuel Macron is set to hold a crisis cabinet meeting on Monday, while Spain's Prime Minister Pedro Sanchez will visit areas hit by fires in Valencia, in the East of Spain.…",
-          "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "What to Know About the Deadly Wildfires in Western Europe",
-          "excerpt": "More than 300,000 people were evacuated and at least one person killed because of wildfires in France and Spain, with fire crews battling the blazes for several days. The two countries are facing massive wildfires that began last week amid successive heat waves in Europe that produced record high temperatures in several countries and led to thousands of excess deaths.…",
-          "url": "https://time.com/article/2026/07/27/france-spain-wildfire-heat-wave-europe-climate-change/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Number of suspects in fatal Seattle food festival shooting rises to three",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Number of suspects in fatal Seattle food festival shooting rises to three",
-          "excerpt": "Number of suspects in fatal Seattle food festival shooting rises to three - Published Seattle police say they now believe at least three people were involved in a fatal shooting at a food festival on Sunday.…",
-          "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Suspect among 3 killed in Seattle shooting; teen arrested, 3rd suspect sought",
-          "excerpt": "1 Seattle shooting suspect among 3 killed at festival; teen arrested, police seek 3rd suspect Police believe three suspects were involved in a shooting at a food festival near Seattle's Space Needle on Sunday evening that killed two others and wounded four, according to court documents.…",
-          "url": "https://www.cbsnews.com/news/seattle-shooting-bite-of-seattle/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "What We Know About the Seattle Food Festival Shooting",
-          "excerpt": "One suspect is in custody and a second remains at large after a shooting at a food festival in Seattle on Sunday evening left three people dead and four others wounded, according to police. The shooting took place near Seattle’s Space Needle at Bite of Seattle, an annual food festival that draws more than 350,000 people, according to its website.…",
-          "url": "https://time.com/article/2026/07/27/seattle-shooting-food-festival-suspects-victims/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-          "excerpt": "'This is just the start': India's Gen Z protesters force out a minister, but what next? - Published In 12 years of Narendra Modi's rule in India , only one cabinet minister had previously resigned - over allegations of sexual misconduct.…",
-          "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
-          "excerpt": "Prime Minister Narendra Modi's government caved under the pressure of student protests across India — a rarity in the current administration — underscoring the rising influence of Gen Zs in the world's largest democracy. On Saturday, India's Education Minister Dharmendra Pradhan resigned, a key demand of the student protesters who were voicing concerns over examination test paper leaks.…",
-          "url": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "How India's Gen-Z protesters shifted the political debate",
-          "excerpt": "How India's Gen-Z protesters shifted the political debate July 27, 2026On Saturday, student protesters embraced, danced and climbed onto barricades as chants of victory echoed across New Delhi's historic Jantar Mantar protest site.…",
-          "url": "https://www.dw.com/en/how-india-s-gen-z-protesters-shifted-the-political-debate/a-78130194?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "За неделю от ударов БПЛА пострадали 17 сотрудников Wildberries",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "За неделю от ударов БПЛА пострадали 17 сотрудников Wildberries",
-          "excerpt": "За неделю от ударов БПЛА пострадали 17 сотрудников Wildberries За прошлую неделю из-за ударов ВСУ по складам получили ранения 18 сотрудников Wildberries, один из них погиб. Об этом сообщил ТАСС посол по особым поручениям МИД России Родион Мирошник.…",
-          "url": "https://www.kommersant.ru/doc/8846166"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "За неделю от ударов БПЛА пострадали 17 сотрудников Wildberries",
-          "excerpt": "За неделю от ударов БПЛА пострадали 17 сотрудников Wildberries За минувшую неделю в результате ударов украинских беспилотников по логистическим центрам Wildberries были ранены 17 человек, еще один погиб. Об этом посол по особым поручениям МИД России Родион Мирошник сообщил ТАСС.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/07/28/1216928-za-nedelyu"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Ticker: Cecilia Vega Says She Wasn’t Given a Reason for 60 Minutes Dismissal",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Adweek",
-          "lang": "en",
-          "headline": "Ticker: Cecilia Vega Says She Wasn’t Given a Reason for 60 Minutes Dismissal",
-          "excerpt": "Top of the Ticker: Former 60 Minutes correspondent Cecilia Vega opened up about her recent experience at CBS News under the leadership of editor-in-chief Bari Weiss, saying she was not given a reason as to why she was let go from the newsmagazine franchise.…",
-          "url": "https://www.adweek.com/tvnewser/ticker-cecilia-vega-says-she-wasnt-given-a-reason-for-60-minutes-dismissal/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Paramount’s Paused Merger Doesn’t Ease Creators’ Fears–But The ‘Obsession’ And ‘Backrooms’ Story Should",
-          "excerpt": "Paramount just agreed to pause its proposed $110 billion acquisition of Warner Bros. Discovery until June 1, 2027, or until courts resolve the litigation filed to block the merger, whichever comes first. The deal may be on hold. But the anxiety it creates for independent creators is not. Many creators watching from the sidelines fear that fewer studios means fewer buyers.…",
-          "url": "https://www.forbes.com/sites/legalentertainment/2026/07/27/paramounts-paused-merger-doesnt-ease-creators-fearsbut-the-obsession-and-backrooms-story-should/"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "David Ellison's Paramount agreeing to delay its WBD deal is actually a big flex",
-          "excerpt": "Paramount Skydance's agreement to delay its merger with Warner Bros. Discovery might have a simple explanation: CEO David Ellison can afford to wait. After months of trying to fast-track its WBD mega-deal, Paramount agreed on Friday not to close it until June 2027, or until five days after a trial ends.…",
-          "url": "https://www.businessinsider.com/paramount-delayed-wbd-deal-david-ellison-lawsuit-ticking-fee-2026-7"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
-          "excerpt": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers - Published US television presenter Savannah Guthrie has made another emotional plea to her mother Nancy's abductors in a video she posted on social media, asking them to share her mother's location. \"I'm asking you, begging you, to do the right thing now,\" she said.…",
-          "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Adweek",
-          "lang": "en",
-          "headline": "Savannah Guthrie Makes New Plea for Mother&#8217;s Return: ‘Bring Her Home&#8217;",
-          "excerpt": "On Monday, Today co-host Savannah Guthrie shared her latest plea for the return of her mother, Nancy Guthrie. In a social media post captioned “Bring her home,” Savannah Guthrie spoke directly to her mother’s abductors, telling them that their family is in agony and experiencing an unending nightmare since she went missing nearly six months ago.…",
-          "url": "https://www.adweek.com/tvnewser/savannah-guthrie-makes-new-plea-for-mothers-return-bring-her-home/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Savannah Guthrie pleads for help to find missing mother",
-          "excerpt": "Savannah Guthrie pleads for help to find missing mother Savannah Guthrie pleads for help to find missing mother Journalist Savannah Guthrie has made an emotional public appeal for information about her missing mother, Nancy Guthrie, saying her family is living through “a nightmare that will not end.” The plea comes after investigators said kidnapping notes linked to the case were fake.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/savannah-guthrie-pleads-for-help-to-find-missing-mother?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-          "excerpt": "Verizon is seeking to tap into Silicon Valley’s AI spending in a big way. The telecom giant revealed a deal worth more than $1 billion to link Google data centers using Verizon’s dark fiber routes—and it’s also tearing copper wiring out of central offices as it converts them into small data centers suitable for supporting AI inference workloads.…",
-          "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Off-grid data centers aren't the panacea that some AI firms hoped",
-          "excerpt": "Local backlash and reliability concerns are challenging the vision of an AI boom built quickly using large off-grid data centers. Why it matters: If giant projects stumble, trillions of dollars in AI investment and the industry's plans to rapidly expand data centers could be at risk.…",
-          "url": "https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "AI Data Centers Found a Way Around the Grid. Now They’re Facing a Much Bigger Problem",
-          "excerpt": "The fight over Vantage Data Centers’ self-powered campus shows how bypassing the grid can expose AI infrastructure companies to health claims, lawsuits, and community opposition.",
-          "url": "https://www.inc.com/georgia-fearn/ai-data-centers-found-a-way-around-the-grid-facing-much-bigger-problem/91380325"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "В аэропортах Домодедово и Жуковский сняли ограничения",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В аэропортах Домодедово и Жуковский сняли ограничения",
-          "excerpt": "Краткий пересказ от РИА ИИ - В аэропортах «Домодедово» и «Жуковский» сняты временные ограничения на прием и выпуск воздушных судов. - Ограничения вводили для обеспечения безопасности полетов. МОСКВА, 28 июл - РИА Новости. Временные ограничения на прием и выпуск воздушных судов сняты в аэропортах \"Домодедово\" и \"Жуковский\", сообщила Росавиация. \"Аэропорты \"Жуковский\" (\"Раменское\"), \"Домодедово\".…",
-          "url": "https://ria.ru/20260728/ogranicheniya-2107441243.html"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Временные ограничения на работу вводились для аэропортов \"Домодедово\" и \"Жуковский\"",
-          "excerpt": "Временные ограничения на работу вводились для аэропортов \"Домодедово\" и \"Жуковский\" Москва. 28 июля. INTERFAX.RU - Временные ограничения на работу столичных аэропортов \"Домодедово\" и \"Жуковский\" сняты, сообщили в Росавиации во вторник. \"Аэропорт Домодедово, Жуковский (Раменское). Сняты ограничения на прием и выпуск воздушных судов\", - говорится в сообщении, размещенном в канале Росавиации в Max.…",
-          "url": "https://www.interfax.ru/moscow/1105997"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Turn Your Rising Home Equity Into Cash You Can Use",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNN World",
-          "lang": "en",
-          "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
-          "excerpt": "Are you still interested in seeing your free loan offers? You're almost there! You're just minutes away from seeing great offers, absolutely FREE! Click to Continue Terms & conditions apply. NMLS#1136 Donât leave yet! You only have a few more quick questions. Continue to See Quotes You're just a few steps away from creating your account, your information is safe with us.…",
-          "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "HELOC and home equity loan rates today, Monday, July 27, 2026: How to choose when rates are nearly identical",
-          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. The difference between the current home equity loan (HEL) rate and the average HELOC rate is 13 basis points, according to Curinos, a real estate data analytics company.…",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-27-2026-how-to-choose-when-rates-are-nearly-identical-100000292.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Publix Is Closing Stores: See an Updated List of Shuttered Locations for 2026",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Publix Is Closing Stores: See an Updated List of Shuttered Locations for 2026",
-          "excerpt": "The southeastern U.S. supermarket chain May have closed a number of stores in recent months, but the company appears to be growing its overall footprint.",
-          "url": "https://www.inc.com/fast-company-2/publix-closing-stores-shuttered-locations-2026-supermarket-chain/91380831"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Petsense is closing stores: List of doomed locations grows as pet supplies retailer faces shifting habits",
-          "excerpt": "Another retailer has announced that it is closing some of its stores. This time around it’s the popular pet supply chain Petsense, which is owned by Tractor Supply Company (Nasdaq: TSCO). Here’s what you need to know about the Petsense store closures.…",
-          "url": "https://www.fastcompany.com/91580076/petsense-store-closures-list-doomed-locations-grows-2026"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
-          "excerpt": "Sen. Rand Paul has released a tranche of Dr. Anthony Fauci's diary entries from the COVID-19 pandemic. Fauci is set to appear before a Senate committee Wednesday on the origins of the coronavirus.",
-          "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
-          "excerpt": "Fauci diaries, released by Sen. Rand Paul, touch on COVID origins and tense relationship with Trump Washington — Republican Sen. Rand Paul of Kentucky has released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing with the nation's former top infectious disease expert on Wednesday about the origins of the COVID-19 pandemic.…",
-          "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Зеленский приехал в США. У него запланированы переговоры с Трампом",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Зеленский приехал в США. У него запланированы переговоры с Трампом",
-          "excerpt": "Зеленский приехал в США. У него запланированы переговоры с Трампом Президент Украины Владимир Зеленский прилетел в США. Сообщение об этом опубликовали в его телеграм-канале. Во время этого визита Зеленский планирует встретиться с президентом США Дональдом Трампом, а также посетить памятную церемонию в честь американского сенатора Линдси Грэма, который умер 11 июля.…",
-          "url": "https://meduza.io/news/2026/07/28/zelenskiy-priehal-v-ssha-u-nego-zaplanirovany-peregovory-s-trampom"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Зеленский прилетел в США на встречу с Трампом",
-          "excerpt": "Президент Украины Владимир Зеленский заявил, что прилетел в США. Об этом он сообщил в Telegram. «Уже в Соединенных Штатах Америки. В планах — встречи с президентом [США Дональдом] Трампом, его командой и теми, кто может поддержать нашу защиту. Приоритет номер один — это противоракетная оборона и стратегическое сотрудничество с Америкой», — написал украинский лидер.…",
-          "url": "https://lenta.ru/news/2026/07/28/zelenskiy-priletel-v-ssha-na-vstrechu-s-trampom/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "What would a rate hike signal about the new Fed chief's MO?",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "What would a rate hike signal about the new Fed chief's MO?",
-          "excerpt": "The Federal Reserve typically telegraphs its interest rate moves in advance, then follows through. This week will provide the clearest evidence yet on whether chairman Kevin Warsh is ending the era of the no-surprises Fed. The big picture: Markets are now putting meaningful odds on the Fed delivering an interest rate hike at the conclusion of its two-day meeting this week.…",
-          "url": "https://www.axios.com/2026/07/27/warsh-fed-rate-hike-bernanke"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
-          "excerpt": "June's Federal Open Market Committee meeting ended with a much shorter statement from the Federal Reserve, and with Chairman Kevin Warsh not giving a forecast on the outlook for rates. It's likely he will continue a tight-lipped approach this week, as Kalshi traders point to potential words the recently minted central bank leader will mention.…",
-          "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Bryan Kohberger files a petition to challenge his guilty plea and conviction",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Bryan Kohberger files a petition to challenge his guilty plea and conviction",
-          "excerpt": "Bryan Kohberger, the man convicted of killing four University of Idaho students in 2022, is seeking to abandon his guilty plea and wants his day in court. Kohberger, who pleaded guilty in July 2025 to avoid a quadruple murder trial and is serving four life sentences, filed a “petition for post conviction relief” Monday in the Ada County District Court in Idaho.…",
-          "url": "https://www.nbcnews.com/news/us-news/bryan-kohberger-files-petition-challenge-guilty-plea-conviction-rcna589490"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Legal analyst on whether Bryan Kohberger can take back guilty plea in University of Idaho murders",
-          "excerpt": "Legal analyst on whether Bryan Kohberger can take back guilty plea in University of Idaho murders Bryan Kohberger is claiming he was misled when he pleaded guilty to the 2022 murders of four Idaho college students. CBS News legal contributor Jessica Levinson breaks down the latest development in the case.",
-          "url": "https://www.cbsnews.com/video/bryan-kohberger-attempts-to-take-back-guilty-plea-in-university-of-idaho-murders/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Japanese, Korean Stocks Tumble as Chip Selloff Intensifies",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Japanese, Korean Stocks Tumble as Chip Selloff Intensifies",
-          "excerpt": "Japanese and South Korean stocks slid, led by semiconductor shares, as concerns over Nvidia Corp.’s blockbuster AI supply deal and intensifying competition from Chinese chipmakers weighed on investor sentiment.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/japanese-korean-stocks-tumble-as-chip-selloff-intensifies"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "SK Hynix shares plunge 13% in Seoul as chip sell-off deepens",
-          "excerpt": "Semiconductor shares tumbled Tuesday in Asia, extending a rout in chipmakers after another weak session on Wall Street. SK Hynix plunged more than 13%, while Samsung Electronics fell over 12%. Other AI-linked names also saw heavy selling, with Samsung SDI dropping over 10%, LG Innotek sliding nearly 18%, Seoul Semiconductor falling about 7% and LG Chem losing more than 6%.…",
-          "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "В подмосковном Чехове БПЛА попал в многоквартирный дом",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "В подмосковном Чехове БПЛА попал в многоквартирный дом",
-          "excerpt": "В подмосковном Чехове БПЛА попал в многоквартирный дом Силы ПВО уничтожили несколько десятков беспилотников над Домодедово, Подольском, Раменским и Коломной, сообщил губернатор Подмосковья Андрей Воробьев. В Чехове БПЛА попал в многоквартирный дом, уточнил глава региона. На месте работают экстренные службы. Информация о пострадавших уточняется.…",
-          "url": "https://www.kommersant.ru/doc/8846098"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "БПЛА попал в многоквартирный дом в Чехове",
-          "excerpt": "БПЛА попал в многоквартирный дом в Чехове Несколько десятков БПЛА сбиты над Подольском, Раменским, Коломной и Домодедово Москва. 28 июля. INTERFAX.RU - Украинский беспилотник попал в многоквартирный жилой дом в Чехове, сообщил губернатор Московской области Андрей Воробьев во вторник. \"В Чехове беспилотник попал в многоквартирный дом на улице Земской.…",
-          "url": "https://www.interfax.ru/russia/1105977"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "YouTube Premium will soon include Peacock at no extra cost",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "YouTube Premium will soon include Peacock at no extra cost",
-          "excerpt": "YouTube Premium will soon include Peacock at no extra cost An expanded partnership with NBCUniversal will also bring some live events to the NBC Sports' YouTube channel. Starting in early 2027, Peacock Premium — an ad-supported version of the streaming service — will be included with YouTube Premium in the US at no extra cost.…",
-          "url": "https://www.engadget.com/2224217/youtube-premium-will-soon-include-peacock-at-no-extra-cost/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "YouTube Premium will include Peacock starting next year",
-          "excerpt": "YouTube’s ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock’s ad-supported shows, movies, and live sports directly through the YouTube app in 2027.…",
-          "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice",
-          "excerpt": "Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice The pact would erase decades of U.S. counterproliferation policy. If they were handing out diplomas from the College of Strategic and Diplomatic Malpractice, the Trump administration would surely graduate with high honors. The latest episode in this sorry tale is the deal to provide Saudi Arabia with U.S.…",
-          "url": "https://foreignpolicy.com/2026/07/27/trump-nuclear-saudi-arabia-deal-iran-israel/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Republican Lawmaker Breaks Ranks With Trump Over U.S.-Saudi Arabia Nuclear Deal",
-          "excerpt": "President Donald Trump’s civil nuclear deal with Saudi Arabia has sparked debate among not only Democratic lawmakers, but also within the GOP. Republican Sen.…",
-          "url": "https://time.com/article/2026/07/27/republican-senator-kennedy-breaks-ranks-trump-us-saudi-arabia-nuclear-deal/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Private Claude Chats Exposed in Google and Bing Search Results",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Private Claude Chats Exposed in Google and Bing Search Results",
-          "excerpt": "What happens between you and an AI chatbot does not always stay between you and a chatbot. Just ask Google. Over the weekend, people were surprised to discover that some Anthropic Claude chats could be easily found via web search.…",
-          "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/"
         },
         {
           "source": "ZDNet",
           "lang": "en",
-          "headline": "Claude AI shared chats indexed by Google - see if your conversations were exposed",
-          "excerpt": "Claude AI shared chats indexed by Google - see if your conversations were exposed Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Claude AI shared chats were surfaced by Google queries, Reddit users reveal. - Private chats were not leaked, and Anthropic reacted quickly. - To keep your conversations safe, be cautious about creating share links.…",
-          "url": "https://www.zdnet.com/article/claude-ai-shared-chats-indexed-by-google/"
+          "headline": "Why Apple's iOS 26.6 is worth installing (it's not just for the 91 security fixes)",
+          "excerpt": "Why Apple's iOS 26.6 is worth installing (it's not just for the 91 security fixes) Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Apple's iOS 26.6 preps your phone for Siri AI searches. - The update also patches 91 security vulnerabilities. - This will likely be the last update before iOS 27 rolls out.…",
+          "url": "https://www.zdnet.com/article/apples-ios-26-6-siri-ai/"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Apple iOS 26.6 New iPhone Software: Should You Upgrade?",
+          "excerpt": "The latest iPhone update has arrived and it is low on features and high on fixes. Uniquely, it’s here to prepare users for the next-generation iPhone cycle, iOS 27, as well as address current issues. Here are details of what’s in it, first reactions and whether you should update to it. This post has the initial thoughts on the new release and I’ll be updating it over the coming week.…",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/07/28/apple-ios-266-new-iphone-software-should-you-upgrade/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Топ-менеджера московской компании уволили после использования DeepSeek — из-за разглашения коммерческой тайны",
+      "headline_en": "Обломки украинских БПЛА нашли на территории порта в Таганроге",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "RB.ru",
+          "source": "Ведомости",
           "lang": "ru",
-          "headline": "Топ-менеджера московской компании уволили после использования DeepSeek — из-за разглашения коммерческой тайны",
-          "excerpt": "Топ-менеджера московской компании уволили после использования DeepSeek — из-за разглашения коммерческой тайны Суд счёл действия женщины грубым нарушением трудовых обязанностейДиректора по продажам московской инженерной компании уволили за разглашение коммерческой тайны после того, как она загрузила служебные документы в DeepSeek.…",
-          "url": "https://rb.ru/news/top-menedzhera-moskovskoj-kompanii-uvolili-posle-ispolzovaniya-deepseek-iz-za-razglasheniya-kommercheskoj-tajny/"
+          "headline": "Обломки украинских БПЛА нашли на территории порта в Таганроге",
+          "excerpt": "Обломки украинских БПЛА нашли на территории порта в Таганроге Обломки беспилотников ВСУ обнаружили на территории производственных организаций и порта в Таганроге, сообщил в Max губернатор Ростовской области Юрий Слюсарь. По его словам, возгораний не зафиксировано, никто не пострадал. На местах происшествий работают экстренные службы.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/29/1217220-oblomki-ukrainskih"
         },
         {
-          "source": "vc.ru",
+          "source": "Lenta.ru",
           "lang": "ru",
-          "headline": "Топ-менеджера российской компании уволили за разглашение коммерческой тайны — она загрузила некоторые внутренние документы в DeepSeek",
-          "excerpt": "Сотрудница пыталась оспорить решение через суд, но проиграла.Топ-менеджера московской инженерной компании уволили за разглашение коммерческой тайны, в том числе через DeepSeek, пишет «РИА Новости».…",
-          "url": "https://vc.ru/hr/3047723-uvolnenie-top-menedzhera-za-razglashenie-kommercheskoy-tayny-cherez-deepseek?from=rss"
+          "headline": "Обломки украинских БПЛА рухнули на территории российского порта",
+          "excerpt": "Обломки беспилотных летательных аппаратов (БПЛА) Вооруженных сил Украины (ВСУ) рухнули в порту Таганрога и на промышленной территории. Об этом сообщил в Telegram губернатор Ростовской области Юрий Слюсарь. Чиновник сообщил, что при падении обломков БПЛА в районе перечисленных объектов под Ростовом-на-Дону возгораний не возникло.…",
+          "url": "https://lenta.ru/news/2026/07/29/oblomki-ukrainskih-bpla-ruhnuli-na-territorii-rossiyskogo-porta/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Australia news live: Icac witness accepts former NSW Liberal minister did not have extramarital affair despite ‘shit sheet’ claim",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Australia news live: Icac witness accepts former NSW Liberal minister did not have extramarital affair despite ‘shit sheet’ claim",
+          "excerpt": "Icac witness accepts former NSW Liberal minister did not have extramarital affair despite ‘shit sheet’ claim Penry Buckley Returning to the NSW Icac’s Operation Rosny hearing earlier, witness Dylan Whitelaw was cross-examined over a claim he repeated about a purported extramarital affair by the former NSW Liberal minister David Elliott.…",
+          "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "LIVE:  ABC News Live",
+          "excerpt": "Oops! Page unavailable. This page either does not exist or is currently unavailable. From here you can either hit the \"back\" button on your browser to return to the previous page, or visit the ABCNews.com Home Page. You can also search for something on our site below. STATUS CODE: 404",
+          "url": "https://abcnews.com/video/41463246/"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "All Threads users can now DM Meta AI",
+      "headline_en": "Apple Upgrade is a great deal on paper, but make sure you read the fine print",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "All Threads users can now DM Meta AI",
-          "excerpt": "All Threads users can now DM Meta AI The feature is rolling out globally starting today. But you still can't block the AI's posts. In May, Meta started testing Meta AI on Threads' public feed. Now, starting today, Meta is rolling out Meta AI to Threads users' DMs across the globe.…",
-          "url": "https://www.engadget.com/2223799/all-threads-users-can-now-dm-meta-ai/"
+          "headline": "Apple Upgrade is a great deal on paper, but make sure you read the fine print",
+          "excerpt": "Apple Upgrade is a great deal on paper, but make sure you read the fine print Make a plan before you buy to avoid potential fees down the road. At first glance, the new Apple Upgrade program seems like a no-brainer.…",
+          "url": "https://www.engadget.com/2225429/apple-upgrade-is-a-great-deal-on-paper-but-make-sure-you-read-the-fine-print/"
         },
         {
-          "source": "TechCrunch",
+          "source": "ZDNet",
           "lang": "en",
-          "headline": "Threads users can now chat with Meta AI in their DMs",
-          "excerpt": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads’ DMs, giving users a way to chat with the AI assistant. Although Threads users in select markets could already interact with Meta AI in public posts, like people can with Grok on X, this new integration lets users talk with the AI assistant privately.…",
-          "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
+          "headline": "You can lease an iPhone through Klarna now - but should you? I did the math",
+          "excerpt": "You can lease an iPhone through Klarna now - but should you? I did the math Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Apple officially launched its new Apple Upgrade leasing program. - Customers can lease iPhones, Watches, iPads, and Macs. - Apple Upgrade is best for those who like to upgrade their iPhone annually.…",
+          "url": "https://www.zdnet.com/article/should-you-finance-pay-in-full-or-apple-upgrade/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "FIFA president's extraordinary online rant at World Cup critics",
+      "headline_en": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Sky News",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "FIFA president's extraordinary online rant at World Cup critics",
-          "excerpt": "FIFA president Gianni Infantino has said critics of the World Cup were \"consumed by hate\", accusing them of spreading \"false rumours\" and obsessing over \"strange disciplinary rulings\".",
-          "url": "https://news.sky.com/story/world-cup-critics-consumed-by-hate-fifas-gianni-infantino-says-13567364"
+          "headline": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+          "excerpt": "'A lover of life' - Seattle pays tribute to food festival shooting victims - Published Much of the city of Seattle was in mourning on Monday as residents paid tribute to the three lives that were lost during a deadly street gunfight the day before.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "DW English",
+          "source": "Euronews",
           "lang": "en",
-          "headline": "FIFA boss Infantino takes aim at World Cup critics",
-          "excerpt": "FIFA boss Infantino takes aim at World Cup critics July 27, 2026Gianni Infantino is not a man used to apologizing. And even though he said sorry three times on the second slide of a 15-page Instagram post, that remains the case. \"To everyone who missed our beautiful game, the emotions, the celebrations, the laughter, the crying, the deception, and the joy.…",
-          "url": "https://www.dw.com/en/fifa-boss-infantino-takes-aim-at-world-cup-critics/a-78128599?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump calls protester ‘communist’ after Michigan speech interruption",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Trump calls protester ‘communist’ after Michigan speech interruption",
-          "excerpt": "Trump calls protester ‘communist’ after Michigan speech interruption Trump calls protester ‘communist’ after Michigan speech interruption A protester was removed after interrupting US President Donald Trump’s remarks at a Michigan auto event. Trump responded by calling the heckler a ‘communist’ and later expanded his criticism of what he described as the threat of communism facing the country.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump to defend economic policies in Michigan, where new Canadian tariffs may sting",
-          "excerpt": "Trump to defend economic policies in Michigan, where new Canadian tariffs may sting President Donald Trump says his economic policies have revived the auto industry and American manufacturing MILFORD, Mich. -- MILFORD, Mich.…",
-          "url": "https://abcnews.com/US/wireStory/trump-set-defend-economic-policies-michigan-new-canadian-135112209"
+          "headline": "Seattle police say shooting incident at food festival over the weekend may have been gang related",
+          "excerpt": "The shooting incident killed three people, one of them now identified as one of the shooters, and injured four others, including a two-year-old boy, according to Seattle police.",
+          "url": "http://www.euronews.com/2026/07/28/seattle-police-say-shooting-incident-at-food-festival-over-the-weekend-may-have-been-gang-"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "ФСБ задержала жителя ДНР за призывы к насилию",
+      "headline_en": "В центре Москвы 1 августа перекроют движение из-за ночного велофестиваля",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "ФСБ задержала жителя ДНР за призывы к насилию",
-          "excerpt": "ФСБ задержала жителя ДНР за призывы к насилию В Донецкой народной республике (ДНР) спецслужбы задержали жителя города Ясиноватой. Мужчина «публично призывал к осуществлению экстремистской деятельности», сообщили в региональном ФСБ. По данным ФСБ, задержанный публиковал в мессенджере Telegram комментарии с призывами к насилию над «группой лиц, выделенных по признаку национальности».…",
-          "url": "https://www.kommersant.ru/doc/8846130"
+          "headline": "В центре Москвы 1 августа перекроют движение из-за ночного велофестиваля",
+          "excerpt": "В центре Москвы 1 августа перекроют движение из-за ночного велофестиваля В Москве ограничат движение на Садовом кольце 1 августа. Ограничения введут из-за ночного велофестиваля и велогонки «Вечернее Садовое кольцо», сообщил столичный Дептранс. 31 июля с 16:00 до 23:59 и 2 августа с 00:01 до 05:00 движения не будет в проезде Девичьего Поля от Зубовской улицы до улицы Плющихи.…",
+          "url": "https://www.kommersant.ru/doc/8847067"
         },
         {
-          "source": "Ведомости",
+          "source": "Interfax",
           "lang": "ru",
-          "headline": "ФСБ задержала жителя ДНР за призывы к насилию",
-          "excerpt": "ФСБ задержала жителя ДНР за призывы к насилию Сотрудники спецслужб задержали жителя города Ясиноватой за его публикации с призывами к насильственным действиям. Об этом сообщило региональное управление ФСБ РФ, передает ТАСС.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/07/28/1216930-fsb-zaderzhala-zhitelya"
+          "headline": "Движение на Садовом кольце в Москве перекроют 1 августа из-за Ночного велофестиваля",
+          "excerpt": "Движение на Садовом кольце в Москве перекроют 1 августа из-за Ночного велофестиваля Подъезд к ряду объектов на Садовом кольце будет временно недоступен Москва. 29 июля. INTERFAX.RU - Департамент транспорта Москвы предупредил о временном ограничении движения 1 августа на Садовом кольце из-за Ночного велофестиваля и велогонки \"Вечернее Садовое кольцо\".…",
+          "url": "https://www.interfax.ru/moscow/1106223"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Zidane confirmed as France head coach",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Zidane confirmed as France head coach",
+          "excerpt": "Zidane confirmed as France head coach - Published Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team. Didier Deschamps, France's longest-serving manager, ended his 14-year stint in charge after the nation's semi-final exit to Spain at the 2026 World Cup.…",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "‘The only job I wanted’: Zidane’s first words as France head coach",
+          "excerpt": "France great Zinedine Zidane's long-held ambition to coach the national team became reality on Tuesday when the French Football Federation appointed the former captain and World Cup winner as Didier Deschamps' successor on a four-year contract. Here is what he had to say.",
+          "url": "https://www.france24.com/en/the-only-job-i-wanted-zidane-s-first-words-as-france-head-coach"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+          "excerpt": "SK Hynix shares nosedived on Wednesday as exponential second-quarter earnings and revenue growth still failed to satisfy analysts' supercharged expectations for an artificial-intelligence darling.…",
+          "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "SK Hynix’s Profit Jump Misses Lofty AI Expectations",
+          "excerpt": "SK Hynix Inc.’s quarterly profit rose 557%, but missed expectations, fueling fears that an AI boom that has propelled the semiconductor industry may be decelerating. Bloomberg's Mark Cranfield and Anthony Stephens share their insights. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-28/sk-hynix-s-profit-jump-misses-lofty-ai-expectations-video"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
+          "excerpt": "Apple says it won’t limit the capabilities of devices leased through its new Upgrade program if you miss a payment.…",
+          "url": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "An iPhone for Just $18 a Month? Here’s How Apple’s New Upgrade Program Works",
+          "excerpt": "A new Apple Upgrade program is rolling out for devices like iPhones and Watches, while two other options sunset.",
+          "url": "https://www.inc.com/hazel-gandhi/an-iphone-for-just-18-a-month-heres-how-apples-new-upgrade-program-works/91380968"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Comey claims DOJ conducted \"illegal\" surveillance in motion seeking to dismiss charges",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Comey claims DOJ conducted \"illegal\" surveillance in motion seeking to dismiss charges",
+          "excerpt": "Comey claims DOJ conducted \"illegal\" surveillance in new motion seeking dismissal of Trump threat charges Former FBI Director James Comey filed new motions late Tuesday in his effort to toss out federal charges accusing him of threatening President Trump's by posting a photo of seashells arranged to form the numbers \"86 47,\" casting the indictment as the latest salvo in a yearslong effort to punis…",
+          "url": "https://www.cbsnews.com/news/james-comey-claims-doj-conducted-illegal-surveillance-new-motion-to-dismissal-trump-threat-charges/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "James Comey legal team argues DOJ’s seashells case erodes ‘bedrock’ principles",
+          "excerpt": "Allowing the seashells-based prosecution of former FBI Director James Comey to move forward would erode core constitutional rights protecting free speech, Comey’s legal team told a federal judge in North Carolina on Tuesday.…",
+          "url": "https://www.nbcnews.com/politics/justice-department/james-comey-legal-team-argues-dojs-seashells-case-erodes-bedrock-princ-rcna589659"
         }
       ]
     }
