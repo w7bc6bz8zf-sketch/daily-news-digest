@@ -1,230 +1,111 @@
 {
-  "collected_at": "2026-07-31T06:28:45.697841+00:00",
+  "collected_at": "2026-08-01T06:14:11.488238+00:00",
   "total_sources": 63,
-  "total_entries": 891,
+  "total_entries": 868,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Border Crisis as Migrants Cross Into Ceuta, Spain by Sea",
-      "coverage": 8,
+      "headline_en": "Infantino on the brink? Who might replace him if he goes?",
+      "coverage": 9,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Border Crisis as Migrants Cross Into Ceuta, Spain by Sea",
-          "excerpt": "Migrants crossed into Ceuta, Spain, one of two direct land connections between Africa and Europe. It prompted the Spanish government to order an emergency military deployment. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-31/border-crisis-as-migrants-cross-into-ceuta-spain-by-sea-video"
+          "headline": "Infantino on the brink? Who might replace him if he goes?",
+          "excerpt": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "Spain deploys military to Ceuta after thousands of people breach Morocco's border",
-          "excerpt": "Spain will deploy its military to restore order at its border with Morocco in Ceuta after thousands of migrants streamed into the tiny Spanish territory, with at least nine dying in the attempt.",
-          "url": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration"
+          "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+          "excerpt": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.",
+          "url": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino"
         },
         {
-          "source": "CBS News",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Spain deploys military to Morocco border after migrant crossings, 9 deaths",
-          "excerpt": "Spain deploys military to Ceuta after thousands of migrant crossings at Morocco border, at least 9 dead Spain will deploy its military to restore order at its border with Morocco in Ceuta after thousands of migrants streamed into the tiny Spanish territory, with at least nine dying in the attempt.…",
-          "url": "https://www.cbsnews.com/news/spain-deploys-military-ceuta-morocco-border-migrants/"
+          "headline": "FIFA chief Infantino abandons World Cup sell-off plans after backlash",
+          "excerpt": "FIFA chief Infantino abandons World Cup sell-off plans August 1, 2026 FIFA President Gianni Infantino has withdrawn his plans to sell stakes in FIFA competitions to private investors. Infantino's plans had been met with widespread condemnation from across the football world.…",
+          "url": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Euronews",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Thousands of migrants storm Ceuta border from Morocco",
-          "excerpt": "Thousands crossed into Spain's North African enclave of Ceuta from Morocco, prompting local authorities to request a national emergency and military support.",
-          "url": "http://www.euronews.com/video/2026/07/30/thousands-of-migrants-storm-ceuta-border-from-morocco"
+          "headline": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+          "excerpt": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know How FIFA President Gianni Infantino was forced to abandon his World Cup equity plan after seismic backlash across football. Gianni Infantino looked every bit the “King of Football”, as US President Donald Trump likes to call him, when the two allies sat together watching the World Cup final less than two weeks ago.…",
+          "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss"
         },
         {
-          "source": "Sky News",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Nine dead as thousands of migrants enter Spanish enclave from Morocco",
-          "excerpt": "Spain will deploy its military to restore order at its border with Morocco in Ceuta after thousands of migrants poured into the tiny Spanish territory, with at least nine dying in the attempt.",
-          "url": "https://news.sky.com/story/thousands-of-migrants-from-morocco-enter-spanish-enclave-of-ceuta-as-locals-demand-army-restore-border-13568466"
+          "headline": "FIFA says it's not moving forward with controversial World Cup sell-off plan",
+          "excerpt": "FIFA says it's not moving forward with controversial World Cup sell-off plan FIFA President Gianni Infantino said Friday that the international soccer governing body would not be moving forward with a controversial proposal to sell stakes in future competitions to private investors.…",
+          "url": "https://abcnews.com/GMA/Culture/uefa-boycott-world-cup-fifa-continues-plan-sell/story?id=135231531"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "coverage": 8,
+      "headline_en": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
+      "coverage": 6,
       "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-          "excerpt": "Anthropic disclosed on Thursday that its AI models gained unauthorized access to the systems of three different unnamed organizations during cybersecurity testing. The company says Claude reached the internet “from within or while interacting\" with a third-party evaluation environment.…",
-          "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Anthropic says its AI models also hacked three organizations on their own",
-          "excerpt": "Anthropic says its AI models also hacked three organizations on their own The company started reviewing test logs after OpenAI’s revelation that its agent hacked Hugging Face. Apparently, OpenAI isn't the only company whose AI models have hacked into other organizations' systems on their own.…",
-          "url": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Anthropic says its own AI models breached three companies during security tests",
-          "excerpt": "Anthropic said Thursday that an internal investigation uncovered three incidents in which its AI model Claude breached the systems of three organizations while conducting cybersecurity tests. The investigation, and disclosure, comes more than a week after OpenAI disclosed that one of its unreleased models breached Hugging Face’s systems during internal testing.…",
-          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Anthropic says its models went rogue and hacked 3 companies during testing",
-          "excerpt": "Anthropic says it found multiple incidents in which Claude models gained access to company data without permission. In a blog post on Thursday, Anthropic said it proactively conducted a large-scale review of its cybersecurity systems following an incident last week in which OpenAI models accessed parts of Hugging Face's live systems.…",
-          "url": "https://www.businessinsider.com/anthropic-says-claude-models-went-rogue-hacked-3-companies-testing-2026-7"
-        },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Anthropic AI Models Hacked Three Organizations During Tests",
-          "excerpt": "Anthropic PBC said its artificial intelligence models breached three organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenAI, disclosed a similar incident.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Uefa to boycott World Cups if Fifa plans approved",
-      "coverage": 7,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Uefa to boycott World Cups if Fifa plans approved",
-          "excerpt": "Uefa to boycott World Cups if Fifa plans approved - Published European football's 55 member associations have voted to boycott World Cups if the sport's governing body proceeds with a plan to sell stakes in its competitions to private investors. The decision was made at an emergency meeting called to discuss the proposal announced earlier this week by Fifa, which oversees world football.…",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-          "excerpt": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
-          "url": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-          "excerpt": "European football's governing body UEFA said on Thursday it would boycott the World Cup if FIFA pressed ahead with its private investor plan.…",
-          "url": "https://www.france24.com/en/uefa-says-will-boycott-world-cup-if-fifa-pushes-private-investor-proposal"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "European soccer teams agree to boycott FIFA over private equity proposal",
-          "excerpt": "European soccer teams agree to boycott FIFA over private equity proposal 03:57 UP NEXT Obama Encourages Caitlin Clark as She Faces Controversies 01:32 LeBron James announces he will join the Philadelphia 76ers 01:28 Lebron James signs with the Philadelphia 76ers 03:05 Lebron James leaves fans and NBA waiting as he picks his next team 02:55 Trump hosts the 2025 World Series Champion Los Angeles Dod…",
-          "url": "https://www.nbcnews.com/video/european-soccer-teams-agree-to-boycott-fifa-over-private-equity-proposal-267547205695"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
-          "excerpt": "European soccer governing body UEFA said Thursday it will boycott FIFA competitions including the World Cup if the global organization goes through with its proposal to sell a stake to private investors.…",
-          "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Павла Дурова внесли в список террористов и экстремистов",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Bell",
-          "lang": "ru",
-          "headline": "Павла Дурова внесли в список террористов и экстремистов",
-          "excerpt": "Основатель Telegram Павел Дуров включен в перечень террористов и экстремистов Росфинмониторинга. Вчера ФСБ предъявила Дурову обвинение в содействии терроризму и пообещала объявить его в международный розыск. Официальный аккаунт Telegram в X в ответ выложил фото Павла Дурова, показывающего средний палец.",
-          "url": "https://thebell.io/pavla-durova-vnesli-v-spisok-terroristov-i-ekstremistov"
-        },
-        {
-          "source": "Habr",
-          "lang": "ru",
-          "headline": "СМИ: Павла Дурова* внесли в перечень террористов и экстремистов Росфинмониторинга",
-          "excerpt": "По информации СМИ, Павла Дурова* внесли в перечень террористов и экстремистов Росфинмониторинга. После включения в этот реестр физическим лицам запрещается взаимодействовать со СМИ, распространять информацию в интернете, организовывать публичные мероприятия, участвовать в выборах, а также пользоваться большинством финансовых услуг.…",
-          "url": "https://habr.com/ru/news/1064944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064944"
-        },
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Клиника, предлагающая ЭКО со спермой Павла Дурова, добавила к его имени пометку о внесении в список террористов",
-          "excerpt": "Клиника, предлагающая ЭКО со спермой Павла Дурова, добавила к его имени пометку о внесении в список террористов Московская клиника «АльтраВита», предлагающая экстракорпоральное оплодотворение (ЭКО) с донорской спермой основателя Telegram Павла Дурова, добавила на свой сайт пометку о том, что Дурова внесли в список террористов и экстремистов Росфинмониторинга.…",
-          "url": "https://meduza.io/news/2026/07/30/klinika-predlagayuschaya-eko-so-spermoy-pavla-durova-dobavila-k-ego-imeni-pometku-o-vnesenii-v-spisok-terroristov"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "What smart people are saying about the Situational Awareness stock sell-off to Citadel",
-      "coverage": 7,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "What smart people are saying about the Situational Awareness stock sell-off to Citadel",
-          "excerpt": "People can't stop talking about the situation at Situational Awareness. After a meteoric rise, Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, was forced to sell most of its publicly traded stock portfolio to Citadel following steep losses on AI-related positions in recent weeks. The fund held onto its private investments, including its stake in Anthropic.…",
-          "url": "https://www.businessinsider.com/smart-people-react-situational-awareness-leopold-aschenbrenner-stock-sell-citadel-2026-7"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "One of Wall Street’s most-watched AI investors just sold off all his stocks. Here’s why",
-          "excerpt": "Situational Awareness—an AI -focused hedge fund run by former OpenAI researcher Leopold Aschenbrenner—made headlines on Thursday when it sold off investments and was unwinding trades after suffering massive losses on AI and software stocks, according to CNBC , who spoke with people familiar with the situation. Fast Company has reached out to Situational Awareness for comment.…",
-          "url": "https://www.fastcompany.com/91582560/situational-awareness-leopold-aschenbrenner-hedge-fund-collapse-explained-ai-stock-market-investing-openai"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-          "excerpt": "Situational Awareness, a hedge fund formed by former OpenAI researcher Leopold Aschenbrenner, has sold the majority of its public stock portfolio to Ken Griffin’s Citadel following steep losses over the past month, The Wall Street Journal reported earlier on Thursday.…",
-          "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "AI-focused hedge fund sells all of its stocks",
-          "excerpt": "Situational Awareness, an AI -focused hedge fund founded by a former OpenAI researcher, has sold all of its public equities portfolio to Ken Griffin's Citadel, a source tells Axios. Why it matters: This comes amidst a recent sell-off in AI stocks, particularly chipmakers. News of a sale was first reported by the WSJ .…",
-          "url": "https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-citadel"
+          "headline": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
+          "excerpt": "Alphabet Inc.’s Google announced Friday that it will roll back its new AI image generation feature in Google Earth because some people were using it to create altered satellite imagery that appeared to violate the company’s policies.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images"
         },
         {
           "source": "The Verge",
           "lang": "en",
-          "headline": "The loss of Situational Awareness",
-          "excerpt": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks"
+          "headline": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+          "excerpt": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging’s Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border and a bomb crater by a hospital in Gaza.…",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "excerpt": "Google briefly allowed anyone to create AI-modified versions of satellite imagery available in Google Earth—before quickly reversing its decision as people shared examples of AI-generated pictures that illustrated the potential for misinformation and disinformation.…",
+          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Google rolls back the needless AI generation tools it added to Google Earth",
+          "excerpt": "Google rolls back the needless AI generation tools it added to Google Earth The decision comes one day after people used the tool to generate misleading satellite imagery. Google is rolling back Nano Banana image generation inside of Google Earth less a day after announcing the integration on July 30. \"We know that people uniquely trust Google Earth for a reliable view of the world.…",
+          "url": "https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+          "excerpt": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump says he 'may' pull Blanche AG nomination temporarily",
-      "coverage": 7,
+      "headline_en": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
+      "coverage": 5,
       "perspectives": [
         {
-          "source": "NPR News",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "Trump says he 'may' pull Blanche AG nomination temporarily",
-          "excerpt": "The news comes as two key Republicans are withholding their support over concerns about the Justice Department's deal with President Trump.",
-          "url": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump says he may pull Blanche's nomination until 2 Senate critics leave office",
-          "excerpt": "Trump says he may pull Todd Blanche's nomination until Cornyn and Tillis leave office Washington — President Trump on Thursday said he has \"no objection\" to withdrawing Todd Blanche's nomination for attorney general until Republican Senators John Cornyn of Texas and Thom Tillis of North Carolina leave office in January, as their concerns have effectively placed Blanche's nomination process on hold…",
-          "url": "https://www.cbsnews.com/news/trump-todd-blanche-nomination-attorney-general-cornyn-tillis/"
+          "headline": "Trump appeals ruling that found his $10B IRS suit aimed to ‘manipulate’ legal proceedings",
+          "excerpt": "President Donald Trump on Friday took the first step in appealing a federal judge’s ruling that questioned the legality of a lawsuit filed by the president, two of his sons and the Trump Organization against the IRS. The Trumps filed notice that they would appeal the July 13 ruling by U.S.…",
+          "url": "https://www.nbcnews.com/politics/donald-trump/appeals-ruling-found-10-billion-irs-suit-aimed-manipulate-legal-rcna590307"
         },
         {
           "source": "Time",
           "lang": "en",
-          "headline": "Trump Says He Has ‘No Objection’ to Withdrawing Todd Blanche’s Nomination",
-          "excerpt": "President Trump said Thursday that he might pull Todd Blanche’s nomination as attorney general, after two Republican senators threatened to withhold their support. “I have no objection to temporarily withdrawing Todd’s name, if they do not do the right thing,” Trump posted on Truth Social.…",
-          "url": "https://time.com/article/2026/07/30/trump-says-no-objection-withdrawing-todd-blanche-doj-attorney-general/"
+          "headline": "Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General",
+          "excerpt": "With just a week left before the Senate leaves for its August recess, the Trump Administration is increasing pressure on lawmakers to confirm Todd Blanche as attorney general. The White House said in a press release on Friday that Blanche “should be confirmed by the U.S.…",
+          "url": "https://time.com/article/2026/07/31/trump-administration-amps-up-pressure-on-senate-to-confirm-todd-blanche-as-attorney-general/"
         },
         {
           "source": "ABC News",
@@ -234,39 +115,116 @@
           "url": "https://abcnews.com/Politics/gops-cornyn-continues-block-todd-blanche-attorney-general/story?id=135228494"
         },
         {
-          "source": "Axios",
+          "source": "The Atlantic",
           "lang": "en",
-          "headline": "Trump says he's open to delaying Blanche nomination over GOP defectors",
-          "excerpt": "President Trump said Thursday that he would have \"no objection\" to temporarily withdrawing acting Attorney General Todd Blanche's nomination until his Republican opponents are out of office next January. The big picture: Trump's threat, directed at GOP Sens.…",
-          "url": "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn"
+          "headline": "Trump Cares More About His Slush Fund Than Todd Blanche",
+          "excerpt": "The president seems less willing to let go of $1.8 billion than his pick for attorney general.",
+          "url": "https://www.theatlantic.com/newsletters/2026/07/trump-todd-blanche-nomination-slush-fund/688133/?utm_source=feed"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Epstein survivor Dani Bensky calls Todd Blanche \"walking perjury\"",
+          "excerpt": "Survivors of convicted sex offender Jeffrey Epstein's abuse were on Capitol Hill this week lobbying senators to reject Todd Blanche's nomination for attorney general. One survivor, Dani Bensky, joins \"The Takeout\" to discuss her concerns about Blanche.",
+          "url": "https://www.cbsnews.com/video/epstein-survivor-dani-bensky-todd-blanche-walking-perjury/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Hamas agrees to 'historic' disarmament deal that includes Israeli withdrawal from Gaza",
-      "coverage": 7,
+      "headline_en": "ВСУ атаковали автобус с рабочими в Запорожской области",
+      "coverage": 4,
       "perspectives": [
         {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Hamas agrees to 'historic' disarmament deal that includes Israeli withdrawal from Gaza",
-          "excerpt": "Trump said the deal to advance his 20-point peace plan will be rolled out in “carefully structured phases”, but did not announce a timeline as to when the process may be completed. Hamas said on Friday that it has agreed to a deal to end the war with Israel that included provisions addressing its de-weaponisation and the gradual withdrawal of Israeli forces from the Gaza Strip.…",
-          "url": "http://www.euronews.com/2026/07/31/trump-announces-historic-deal-for-the-complete-disarmament-of-hamas-and-israeli-withdrawal"
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "ВСУ атаковали автобус с рабочими в Запорожской области",
+          "excerpt": "ВСУ атаковали автобус с рабочими в Запорожской области В Запорожской области украинский беспилотник нанес удар по пассажирскому автобусу, который вез работников железорудного комбината со смены домой. Один человек погиб, еще двое находятся в реанимации в крайне тяжелом состоянии, сообщил губернатор Евгений Балицкий. Атака произошла на автодороге Веселое – Днепрорудное у села Малая Белозерка.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/08/01/1218104-vsu-atakovali-avtobus"
         },
         {
-          "source": "France 24",
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "ВСУ атаковали автобус с мирными жителями",
+          "excerpt": "Вооруженные силы Украины (ВСУ) атаковали автобус с 55 мирными жителями в Запорожской области — жертвой удара стал один человек и еще 12 пострадали. Об этом сообщает Telegram-канал Mash. «Автобус ехал по дороге Веселое — Днепрорудное в районе села Малая Белозёрка. Люди возвращались домой после рабочей смены, когда транспорт попал под удар», — отмечается в сообщении.…",
+          "url": "https://lenta.ru/news/2026/08/01/vsu-atakovali-avtobus-s-mirnymi-zhitelyami/"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "ВСУ атаковали автобус в Запорожской области, один человек погиб",
+          "excerpt": "Краткий пересказ от РИА ИИ - ВСУ при помощи БПЛА атаковали автобус в Запорожской области, есть погибший. - Двенадцать человек получили ранения разной степени тяжести, двое находятся в крайне тяжелом состоянии. - Трагедия произошла на дороге Веселое — Днепрорудное, в районе села Малая Белозерка. - В салоне находились работники железорудного комбината, возвращавшиеся со смены домой.…",
+          "url": "https://ria.ru/20260801/avtobus-2108346038.html"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "ВСУ атаковали автобус в Запорожской области, один человек погиб",
+          "excerpt": "ВСУ атаковали автобус в Запорожской области, один человек погиб Москва. 1 августа. INTERFAX.RU - Украинские военные атаковали автобус с рабочими Днепрорудненского железнодорожного комбината в Запорожской области, один человек погиб, ранены 12, сообщил губернатор Евгений Балицкий в субботу. \"В автобусе находилось 55 пассажиров и водитель.…",
+          "url": "https://www.interfax.ru/russia/1106892"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "NPR News",
           "lang": "en",
-          "headline": "🔴 Middle East live: Trump says Board of Peace reaches Hamas disarmament deal",
-          "excerpt": "US President Donald Trump has said that his Board of Peace has reached an agreement to disarm Hamas and all other armed groups in Gaza. Meanwhile, mediator Pakistan insists that negotiations between Iran and the United States are ongoing, even as Washington carried out a \"heavy wave of strikes\" on its foe in retaliation for fresh attacks targeting Jordan.…",
-          "url": "https://www.france24.com/en/middle-east/20260730-middle-east-live-trump-says-board-of-peace-reaches-hamas-disarmament-deal"
+          "headline": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+          "excerpt": "The government had accused David Hearn of ripping a piece of sealant after a $14-million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
+          "url": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Gaza live: Hamas reportedly agrees to ‘historic’ disarmament agreement",
-          "excerpt": "Live updatesLive updates, Gaza live: Hamas reportedly agrees to ‘historic’ disarmament agreement Member of Hamas delegation told Al Jazeera all implementation would be conditioned on Israel implementing its part of the deal.…",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
+          "headline": "US drops charges against Olympian for damage to Reflecting Pool",
+          "excerpt": "US drops charges against Olympian for damage to Reflecting Pool The US Department of Justice has moved to dismiss its case against Olympian David Hearn over damage to the Reflecting Pool in Washington DC. The DOJ says new evidence points to flawed installation by the contractor, not vandalism. Published On 1 Aug 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "How the Reflecting Pool Vandalism Case Fell Apart",
+          "excerpt": "How the Reflecting Pool Vandalism Case Fell Apart Federal prosecutors searched for evidence and found that “a botched installation” was to blame. As government prosecutors examined the Reflecting Pool to build their case against a three-time Olympic canoeist accused of violently ripping the lining with his bare hands, everything fell apart.…",
+          "url": "https://www.theatlantic.com/politics/2026/07/reflecting-pool-case-david-hearn/688151/?utm_source=feed"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "DOJ drops Reflecting Pool case, blaming damage on ‘botched’ installation",
+          "excerpt": "WASHINGTON — The Trump administration has dropped its case against a former Olympic canoeist charged in connection with damage to the Reflecting Pool, acknowledging their allegations against David “Davey” Hearn don’t hold water. In a filing Friday afternoon, a supervisor in the U.S.…",
+          "url": "https://www.nbcnews.com/news/us-news/trump-administration-drops-reflecting-pool-case-blaming-damage-botched-rcna590303"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+          "excerpt": "Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by \"botched installation and not vandalism.\"",
+          "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "What's in the Gaza peace deal roadmap?",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "What's in the Gaza peace deal roadmap?",
+          "excerpt": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+          "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump says Hamas agreed to next phase of Gaza peace deal, including disarmament",
+          "excerpt": "Trump says Hamas agreed to next phase of Gaza peace deal, including disarmament President Trump announced that Hamas agreed to a ceasefire negotiated by the Board of Peace, which would include total disarmament. CBS News' national security contributor Samantha Vinograd breaks down what we know so far.",
+          "url": "https://www.cbsnews.com/video/trump-says-hamas-agreed-to-next-phase-of-gaza-peace-deal-1/"
         },
         {
           "source": "Axios",
@@ -276,408 +234,394 @@
           "url": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace"
         },
         {
-          "source": "ABC News",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Trump announces Hamas disarmament agreement as part of Gaza peace plan",
-          "excerpt": "Trump announces Hamas disarmament agreement as part of Gaza peace plan The announcement is part of a 20-point peace plan. President Donald Trump announced in a social media post on Thursday an agreement for \"the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza\" as part of a peace plan unveiled last year.…",
-          "url": "https://abcnews.com/International/trump-announces-hamas-disarmament-agreement-part-gaza-peace/story?id=135246610"
+          "headline": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+          "excerpt": "Israel launches air attacks across Gaza one day after Hamas agrees to disarm Israel launches attacks across Gaza one day after Hamas agrees to disarm Israeli attacks across Gaza have killed at least two Palestinians and wounded at least 10 others, hours after Hamas agreed to a draft peace deal drawn up by US President Donald Trump’s Board of Peace.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Gaza Strip: Will Hamas really disarm?",
+          "excerpt": "🇮🇱 🇵🇸 Hamas confirmed Friday it had agreed to a deal with #Israel that would lead to the group's disarmament. 🇺🇸 This was a condition of the second phase of a #Gaza peace plan brokered by #US President Donald #Trump.",
+          "url": "https://www.france24.com/en/video/20260731-gaza-strip-will-hamas-really-disarm"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "В Нижегородской области задержан предполагаемый участник запрещенной «Артподготовки» // Участник запрещенной «Артподготовки» задержан за сбор данных о ВПК для Украины",
-      "coverage": 2,
+      "category": "💼 Business",
+      "headline_en": "New York sues Kalshi, calling it an ‘illegal gambling operation’",
+      "coverage": 5,
       "perspectives": [
         {
-          "source": "Коммерсант",
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "New York sues Kalshi, calling it an ‘illegal gambling operation’",
+          "excerpt": "New York officials sued prediction market platform Kalshi for potentially billions of dollars on Friday, calling it an “illegal, unlicensed gambling operation” that includes sports wagering as the state seeks to halt its operations and force the company to forfeit its profits.…",
+          "url": "https://www.fastcompany.com/91583545/kalshi-prediction-markets-lawsuit-new-york"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "New York Says Kalshi Is Illegal Gambling. Kalshi Says the State Is Trying to Kill Prediction Markets",
+          "excerpt": "The state wants the $22 billion exchange to repay customers nationwide, surrender its proceeds, and pay triple its alleged gains—plus $100,000 for each unauthorized sports bet.",
+          "url": "https://www.inc.com/georgia-fearn/new-york-says-kalshi-is-illegally-gambling-kalshi-says-state-trying-to-kill-prediction-markets/91383063"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+          "excerpt": "New York state sued prediction market platform Kalshi on Friday, alleging that the company is running an \"illegal gambling operation.\" In a case filed in a Manhattan state court, the lawsuit claims that Kalshi accepts wagers as a gambling business in disregard for the state's constitution and laws by not being registered with the New York State Gaming Commission.…",
+          "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "New York alleges Kalshi is running an 'illegal gambling operation' in new lawsuit",
+          "excerpt": "New York alleges Kalshi is running an 'illegal gambling operation' in new lawsuit Kalshi, which is headquartered in New York, has already been sued by multiple states. New York is suing Kalshi for allegedly running an \"illegal gambling operation\" by letting people place bets through its online prediction market platform.…",
+          "url": "https://www.engadget.com/2228160/new-york-alleges-kalshi-is-running-an-illegal-gambling-operation-in-new-lawsuit/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
+          "excerpt": "New York is suing Kalshi over claims the prediction market is running “an illegal gambling operation.” In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state’s gaming commission, as reported earlier by CNBC.…",
+          "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Силы ПВО за ночь уничтожили 274 украинских беспилотника",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Ведомости",
           "lang": "ru",
-          "headline": "В Нижегородской области задержан предполагаемый участник запрещенной «Артподготовки» // Участник запрещенной «Артподготовки» задержан за сбор данных о ВПК для Украины",
-          "excerpt": "В Нижегородской области задержан предполагаемый участник запрещенной «Артподготовки» Участник запрещенной «Артподготовки» задержан за сбор данных о ВПК для Украины Сотрудники ФСБ задержали в Нижегородской области россиянина 1975 года рождения. В ведомстве назвали его участником запрещенной в России террористической организации «Артподготовка».…",
-          "url": "https://www.kommersant.ru/doc/8848777"
+          "headline": "Силы ПВО за ночь уничтожили 274 украинских беспилотника",
+          "excerpt": "Силы ПВО за ночь уничтожили 274 украинских беспилотника Российские средства противовоздушной обороны за прошедшую ночь перехватили и уничтожили 274 украинских беспилотных летательных аппарата. Об этом сообщили в Минобороны России.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/01/1218100-sili-pvo-za-noch"
         },
         {
           "source": "Interfax",
           "lang": "ru",
-          "headline": "В Нижегородской области задержан подозреваемый в сборе данных о ВПК",
-          "excerpt": "В Нижегородской области задержан подозреваемый в сборе данных о ВПК Москва. 31 июля. INTERFAX.RU - В Нижегородской области задержан и арестован подозреваемый в сборе сведений о предприятиях военно-промышленного комплекса под видом логиста, сообщили ЦОС ФСБ и СКР.…",
-          "url": "https://www.interfax.ru/russia/1106726"
+          "headline": "Российские военные нейтрализовали за ночь 274 беспилотника ВСУ",
+          "excerpt": "Российские военные нейтрализовали за ночь 274 беспилотника ВСУ Москва. 1 августа. INTERFAX.RU - Российские средства ПВО за ночь перехватили и уничтожили 274 украинских беспилотника самолетного типа, сообщило Минобороны РФ в субботу.…",
+          "url": "https://www.interfax.ru/russia/1106886"
+        },
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "Силы ПВО за ночь сбили над Россией две сотни украинских дронов",
+          "excerpt": "Силы противовоздушной обороны (ПВО) за ночь сбили две сотни украинских дронов над территорией России. Об этом сообщили в Минобороны РФ. В ведомстве уточнили, что в период с 20:00 31 июля до 07:00 1 августа было поражено 274 аппарата самолетного типа.…",
+          "url": "https://lenta.ru/news/2026/08/01/sily-pvo-za-noch-sbili-nad-rossiey-dve-sotni-ukrainskih-dronov/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "coverage": 5,
+      "headline_en": "What triggered the mass migrant crossings into Ceuta?",
+      "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-          "excerpt": "Zendaya on working with Tom Holland in Spider-Man: âWhen youâre best friends itâs easyâ - Published Hollywood power couple Tom Holland and Zendaya have been dominating red carpets all summer.…",
-          "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss"
+          "headline": "What triggered the mass migrant crossings into Ceuta?",
+          "excerpt": "What triggered the mass migrant crossings into Ceuta? Over the last 24 hours, the tiny Spanish territory of Ceuta - home to around 83,000 people - has seen an unprecedented surge in migrant arrivals. An estimated 60,000 people from Morocco are believed to have crossed into the North African enclave that has long been a focal point for migrant attempting to reach Europe.…",
+          "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Wired",
+          "source": "Foreign Policy",
           "lang": "en",
-          "headline": "‘Spider-Man: Brand New Day’ Is a Superhero Movie for Yearners",
-          "excerpt": "Spider-Man: Brand New Day remembers what the comics have always been about—a man who keeps getting back up, even at his lowest. If you are looking for a typical superhero flick, hitting action beats and cameos and not much else, look elsewhere. Brand New Day, which hits theaters July 31, is a deeply emotional, more mature Spider-Man film than anything in the “Home” trilogy.…",
-          "url": "https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/"
+          "headline": "Spain Records Unprecedented Migrant Crossing",
+          "excerpt": "Spain Records Unprecedented Migrant Crossing Some 60,000 people from Morocco surged into the Spanish exclave of Ceuta. Welcome back to World Brief, where we’re looking at Spain’s migrant crisis, a possible breakthrough in Gaza, and backlash over FIFA’s decision to sell minority stakes.…",
+          "url": "https://foreignpolicy.com/2026/07/31/spain-morocco-ceuta-migrant-crisis-schengen-area/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Spain's PM visits Ceuta after thousands breached border",
+          "excerpt": "Spain's PM visits Ceuta after thousands breached border July 31, 2026 Editors note: For more on the migrant crisis in Ceuta, Spain, follow our blog here. Prime Minister Pedro Sanchez, his interior minister and military personnel were bound for the North African enclave of Ceuta on Friday, a day after thousands of people gained irregular entry to the Spanish territory.…",
+          "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "\"Spider-Man: Brand New Day\" swings into theaters as other superhero franchises stall",
-          "excerpt": "\"Spider-Man: Brand New Day\" swings into theaters as other superhero franchises stall Just weeks after \"Supergirl\" underperformed at the box office, the ninth live-action Spider-Man film since 2002 is expected to premiere with a projected global opening of as much as $465 million. Marlow Stern, chief correspondent at Variety, joins CBS News to discuss.",
-          "url": "https://www.cbsnews.com/video/spider-man-brand-new-day-swings-into-theaters-as-other-superhero-franchises-stall/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "‘Spider-Man: Brand New Day’ Has A Post-Credits Scene, But There’s A Catch",
-          "excerpt": "Post updated 07/30/26. See updates below. What could very easily be the biggest box-office success of the year – until Avengers: Doomsday arrives on December 18 – is web-slinging its way into theaters today. Preview showings of Spider-Man: Brand New Day kick off today with the full release on Friday, July 31.…",
-          "url": "https://www.forbes.com/sites/erikkain/2026/07/30/spider-man-brand-new-day-post-credits-scene/"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "<em>Spider-Man</em> Forgets Itself",
-          "excerpt": "Despite seeming like a fresh start, Brand New Day is trapped in the Marvel vortex.",
-          "url": "https://www.theatlantic.com/culture/2026/07/spider-man-brand-new-day-movie-review/688114/?utm_source=feed"
+          "headline": "60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left",
+          "excerpt": "60,000 migrants poured into Spain from Morocco, Ceuta's president says, but many already left According to the president of Ceuta, 60,000 migrants have flooded the small Spanish territory from Morocco since Thursday. Most voluntarily left the territory amid shortages of food, water and shelter, but thousands remained. Spain's prime minister called it an attack.…",
+          "url": "https://www.cbsnews.com/video/60000-migrants-poured-pain-morocco-ceuta-president-many-left/"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Trump says Hamas has agreed to disarm over time",
+      "headline_en": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
       "coverage": 4,
       "perspectives": [
         {
           "source": "FT",
           "lang": "en",
-          "headline": "Trump says Hamas has agreed to disarm over time",
-          "excerpt": "US president claims Board of Peace reached breakthrough in Gaza talks",
-          "url": "https://www.ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8?syn-25a6b1a6=1"
+          "headline": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
+          "excerpt": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
+          "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1"
         },
         {
-          "source": "Bloomberg",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Parmeter: President Trump is Looking For Wins",
-          "excerpt": "President Trump says his US-led Board of Peace has reached a deal to disarm Hamas and other armed groups in Gaza and establish a new Palestinian government. Hamas has agreed to the deal.…",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-31/parmeter-president-trump-is-looking-for-wins-video"
+          "headline": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+          "excerpt": "Two years ago, Leopold Aschenbrenner argued he was one of few people in the world who saw the future clearly. In a sprawling, 165-page essay that became required reading in Silicon Valley, the former OpenAI researcher positioned himself as a kind of prophet for the coming age of artificial super intelligence.…",
+          "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html"
         },
         {
-          "source": "NPR News",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
-          "excerpt": "President Trump says a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza. But many hurdles, conditions and long timelines remain to wind down the war in the Palestinian territory.",
-          "url": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza"
+          "headline": "Former OpenAI Researcher’s Hedge Fund Lost 67 Percent in July. Days Earlier, It Asked Investors for More Money",
+          "excerpt": "Leopold Aschenbrenner’s fund was forced to sell most of its $16 billion stock portfolio to Citadel.",
+          "url": "https://www.inc.com/georgia-fearn/former-openai-researcher-hedge-fund-lost-67-percent-in-july/91383184"
         },
         {
-          "source": "France 24",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Middle East live: Trump says Board of Peace reaches Hamas disarmament deal",
-          "excerpt": "US President Donald Trump has said that his Board of Peace has reached an agreement to disarm Hamas and all other armed groups in Gaza. Meanwhile, mediator Pakistan insists that negotiations between Iran and the United States are ongoing, even as Washington carried out a \"heavy wave of strikes\" on its foe in retaliation for fresh attacks targeting Jordan.…",
-          "url": "https://www.france24.com/en/middle-east/20260730-middle-east-live-trump-says-board-of-peace-reaches-hamas-disarmament-deal"
+          "headline": "The Unwind of Situational Awareness' Stock Bets",
+          "excerpt": "Leopold Aschenbrenner's hedge fund, Situational Awareness, was forced to sell billions of dollars of technology stock bets that had rapidly lost value, as nervous banks began to demand more collateral for his trades. Bloomberg's Hema Parmar breaks down what happened. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-31/the-unwind-of-situational-awareness-stock-bets-video"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "headline_en": "Anthropic says its own AI models breached three companies during security tests",
       "coverage": 4,
       "perspectives": [
         {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "LinkedIn actually adds a ‘seems like AI slop’ button",
-          "excerpt": "A lot of content on LinkedIn might seem like AI slop, and now, you’ll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that “Seems like AI slop.” LinkedIn actually adds a ‘seems like AI slop’ button You can now report posts that don’t feel human-written.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"
-        },
-        {
           "source": "TechCrunch",
           "lang": "en",
-          "headline": "LinkedIn adds a button to report AI-generated ‘slop’",
-          "excerpt": "LinkedIn is taking aim at the “AI slop” — low-quality, artificially generated content — filling its feed. On Thursday, the company announced that it’s adding a new feature to let users click a “seems like AI slop” button when someone’s post appears to have been written with AI.…",
-          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
+          "headline": "Anthropic says its own AI models breached three companies during security tests",
+          "excerpt": "Anthropic said Thursday that an internal investigation uncovered three incidents in which its AI model Claude breached the systems of three organizations while conducting cybersecurity tests. The investigation, and disclosure, comes more than a week after OpenAI disclosed that one of its unreleased models breached Hugging Face’s systems during internal testing.…",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
         },
         {
-          "source": "Engadget",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "LinkedIn is testing a 'seems like AI slop' reporting tool",
-          "excerpt": "LinkedIn is testing a 'seems like AI slop' reporting tool The company is also removing some of its own AI-writing features. LinkedIn is once again trying to get a handle on the vast amounts of AI slop on the platform. To do that, the company is testing a new reporting tool that let users flag potential slop and removing the \"rewrite with AI\" button it once promoted on every post.…",
-          "url": "https://www.engadget.com/2227188/linkedin-testing-seems-like-ai-slop-reporting-tool/"
+          "headline": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+          "excerpt": "Cybersecurity experts are faulting Anthropic PBC and OpenAI for sloppy safeguards after their models broke into outside organizations — breaches they warned represent looming threats to national security.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks"
         },
         {
-          "source": "Fast Company",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "That cringey LinkedIn post? You can now report it as ‘AI slop’",
-          "excerpt": "LinkedIn is pushing back against lengthy, low-quality posts generated with artificial intelligence , also known as &#8220;AI slop,&#8221; that users have become accustomed to seeing in their feeds. The career-building and social networking site just added a button that allows users to easily report such content for review.…",
-          "url": "https://www.fastcompany.com/91582739/that-cringey-linkedin-post-you-can-now-report-it-as-ai-slop"
+          "headline": "Anthropic Says Its AI Models Went Rogue, Too. They Thought They Were in a Simulation",
+          "excerpt": "Anthropic announced that its models hacked external organizations, following reports that OpenAI models breached Hugging Face.",
+          "url": "https://www.inc.com/chloe-aiello/anthropic-says-its-ai-models-went-rogue-too-they-thought-they-were-in-a-simulation/91383349"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Tech firm says its AI models hacked three companies during cyber tests",
+          "excerpt": "Anthropic has claimed its artificial intelligence models hacked into three other companies during testing, just days after rival OpenAI disclosed its rogue models hacked another firm.",
+          "url": "https://news.sky.com/story/anthropic-says-its-ai-models-hacked-three-companies-during-cyber-tests-13568706"
         }
       ]
     },
     {
-      "category": "💼 Business",
-      "headline_en": "Беспилотники атаковали склад Wildberries в Волгограде",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Беспилотники атаковали склад Wildberries в Волгограде",
-          "excerpt": "Беспилотники атаковали склад Wildberries в Волгограде Логистический объект Wildberries в Волгограде был атакован беспилотниками, сообщила пресс-служба компании RWB. На объекте произошел пожар. По предварительной информации, сотрудники не пострадали. «Логистические цепочки перестроены, прием поставок и отгрузка заказов осуществляются на других объектах»,— сообщили в компании.…",
-          "url": "https://www.kommersant.ru/doc/8848715"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Логистический объект Wildberries в Волгограде загорелся после атаки БПЛА",
-          "excerpt": "Логистический объект Wildberries в Волгограде загорелся после атаки БПЛА Москва. 31 июля. INTERFAX.RU - В результате атаки на логистический объект компании Wildberries в Волгограде возникло возгорание, сообщили в пресс-службе компании. \"Из-за атаки на логистическом объекте компании в Волгограде возникло возгорание. На месте работают пожарные расчеты.…",
-          "url": "https://www.interfax.ru/russia/1106714"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "NATO Says Russian Missile Violated Polish Airspace",
+      "category": "💡 Tech & AI",
+      "headline_en": "Правительство запретило майнинг криптовалют в Москве, Подмосковье и на отдельных территориях Курской области до конца 2032 года",
       "coverage": 3,
       "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "NATO Says Russian Missile Violated Polish Airspace",
-          "excerpt": "NATO Says Russian Missile Violated Polish Airspace Secretary-General Mark Rutte warned that Moscow’s “reckless” actions risk spreading the Ukraine war. Welcome back to World Brief, where we’re looking at missile incursions into NATO airspace, a potential new front in the Iran war, and the likely winner of Greater Manchester’s mayoral race.…",
-          "url": "https://foreignpolicy.com/2026/07/30/poland-russia-missile-incursion-nato-ukraine-war-strikes/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Poland says Russian ballistic missile violated airspace",
-          "excerpt": "Poland says Russian ballistic missile violated airspace July 30, 2026Polish authorities on Thursday said they were inspecting a crater near the city of Lublin for information clarifying a violation of its airspace.…",
-          "url": "https://www.dw.com/en/poland-says-russian-ballistic-missile-violated-airspace/a-78172288?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Russian missiles interception rate in Ukraine dropped from 90% back in March to 70%, expert says",
-          "excerpt": "A Russian ballistic missile and drone barrage across Ukraine overnight killed at least 10 civilians, including children. Ukraine's air force said it had managed to intercept 55 missiles and 265 drones launched by Moscow -- but it has struggled to intercept the advanced ballistic missiles that Russia is increasingly deploying.…",
-          "url": "https://www.france24.com/en/russian-missiles-interception-rate-in-ukraine-dropped-from-90-back-in-march-to-70-expert-says"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
-          "excerpt": "The death toll from the powerful earthquake that hit Japan on Tuesday has risen to 30, as the search for survivors trapped in a badly damaged shopping centre, paper mill and collapsed homes across the south-west of the country continues. The 6.8-magnitude quake, which struck Kumamoto prefecture on the island of Kyushu, injured at least 62 people, according to the prefectural government.…",
-          "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Death toll from Japan's earthquake rises to 30 as vital 72-hour window for rescues enters critical phase",
-          "excerpt": "Rescue efforts are continuing as time runs down on the critical three-day window for rescues following the quake. Officials have not detailed how many people were reported missing but local media say dozens remain unaccounted for.",
-          "url": "http://www.euronews.com/2026/07/30/death-toll-from-japans-earthquake-rises-to-23-as-vital-72-hour-window-for-rescues-enters-c"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Death toll from Japan earthquake climbs to 34",
-          "excerpt": "Death toll from Japan earthquake climbs to 34 The magnitude 7.1 quake has killed 34 people and left six more seriously injured. The death toll from a powerful earthquake in southwestern Japan has risen to 34, up from 25, authorities said. The Kumamoto prefecture government confirmed the figure on Friday, adding that six more people were seriously injured.…",
-          "url": "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
-          "excerpt": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material - Published Australia is taking Telegram to court over its alleged failure to remove \"pro-terror\" material, including video of the Christchurch shootings, the country's eSafety commissioner has said.…",
-          "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Australia news live: Reformers member tells Icac he can’t recall Taylor making donation; NSW opposition leader backs minister linked to same group",
-          "excerpt": "Icac hears of friendship breakdown between members of Reformers Penry Buckley Returning to the Icac’s Operation Rosny, the inquiry has heard this afternoon about how relationships between some members of the conservative right factional Liberal group the Reformers began to break down.…",
-          "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "LIVE:  ABC News Live",
-          "excerpt": "Oops! Page unavailable. This page either does not exist or is currently unavailable. From here you can either hit the \"back\" button on your browser to return to the previous page, or visit the ABCNews.com Home Page. You can also search for something on our site below. STATUS CODE: 404",
-          "url": "https://abcnews.com/video/41463246/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "DNS предупредила о задержках доставки из-за пожара на складе во Владивостоке",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "DNS предупредила о задержках доставки из-за пожара на складе во Владивостоке",
-          "excerpt": "DNS предупредила о задержках доставки из-за пожара на складе во Владивостоке Сеть магазинов DNS во Владивостоке предупредила о задержках доставки заказов из-за пожара на складе. Товары перераспределят между складами. Об этом сообщили в пресс-службе ритейлера. «Первая доставка поедет к покупателю в субботу, 1 августа. Мы делаем все возможное, чтобы уложиться в сроки»,— указано в публикации.…",
-          "url": "https://www.kommersant.ru/doc/8848770"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "DNS сообщила о возможных задержках доставки товаров из-за пожара на складе во Владивостоке",
-          "excerpt": "DNS сообщила о возможных задержках доставки товаров из-за пожара на складе во Владивостоке Доставка заказов перераспределена между складами Москва. 31 июля. INTERFAX.RU - Пожар, произошедший в пятницу утром на складе бытовой техники во Владивостоке, может привести к задержке доставки заказов, сообщается на сайте компании DNS. \"Во Владивостоке в пятницу, 31 июля, в здании склада на ул.…",
-          "url": "https://www.interfax.ru/russia/1106706"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-          "excerpt": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect - Published Fifteen elephants found dead in southern Kenya outside the Amboseli National Park are suspected to have been poisoned by eating tomatoes that had been sprayed with pesticides on nearby farms.…",
-          "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-          "excerpt": "The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said.…",
-          "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Kenya: 15 dead elephants likely poisoned by cyanide",
-          "excerpt": "Kenya: 15 dead elephants likely poisoned by cyanide July 30, 2026Wildlife officials in Kenya said on Thursday that 15 elephants found dead this month in one of the country's best-known wildlife parks were likely poisoned by cyanide. Authorities said the poison likely originated from pesticides used on farms. The elephants lived in Amboseli National Park near the Tanzanian border.…",
-          "url": "https://www.dw.com/en/kenya-15-dead-elephants-likely-poisoned-by-cyanide/a-78181878?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "South Korea’s stock-market boom is collapsing spectacularly",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Economist B.",
-          "lang": "en",
-          "headline": "South Korea’s stock-market boom is collapsing spectacularly",
-          "excerpt": "It may be a harbinger",
-          "url": "https://www.economist.com/business/2026/07/29/south-koreas-stock-market-boom-is-collapsing-spectacularly"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
-          "excerpt": "South Korea's stock market staged its sharpest reversal on record on Friday, capping a month of wild swings that underscored how tightly the country's equity market has become tied to the global artificial intelligence trade. The benchmark Kospi surged 14%, on track for its largest one-day jump, data from LSEG showed. SK Hynix similarly saw a record rebound, while Samsung Electronics soared.…",
-          "url": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Samsung reports billions in record profit for Q2, thanks to AI boom",
-          "excerpt": "South Korean technology giant Samsung Electronics on Thursday reported a record operating profit of 89.5 trillion won ($62 billion) for the April-June period, a day after crosstown rival SK Hynix also reported record earnings, as the world&#8217;s two largest memory chipmakers continue to ride the global artificial intelligence boom .…",
-          "url": "https://www.fastcompany.com/91582493/samsung-reports-billions-record-profit-q2-thanks-ai-boom"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-          "excerpt": "Thousands evacuated in Crete as wildfires threaten tourist resorts - Published Thousands of people have been evacuated on the Greek island of Crete as wildfires fanned by strong winds menace tourist resorts and villages. Two firefighters died on the island on Wednesday when they became trapped while tackling a fire near Krya Vrysi in the Rethymno region.…",
-          "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Crete wildfire kills two firefighters as fierce flames spread in Greece",
-          "excerpt": "Wildfires continue to burn across Crete, Greece, where two firefighters died as strong winds fuelled the blaze and aircraft joined rescue efforts.",
-          "url": "http://www.euronews.com/video/2026/07/30/crete-wildfire-kills-two-firefighters-as-fierce-flames-spread-in-greece"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Crete wildfires cause evacuations and firefighter deaths",
-          "excerpt": "Crete wildfires cause evacuations and firefighter deaths July 30, 2026Greek firefighters battled deadly wildfires on the island of Crete for a second day on Thursday as strong winds made it difficult to contain the flames. Two firefighters were killed while responding to fires on the island, while a third died fighting a separate blaze on the Greek mainland.…",
-          "url": "https://www.dw.com/en/crete-wildfires-cause-evacuations-and-firefighter-deaths/a-78171093?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Ozon опубликовал финансовые результаты за II квартал 2026 года: чистая прибыль выросла в 28 раз — до 10 млрд ₽",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "RB.ru",
-          "lang": "ru",
-          "headline": "Ozon опубликовал финансовые результаты за II квартал 2026 года: чистая прибыль выросла в 28 раз — до 10 млрд ₽",
-          "excerpt": "Ozon опубликовал финансовые результаты за II квартал 2026 года: чистая прибыль выросла в 28 раз — до 10 млрд ₽ Это уже пятый прибыльный квартал для Ozon — до этого компания фиксировала убыткиЧистая прибыль Ozon во II квартале 2026 года выросла в 28 раз и составила 10,1 млрд рублей — против 359 млн рублей в том же квартале прошлого года, следует из финансовой отчётности компании.…",
-          "url": "https://rb.ru/news/ozon-opublikoval-finansovye-rezultaty-za-ii-kvartal-2026-goda-chistaya-pribyl-vyrosla-v-28-raz-do-10-mlrd/"
-        },
         {
           "source": "vc.ru",
           "lang": "ru",
-          "headline": "Отчёт Ozon за квартал: выручка выросла на 47% и составила 334,2 млрд рублей, чистая прибыль — 10,1 млрд рублей",
-          "excerpt": "Против 359 млн рублей во втором квартале 2025 года. Скриншот vc.ru Ozon опубликовал неаудированные финансовые результаты за второй квартал 2026 года. Общая выручка выросла на 47% год к году — до 334,2 млрд рублей.Чистая прибыль — 10,1 млрд рублей по сравнению с 4,5 млрд рублей в первом квартале 2026-го и 359 млн рублей во втором квартале 2025-го.…",
-          "url": "https://vc.ru/money/3053401-otchet-ozon-vyruchka-i-pribyl?from=rss"
+          "headline": "Правительство запретило майнинг криптовалют в Москве, Подмосковье и на отдельных территориях Курской области до конца 2032 года",
+          "excerpt": "Майнинг в России легализован с 2024 года.Согласно опубликованному постановлению правительства России, запрет на майнинг цифровых валют в этих регионах будет действовать с 15 августа 2026 года по 31 декабря 2032 года.Среди отдельных территорий Курской области — муниципальные округа Беловский, Большесолдатский, Глушковский, Кореневский, Льговский, Рыльский, Суджанский и Хомутовский, а также город Ль…",
+          "url": "https://vc.ru/crypto/3056142-zapret-na-maining-kriptovalyut-v-moskve-i-kurskoy-oblasti?from=rss"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Майнинг запретили в Москве, Подмосковье и некоторых районах Курской области",
+          "excerpt": "Майнинг запретили в Москве, Подмосковье и некоторых районах Курской области Ограничения действуют до конца 2032 года В Москве, Московской области и ряде районов Курской области запретили майнинг криптовалюты. Соответствующее постановление подписал премьер-министр Михаил Мишустин. Запрет будет действовать с 15 августа 2026 г. по 31 декабря 2032 г.…",
+          "url": "https://www.vedomosti.ru/technology/news/2026/07/31/1218073-maining-moskve-podmoskove-kurskoi"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Правительство запретило майнинг криптовалют в Москве и Московской области до 2033 года",
+          "excerpt": "Правительство запретило майнинг криптовалют в Москве и Московской области до 2033 года Источник: Правительство России В Москве, Подмосковье и в восьми приграничных районах Курской области запретили майнинг криптовалют. Запрет будет действовать с 15 августа 2026 до 31 декабря 2032 года. Такое постановление подписал премьер-министр России Михаил Мишустин.…",
+          "url": "https://meduza.io/news/2026/07/31/pravitelstvo-zapretilo-mayning-kriptovalyut-v-moskve-i-moskovskoy-oblasti-do-2033-goda"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Senate committee advances nomination of Dr. Erica Schwartz to be Trump's CDC director",
-      "coverage": 3,
+      "headline_en": "How 60,000 people swam to Spanish territory",
+      "coverage": 4,
       "perspectives": [
         {
-          "source": "ABC News",
+          "source": "FT",
           "lang": "en",
-          "headline": "Senate committee advances nomination of Dr. Erica Schwartz to be Trump's CDC director",
-          "excerpt": "Senate committee advances nomination of Dr. Erica Schwartz to be Trump's CDC director President Donald Trump's nominee to lead the Centers for Disease Control and Prevention has cleared a hurdle in the Senate NEW YORK -- A Senate committee on Thursday advanced Dr.…",
-          "url": "https://abcnews.com/Health/wireStory/senate-committee-advances-nomination-dr-erica-schwartz-trumps-135228808"
+          "headline": "How 60,000 people swam to Spanish territory",
+          "excerpt": "Migrants spent days preparing to reach the Spanish enclave of Ceuta from neighbouring Morocco",
+          "url": "https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1"
         },
         {
-          "source": "Axios",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Senate panel approves CDC nominee, controversial HHS pick",
-          "excerpt": "The Senate health committee approved the nomination of Erica Schwartz for Centers for Disease Control director Thursday, a step toward refilling the depleted ranks of the Trump administration's health care leadership.…",
-          "url": "https://www.axios.com/2026/07/30/senate-panel-approves-cdc-nominee-schwartz-kaufman"
+          "headline": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+          "excerpt": "At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory from Morocco in what Spain’s prime minister, Pedro Sánchez, called “a violation of Spain’s territorial integrity”.…",
+          "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Dozens dead in migrant crisis rush into Spanish enclave",
+          "excerpt": "Charges dropped against former Olympian over reflecting pool damage 01:17 Tony Romo 'on leave' from on-air role 01:25 Great Americans: A conversation with Emeril Lagasse…Bam! 03:51 F-35 fighter jet crashes in San Diego 01:19 FBI warns of cyberattacks on water systems in 7 states 01:34 Now Playing Dozens dead in migrant crisis rush into Spanish enclave 01:29 UP NEXT Hero lifeguard speaks out 01:28 …",
+          "url": "https://www.nbcnews.com/nightly-news/video/dozens-dead-in-migrant-crisis-rush-into-spanish-enclave-267608133892"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Senate committee advances Dr. Erica Schwartz to be Trump's CDC director",
-          "excerpt": "Senate committee advances Dr. Erica Schwartz to be Trump's CDC director A Senate committee on Thursday advanced Dr. Erica Schwartz's nomination to be director of the nation's top public health agency, setting aside concerns that she will not stand up to political meddling.…",
-          "url": "https://www.cbsnews.com/news/erica-schwartz-cdc-senate-committee-advances-nomination/"
+          "headline": "Spain sends over 48,000 migrants back to Morocco from Ceuta; dozens dead",
+          "excerpt": "Spain sends over 48,000 migrants in Ceuta back to Morocco after deadly border rush Spain's Ministry of the Interior said more than 48,000 migrants who arrived at the border of the tiny territory of Ceuta have been sent back to Morocco. The ministry said about 50,000 people entered the Spanish enclave since Thursday morning, with an estimated 48,300 back in Morocco by 6 p.m. Friday.…",
+          "url": "https://www.cbsnews.com/news/spain-ceuta-morocco-migrants-border-crossings/"
         }
       ]
     },
     {
       "category": "🌍 World",
+      "headline_en": "Letters sent to Nancy Guthrie’s family after her disappearance are released",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Letters sent to Nancy Guthrie’s family after her disappearance are released",
+          "excerpt": "Two ransom notes purportedly sent by those who kidnapped Nancy Guthrie in Arizona earlier this year were released Friday by local authorities hoping to generate new leads in the case. The second note, sent Feb. 6 to a Tucson news outlet, states that Guthrie, 84, died shortly after she was taken. “We believe it was heart related,” the note says. “She is buried in nature now.…",
+          "url": "https://www.nbcnews.com/news/us-news/nancy-guthrie-ransom-letters-rcna590282"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "A timeline of Nancy Guthrie's disappearance as search stretches on",
+          "excerpt": "A timeline of Nancy Guthrie's disappearance as search for Savannah Guthrie's mom continues As the search for Nancy Guthrie, the 84-year-old mother of \"Today\" show co-host Savannah Guthrie, stretches on, investigators are still seeking tips that could help break the case and lead to her return.…",
+          "url": "https://www.cbsnews.com/news/timeline-nancy-guthrie-disappearance-as-search-intensifies/"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "'She is buried in nature now': Ransom notes released in hunt for kidnapper of TV star's mother",
+          "excerpt": "Police investigating the disappearance of Nancy Guthrie, the mother of TV host Savannah Guthrie, have released early ransom notes in the hunt for her suspected kidnapper.",
+          "url": "https://news.sky.com/story/ransom-notes-in-nancy-guthrie-case-released-as-police-hope-writing-style-is-recognised-13568770"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Body of US climber the latest recovered after Pakistan avalanche",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Body of US climber the latest recovered after Pakistan avalanche",
+          "excerpt": "Body of US climber the latest recovered after Pakistan avalanche - Published The remains of US climber Mallory Geis have been found by rescuers following an avalanche on one of the world's highest mountains, a local government body says. Geis was part of a 10-person expedition that was on Pakistan's Broad Peak, on the border with China, when the avalanche happened on Thursday.…",
+          "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
+          "excerpt": "The world-renowned Nepali mountaineer Nirmal Purja – a former British special forces member – is among 11 climbers caught in a deadly avalanche on Pakistan’s Broad Peak. The Alpine Club of Pakistan said “seven climbers have been spotted via aerial drone footage” adding that “their identities and condition cannot yet be verified”.…",
+          "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Renowned climber missing after avalanche - as four bodies found",
+          "excerpt": "A renowned climber who served in the British special forces is missing after an avalanche on one of the world's highest mountains.",
+          "url": "https://news.sky.com/story/nirmal-purja-ex-british-special-forces-soldier-missing-after-avalanche-13568650"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Wildberries, Ozon, МТС и «Яндекс» заинтересовались покупкой доли в операторе платёжной системы «Мир» — «Эксперт»",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "Wildberries, Ozon, МТС и «Яндекс» заинтересовались покупкой доли в операторе платёжной системы «Мир» — «Эксперт»",
+          "excerpt": "Окончательное решение будет зависеть от оценки НСПК и условий сделки, говорят источники издания.Источник: ЦБОб интересе Wildberries (группа RWB), Ozon, МТС и «Яндекса» в покупке доли в Национальной системе платёжных карт (НСПК, оператор «Мира») рассказал близкий к ЦБ источник «Эксперта» и подтвердили три собеседника, знакомые с позициями компаний.По их словам, окончательное решение будет зависеть …",
+          "url": "https://vc.ru/money/3055580-wildberries-ozon-mts-yandeks-pokupka-doli-nspk?from=rss"
+        },
+        {
+          "source": "RB.ru",
+          "lang": "ru",
+          "headline": "Wildberries, Ozon и Яндекс хотят войти в капитал оператора платёжной системы «Мир» — доля каждого не превысит 5%",
+          "excerpt": "Wildberries, Ozon и Яндекс хотят войти в капитал оператора платёжной системы «Мир» — доля каждого не превысит 5% Сделку планируют провести в 2027 году Wildberries, Ozon, МТС и Яндекс заинтересовались покупкой доли в Национальной системе платёжных карт (НСПК) — операторе платёжной системы «Мир», сообщает «Эксперт» со ссылкой на источники.…",
+          "url": "https://rb.ru/news/wildberries-ozon-i-yandeks-hotyat-vojti-v-kapital-operatora-platyozhnoj-sistemy-mir-dolya-kazhdogo-ne-prevysit-5/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU",
+          "excerpt": "Warning: Spoilers ahead for Spider-Man: Brand New Day The Dark Phoenix will rise again. Probably. Eventually. A new version of Jean Grey made her debut in Spider-Man: Brand New Day. Stranger Things’ Sadie Sink follows in the footsteps of Famke Janssen and Sophie Turner as the redheaded telepath who is arguably the most powerful mutant in the Marvel comics.…",
+          "url": "https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "The 'Spider-Man: Brand New Day' post-credits scene is a cosmic cliffhanger. Here's what it could mean.",
+          "excerpt": "As the credits roll, then keep rolling without a mid-credits scene at the end of \"Spider-Man: Brand New Day,\" your Spidey senses may begin to tingle in a bad way. But rest assured, there is an end-credits scene in \"Spider-Man: Brand New Day\" — you just have to wait until the very end.…",
+          "url": "https://www.businessinsider.com/spider-man-brand-new-day-post-credits-scene-explained-2026-7"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
+          "excerpt": "Spider-Man is already webbing up a massive box-office haul. Sony and Marvel's \"Spider-Man: Brand New Day\" secured $72 million in preview ticket sales, the highest collection for any domestic film in Hollywood history. The previous record holder was 2019's \"Avengers: Endgame,\" which tallied $60 million ahead of its opening weekend.…",
+          "url": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Oil giants see profits surge as Iran war drives energy prices higher",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Oil giants see profits surge as Iran war drives energy prices higher",
+          "excerpt": "Oil giants see profits surge as Iran war drives energy prices higher America's biggest oil companies are reporting massive profits as the Iran war continues to disrupt global energy supplies. CBS News business contributor Javier David joins with analysis.",
+          "url": "https://www.cbsnews.com/video/oil-giants-profits-surge-iran-war-energy-prices/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
+          "excerpt": "ExxonMobil and Chevron on Friday reported second-quarter profits that surged on rising oil prices due to the Iran war. Chevron's net income soared to $12 billion, a nearly 400% increase compared to $2.5 billion in the same period last year. Adjusted earnings came in at $6.06 per share, 50 cents higher than Wall Street's estimates.…",
+          "url": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Exxon and Chevron are having a ‘very good crisis’ reaping massive profits during the Iran war",
+          "excerpt": "American oil and gas giants raked in massive spring profits while fighting between Iran and the U.S. impeded petroleum shipments and consumers around the world paid more for fuel and confronted shortages.…",
+          "url": "https://www.fastcompany.com/91583262/exxon-chevron-having-very-good-crisis-reaping-massive-profits-during-iran-war"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
       "headline_en": "Anthropic says three Claude models reached real-world systems during cyber tests",
       "coverage": 3,
       "perspectives": [
@@ -689,452 +633,487 @@
           "url": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing"
         },
         {
-          "source": "CBS News",
+          "source": "VentureBeat",
           "lang": "en",
-          "headline": "Anthropic reveals Claude \"gained unauthorized access\" to \"real-world systems\"",
-          "excerpt": "Anthropic reveals Claude \"gained unauthorized access\" to \"real-world systems\" during testing Anthropic's artificial intelligence model Claude \"gained unauthorized access\" to three outside organizations on three separate occasions during testing that was supposed to keep them away from \"real-world\" systems, the company said on Thursday.…",
-          "url": "https://www.cbsnews.com/news/anthropic-claude-gained-unauthorized-access-to-real-world-systems/"
+          "headline": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+          "excerpt": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI&#x27;s top U.S.…",
+          "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+          "excerpt": "Anthropic on Thursday said it discovered three instances where its Claude artificial intelligence models accessed the internet during an evaluation and \"gained unauthorized access to the real systems of three different organizations.\" The company said it found these incidents after carrying out a \"a large-scale retrospective review\" of its cybersecurity evaluations.…",
+          "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Усман Нурмагомедов защитил титул чемпиона PFL в легком весе",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Усман Нурмагомедов защитил титул чемпиона PFL в легком весе",
+          "excerpt": "Усман Нурмагомедов защитил титул чемпиона PFL в легком весе Российский боец смешанного стиля (ММА) Усман Нурмагомедов победил американца Арчи Колгана и защитил титул чемпиона Professional Fighters League (PFL) в легкой весовой категории. Поединок прошел в Нью-Йорке. Российский спортсмен выиграл техническим нокаутом в первом раунде. Нурмагомедов во второй раз защитил пояс PFL.…",
+          "url": "https://www.kommersant.ru/doc/8860549"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Усман Нурмагомедов нокаутировал Колгана и защитил титул чемпиона PFL",
+          "excerpt": "Óñìàí Íóðìàãîìåäîâ íîêàóòèðîâàë Êîëãàíà è çàùèòèë òèòóë ÷åìïèîíà PFL Ìîñêâà. 1 àâãóñòà. INTERFAX.RU - Ðîññèéñêèé áîåö ñìåøàííîãî ñòèëÿ Óñìàí Íóðìàãîìåäîâ îäåðæàë ïîáåäó íàä àìåðèêàíöåì Àð÷è Êîëãàíîì â ãëàâíîì ïîåäèíêå òóðíèðà Professional Fighters League (PFL) â Íüþ-Éîðêå. Áîé ïðåäñòàâèòåëåé ëåãêîãî âåñà çàâåðøèëñÿ òåõíè÷åñêèì íîêàóòîì â ïåðâîì ðàóíäå.…",
+          "url": "https://www.sport-interfax.ru/1106893"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Snapchat is cracking down on AI slop in Spotlight",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Snapchat is cracking down on AI slop in Spotlight",
+          "excerpt": "Snapchat is cracking down on AI slop in Spotlight Videos made with AI will no longer appear in public recommendations. Snapchat has become the latest platform to take a stance against AI slop. The app will no longer recommend \"wholly AI-generated videos\" in Spotlight, its public feed for shortform videos.…",
+          "url": "https://www.engadget.com/2228152/snapchat-is-cracking-down-on-ai-slop-in-spotlight/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "From Substack to YouTube, here are the social platforms cracking down on AI slop",
+          "excerpt": "As tech companies race to weave AI into every inch of their products, they're discovering there's a fine line between embracing new technology and flooding users with low-quality, machine-generated content. The shifting guidelines reflect a broader tension across the creator economy.…",
+          "url": "https://www.businessinsider.com/ai-slop-substack-youtube-tiktok-pinterest-facebook-instagram-threads-2026-7"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Snapchat no longer rewards fully AI-generated Spotlight content",
+          "excerpt": "Snapchat is the latest company to strengthen its stance against AI slop. The social network platform will no longer reward fully AI-generated videos, as it seeks to prioritize human-made content. Snapchat announced the update on Friday, stating that its recommendation systems will be adjusted to ensure that only videos created by real people are eligible for Spotlight recommendations.…",
+          "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump says US has not agreed to Ukraine producing Patriot missiles",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Trump says US has not agreed to Ukraine producing Patriot missiles",
+          "excerpt": "Trump says US has not agreed to Ukraine producing Patriot missiles US President Donald Trump said on Friday that Washington had not agreed to allow Ukraine to produce Patriot missiles, contradicting remarks by Ukrainian President Volodymyr Zelensky following talks between the two leaders earlier this week.…",
+          "url": "https://www.france24.com/en/americas/20260731-trump-says-us-has-not-agreed-to-ukraine-producing-patriot-missiles"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+          "excerpt": "President Donald Trump on Friday said the U.S. \"has not agreed\" to grant Ukraine licenses to produce Patriot missile systems, apparently backtracking on one of Kyiv's top priorities in its war against Russia.…",
+          "url": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump says he hasn't 'agreed to' grant Ukraine licenses to produce Patriots missiles",
+          "excerpt": "In reversal, Trump says he hasn't 'agreed to' grant Ukraine licenses to produce Patriot missiles Ukrainian President Zelenskyy was at the White House earlier this week.…",
+          "url": "https://abcnews.com/Politics/reversal-trump-agreed-grant-ukraine-licenses-produce-patriot/story?id=135266819"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukraine: Russia hits Kyiv with deadly missile strikes",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine: Russia hits Kyiv with deadly missile strikes",
+          "excerpt": "Ukraine: Russia hits Kyiv with deadly missile strikes August 1, 2026 At least nine people died and 23 were injured after Russia struck Ukraine's capital city Kyiv with ballistic missiles overnight, Ukraine's State Emergency Service said on Saturday morning. The missiles struck several homes and a five-storey residential building, while cars were also set alight.…",
+          "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-deadly-missile-strikes/a-78198568?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Zelensky Asked Trump for a Favor From Elon Musk",
+          "excerpt": "Zelensky Asked Trump for a Favor From Elon Musk Ukraine wants to start using Musk’s Starlink to target ballistic-missile launchers inside Russia. Sign up for our newsletter about national security here. During closed-door talks at the White House on Tuesday, Ukrainian President Volodymyr Zelensky laid out a plan for his country to survive another winter of war with Russia.…",
+          "url": "https://www.theatlantic.com/national-security/2026/07/zelensky-asked-trump-for-a-favor-from-elon-musk/688122/?utm_source=feed"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "Anthropic says Claude models accessed outside systems during testing",
-          "excerpt": "Anthropic says Claude models accessed outside systems during testing Anthropic said three versions of its Claude AI model gained unauthorised access to external organisations during safety tests after a configuration error exposed them to the internet, days after OpenAI disclosed similar security failures.…",
-          "url": "https://www.france24.com/en/technology/20260731-ai-safety-scare-anthropic-says-claude-models-accessed-outside-systems-during-testing"
+          "headline": "Russian attack on Ukrainian capital kills at least nine people",
+          "excerpt": "At leased nine people were killed and 28 others wounded in Ukrainian capital Kyiv after Russia launched a series of ballistic missiles overnight Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukraine.",
+          "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Тегеран подготовил ответ на возможные удары США и Израиля",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Тегеран подготовил ответ на возможные удары США и Израиля",
+          "excerpt": "Тегеран подготовил ответ на возможные удары США и Израиля Иран подготовил всеобъемлющий план реагирования на случай, если США и Израиль решат нанести удары по энергетической инфраструктуре страны, пишет Tasnim со ссылкой на высокопоставленного чиновника. Сообщения о возможном возобновлении ударов собеседник агентства назвал безумием.…",
+          "url": "https://www.kommersant.ru/doc/8860539"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Тегеран подготовил ответ на возможные удары США по иранской инфраструктуре",
+          "excerpt": "Тегеран подготовил ответ на возможные удары США по иранской инфраструктуре Москва. 1 августа. INTERFAX.RU - Иран подготовил всеобъемлющий план реагирования на потенциальные американо-израильские атаки на его инфраструктуру, заявил высокопоставленный иранский представитель, которого цитирует агентство Tasnim.…",
+          "url": "https://www.interfax.ru/world/1106881"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+          "excerpt": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs - Published US prosecutors have dropped charges against a former Olympian who had been accused of vandalising the Reflecting Pool in Washington DC, writing in court documents that the damage is now believed to be \"the result of flawed installation by the contractor\".…",
+          "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+          "excerpt": "U.S. Attorney for the District of Columbia Jeanine Pirro on Friday moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with vandalizing the Reflecting Pool of the Lincoln Memorial, writing in a court filing that damage to the pool's sealant was the result of a \"flawed installation.\" Pirro, in a court filing in D.C.…",
+          "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Charges dropped against former Olympian over reflecting pool damage",
+          "excerpt": "Charges dropped against former Olympian over reflecting pool damage 01:17 UP NEXT Tony Romo 'on leave' from on-air role 01:25 Great Americans: A conversation with Emeril Lagasse…Bam! 03:51 F-35 fighter jet crashes in San Diego 01:19 FBI warns of cyberattacks on water systems in 7 states 01:34 Dozens dead in migrant crisis rush into Spanish enclave 01:29 Hero lifeguard speaks out 01:28 Violent hous…",
+          "url": "https://www.nbcnews.com/nightly-news/video/charges-dropped-against-former-olympian-over-reflecting-pool-damage-267612741793"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "More than 48,000 migrants return to Morocco after thousands cross border into Spain",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "More than 48,000 migrants return to Morocco after thousands cross border into Spain",
+          "excerpt": "More than 48,000 migrants return to Morocco after thousands cross border into Spain Spain said on Friday it had largely reversed a surge of migrants into its North African enclave of Ceuta, with 48,000 of the people who crossed from Morocco by land and sea already returning voluntarily.…",
+          "url": "https://www.france24.com/en/europe/20260731-eu-races-to-contain-new-migrant-crisis-as-thousands-cross-into-spanish-territory-of-ceuta"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ceuta: Spain says most migrants have returned to Morocco",
+          "excerpt": "Ceuta: Spain says most migrants have returned to Morocco Published July 31, 2026last updated August 1, 2026 What you need to know - Ceuta estimated 60,000 people entered the city, while at least 57 died in the attempt - Italy temporarily suspends Schengen free-travel pact with Spain - PM Pedro Sanchez visited Ceuta, blamed the influx on people smugglers manipulating a recent Supreme Court ruling -…",
+          "url": "https://www.dw.com/en/ceuta-spain-says-most-migrants-have-returned-to-morocco/live-78191601?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+          "excerpt": "Anthropic disclosed on Thursday that its AI models gained unauthorized access to the systems of three different unnamed organizations during cybersecurity testing. The company says Claude reached the internet “from within or while interacting\" with a third-party evaluation environment.…",
+          "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Apple's Stumble, Amazon's Surge and Anthropic's Hacks | Bloomberg Tech 7/31/2026",
+          "excerpt": "Bloomberg’s Ed Ludlow breaks down Tim Cook's final Apple earnings call as CEO - a story of supply crunches, demand misreads and a tough outlook. Plus, Amazon's shares roar on AI progress, big spending and accelerating cloud growth. And, after OpenAI's breaches, Anthropic is now saying its own AI models breached three organizations during cybersecurity tests. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Трамп допустил взятие Гренландии под контроль США до конца президентского срока",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Трамп допустил взятие Гренландии под контроль США до конца президентского срока",
+          "excerpt": "Трамп допустил взятие Гренландии под контроль США до конца президентского срока Президент США Дональд Трамп назвал возможным переход Гренландии под контроль Соединенных Штатов до конца его президентского срока. Полномочия господина Трампа заканчиваются в январе 2029 года. Комментарий по поводу Гренландии Дональд Трамп сделал в интервью Real America's Voice.…",
+          "url": "https://www.kommersant.ru/doc/8860540"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Трамп допустил переход Гренландии под контроль США до окончания его срока",
+          "excerpt": "Трамп допустил переход Гренландии под контроль США до окончания его срока Президент США Дональд Трамп заявил, что считает возможным переход Гренландии под оперативный контроль Соединенных Штатов до завершения его президентского срока. Об этом он заявил в интервью телеканалу Real America's Voice.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/01/1218084-tramp-grenlandii"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Donald Trump trying to 'change the narrative away from the Iran war' ahead of midterms",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Donald Trump trying to 'change the narrative away from the Iran war' ahead of midterms",
+          "excerpt": "US President Donald Trump held a cabinet meeting at the Camp David retreat where he addressed a wide range of subjects, from Iran to the midterm elections. He also blamed the Spanish government for the mass migrant arrivals in Spain's Ceuta enclave, calling it an invasion. FRANCE 24's Fraser Jackson was listening to the president's address and tells us what to know.",
+          "url": "https://www.france24.com/en/donald-trump-trying-to-change-the-narrative-away-from-the-iran-war-ahead-of-midterms"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "7/31: The Takeout with Major Garrett",
+          "excerpt": "Latest U.S. Iran War Ceuta Migrants World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
+          "url": "https://www.cbsnews.com/video/073126-the-takeout-with-major-garrett/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Amazon is splitting its $600 million tariff refund with customers - here's who's eligible",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Amazon is splitting its $600 million tariff refund with customers - here's who's eligible",
+          "excerpt": "Amazon is splitting its $600 million tariff refund with customers - here's who's eligible Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Amazon has received $600 million in tariff refunds. - It will be passing those refunds directly to customers. - Refunds will be automatic, so you don't need to do anything.…",
+          "url": "https://www.zdnet.com/article/amazon-600-million-tariff-refund-with-customers/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Amazon has $600 million in tariff refunds—and some of it is headed to customers",
+          "excerpt": "Amazon says that some customers will get back a sliver of cash from its pool of refunded money after the Trump administration’s tariffs experiment fell apart in court. The U.S. government began refunding billions of dollars in import taxes earlier this year after the Supreme Court ruled that a huge swath of the tariffs it imposed on companies bringing in goods from abroad were illegal.…",
+          "url": "https://www.fastcompany.com/91583573/amazon-has-600-million-in-tariff-refunds-and-some-of-it-is-headed-to-customers"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US military says F-35B jet fighter crashes in California, pilot safe",
+          "excerpt": "US military says F-35B jet fighter crashes in California, pilot safe The jet went down near the Miramar airbase in San Diego and aerial video showed a plume of black smoke rising from the wreckage in a dirt field. An F-35B stealth fighter plane has crashed in California, but its pilot ejected and is expected to survive, the US Marine Corps said.…",
+          "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Pilot of F-35 military jet that crashed in San Diego in stable condition after ejecting",
+          "excerpt": "Pilot of F-35 military jet that crashed in San Diego in stable condition after ejecting The pilot of the F-35 that crashed at Marine Corps Air Station Miramar in San Diego, California, on Friday is in stable condition with non-life-threatening injuries. CBS News' Carter Evans has the details.",
+          "url": "https://www.cbsnews.com/video/pilot-of-f-35-military-jet-that-crashed-in-san-diego-in-stable-condition-after-ejecting/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "У берегов Японии произошло землетрясение магнитудой 5,6",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "У берегов Японии произошло землетрясение магнитудой 5,6",
+          "excerpt": "У берегов Японии произошло землетрясение магнитудой 5,6 Землетрясение магнитудой 5,6 произошло в акватории Тихого океана вблизи берегов Японии. Алтае-Саянский филиал Единой геофизической службы РАН сообщил, что эпицентр землетрясения находился в 95 км северо-восточнее японского города Хатинохе в префектуре Аомори. Подземные толчки были зафиксированы в 11:48 по местному времени (5:48 мск).…",
+          "url": "https://www.kommersant.ru/doc/8860544"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Землетрясение магнитудой 5,6 зафиксировано у берегов Японии",
+          "excerpt": "Землетрясение магнитудой 5,6 зафиксировано у берегов Японии Москва. 1 августа. INTERFAX.RU - Землетрясение магнитудой 5,6 произошло в акватории Тихого океана у северо-восточного побережья остров Хонсю (Япония), сообщает Алтае-Саянский филиал Единой геофизической службы РАН.…",
+          "url": "https://www.interfax.ru/world/1106885"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Behind the Curtain at Google",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Behind the Curtain at Google",
+          "excerpt": "Subscribe here: Apple Podcasts | Spotify | YouTube | Pocket Casts Silicon Valley has long been a place of tech innovation and optimism. When Claire Stapleton moved there to work in communications at Google in 2007, she was bright eyed and optimistic about the company’s mission.…",
+          "url": "https://www.theatlantic.com/podcasts/2026/07/galaxy-brain-behind-curtain-google-silicon-valley/688130/?utm_source=feed"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Silicon Valley loves young founders. Until it doesn’t.",
+          "excerpt": "For Arlan Rakhmetzhanov, 19, there is no middle ground. Either he builds a company as valuable as Google, he says, or he fails and ends up on the streets. He started coding at 15 in his native Kazakhstan, completed a couple of summer programs in San Francisco, and cold-DM’ed every Y Combinator founder he could find on LinkedIn until one gave him an angel check for his first company at age 17.…",
+          "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
+          "excerpt": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened The agreement is a ‘great breakthrough’, the president says in response to media questions Hamas official says group will hand over weapons to new Gaza administration - Reuters In further comments to Reuters, Ghazi Hamad said Hamas will hand ove…",
+          "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump announces Hamas disarmament agreement as part of Gaza peace plan",
+          "excerpt": "Trump announces Hamas disarmament agreement as part of Gaza peace plan The announcement is part of a 20-point peace plan. President Donald Trump announced Thursday an agreement for Hamas to disarm and Israel to withdraw its troops from the Gaza Strip as part of a U.S.-brokered ceasefire signed last year.…",
+          "url": "https://abcnews.com/International/trump-announces-hamas-disarmament-agreement-part-gaza-peace/story?id=135246610"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "coverage": 3,
+      "headline_en": "Tim Cook says Apple may charge for AI Siri",
+      "coverage": 2,
       "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Tim Cook hints at iCloud Plus tier for AI power users",
-          "excerpt": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI “a lot,” adding that “we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.” Tim Cook hints at iCloud Plus tier for AI power users ‘We will have s…",
-          "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
-          "excerpt": "Apple CEO Tim Cook had a lot to talk about on his last earnings call as CEO, as his company's stock price trended lower on concerns about supply constraints. Regardless of the selloff, he told investors that Apple has \"enormous opportunities\" in artificial intelligence. Cook, who will be assuming the role of executive chairman on Sept.…",
-          "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html"
-        },
         {
           "source": "Axios",
           "lang": "en",
           "headline": "Tim Cook says Apple may charge for AI Siri",
           "excerpt": "Apple hinted Thursday that heavy users of its revamped Siri may have to pay for access. Why it matters: It's the first time that Apple has confirmed it will charge for the new AI -powered voice assistant.…",
           "url": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Siri AI could come with a paywall for power users",
+          "excerpt": "In his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. While Cook conceded that these plans are not set in stone, he envisions users being able to buy more compute for Siri AI via its existing iCloud+ subscriptions, which offer extended cloud storage.…",
+          "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Россияне смогут регистрироваться на иностранных сайтах только по номеру телефона — с инициативой выступило Минцифры",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "RB.ru",
-          "lang": "ru",
-          "headline": "Россияне смогут регистрироваться на иностранных сайтах только по номеру телефона — с инициативой выступило Минцифры",
-          "excerpt": "Россияне смогут регистрироваться на иностранных сайтах только по номеру телефона — с инициативой выступило Минцифры Новое требование вошло в «Антифрод 3.0» — но пока проект находится на обсужденииМинцифры предложило обязать иностранные сайты, работающие в России, авторизовывать пользователей только по номеру телефона, сообщают «Ведомости».…",
-          "url": "https://rb.ru/news/rossiyane-smogut-registrirovatsya-na-inostrannyh-sajtah-tolko-po-nomeru-telefona-s-iniciativoj-vystupilo-mincifry/"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Минцифры предложило обязать иностранные сайты авторизовывать российских пользователей только по номеру телефона — «Ведомости»",
-          "excerpt": "И хранить данные об аккаунтах три года.Фото Unsplash Предложение вошло в третий пакет мер по борьбе с мошенничеством.…",
-          "url": "https://vc.ru/services/3053297-mincifry-avtorizaciya-inostrannyh-sajtov-po-nomeru-telefona?from=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Father of teen school shooter sentenced to 15 years in prison",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Father of teen school shooter sentenced to 15 years in prison",
-          "excerpt": "Father of teen school shooter sentenced to 15 years in prison - Published The father of a teenage boy who shot and killed four people at a high school in the US state of Georgia has been sentenced to 15 years in prison for murder, manslaughter and other charges.…",
-          "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Father of Apalachee High School shooter sentenced to 15 years in prison",
-          "excerpt": "Colin Gray, father of Apalachee High School shooter, sentenced to 15 years in prison A judge sentenced Colin Gray to 15 years in prison Thursday, following emotional testimony from victims' families during his sentencing hearing in Georgia's Apalachee High School shooting case.…",
-          "url": "https://www.cbsnews.com/news/sentencing-hearing-begins-for-colin-gray-father-who-gave-gun-to-apalachee-high-school-shooter/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Father of Apalachee High School shooter sentenced to 15 years in prison",
-          "excerpt": "Father of Apalachee High School shooter sentenced to 15 years in prison 03:00 UP NEXT Search continues for at least one additional suspect in Seattle food festival shooting 02:42 Judge sentences Apalachee High School shooter to life in prison without parole 04:02 School shooter’s confession played in court 02:19 Teen pleads guilty to deadly 2024 Georgia high school shooting 04:58 Deadly shooting i…",
-          "url": "https://www.nbcnews.com/now/video/father-of-apalachee-high-school-shooter-sentenced-to-15-years-in-prison-267528261977"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Nirmal Purja among 10 climbers feared missing after avalanche",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Nirmal Purja among 10 climbers feared missing after avalanche",
-          "excerpt": "Nirmal Purja among 10 climbers feared missing after avalanche - Published A ten-member international mountaineering team led by renowned Nepal-born former Royal Marine Nirmal Purja is feared missing after an avalanche on Pakistan's Broad Peak, one of the world's highest mountains.…",
-          "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Renowned climber among 10 missing after avalanche",
-          "excerpt": "A renowned climber who served in the British special forces is missing after an avalanche on one of the world's highest mountains.",
-          "url": "https://news.sky.com/story/nirmal-purja-ex-british-special-forces-soldier-missing-after-avalanche-13568650"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Ten climbers led by renowned Nepali mountaineer ‘missing’ on Pakistan peak",
-          "excerpt": "Ten climbers led by renowned Nepali mountaineer ‘missing’ on Pakistan peak Mountaineer Nirmal Purja among those feared missing after avalanche hit Broad Peak, Pakistan alpine club says. Ten climbers, led by renowned Nepali mountaineer Nirmal Purja, are feared missing after an avalanche in northern Pakistan where they were on a climbing expedition, the country’s alpine club said.…",
-          "url": "https://www.aljazeera.com/news/2026/7/31/nepali-climber-purja-9-others-missing-in-pakistan-after-avalanche?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-          "excerpt": "UK rapper Yung Filly found not guilty of raping woman after Australian show - Published UK rapper Yung Filly has been found not guilty of raping a fan after performing at a nightclub in Australia in 2024. On Friday a jury in Western Australia found him not guilty for three counts of sexual penetration without consent. But he was found guilty for two counts of assault occasioning bodily harm.…",
-          "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "British YouTuber Yung Filly acquitted of raping fan in Perth but could face retrial with jury hung on three charges",
-          "excerpt": "A British musician and YouTube personality on trial for allegedly violently raping a fan in a Perth hotel has been acquitted of three sexual penetration charges. But the jury found the rapper Yung Filly guilty of two assault offences related to his September 2024 encounter with a 20-year-old woman after a show.…",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/31/british-youtuber-yung-filly-acquitted-of-raping-fan-in-perth-but-could-face-retrial-with-jury-hung-on-three-charges-ntwnfb"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "British YouTuber and rapper found not guilty of raping woman",
-          "excerpt": "British YouTuber and rapper Yung Filly has been found not guilty of raping a woman in an Australian hotel room almost two years ago.",
-          "url": "https://news.sky.com/story/british-youtuber-and-rapper-yung-filly-found-not-guilty-of-raping-woman-in-australia-13568299"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "«WB Банк» отменил для продавцов Wildberries плату за обслуживание счетов и комиссии за переводы",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "«WB Банк» отменил для продавцов Wildberries плату за обслуживание счетов и комиссии за переводы",
-          "excerpt": "Это новые меры поддержки на фоне ударов беспилотников по складам маркетплейса. Источник: ТАССМера распространяется на всех продавцов — как старых клиентов банка, так и новых, сообщил Wildberries.«WB Банк» будет бесплатно предоставлять ежемесячное обслуживание счёта, а также сделает бесплатными все внутрибанковские переводы — как между юрлицами, так и переводы со счета ИП на личный счёт физлица.Не …",
-          "url": "https://vc.ru/marketplace/3053586-wb-bank-otmenil-komissii-dlya-prodavtsov-wildberries?from=rss"
-        },
-        {
-          "source": "RB.ru",
-          "lang": "ru",
-          "headline": "Wildberries объявил о новых мерах поддержки продавцов — WB Банк отменил комиссии и плату за обслуживание счетов",
-          "excerpt": "Wildberries объявил о новых мерах поддержки продавцов — WB Банк отменил комиссии и плату за обслуживание счетов Кроме того, обслуживание счетов селлеров стало бесплатнымWB Банк сделал бесплатным обслуживание счетов, а также отменил комиссии за рублёвые переводы для продавцов Wildberries.…",
-          "url": "https://rb.ru/news/wildberries-obyavil-o-novyh-merah-podderzhki-prodavcov-wb-bank-otmenil-komissii-i-platu-za-obsluzhivanie-schetov/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-          "excerpt": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
-          "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "What It Means to Plead the Fifth Amendment",
-          "excerpt": "Dr. Anthony Fauci’s decision to invoke his Fifth Amendment right to avoid answering lawmakers’ questions about the government’s handling of the COVID pandemic during a Senate hearing on Wednesday sparked outrage from Republicans. Kentucky Sen.…",
-          "url": "https://time.com/article/2026/07/30/fifth-amendment-fauci-rand-paul-covid-hearing-contempt-of-congress/"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "What Anthony Fauci Didn’t Say",
-          "excerpt": "Sign up for Inside the Trump Presidency, a newsletter featuring coverage of the second Trump term. Sitting in front of the Senate Committee on Homeland Security and Governmental Affairs today, Anthony Fauci twirled his pen. He huffed and straightened his shoulders. He glanced down at a set of papers. He muted and unmuted his microphone.…",
-          "url": "https://www.theatlantic.com/health/2026/07/anthony-fauci-hearing-silence/688103/?utm_source=feed"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-          "excerpt": "Google DeepMind just released a new version of its artificial intelligence model Gemini, and it can control a range of different robots—including humanoids capable of dextrous tasks like screwing in lightbulbs and tying trash bags. Gemini Robotics 2 combines several different AI models into a single system. Taken together, they allow a robot to make sense of its surroundings and how to act in it.…",
-          "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Google DeepMind’s new AI model can control a robot’s entire body",
-          "excerpt": "Google DeepMind says the latest version of its Gemini Robotics AI model can “control entire humanoid robots.” While the previous model focused on controlling a humanoid robot’s upper body, Gemini Robotics 2 now supports “whole-body motions” ranging from its feet to fingertips, according to an announcement on Thursday.…",
-          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Google's new Gemini Robotics 2 platform allows for 'intelligent whole-body control'",
-          "excerpt": "Google's new Gemini Robotics 2 platform allows for 'intelligent whole-body control' The company made a video of the bots in action doing stuff like cleaning trash and picking up watering cans. Google DeepMind just announced a new version of its artificial intelligence model Gemini that can control a range of robots.…",
-          "url": "https://www.engadget.com/2227268/google-gemini-robotics-2-platform-intelligent-whole-body-control/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-          "excerpt": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan - Published US President Donald Trump says the Board of Peace has reached an agreement for the \"complete disarmament\" of Hamas and other armed groups in Gaza.…",
-          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain",
-          "excerpt": "Donald Trump has said a deal has been reached for Hamas to disarm and for Israel to withdraw its forces from Gaza, however briefings from both sides exposed disputes over its implementation that could prove difficult to overcome.…",
-          "url": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
-          "excerpt": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm, paving the way for an Israeli withdrawal from Gaza and the deployment of an international stabilisation force.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Володин напомнил о вступающих в силу в августе законах",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Володин напомнил о вступающих в силу в августе законах",
-          "excerpt": "В августе будет скорректирован размер пенсии россиян. Об этом сообщил спикер Госдумы Вячеслав Володин в Telegram. По словам чиновника, размер накопительной части пенсии вырастет на 17,3 процента, размер срочных пенсионных выплат — на 19,32 процента. Изменения произойдут в беззаявительном порядке, никаких действий от россиян не потребуется.…",
-          "url": "https://lenta.ru/news/2026/07/31/volodin-napomnil-o-vstupayuschih-v-silu-v-avguste-zakonah/"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "Володин рассказал о законах, которые вступают в силу в августе",
-          "excerpt": "Краткий пересказ от РИА ИИ - В августе накопительные пенсии проиндексируют на 17,3%, а срочные пенсионные выплаты — на 19,32%. - Вводится уголовная ответственность за нарушение требований законодательства при заключении договоров связи с иностранцами и усиливается наказание за незаконный сбор или распространение сведений о частной жизни, а также за нарушение тайны переписки.…",
-          "url": "https://ria.ru/20260731/volodin-2108092135.html"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "The New Friend AI Pendant Can Now Talk Back to You",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "The New Friend AI Pendant Can Now Talk Back to You",
-          "excerpt": "Friend CEO Avi Schiffmann welcomes me into his palace—what he calls his large apartment in San Francisco. He sits on the couch in his living room, clad in an orange shirt emblazoned with a cartoon version of the motorcycle driven by Italian racer Valentino Rossi.…",
-          "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "That AI wearable you don't like just got worse",
-          "excerpt": "That AI wearable you don't like just got worse The new Friend pendant features a speaker, updated models and the same off-putting ideas about how humans should use AI. Friend, the startup and AI pendant better known for its controversial ad campaign than being a usable product, is back.…",
-          "url": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-          "excerpt": "Two years ago, tech founder Avi Schiffmann launched Friend, an AI wearable that you could talk to and that would send you text messages about your day. The idea, ostensibly, was to use artificial intelligence to combat loneliness. This week, the company announced a new overhaul of the product, introducing a noticeable upgrade: a voice. “Introducing friend 2.0,” Schiffmann tweeted Thursday.…",
-          "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Hair found in Nancy Guthrie’s home isn’t linked to a suspect, FBI says",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Hair found in Nancy Guthrie’s home isn’t linked to a suspect, FBI says",
-          "excerpt": "Hair found in Nancy Guthrie’s home in Arizona is not linked to any potential suspects in her disappearance, federal law enforcement officials said Thursday. In a brief statement, the FBI’s Phoenix office said that “all hair had been resolved and it does not point to a suspect” in the investigation. The FBI declined to comment further.…",
-          "url": "https://www.nbcnews.com/news/us-news/nancy-guthrie-fbi-hair-rcna590152"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Hair sample found at Nancy Guthrie's home inconclusive as search hits 6-month mark",
-          "excerpt": "Hair sample found at Nancy Guthrie's home inconclusive as search for missing mother hits 6-month mark A hair sample that underwent forensic testing after being found at the Tucson, Arizona, home of Nancy Guthrie, the missing mother of \"Today\" show co-host Savannah Guthrie, came back inconclusive and did not point to a suspect, the sheriff overseeing the local investigation told CBS News on Thursda…",
-          "url": "https://www.cbsnews.com/news/nancy-guthrie-hair-sample-inconclusive-search-6-months/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "How the FCC’s New Rule Will Affect Robot Vacuums",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "How the FCC’s New Rule Will Affect Robot Vacuums",
-          "excerpt": "This week, the US Federal Communications Commission banned the import of foreign-made advanced mobile robots. Humanoid and quadruped robots are specifically named, indicating the true target is robotic versions of people and animals, but something else happens to be an “advanced mobile robot”: robot vacuums. So what does this ban mean? Though it's effective immediately, nothing changes for now.…",
-          "url": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/"
-        },
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "What the FCC ban on foreign-made robot vacuums means for your Roomba",
-          "excerpt": "What the FCC ban on foreign-made robot vacuums means for your Roomba Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - The FCC banned the sale and import of foreign-made robotic devices. - The ban includes robot vacuums from the largest manufacturers. - Robots previously imported into the US are unaffected.…",
-          "url": "https://www.zdnet.com/article/fcc-ban-on-foreign-made-robot-vacuums-and-your-roomba/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Продажи армянского коньяка и вина снизились за год на 11–12%",
+      "headline_en": "Трамп: США нужно быть осторожными с передачей ракет для Patriot",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Продажи армянского коньяка и вина снизились за год на 11–12%",
-          "excerpt": "Продажи армянского коньяка и вина снизились за год на 11–12% В январе—июне розничные продажи армянских коньяков в России снизились на 12,2% год к году, до 1,37 млн декалитров (дал). Это следует из имеющихся у “Ъ” данных участников рынка. В общей структуре спроса на коньяки доля Армении составила 20%, потеряв 1,7 процентного пункта за год.…",
-          "url": "https://www.kommersant.ru/doc/8848656"
+          "headline": "Трамп: США нужно быть осторожными с передачей ракет для Patriot",
+          "excerpt": "Трамп: США нужно быть осторожными с передачей ракет для Patriot В Белом доме действительно обсуждают передачу ракет для систем Patriot Киеву, но еще не соглашались ни на какие шаги в этом направлении, заявил американский президент Дональд Трамп. Кроме того, США стоит быть осторожными, поскольку оружие могут направить и против них, считает он. «Эти вооружения невероятны.…",
+          "url": "https://www.kommersant.ru/doc/8860519"
         },
         {
-          "source": "Lenta.ru",
+          "source": "Ведомости",
           "lang": "ru",
-          "headline": "Продажи армянского коньяка и вина упали",
-          "excerpt": "В 2026 году продажи армянского коньяка и вина в России упали на 11-12 процентов в годовом выражении. Об этом со ссылкой на данные участников рынка сообщает «Коммерсантъ». Розничные продажи армянских коньяков в России снизились на 12,2 процента, до 1,37 миллиона декалитров (дал). В общей структуре спроса на коньяки доля республики составила 20 процентов (минус 1,7 процентного пункта).…",
-          "url": "https://lenta.ru/news/2026/07/31/prodazhi-armyanskogo-konyaka-i-vina-upali/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-          "excerpt": "China's factory activity unexpectedly contracted in July for the first time since February, as domestic orders slumped and typhoons disrupted production, while part of the front-loading momentum began to unwind, piling pressure on Beijing to boost domestic demand.…",
-          "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "China’s Factories, Construction Slump in Sign Slowdown Spreading",
-          "excerpt": "China’s factory activity unexpectedly contracted for the first time in five months and construction slumped to the lowest since the start of the pandemic, pointing to a further loss of momentum in the economy after a slowdown last quarter.",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-31/china-factory-activity-surprises-with-first-slump-in-five-months"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Netanyahu confronts Vance over his criticism of Israeli government",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Netanyahu confronts Vance over his criticism of Israeli government",
-          "excerpt": "Vice President Vance and Israeli Prime Minister Benjamin Netanyahu held a \"direct\" conversation about their differences in a one-on-one meeting in Washington on Tuesday evening, Israeli and U.S. officials said. Why it matters: Vance has been the most Netanyahu-skeptical voice in Trump's inner circle since the beginning of the war.…",
-          "url": "https://www.axios.com/2026/07/30/netanyahu-confronts-vance-over-his-criticism-of-israeli-government"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Saudi, Israeli leaders try to shape Trump's decisions on Iran conflict",
-          "excerpt": "As Iran conflict enters 6th month, Saudi and Israeli leaders try to shape Trump's decisions President Trump and Israeli Prime Minister Netanyahu estimated the intense part of the U.S.-Israeli war in Iran would last four to six weeks. It is now entering the sixth month without a decisive military victory or a diplomatic breakthrough. Now, as Mr.…",
-          "url": "https://www.cbsnews.com/news/saudis-netanyahu-trump-iran-war/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "An AI startup's tattoo-for-an-interview stunt set off a Silicon Valley backlash. Now the founder is apologizing.",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "An AI startup's tattoo-for-an-interview stunt set off a Silicon Valley backlash. Now the founder is apologizing.",
-          "excerpt": "Tattoos, company logos, and deleted apologies — oh my. A Y Combinator-backed startup founder is in hot water after saying his company would offer job interviews to anyone who got a tattoo of its logo at a party in San Francisco last weekend. Jordan Zietz, the cofounder of the small AI automation startup LemonLime, wrote about the stunt in a since-deleted X post on Tuesday.…",
-          "url": "https://www.businessinsider.com/lemonline-founder-apology-job-interview-logo-tattoo-2026-7"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "A Y-Combinator startup offered job interviews in exchange for getting a tattoo—because they want employees ‘just as crazy as we are’",
-          "excerpt": "The job market may feel more crowded than ever, but how far would candidates go to set themselves apart? One startup put that to the test, challenging hopeful candidates to get a permanent tattoo in exchange for a guaranteed interview. Y Combinator startup LemonLime hosted an afterparty for YC Startup School.…",
-          "url": "https://www.fastcompany.com/91582571/y-combinator-startup-lemonlime-offers-job-interviews-for-getting-tattoos-jordan-zietz"
+          "headline": "Трамп: США нужно быть осторожными при передаче Украине ракет для Patriot",
+          "excerpt": "Трамп: США нужно быть осторожными при передаче Украине ракет для Patriot Вашингтону необходимо проявлять осторожность при принятии решений о передаче Украине зенитных ракетных комплексов Patriot. Об этом в эфире телеканала CNBC заявил президент США Дональд Трамп. По его словам, в Белом доме действительно обсуждается этот вопрос, однако никаких окончательных решений пока не принято.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/31/1218082-tramp-ssha-patriot"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "I replaced my paid streaming apps with free ones - here's what surprised me",
+      "headline_en": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "ZDNet",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "I replaced my paid streaming apps with free ones - here's what surprised me",
-          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
-          "url": "https://www.zdnet.com/article/are-free-streaming-services-worth-it-vs-paid-streaming-apps/"
+          "headline": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+          "excerpt": "The ongoing shortage of RAM chips is not only expected to persist into the next year, but will likely intensify in 2027, with tight supply conditions lasting until at least 2028, according to Samsung, which manufactures and supplies roughly a third of the world’s memory chips.…",
+          "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/"
         },
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "Google Voice paid subscriptions offer more than just a phone number",
-          "excerpt": "Google Voice paid subscriptions offer more than just a phone number Here's what you get when you upgrade. Google Voice is a Voice over Internet Protocol (VoIP) service that provides individuals and small businesses with a virtual phone number they can use for calls, texts and voicemails. It uses either a web or mobile app, and the advantage is that your personal phone number is kept private.…",
-          "url": "https://www.engadget.com/2222920/google-voice-paid-subscriptions-more-than-just-phone-number/"
+          "headline": "How to fight a data center",
+          "excerpt": "How to fight a data center Most Americans don't want them in their backyard, but beating AI companies isn't easy. This past April spending on data center construction surpassed $50 billion, marking the first time more was spent in the US on building cloud infrastructure than new public transportation. It would be an understatement to say this has been a broadly unpopular shift in priorities.…",
+          "url": "https://www.engadget.com/2227325/how-to-fight-a-data-center/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Anthropic reveals its Claude AI model hacked into 3 organizations during testing",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Anthropic reveals its Claude AI model hacked into 3 organizations during testing",
+          "excerpt": "Anthropic said its artificial intelligence models hacked into three other organizations during testing, just days after ChatGPT maker OpenAI raised concerns over AI controls after it disclosed its rogue models hacked another company.…",
+          "url": "https://www.fastcompany.com/91583266/anthropic-reveals-claude-ai-model-hacked-into-3-organizations-during-testing"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Anthropic admits its most powerful AI model hacked into three organisations' systems during testing phase",
+          "excerpt": "The announcement comes just days after rivals OpenAI revealed that their popular ChatGPT platform went rogue during its testing phase of its most powerful AI model, where it too infiltrated other organisations’ cyberspace.…",
+          "url": "http://www.euronews.com/next/2026/07/31/anthropic-admits-its-most-powerful-ai-model-hacked-into-three-organisations-systems-during"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+          "excerpt": "The latest numbers of confirmed cases of Ebola in the Democratic Republic of the Congo has made this latest outbreak the fastest growing in the known history of the virus.…",
+          "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "DR Congo Ebola outbreak becomes world's second-largest ever",
+          "excerpt": "DR Congo Ebola outbreak becomes world's second-largest ever July 31, 2026 The Democratic Republic of Congo's (DRC) latest Ebola outbreak has surpassed the total number of cases recorded during the country's deadliest epidemic between 2018 and 2020. That epidemic killed nearly 2,300 people among about 3,500 infections.…",
+          "url": "https://www.dw.com/en/dr-congo-ebola-outbreak-becomes-world-s-second-largest-ever/a-78196627?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Космонавты Артемьев и Корсаков завершили карьеру в отряде «Роскосмоса»",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Космонавты Артемьев и Корсаков завершили карьеру в отряде «Роскосмоса»",
+          "excerpt": "Космонавты Артемьев и Корсаков завершили карьеру в отряде «Роскосмоса» Олег Артемьев и Сергей Корсаков покинули отряд космонавтов «Роскосмоса», сообщила госкорпорация. Господин Артемьев совершил три полета в космос, господин Корсаков — один. Как уточнили в «Роскосмосе», 118-й космонавт России Олег Артемьев завершил карьеру 24 июля. В отряде «Роскосмоса» он проработал с мая 2003 года.…",
+          "url": "https://www.kommersant.ru/doc/8860534"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Космонавты Артемьев и Корсаков покинули отряд \"Роскосмоса\"",
+          "excerpt": "Космонавты Артемьев и Корсаков покинули отряд \"Роскосмоса\" Москва. 31 июля. INTERFAX.RU - Космонавты Олег Артемьев и Сергей Корсаков завершили работу в отряде \"Роскосмоса\", сообщили в госкорпорации в пятницу. В \"Роскосмосе\" сообщили, что Артемьев, совершивший три космических полета, завершил работу 24 июля. Корсаков, выполнивший один полет в космос, покинул отряд 31 июля.…",
+          "url": "https://www.interfax.ru/russia/1106871"
         }
       ]
     }
