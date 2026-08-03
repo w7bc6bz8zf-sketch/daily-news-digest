@@ -1,335 +1,97 @@
 {
-  "collected_at": "2026-08-02T06:17:03.441931+00:00",
+  "collected_at": "2026-08-03T06:43:45.797325+00:00",
   "total_sources": 63,
-  "total_entries": 670,
+  "total_entries": 620,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Trump cancels new strikes on Iran after Middle East allies’ request",
-      "coverage": 7,
+      "headline_en": "Iran Talks to Begin Monday, Trump Says",
+      "coverage": 8,
       "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Trump cancels new strikes on Iran after Middle East allies’ request",
-          "excerpt": "‘Perimeters of a deal’ have been agreed, US president claims",
-          "url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4"
-        },
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
-          "excerpt": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they are working toward a deal.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-          "excerpt": "Trump cancels Iran strike, says ‘deal perimeters’ reached The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks. United States President Donald Trump says he has cancelled a planned large-scale military attack on Iran, claiming that the “perimeters of a deal” have been agreed upon.…",
-          "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Trump says he's cancelling strikes on Iran as 'perimeters of a deal' agreed",
-          "excerpt": "On Friday, Trump had said he was \"losing faith\" in the prospect of a peace deal and threatened to hit Iran \"very hard.\" US President Donald Trump has announced he is cancelling a new attack on Iran after Tehran and a number of unspecified Middle Eastern countries asked the US to postpone strikes as the \"perimeters of a deal\" had been agreed.…",
-          "url": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump agrees to pause attacks on Iran amid talks over ‘perimeters of a deal’",
-          "excerpt": "The U.S. has agreed to pause attacks on Iran, President Donald Trump said Saturday, amid what he said were the “perimeters of a deal” being agreed upon, which would include the reopening of the Strait of Hormuz. “We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to,” Trump said in a post on Truth Social.…",
-          "url": "https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
-          "excerpt": "Three killed after bomb detonated at Moscow restaurant, state media say - Published At least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian state media reports, quoting security officials. The blast happened at about 20:00 local time (17:00 GMT) on Kudrinskaya square near the city centre.…",
-          "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Moscow restaurant bombing kills three people as device carried by woman explodes",
-          "excerpt": "More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21 in ⁠an explosion near a restaurant in central Moscow on Saturday evening, authorities said.…",
-          "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Several people killed in explosion at Moscow restaurant, Russian officials say",
-          "excerpt": "Several people killed in explosion at Moscow restaurant, Russian officials say An explosion Saturday at a Moscow restaurant that killed three people and wounded 21 others was a bombing, Russia's national anti-terrorism committee said, the Tass state news agency reported.…",
-          "url": "https://www.cbsnews.com/news/explosion-moscow-restaurant-fatalities-injuries/"
+          "headline": "Iran Talks to Begin Monday, Trump Says",
+          "excerpt": "President Donald Trump said new Iran talks would begin Monday afternoon after he called off a planned attack on Iran. Bloomberg's Stuart Livingstone-Wallace shares what we know about the talks and how oil prices are affected. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-03/iran-talks-to-begin-monday-trump-says-video"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "At least three killed in Moscow restaurant bombing, Russian officials say",
-          "excerpt": "At least three killed in Moscow restaurant bombing, Russian officials say At least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian officials said. Local authorities have not said anything about who they believe was the target of the attack.…",
-          "url": "https://www.france24.com/en/europe/20260802-at-least-three-killed-in-moscow-restaurant-bombing-russian-officials-say"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Homemade bomb goes off outside upscale Moscow restaurant state officials say",
-          "excerpt": "Homemade bomb goes off outside upscale Moscow restaurant August 2, 2026 An explosion at a restaurant in central Moscow killed at least three people, including the suspected bomber on Saturday night, authorities said. Russia's Anti-Terrorism Committee said a woman carrying \"a homemade explosive device\" tried to enter the restaurant on Kudrinskaya Square but was stopped by a security guard.…",
-          "url": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google rolls back the needless AI generation tools it added to Google Earth",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Google rolls back the needless AI generation tools it added to Google Earth",
-          "excerpt": "Google rolls back the needless AI generation tools it added to Google Earth The decision comes one day after people used the tool to generate misleading satellite imagery. Google is rolling back Nano Banana image generation inside of Google Earth less a day after announcing the integration on July 30. \"We know that people uniquely trust Google Earth for a reliable view of the world.…",
-          "url": "https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran",
-          "excerpt": "Google has rolled back its brand-new AI-powered Google Earth image generator worldwide less than 24 hours after launch. As I reported on July 30, Google recently added the ability to reimagine any Google Earth imagery based on Gemini text prompts.…",
-          "url": "https://www.forbes.com/sites/paulmonckton/2026/08/01/google-earth-ai-feature-removed/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-          "excerpt": "Google rolled out a new feature on Thursday that allowed users to deploy Nano Banana 2, its AI image generator, to create fabricated images inside its satellite imagery mapping app Google Earth. The whole point of this feature, Google said, was to get creative with geography. But critics quickly pointed out that the tool could be used to create and spread misinformation.…",
-          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-          "excerpt": "Google briefly allowed anyone to create AI-modified versions of satellite imagery available in Google Earth—before quickly reversing its decision as people shared examples of AI-generated pictures that illustrated the potential for misinformation and disinformation.…",
-          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Google Earth’s New AI Feature Could Create False Images of Real Places. It Lasted 1 Day",
-          "excerpt": "Google rolled back its latest AI tool a day after critics warned it could fuel misinformation by generating convincing but fictional visuals of locations worldwide.",
-          "url": "https://www.inc.com/kevin-haynes/google-earths-new-ai-feature-could-create-false-images-of-real-places-it-lasted-1-day/91383508"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "После атаки ВСУ на склад Wildberries в Самарской области начался пожар",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "После атаки ВСУ на склад Wildberries в Самарской области начался пожар",
-          "excerpt": "После атаки ВСУ на склад Wildberries в Самарской области начался пожар Беспилотники ВСУ нанесли удар по складу Wildberries в Самарской области. Об этом сообщил губернатор региона Вячеслав Федорищев в Telegram. На месте происшествия работают оперативные службы, отметил губернатор. В пресс-службе Wildberries & Russ сообщили, что из-за атаки на складе начался пожар.…",
-          "url": "https://www.kommersant.ru/doc/8860767"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Склад Wildberries в Самарской области загорелся после атаки",
-          "excerpt": "В Самарской области после атаки загорелся склад маркетплейса Wildberries. Об этом сообщила пресс-служба объединенной компании Wildberries и Russ в Telegram. На месте работают пожарные расчеты. По предварительной информации, пострадавших нет. Логистические цепочки перестроены, прием поставок и отгрузка заказов осуществляются на других объектах, добавили в компании.…",
-          "url": "https://lenta.ru/news/2026/08/02/sklad-wildberries-v-samarskoy-oblasti-zagorelsya-posle-ataki/"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Склад Wildberries загорелся в Самарской области после атаки ВСУ",
-          "excerpt": "Склад Wildberries загорелся в Самарской области после атаки ВСУ Москва. 2 августа. INTERFAX.RU - Склад Wildberries загорелся в Самарской области в результате атаки ВСУ, пострадавших предварительно нет, сообщили в пресс-службе Wildberries-Russ. \"Из-за атаки на логистическом объекте компании в Самарской области возникло возгорание. На месте работают пожарные расчеты.…",
-          "url": "https://www.interfax.ru/russia/1106989"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В Самарской области загорелся объект Wildberries из-за атаки ВСУ",
-          "excerpt": "Логистический объект Wildberries в Самарской области подвергся атаке беспилотниками, из-за чего возникло возгорание. Прием поставок и отгрузка заказов осуществляются на других объектах, логистические цепочки перестроены. МОСКВА, 2 авг - РИА Новости.…",
-          "url": "https://ria.ru/20260802/pozhar-2108464951.html"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Пожар начался на объекте Wildberries в Самарской области",
-          "excerpt": "Пожар начался на объекте Wildberries в Самарской области Из-за атаки на логистическом объекте Wildberries в Самарской области возникло возгорание, сообщили в пресс-службе RWB. «На месте работают пожарные расчеты. Предварительно пострадавших нет», – говорится в сообщении. Ночью российские средства ПВО сбили более 600 дронов над регионами.…",
-          "url": "https://www.vedomosti.ru/business/news/2026/08/02/1218187-pozhar-nachalsya"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump rebukes Jeanine Pirro over decision to drop Reflecting Pool vandalism case",
-          "excerpt": "President Donald Trump criticized longtime ally Jeanine Pirro Saturday after she agreed to drop a case against a former Olympic canoeist who was accused of vandalizing the Lincoln Memorial Reflecting Pool. “I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool.…",
-          "url": "https://www.nbcnews.com/politics/trump-administration/trump-rebukes-jeanine-pirro-decision-drop-reflecting-pool-vandalism-ca-rcna590408"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "8/1: CBS Weekend News",
-          "excerpt": "Latest U.S. Iran War Ceuta Migrants World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
-          "url": "https://www.cbsnews.com/video/080126-cbs-weekend-news/"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "How the Reflecting Pool Vandalism Case Fell Apart",
-          "excerpt": "Federal prosecutors searched for evidence and found that “a botched installation” was to blame.",
-          "url": "https://www.theatlantic.com/politics/2026/07/reflecting-pool-case-david-hearn/688151/?utm_source=feed"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
-          "excerpt": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
-          "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html"
+          "headline": "Middle East live: Trump says Iran talks set to start after calling off strikes",
+          "excerpt": "US President Donald Trump said that negotiations with Iran will begin Monday after he decided to hold off on new strikes against the Islamic republic to pursue a deal. Follow our liveblog for all the latest.…",
+          "url": "https://www.france24.com/en/middle-east/20260802-live-trump-says-new-talks-with-iran-to-begin-monday-after-calling-off-strikes"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
-          "excerpt": "The US president pushes back after a federal prosecutor says damage caused by &#039;botched&#039; installation, not vandalism.",
-          "url": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss"
+          "headline": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+          "excerpt": "Trump pauses ‘massive attack’ on Iran, says new talks to begin US President Donald Trump says new talks with Iran will begin on Monday ‘in the form of a negotiation’ after calling off what he described would have been the biggest attack since World War Two. Published On 3 Aug 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes",
+          "excerpt": "Live Updates: U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes What to know about the Iran war today: - President Trump said negotiations with Iran are set to begin Monday after announcing Saturday night that he canceled a pending attack on Iran.…",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump says Iran talks to resume Monday after calling off planned strikes",
+          "excerpt": "The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.",
+          "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "The Sopranos star Vincent Pastore dies aged 80",
-      "coverage": 5,
+      "headline_en": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "coverage": 6,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "The Sopranos star Vincent Pastore dies aged 80",
-          "excerpt": "The Sopranos star Vincent Pastore dies aged 80 - Published US actor Vincent Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit show The Sopranos, has died aged 80, according to several US outlets. Pastore was found at his home in the Bronx, New York City and there was no indication of criminality, the BBC's US partner CBS News reported.…",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
+          "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "excerpt": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives - Published Two crew members have been killed after two helicopters collided mid-air in Greece while battling wildfires. The fatalities were a Danish pilot and a Greek fire service liaison officer. A British pilot and another Greek co-ordinator on the second helicopter survived.…",
+          "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "NPR News",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
-          "excerpt": "Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including \"Goodfellas\" and \"Awakenings,\" both in 1990.",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Vincent Pastore, mob enforcer on ‘The Sopranos,’ dies at 80",
-          "excerpt": "Vincent Pastore, who played Tony Soprano’s best friend turned informant on HBO’s mob drama “The Sopranos,” has died, a representative confirmed Saturday. He was 80. Manager Robert Attermann said Pastore, a longtime resident of the Bronx borough of New York City, died at home. He confirmed that friends found his body Saturday. A cause of death was not provided.…",
-          "url": "https://www.nbcnews.com/news/obituaries/vincent-pastore-sopranos-dies-80-rcna590414"
+          "headline": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+          "excerpt": "Two firefighting helicopters have collided west of Athens, killing the two-person crew of one of the aircraft, as efforts to control a massive wildfire barrelling towards the outskirts of the Greek capital intensified. Footage showed one of the helicopters losing control in the face of gale-force winds that have pushed flames towards settlements on Athens’ western fringes.…",
+          "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Actor Vincent Pastore, best known for \"The Sopranos,\" dies at 80",
-          "excerpt": "Latest U.S. Iran War Ceuta Migrants World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
-          "url": "https://www.cbsnews.com/video/vincent-pastore-sopranos-dies/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "'Sopranos' actor Vincent Pastore, known for playing tough guys, dies at 80",
-          "excerpt": "Vincent Pastore, a veteran actor who played mobsters and tough guys, and was best known for playing Salvatore &ldquo;Big Pussy&rdquo; Bonpensiero on &ldquo;The Sopranos,&rdquo; has died",
-          "url": "https://abcnews.com/Entertainment/wireStory/sopranos-actor-vincent-pastore-playing-mobsters-tough-guys-135296307"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-          "excerpt": "Global soccer may be finding the limits to private equity's stampede into sports. A plan by FIFA to sell a minority stake in a new subsidiary — FIFA Forward Enterprise, or FFE — that would control the business side of the World Cup has faced swift backlash.…",
-          "url": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "UEFA 'rebuilding trust' after FIFA scraps World Cup sell-out plans",
-          "excerpt": "UEFA 'rebuilding trust' after FIFA scraps World Cup plans August 1, 2026 FIFA President Gianni Infantino has withdrawn his plans to sell stakes in FIFA competitions to private investors after widespread condemnation from across the football world.…",
-          "url": "https://www.dw.com/en/uefa-rebuilding-trust-after-fifa-scraps-world-cup-sell-out-plans/a-78198144?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "FIFA reverses course on World Cup private investment plan",
-          "excerpt": "FIFA reverses course on World Cup private investment plan FIFA President Gianni Infantino announced Friday that he is canceling a proposal that would have seen the world soccer governing body sell private shares in the World Cup. His reversal came after the plan drew heavy criticism from member nations.",
-          "url": "https://www.cbsnews.com/video/fifa-reverses-course-on-world-cup-private-investment-plan/"
+          "headline": "Firefighting helicopters collide in Greece amid European wildfire crisis",
+          "excerpt": "Firefighting helicopters collide midair in Greece as wildfires rage across Europe Two Greek firefighting helicopters collided in midair on Sunday as they were battling a wind-driven wildfire west of Athens, sending one aircraft crashing to the ground, footage showed. The aircraft were Bell helicopters operating over the Psatha area west of Athens, each with a two-person crew.…",
+          "url": "https://www.cbsnews.com/news/europe-wildfire-crisis-helicopter-collision-greece-athens/"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Why isn’t anyone challenging Infantino for FIFA’s top job?",
-          "excerpt": "Why isn’t anyone challenging Infantino for FIFA’s top job? FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup to private investors after global outrage. The FIFA president is up for re-election next year, so why is no one running against him? Soraya Lennie unpacks the details. Published On 2 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss"
+          "headline": "Two helicopters collide mid-air while tackling wildfires in Greece",
+          "excerpt": "Two helicopters collide mid-air while tackling wildfires in Greece Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires west of Athens on Sunday. According to officials, two crew members died in the crash, while the other two survived. Published On 2 Aug 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss"
         },
         {
-          "source": "Time",
+          "source": "France 24",
           "lang": "en",
-          "headline": "FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?",
-          "excerpt": "FIFA President Gianni Infantino said Friday that football's international governing body would scrap plans to sell private investors a stake in a new commercial venture tied to the World Cup. The pivot came after widespread backlash and vows from all 55 members of UEFA (the Union of European Football Associations) to boycott future FIFA competitions if the plans went through.…",
-          "url": "https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Главные новости к утру 2 августа",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Главные новости к утру 2 августа",
-          "excerpt": "Главные новости к утру 2 августа Национальный антитеррористический комитет (НАК) сообщил, что в ресторане на Кудринской площади в Москве произошел подрыв самодельного взрывного устройства. Неизвестная попыталась пронести его в ресторан. Погибли три человека, еще 21 ранен. Два человека погибли при налете беспилотников на Саратов, сообщил губернатор Роман Бусаргин.…",
-          "url": "https://www.kommersant.ru/doc/8860761"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "НАК: в ресторане на Кудринской площади произошел подрыв взрывного устройства",
-          "excerpt": "НАК: в ресторане на Кудринской площади произошел подрыв взрывного устройства Устройство принесла с собой женщина, личность которой пока не установлена. Она погибла при взрыве. По информации НАК, жертвами взрыва стали три человека. Второй человек – охранник, который заметил взрывное устройство и не позволил принесшей его женщине пронести его внутрь помещения. Также погиб один из посетителей.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/08/01/1218171-restorane-vzrivnogo-ustroistva"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "В ресторане на Кудринской площади в Москвы взорвалась самодельная бомба",
-          "excerpt": "В ресторане на Кудринской площади в Москвы взорвалась самодельная бомба Москва. 1 августа. INTERFAX.RU - Национальный антитеррористический комитет (НАК) сообщил, что в результате взрыва самодельного взрывного устройства в ресторане на Кудринской площади в Москве погибли три человека, в том числе женщина, принесшая бомбу, пострадали более 20 человек.…",
-          "url": "https://www.interfax.ru/moscow/1106973"
+          "headline": "Two killed after firefighting helicopters in Greece  collide near Athens",
+          "excerpt": "Two Greek firefighting helicopters collided in midair on Sunday as they were fighting a wind-driven wildfire west of Athens, sending one aircraft plummeting to the ground. Two crew members, a Greek and a Danish national, died in the crash.",
+          "url": "https://www.france24.com/en/europe/20260802-fire-toll-mounts-in-greece-as-blazes-spread-amid-strong-winds"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Tourist plane crashes in Peru, killing 13",
-      "coverage": 5,
+      "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
@@ -346,760 +108,858 @@
           "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines"
         },
         {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
-          "excerpt": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru. Police said the plane was carrying 13 people when it went down while flying over the ancient archeological site of Nazca Lines. Published On 2 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "13 killed in tourist plane crash in Peru",
-          "excerpt": "13 killed in tourist plane crash in Peru August 1, 2026 A small plane carrying tourists to see Peru's famed Nazca Lines archaeological site crashed, killing all 13 people on board, authorities in Nazca province said on Saturday. \"We have information that 11 passengers and two crew members have died,\" said Police Major Jorge Andrade at the crash site in southern Peru.…",
-          "url": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-all-1573-rdf"
-        },
-        {
           "source": "Sky News",
           "lang": "en",
           "headline": "Tourist plane crash leaves 13 dead in Peru",
-          "excerpt": "Reference #18.1b643017.1785651609.9e25a935 https://errors.edgesuite.net/18.1b643017.1785651609.9e25a935",
+          "excerpt": "Reference #18.475ed617.1785739614.5b1c6ca2 https://errors.edgesuite.net/18.475ed617.1785739614.5b1c6ca2",
           "url": "https://news.sky.com/story/tourist-plane-crash-leaves-13-dead-in-peru-13569102"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-          "excerpt": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth.",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche"
         },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "10 climbers, including famed mountaineer, dead in Pakistan avalanche",
-          "excerpt": "Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say Famed British Nepali climber Nirmal Purja and nine other climbers were killed after being swept away by an avalanche on Pakistan's Broad Peak earlier this week, his expedition company said Saturday. Rescue groups are trying to find the bodies.…",
-          "url": "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-          "excerpt": "Record-breaking climber Nirmal Purja among those killed in avalanche Nepalese mountaineer Nirmal Purja, who rose to fame through Netflix documentary 14 Peaks after his record-breaking climb of the world’s 14 highest mountains, has been confirmed dead after an avalanche struck his Broad Peak expedition in Pakistan. His team confirmed the news, with three bodies recovered. Published On 1 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Famed climber Nirmal Purja among 10 killed in avalanche",
-          "excerpt": "Famed climber Nirmal Purja among 10 killed in avalanche August 1, 2026 Celebrated climber Nirmal Purja and nine other mountaineers have been confirmed dead after an avalanche on Pakistan's Broad Peak, his expedition company said on Saturday. The confirmation came a day after rescuers located four bodies while searching for the 10-member expedition.…",
-          "url": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios",
-          "excerpt": "Saudi Crown Prince Mohammed bin Salman told President Donald Trump in a call that he was concerned over the US’s plans for new strikes against Iran, Axios reported, citing people familiar with the conversation.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-02/saudi-prince-concerned-over-trump-s-iran-strike-plan-axios"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
-          "excerpt": "Donald Trump said on Saturday night that the US would hold off on any new strikes on Iran provided a deal to end the months-long conflict is quickly reached – marking the president’s latest climbdown from extravagant threats to hit the Tehran regime hard. The Saudi crown prince Mohammed bin Salman called Trump on Saturday to express concerns about his strike plans, it was reported.…",
-          "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump says deal to end Iran war may be imminent, agrees to \"cancel the attack\"",
-          "excerpt": "Trump signals deal to end Iran war may be imminent, agrees to \"cancel the attack\" President Trump said Saturday that the United States has agreed to \"cancel the attack\" on Iran after signaling a peace deal to end the war could be imminent. \"We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters [sic] of a deal has been agreed to,\" Mr.…",
-          "url": "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Scoop: Saudi crown prince raises concerns over Trump's plans for massive Iran strikes",
-          "excerpt": "Saudi Crown Prince Mohammed bin Salman spoke to President Trump on Saturday and expressed concern over his plans for massive new strikes against Iran , according to two U.S. officials and a third source with knowledge of the call. Why it matters: Trump is seriously considering attacking Iranian energy targets in the coming days in response to Iran's missile strike on a U.S.…",
-          "url": "https://www.axios.com/2026/08/01/saudi-crown-prince-trump-iran-attacks"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "ВС России ночью нанесли удары по украинским портам, используемым ВСУ",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "ВС России ночью нанесли удары по украинским портам, используемым ВСУ",
-          "excerpt": "Российская армия продолжила нанесение ударов по портам Украины. Удары также были нанесены по морским судам, задействованным в интересах ВСУ. МОСКВА, 2 авг - РИА Новости. Российская армия продолжила нанесение ударов по портам Украины и морским судам, задействованным в интересах ВСУ, сообщило Минобороны РФ.…",
-          "url": "https://ria.ru/20260802/udary-2108466083.html"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "ВС России нанесли удары по украинским портам и кораблям",
-          "excerpt": "Российские войска ночью нанесли удары по украинским портам и морским судам, задействованным в интересах Вооруженных сил Украины (ВСУ). Об этом в воскресенье, 2 августа, сообщило Министерство обороны РФ в мессенджере MAX.…",
-          "url": "https://lenta.ru/news/2026/08/02/vs-rossii-nanesli-udary-po-ukrainskim-portam/"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "ВС России продолжают удары по украинским портам и судам",
-          "excerpt": "ВС России продолжают удары по украинским портам и судам ВС РФ ночью ударили по портам Украины и морским судам, задействованным в интересах ВСУ, сообщили в Минобороны. В порту Одессы уничтожены резервуары с горючим, предназначенным для обеспечения украинском армии. В порту Николаева – морской буксир, переоборудованный для применения безэкипажных катеров.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/02/1218188-vs-rossii-udari"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Tillis says Blanche won't be confirmed as AG amid Trump fund fight",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Tillis says Blanche won't be confirmed as AG amid Trump fund fight",
-          "excerpt": "Sen. Thom Tillis said Saturday morning that new comments by President Trump about his \"anti-weaponization\" fund mean that attorney general nominee Todd Blanche won't be confirmed by the Senate next week.…",
-          "url": "https://www.axios.com/2026/08/01/blanche-tillis-trump-anti-weaponization-fund"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump will push for \"anti-weaponization fund\" if Blanche not confirmed, he says",
-          "excerpt": "Trump poses ultimatum on Blanche, will push for \"anti-weaponization fund\" if AG not confirmed President Trump delivered an ultimatum to Sens. Thom Tillis and John Cornyn on Saturday, telling them to stop stalling on confirming Todd Blanche as attorney general or he would push again to make his \"anti-weaponization fund\" a reality.…",
-          "url": "https://www.cbsnews.com/news/donald-trump-todd-blanche-attorney-general-confirmation-tillis-cornyn-anti-weaponization-fund/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
-          "excerpt": "President Donald Trump on Saturday threatened to “push hard” to keep a $1.8 billion “anti-weaponization” fund active, amid an ongoing feud between two Republican senators and the Trump administration over the president’s nomination of Todd Blanche for attorney general.…",
-          "url": "https://www.nbcnews.com/politics/congress/trump-revive-anti-weaponization-blanche-attorney-general-cornyn-tillis-rcna590370"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Fast access to Trump's ‘Truth Social’ posts goes on sale for $100,000 per month",
-      "coverage": 3,
-      "perspectives": [
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "Fast access to Trump's ‘Truth Social’ posts goes on sale for $100,000 per month",
-          "excerpt": "US President Donald Trump's posts on his Truth Social platform can move markets with a few keystrokes. Starting Saturday, for a fee of $100,000 a month, Wall Street traders can access his \"Truth API\" service to have high-speed access to the president's announcements about economic policy and global affairs.",
-          "url": "https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Truth Social launches service selling faster access to Trump posts",
-          "excerpt": "Wall Street firms can now be alerted of the “most market-moving” social media posts from President Donald Trump before the general public — as long as they pay the right price.…",
-          "url": "https://www.nbcnews.com/politics/donald-trump/truth-social-launches-service-selling-faster-access-trump-posts-rcna590419"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
-          "excerpt": "Trump Media and Technology Group's new paid data service launched on Aug. 1, providing faster access to Truth Social posts from President Donald Trump and other top accounts on the platform.…",
-          "url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "What triggered the mass migrant crossings into Ceuta?",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "What triggered the mass migrant crossings into Ceuta?",
-          "excerpt": "What triggered the mass migrant crossings into Ceuta? Over the last 24 hours, the tiny Spanish territory of Ceuta - home to around 83,000 people - has seen an unprecedented surge in migrant arrivals. An estimated 60,000 people from Morocco are believed to have crossed into the North African enclave that has long been a focal point for migrant attempting to reach Europe.…",
-          "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Spain Records Unprecedented Migrant Crossing",
-          "excerpt": "Spain Records Unprecedented Migrant Crossing Some 60,000 people from Morocco surged into the Spanish exclave of Ceuta. Welcome back to World Brief, where we’re looking at Spain’s migrant crisis, a possible breakthrough in Gaza, and backlash over FIFA’s decision to sell minority stakes.…",
-          "url": "https://foreignpolicy.com/2026/07/31/spain-morocco-ceuta-migrant-crisis-schengen-area/"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-          "excerpt": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants"
+          "headline": "Peru: Tourist plane crashes killing all 13 people aboard",
+          "excerpt": "Eleven foreign tourists and two crew members have been killed after a small sightseeing plane crashed shortly after take-off in Peru. The cause of the crash is not yet known, and an investigation is underway. Peter O' Brien has more.",
+          "url": "https://www.france24.com/en/peru-tourist-plane-crashes-killing-all-13-people-aboard"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Два человека погибли при налете БПЛА на Саратов",
+      "headline_en": "Человек пострадал при атаке БПЛА на склад Wildberries во Владимирской области",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Два человека погибли при налете БПЛА на Саратов",
-          "excerpt": "Два человека погибли при налете БПЛА на Саратов В Саратове из-за атаки БПЛА погибли два человека, сообщил губернатор Саратовской области Роман Бусаргин. Ранее губернатор писал, что из-за налета беспилотников в Саратове и Энгельсе повреждена гражданская инфраструктура. Других деталей о последствиях атаки глава региона не раскрыл.",
-          "url": "https://www.kommersant.ru/doc/8860760"
+          "headline": "Человек пострадал при атаке БПЛА на склад Wildberries во Владимирской области",
+          "excerpt": "Человек пострадал при атаке БПЛА на склад Wildberries во Владимирской области При атаке беспилотников на складской комплекс в Собинском округе Владимирской области пострадал мужчина. Об этом сообщил губернатор Александр Авдеев. «Повреждение в области головы. По предварительным данным, без серьезных последствий», — уточнил чиновник. По его словам, раненого сейчас везут в больницу.…",
+          "url": "https://www.kommersant.ru/doc/8861152"
         },
         {
-          "source": "Interfax",
+          "source": "Ведомости",
           "lang": "ru",
-          "headline": "Гражданская инфраструктура повреждена в Саратове и Энгельсе после атаки БПЛА",
-          "excerpt": "Гражданская инфраструктура повреждена в Саратове и Энгельсе после атаки БПЛА Москва. 2 августа. INTERFAX.RU - Губернатор Саратовской области Роман Бусаргин сообщил, что в результате атаки БПЛА была повреждена гражданская инфраструктура в Саратове и Энгельсе, есть пострадавшие. \"В результате атаки БПЛА есть повреждения гражданской инфраструктуры в Саратове и Энгельсе.…",
-          "url": "https://www.interfax.ru/russia/1106981"
+          "headline": "Один человек пострадал от атаки БПЛА на склад WB во Владимирской области",
+          "excerpt": "Один человек пострадал от атаки БПЛА на склад WB во Владимирской области В Собинском округе Владимирской области в результате атаки украинского беспилотника на складской комплекс Wildberries пострадал молодой мужчина. Об этом сообщил губернатор региона Александр Авдеев. По его словам, у пострадавшего зафиксировано повреждение головы, его везут в больницу.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/08/03/1218313-odin-chelovek-postradal"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-      "coverage": 3,
+      "headline_en": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
+      "coverage": 4,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-          "excerpt": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - Published Donald Trump says he has cancelled strikes against Iran provided a deal was struck \"rapidly\" with the country.…",
-          "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+          "headline": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
+          "excerpt": "An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said",
+          "url": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "No new Iran strikes for now amid deal hopes — Trump",
-          "excerpt": "No new Iran strikes for now amid deal hopes — Trump Published August 1, 2026last updated August 2, 2026 What you need to know - President Donald Trump says the US and Israel will refrain from threatened strikes on Iran to give diplomacy another chance - Trump nonetheless said that the US was 'locked and loaded and ready to go against the Islamic Republic of Iran' - Iran has warned against any 'adv…",
-          "url": "https://www.dw.com/en/no-new-iran-strikes-for-now-amid-deal-hopes-trump/live-78201442?maca=en-rss-en-all-1573-rdf"
+          "headline": "Indonesia: At least 5 dead in ferry fire",
+          "excerpt": "Indonesia: At least 5 dead in ferry fire August 2, 2026 At least five people have died and another 41 are missing after a ferry caught fire in Indonesia on Sunday morning, authorities have confirmed. The Mutiara Sentosa 2 ferrywas carrying a total of 271 passengers and crew members from Indonesia's second-largest city, Surabaya in East Java, across the Java Sea to Makassar in South Sulawesi.…",
+          "url": "https://www.dw.com/en/indonesia-at-least-5-dead-in-ferry-fire/a-78206895?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "CNBC",
+          "source": "Euronews",
           "lang": "en",
-          "headline": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
-          "excerpt": "A number of U.S. Embassies in the Middle East on Saturday warned American citizens in the region to exercise caution and be prepared for flight cancellations amid growing tensions between Iran and the United States. Embassies in Iraq, Jordan and the United Arab Emirates each warned U.S.…",
-          "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Spider-Man: Brand New Day leak racks up millions of views",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Spider-Man: Brand New Day leak racks up millions of views",
-          "excerpt": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems to be on top of issuing takedown requests.…",
-          "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records"
+          "headline": "At least five dead and 41 missing after an Indonesian ferry caught fire at sea",
+          "excerpt": "A total of 225 people on the ferry were rescued, while some passengers jumped into the sea to escape the fire, according to Basarnas, Indonesia's National Search and Rescue Agency. At least five people have died and 41 are still missing after an Indonesian ferry caught fire at sea, on Sunday.…",
+          "url": "http://www.euronews.com/2026/08/02/at-least-five-dead-and-41-missing-after-an-indonesian-ferry-caught-fire-at-sea"
         },
         {
-          "source": "Forbes",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "‘Spider-Man: Brand New Day’ Slings Record Brand Deals. The Brands On Screen Tell The Real Story.",
-          "excerpt": "Watch any film or television show closely and you’ll notice that brands vanish. Labels face away from the camera. Post-production blurs logos. Products appear in generic packaging. That’s not a prop department accident. For decades, studios kept brands off screen and brands preferred it that way. Spider-Man: Brand New Day shows how that dynamic has flipped.…",
-          "url": "https://www.forbes.com/sites/legalentertainment/2026/08/01/spider-man-brand-new-day-slings-record-brand-deals-the-brands-on-screen-tell-the-real-story/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
-          "excerpt": "Spider-Man is already webbing up a massive box-office haul. Sony and Marvel's \"Spider-Man: Brand New Day\" secured $72 million in preview ticket sales, the highest collection for any domestic film in Hollywood history. The previous record holder was 2019's \"Avengers: Endgame,\" which tallied $60 million ahead of its opening weekend.…",
-          "url": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html"
+          "headline": "At least five dead and dozens missing after Indonesian ferry catches fire",
+          "excerpt": "At least five people have died and 41 are missing after a ferry caught fire off the coast of an Indonesian island, officials have said.",
+          "url": "https://news.sky.com/story/at-least-five-dead-and-41-missing-after-indonesian-ferry-catches-fire-13569145"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "At least three dead in Idaho shopping mall mass shooting",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "At least three dead in Idaho shopping mall mass shooting",
-          "excerpt": "At least three dead in Idaho shopping mall mass shooting Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Twin Falls, Idaho on Saturday afternoon. Footage captured the suspected gunman firing several shots into a vehicle before he was killed. Published On 2 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
-          "excerpt": "US: Multiple dead in shooting at In-N-Out Burger in Idaho August 2, 2026 Multiple people were killed and others were injured after a gunman opened fire at an In-N-Out Burger restaurant in a city in the northwestern US state of Idaho. The shooting unfolded near a busy shopping area in Twin Falls where hundreds of people were present, police chief Matthew Hicks said in a news conference.…",
-          "url": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Police confirm fatalities, injuries after shooting at Idaho In-N-Out",
-          "excerpt": "Police confirm fatalities, injuries after shooting at Idaho In-N-Out Burger Police said the suspected shooter is also dead. Police in Idaho confirmed there are fatalities and injuries after the report of an active shooter near an In-N-Out Burger location in Twin Falls on Saturday.…",
-          "url": "https://abcnews.com/US/police-respond-active-shooter-idaho-burger/story?id=135296367"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Правительство запретило майнинг криптовалют в Москве и Московской области до 2033 года",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Правительство запретило майнинг криптовалют в Москве и Московской области до 2033 года",
-          "excerpt": "Правительство запретило майнинг криптовалют в Москве и Московской области до 2033 года Источник: Правительство России В Москве, Подмосковье и в восьми приграничных районах Курской области запретили майнинг криптовалют. Запрет будет действовать с 15 августа 2026 до 31 декабря 2032 года. Такое постановление подписал премьер-министр России Михаил Мишустин.…",
-          "url": "https://meduza.io/news/2026/07/31/pravitelstvo-zapretilo-mayning-kriptovalyut-v-moskve-i-moskovskoy-oblasti-do-2033-goda"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Правительство запретило майнинг криптовалют в Москве, Подмосковье и на отдельных территориях Курской области до конца 2032 года",
-          "excerpt": "Майнинг в России легализован с 2024 года.Согласно опубликованному постановлению правительства России, запрет на майнинг цифровых валют в этих регионах будет действовать с 15 августа 2026 года по 31 декабря 2032 года.Среди отдельных территорий Курской области — муниципальные округа Беловский, Большесолдатский, Глушковский, Кореневский, Льговский, Рыльский, Суджанский и Хомутовский, а также город Ль…",
-          "url": "https://vc.ru/crypto/3056142-zapret-na-maining-kriptovalyut-v-moskve-i-kurskoy-oblasti?from=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "headline_en": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
       "coverage": 3,
       "perspectives": [
         {
           "source": "NPR News",
           "lang": "en",
-          "headline": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-          "excerpt": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco"
+          "headline": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+          "excerpt": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
+          "url": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund"
         },
         {
-          "source": "Al Jazeera",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Is criticism of Spain on border management legitimate or politics?",
-          "excerpt": "Is criticism of Spain on border management legitimate or politics? Tens of thousands of migrants briefly cross into Spain’s north African territory of Ceuta from Morocco. Images of migrants from Morocco streaming into the Spanish territory of Ceuta in North Africa have again thrust the immigration debate into the spotlight in Europe and elsewhere.…",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss"
+          "headline": "Trump says 'Anti-Weaponization Fund' is 'dead,' but says he still wants payouts",
+          "excerpt": "Trump says 'Anti-Weaponization Fund' is 'dead,' but says he still wants payouts \"I'd like to see them compensated for the pain,\" the president said. President Donald Trump acknowledged for the first time Friday that the $1.8 billion so-called \"Anti-Weaponization Fund\" is \"dead,\" but made clear that he wishes it still existed.…",
+          "url": "https://abcnews.com/Politics/trump-anti-weaponization-fund-dead-payouts/story?id=135270168"
         },
         {
-          "source": "France 24",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "Spain installs floating barrier in Ceuta after migration influx",
-          "excerpt": "Spain installs floating barrier in Ceuta after migration influx The Spanish authorities said on Saturday that they were installing a floating barrier on the sea border between its North African territory of Ceuta and neighboring Morocco, after a surge of tens of thousands of migrants into the territory earlier in the week prompted alarm across the European Union.…",
-          "url": "https://www.france24.com/en/europe/20260801-spain-installs-floating-barrier-in-ceuta-after-migration-influx"
+          "headline": "Todd Blanche reaches deal with holdout senators to scrap ‘anti-weaponization’ fund",
+          "excerpt": "After a weekslong standoff between senators and the Trump administration, acting Attorney General Todd Blanche announced Sunday night that the parties had reached a deal and that had he issued an order “officially” rescinding a $1.8 billion anti-weaponization fund.…",
+          "url": "https://www.nbcnews.com/politics/congress/acting-ag-todd-blanche-reaches-deal-holdout-senators-end-18b-anti-weap-rcna590525"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Turn Your Rising Home Equity Into Cash You Can Use",
+      "headline_en": "Sen. Bernie Moreno says former son-in-law Max Miller shouldn’t serve in Congress following abuse allegations",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Sen. Bernie Moreno says former son-in-law Max Miller shouldn’t serve in Congress following abuse allegations",
+          "excerpt": "Sen. Bernie Moreno, R-Ohio, said Sunday on X that his former son-in-law Rep. Max Miller “needs to seek professional help” and should not serve in Congress following domestic abuse allegations made by Miller’s ex-wife, Emily Moreno, the senator’s daughter.…",
+          "url": "https://www.nbcnews.com/politics/congress/bernie-moreno-former-son-law-max-miller-shouldnt-serve-congress-abuse-rcna590459"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Rep. Max Miller not dropping out after domestic abuse allegations",
+          "excerpt": "Ohio GOP Rep. Max Miller said Sunday he will stay in his reelection race, using a livestream on X to deny allegations he abused his ex-wife and their young daughter. Shortly after his announcement, his ex-father-in-law, Sen. Bernie Moreno (R-Ohio), denounced him as a \"danger\" to his daughter and unfit for office.…",
+          "url": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+          "excerpt": "Republican Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, should not serve in the House of Representatives and \"needs serious psychological help\" after the senator's daughter accused the congressman of domestic abuse. \"If there are any basic standards of character required to hold elected office, Max Miller fails them.…",
+          "url": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Офисное здание загорелось на Лиговском проспекте в Санкт-Петербурге",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Офисное здание загорелось на Лиговском проспекте в Санкт-Петербурге",
+          "excerpt": "Офисное здание загорелось на Лиговском проспекте в Санкт-Петербурге Здание загорелось на Лиговском проспекте, 50, в Санкт-Петербурге, сообщило МЧС по городу в «Максе». Сообщение о пожаре поступило около 3:00 мск. Горела кровля на площади 300 кв. м. Позже площадь пожара увеличилась до 500 кв. м. Горение ликвидировали около 5:30 мск. О пострадавших не сообщается.…",
+          "url": "https://www.kommersant.ru/doc/8861090"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Пожар на Лиговском проспекте в Петербурге потушили",
+          "excerpt": "Пожар на Лиговском проспекте в Петербурге потушили Москва. 3 августа. INTERFAX.RU - Пожарные ликвидировали возгорание на Лиговском проспекте в Санкт-Петербурге на площади 500 кв. м, сообщает утром в понедельник региональное управление МЧС.…",
+          "url": "https://www.interfax.ru/russia/1107104"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Mass evacuations underway as wildfires bear down on Spokane, Washington",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Mass evacuations underway as wildfires bear down on Spokane, Washington",
+          "excerpt": "Mass evacuations underway as wildfires bear down on Spokane, Washington Explosive wildfires in Spokane, Washington, have destroyed more than 600 structures, many of them within the city limits. The fast-moving flames led to mass evacuations and chaos, as families fled their homes. Adam Yamaguchi reports and Andrew Kozak looks at the forecast and the record heat threatening 50 million Americans.",
+          "url": "https://www.cbsnews.com/video/mass-evacuations-underway-as-wildfires-bear-down-on-spokane-washington/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Fast moving wildfires raze neighborhoods in US northwest city of Spokane",
+          "excerpt": "Fast moving wildfires raze neighborhoods in US northwest city of Spokane Wildfires in eastern Washington state forced about 60,000 people to evacuate the Spokane area and destroyed at least 600 homes, businesses and other structures, authorities said on Sunday. Three separate fires erupted in and around the city as strong winds and exceptionally dry conditions fueled rapid fire spread.…",
+          "url": "https://www.france24.com/en/americas/20260803-wildfires-us-northwest-city-spokane"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Wildfires force mass evacuations across the Pacific Northwest",
+          "excerpt": "Wildfires force mass evacuations across the Pacific Northwest Fast-moving wildfires have scorched more than 250,000 acres across Washington state, forcing widespread evacuations around Spokane. Communities in neighbouring British Columbia, Canada are also under threat as the UN warns of worsening global heat. Published On 2 Aug 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Brazil's Lula says he is 'in great shape' as he launches fourth term bid",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Brazil's Lula says he is 'in great shape' as he launches fourth term bid",
+          "excerpt": "Brazil's Workers' Party on Sunday formally endorsed President Luiz Inacio Lula da Silva, setting up his candidacy for the October elections as the 80-year-old faces increasing pressure from foreign leaders.",
+          "url": "https://www.france24.com/en/americas/20260802-brazil-s-lula-80-says-in-great-shape-as-he-launches-reelection-bid"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Lula da Silva formally launches bid for Brazil's presidency",
+          "excerpt": "Brazil's Workers' Party meets to confirm Lula da Silva's October bid. At 80, the leftist veteran faces right-wing liberal Flávio Bolsonaro in another polarised Lula vs Bolsonaro race.…",
+          "url": "http://www.euronews.com/2026/08/03/lula-da-silva-formally-launches-bid-for-brazils-presidency"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
+          "excerpt": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty Lula has sought to use the Bolsonaro family’s relationship with Trump to cast the election as a choice between national independence and submission to foreign interests. Brazilian President Luiz Inacio Lula da Silva has formally launched his campaign for a fourth term.…",
+          "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+          "excerpt": "Deal would create world’s fourth-largest drugmaker by market value",
+          "url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "AstraZeneca Is Said to Have Explored Bristol Myers Merger",
+          "excerpt": "AstraZeneca has explored an acquisition of Bristol Myers Squibb, according to people familiar with the matter. It’s unclear if discussions are ongoing or whether they will result in a transaction, the people cautioned. A representative for AstraZeneca declined to comment and Bristol Myers Squibb couldn’t immediately be reached for comment on the talks. Bloomberg's Manuel Baigorri reports.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-03/astrazeneca-said-to-have-explored-bristol-myers-merger-video"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+          "excerpt": "U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. competitor Bristol Myers Squibb, in a deal that would value the joint company at roughly $400 billion, the Financial Times reported on Sunday. It's still unclear whether the deal will come together, but the companies have been discussing a merger over the last few months, sources told the FT.…",
+          "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Склад Wildberries загорелся после атаки БПЛА во Владимирской области",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Склад Wildberries загорелся после атаки БПЛА во Владимирской области",
+          "excerpt": "Склад Wildberries загорелся после атаки БПЛА во Владимирской области Губернатор Владимирской области Александр Авдеев сообщил о пожаре на складе в Собинском округе. Сотрудники логистического объекта эвакуированы, подчеркнул глава региона. Данные о пострадавших не поступали. «БПЛА атакован складской комплекс. Есть разрушения, пожар», — сообщил чиновник. Он не уточнил, кому принадлежит склад.…",
+          "url": "https://www.kommersant.ru/doc/8861129"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "В результате атаки на склад Wildberries во Владимирской области пострадали двое",
+          "excerpt": "В результате атаки на склад Wildberries во Владимирской области пострадали двое Москва. 3 августа. INTERFAX.RU - В результате атаки БПЛА на склад Wildberries-Russ в Собинском округе Владимирской области пострадали два человека, сообщил губернатор Александр Авдеев. Молодой мужчина получил травму головы, а женщина из соседнего населенного пункта получила легкую травму ноги.…",
+          "url": "https://www.interfax.ru/russia/1107124"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Cuba suffers yet another nationwide blackout",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Cuba suffers yet another nationwide blackout",
+          "excerpt": "Cuba suffers yet another nationwide blackout August 3, 2026 Cuba's state-owned grid operator said the island's power system collapsed late on Sunday, the latest in a series of rolling power cuts caused by aging infrastructure and a US energy embargo. The outage comes on the heels of three nationwide power outages last month.…",
+          "url": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Cuba plunges into darkness as state energy firm reports new nationwide blackout",
+          "excerpt": "Cuba plunges into darkness as state energy firm reports new nationwide blackout Cuba's electricity grid collapsed late on Sunday, the state-owned grid operator said, plunging the island into darkness. The country has faced a series of total collapses of its electricity grid since the US imposed an energy embargo that halted regular deliveries of fuel for power stations.…",
+          "url": "https://www.france24.com/en/americas/20260803-cuba-plunges-into-darkness-as-state-energy-firm-reports-new-nationwide-blackout"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Grid failure plunges Cuba into nationwide blackout",
+          "excerpt": "Grid failure plunges Cuba into nationwide blackout Cuba’s electricity system has deteriorated amid shortages of fuel and replacement parts. Cuba’s national electricity grid has collapsed, plunging the island into a widespread blackout.…",
+          "url": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+          "excerpt": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut down in 2021.",
+          "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering"
+        },
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+          "excerpt": "By Kenrick Cai SAN FRANCISCO, Aug 1 (Reuters) - Capital One Financial hit back on Friday against a lawsuit over its decision to close the Trump Organization's bank accounts years ago, stating that it did so after a review by anti-money laundering experts. The disclosure marks the first time a bank has formally tied money laundering concerns to U.S. President Donald Trump's family business.…",
+          "url": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Capital One bank cites money-laundering probe to justify closing Trump Organization accounts",
+          "excerpt": "Capital One Financial on Friday defended its decision to close more than 300 Trump-affiliated bank accounts back in 2021, stating that it did so after a money-laundering review. The ‌disclosure marks the first time a bank has formally tied money-laundering concerns to US President Donald Trump's family business.",
+          "url": "https://www.france24.com/en/americas/20260802-capital-one-cites-anti-money-laundering-probe-justify-closure-trump-organization-bank-accounts"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+          "excerpt": "DOJ moves to dismiss Reflecting Pool vandalism charges against David Hearn, says damage due to \"botched installation\" Federal prosecutors on Friday asked a judge to dismiss an indictment charging former U.S.…",
+          "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
+          "excerpt": "President Donald Trump on Saturday blasted his own Justice Department's decision to blame a poor contractor installation, and not vandalism, for causing the lining to peel on the newly renovated Lincoln Memorial Reflecting Pool in Washington, D.C. U.S. Attorney for the District of Columbia Jeanine Pirro on Friday moved to dismiss an indictment charging U.S.…",
+          "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Под дном Байкала произошло землетрясение магнитудой 3,4",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Под дном Байкала произошло землетрясение магнитудой 3,4",
+          "excerpt": "Под дном Байкала произошло землетрясение магнитудой 3,4 В южной части озера Байкал сегодня утром зафиксировали землетрясение. Его магнитуда составила 3,4, сообщает «Интерфакс» со ссылкой на Байкальский филиал Единой геофизической службы РАН. По данным МЧС, интенсивность подземных толчков в эпицентре достигала 4,7 балла, ощутимость в Иркутске — 2 балла.…",
+          "url": "https://www.kommersant.ru/doc/8861144"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Подземный толчок магнитудой 3,4 зарегистрирован в акватории Байкала",
+          "excerpt": "Подземный толчок магнитудой 3,4 зарегистрирован в акватории Байкала Москва. 3 августа. INTERFAX.RU - Подземный толчок произошел в южной части озера Байкал утром в понедельник, сообщается на сайте Байкальского филиала Единой геофизической службы РАН.…",
+          "url": "https://www.interfax.ru/russia/1107110"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+          "excerpt": "Ariana Grande to take a break from public life amid 'endless' scrutiny - Published Ariana Grande is to withdraw from public appearances and will no longer star in an upcoming musical production in London when she ends her Eternal Sunshine tour next month.…",
+          "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Ariana Grande to step back from public life following scrutiny",
+          "excerpt": "Ariana Grande plans to step away from the public eye following scrutiny, a representative told People, as discussion swirls around her health. The representative told People that Grande will take “a step back from visibility after she completes the Eternal Sunshine Tour,” which will wrap next month.…",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/ariana-grande-step-back-public-life-scrutiny-health-rcna590514"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
+          "excerpt": "Japan's finance ministry said Monday it had conducted a coordinated yen-buying operation with the U.S. Treasury on Friday, marking a rare joint move by the two allies to stem sharp swings in the Japanese currency.…",
+          "url": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Japan and US confirm rare joint intervention to prop up yen",
+          "excerpt": "Japan and US confirm rare joint intervention to prop up yen US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship. Japan and the United States have confirmed a rare, coordinated yen-buying intervention to halt the Japanese currency’s slide to 40-year lows, with Tokyo signalling it is willing to take further action if needed.…",
+          "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "How That Fiery Episode 7 Twist in House of the Dragon Season 3 Sets Up the Show's Endgame",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "How That Fiery Episode 7 Twist in House of the Dragon Season 3 Sets Up the Show's Endgame",
+          "excerpt": "Warning: This post contains spoilers for Episode 7 of House of the Dragon Season 3. To say that Aegon II (Tom Glynn-Carney) has been down bad this season of House of Dragon would be putting it lightly.…",
+          "url": "https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "‘House Of The Dragon’ Season 3, Episode 7: Release Time And How To Watch Tonight On HBO And HBO Max",
+          "excerpt": "House of the Dragon returns to HBO and HBO Max tonight for the third season’s penultimate episode. The Game Of Thrones prequel has had a much, much better run this season than last and, as someone who has already seen tonight’s episode, all I can say is: Hold onto your butts.…",
+          "url": "https://www.forbes.com/sites/erikkain/2026/08/02/house-of-the-dragon-season-3-episode-7-release-time-hbo-max/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Обвиняемый в избиении ученого РАН Никиты Зезина обжаловал арест",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Обвиняемый в избиении ученого РАН Никиты Зезина обжаловал арест",
+          "excerpt": "Обвиняемый в избиении ученого РАН Никиты Зезина обжаловал арест Александр Реверук обжаловал арест по делу об избиении директора Уральского федерального аграрного центра Уральского отделения РАН Никиты Зезина. Об этом сообщил «Интерфаксу» адвокат фигуранта Олег Костиков. Инцидент произошел 13 июля в Екатеринбурге. По данным СКР, на Никиту Зезина напали двое — Александр Реверук и Аркадий Вагнер.…",
+          "url": "https://www.kommersant.ru/doc/8861145"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Один из фигурантов дела об избиении директора аграрного центра РАН обжаловал арест",
+          "excerpt": "Один из фигурантов дела об избиении директора аграрного центра РАН обжаловал арест Москва. 3 августа. INTERFAX.RU - Александр Реверук, обвиняемый в избиении директора Уральского федерального аграрного центра Уральского отделения Российской академии наук Никиты Зезина, обжаловал решение суда о назначении ему ареста в СИЗО, сообщил \"Интерфаксу\" адвокат Реверука Олег Костиков.…",
+          "url": "https://www.interfax.ru/russia/1107116"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Morocco blames Ceuta migrant rush on 'misleading information' on social media",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Morocco blames Ceuta migrant rush on 'misleading information' on social media",
+          "excerpt": "Morocco blames Ceuta migrant rush on 'misleading information' on social media Morocco on Sunday said 11 people died trying to reach Spain's North African exclave of Ceuta this week as the country's interior ministry blamed the sudden surge on the \"spread of misleading information\" on social media.…",
+          "url": "https://www.france24.com/en/europe/20260803-morocco-blames-ceuta-migrant-rush-on-misleading-information-on-social-media"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ceuta: Most who breached border have left, Spain says",
+          "excerpt": "Ceuta: Most who breached border have left, Spain says Published July 31, 2026last updated August 3, 2026 What you need to know - Ceuta returning to normal but work remains, local official says - Madrid says 72 people died in the border rush - Right-wing leaders call for migrant expulsions, security reinforcement - Italy's one-month suspension of the free-movement Schengen deal takes effect - Spain…",
+          "url": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Sudan army drone strike kills 35 at Darfur court, rights group says",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Sudan army drone strike kills 35 at Darfur court, rights group says",
+          "excerpt": "Sudan army drone strike kills 35 at Darfur court, rights group says The Sudanese army struck a traditional court in a Rapid Support Forces-held village in North Darfur with drones on Sunday, killing 35 people, a rights group said. Emergency Lawyers said the attack hit Garra al Zawaya as civilians gathered for local court hearings, wounding several others during the afternoon strike.…",
+          "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Sudan army drone attack on Darfur kills 35, rights group says",
+          "excerpt": "Sudan army drone attack on Darfur kills 35, rights group says Tens of thousands have been killed since April 2023 in the war between RSF commander Mohamed Hamdan Dagalo and his former ally, army chief Abdel Fattah al-Burhan. At least 35 people were killed, and several others wounded, when Sudanese army drones struck a traditional court in western Darfur, a rights group has said.…",
+          "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "At the scene of deadly Moscow bomb blast",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "At the scene of deadly Moscow bomb blast",
+          "excerpt": "At the scene of deadly Moscow bomb blast At least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian state media reports, quoting security officials. The blast happened at about 20:00 local time (17:00 GMT) on Kudrinskaya square near the city centre.…",
+          "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Moscow bomb kills at least three as device carried by woman explodes",
+          "excerpt": "A homemade bomb carried by a woman killed three people and injured at least 21 in an explosion near a restaurant in central Moscow on Saturday evening, prompting speculation on social media that the attack may have been linked to the war in Ukraine.…",
+          "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Минобороны России сообщило об ударе по трем судам с грузами ВСУ в Черном море",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Минобороны России сообщило об ударе по трем судам с грузами ВСУ в Черном море",
+          "excerpt": "Минобороны России сообщило об ударе по трем судам с грузами ВСУ в Черном море Вооруженные силы России ночью нанесли удары по транспортной инфраструктуре Украины. В акватории Черного моря беспилотниками поражены три сухогруза, перевозившие «грузы военного назначения», сообщили в российском ведомстве. По его данным, в порту Николаев также поражен сухогруз, осуществлявший доставку грузов для ВСУ.…",
+          "url": "https://www.kommersant.ru/doc/8861127"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Минобороны РФ заявило о поражении ночью четырех судов с грузами для ВСУ",
+          "excerpt": "Минобороны РФ заявило о поражении ночью четырех судов с грузами для ВСУ Москва. 3 августа. INTERFAX.RU - Российские военные ночью нанесли удары по четырем судам с грузами для украинской армии в Черном море и порту Николаев, сообщило Минобороны РФ в понедельник.…",
+          "url": "https://www.interfax.ru/russia/1107117"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Hungary to shut sole nuclear plant for first time on Sunday",
+          "excerpt": "Hungary to shut sole nuclear plant for first time on Sunday August 2, 2026 Hungary will shut down the Paks nuclear power plant on Sunday for the first time in its 44-year history, Prime Minister Peter Magyar said. \"We are facing the most critical five days ahead,\" Magyar said.…",
+          "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Hungary: Successive heatwaves drain Danube river used to cool nuclear plant",
+          "excerpt": "Prolonged drought and extreme heat across Europe have also triggered an energy crisis. For the first time ever, Hungary announced the shutdown of the country’s only nuclear power plant, after water levels in the Danube fell to a record low. Peter O’Brien explains.",
+          "url": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+          "excerpt": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche - Published The body of renowned British-Nepali mountaineer Nirmal Purja has been recovered on Broad Peak in Pakistan, rescuers have said. The Alpine Club of Pakistan said on Sunday that he was found about 5,700m up the mountain, where three further bodies have been sighted although their identities have not been confirmed.…",
+          "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
+          "excerpt": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.…",
+          "url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Greece: Fire brigade helicopters collide as wildfires spread",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Greece: Fire brigade helicopters collide as wildfires spread",
+          "excerpt": "Greece: Fire brigade helicopters collide as wildfires spread August 2, 2026 Two fire brigade helicopters collided mid-air in Greece on Sunday, as firefighters continued to battle fierce wildfires around the Gulf of Corinth.…",
+          "url": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Fire spread deeper into Athens region",
+          "excerpt": "Two firefighting helicopters have collided while battling a wildfire west of Athens in Greece. The Greek fire service says each helicopter was carrying a two-person crew, and a search-and-rescue operation is now underway. Greece is battling wildfires on multiple fronts, with the Prime Minister warning of “extremely difficult” days ahead.…",
+          "url": "https://www.france24.com/en/fire-spread-deeper-into-athens-region"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Уровень воды в реке Тура в Тюмени начал снижаться",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Уровень воды в реке Тура в Тюмени начал снижаться",
+          "excerpt": "Краткий пересказ от РИА ИИ - Уровень воды в реке Тура в Тюмени снизился на сантиметр и достиг 895 сантиметров. - Паводок также наблюдается на реке Тавда в селе Нижняя Тавда, где уровень воды составляет 945 сантиметров. - Уровень воды в реке Пышма у села Богандинское за сутки поднялся на 11 сантиметров и достиг 610 сантиметров. ТЮМЕНЬ, 3 авг – РИА Новости.…",
+          "url": "https://ria.ru/20260803/tyumen-2108598390.html"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Вода в реке Тура пошла на спад в Тюмени",
+          "excerpt": "Вода в реке Тура пошла на спад в Тюмени Москва. 3 августа. INTERFAX.RU - Уровень воды на реке Тура в Тюмени, где наблюдается летний паводок, стал снижаться, сообщает официальный геопортал Тюменской области. По состоянию на понедельник уровень воды опустился на 1 сантиметр - до 895 см. Критическая отметка опасного явления для Тюмени - 850 см.…",
+          "url": "https://www.interfax.ru/russia/1107113"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "'What was my fault?': How India's exam paper leak ended young lives",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "'What was my fault?': How India's exam paper leak ended young lives",
+          "excerpt": "'What was my fault?': How India's exam paper leak ended young lives - Published Three days before he was due to sit India's rescheduled medical entrance examination, 17-year-old Kahaan Patel jumped from the sixth floor of his family's apartment building in the western city of Ahmedabad.…",
+          "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+          "excerpt": "India's youth unemployment crisis has become one of the biggest vulnerabilities for Prime Minister Narendra Modi's government, exposing the gap between the country's economic ambitions and the reality facing millions of young graduates.…",
+          "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "It's official: now avoid credit card interest into 2024",
       "coverage": 2,
       "perspectives": [
         {
           "source": "CNN World",
           "lang": "en",
-          "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
-          "excerpt": "Are you still interested in seeing your free loan offers? You're almost there! You're just minutes away from seeing great offers, absolutely FREE! Click to Continue Terms & conditions apply. NMLS#1136 Donât leave yet! You only have a few more quick questions. Continue to See Quotes You're just a few steps away from creating your account, your information is safe with us.…",
-          "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616"
+          "headline": "It's official: now avoid credit card interest into 2024",
+          "excerpt": "If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. If you're carrying credit card debt — or expecting upcoming expenses — interest can make it harder to get ahead. The Citi Simplicity® Card gives you a clear window to reset.…",
+          "url": "https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn"
         },
         {
           "source": "Yahoo Finance",
           "lang": "en",
-          "headline": "How much are home equity loan closing costs?",
-          "excerpt": "Key takeaways - Home equity loan and HELOC closing costs and fees vary, depending on the lender, and can range from 1% to 5% of the total loan amount. - HELOCs have fewer closing costs than HELoans, but often carry ongoing fees for account maintenance, inactivity or rate lock-ins.…",
-          "url": "https://finance.yahoo.com/markets/options/articles/much-home-equity-loan-closing-190034675.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-          "excerpt": "EU calls emergency meeting to discuss Ceuta migrant crossings - Published The European Union will hold emergency talks on Tuesday to discuss the migration crisis in Ceuta after tense exchanges between Spain and other member states.…",
-          "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ceuta enclave \"almost\" back to normal after migrant influx",
-          "excerpt": "Ceuta enclave \"almost\" back to normal after migrant influx Spain Issued on: 01/08/2026 - 16:40Modified: 01/08/2026 - 16:42 Share Almost all of the migrants who entered Spain’s enclave of Ceuta had left by Saturday, according to officials. An estimated 60,000 migrants entered Ceuta from neighbouring Morocco over just a few days, with at least 67 people losing their lives in the attempt.…",
-          "url": "https://www.france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "WP сообщил о запрете Нетаньяху передавать «Железный купол» Украине",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "WP сообщил о запрете Нетаньяху передавать «Железный купол» Украине",
-          "excerpt": "WP сообщил о запрете Нетаньяху передавать «Железный купол» Украине Израильский премьер-министр Биньямин Нетаньяху наложил вето на передачу Украине зенитных ракетных комплексов «Железный купол». Об этом сообщила газета The Washington Post.…",
-          "url": "https://www.kommersant.ru/doc/8860729"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "WP: Нетаньяху наложил вето на поставку систем «Железный купол» Украине",
-          "excerpt": "WP: Нетаньяху наложил вето на поставку систем «Железный купол» Украине Премьер-министр Израиля Биньямин Нетаньяху в 2023 г. наложил вето на передачу Украине систем ПВО «Железный купол» из США. Об этом пишет The Washington Post. Передачу систем ПВО поддерживал сенатор-республиканец Линдси Грэм, отмечает издание.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/01/1218147-netanyahu-zheleznii-kupol"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Gunman opens fire at Idaho fast-food restaurant, killing two",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Gunman opens fire at Idaho fast-food restaurant, killing two",
-          "excerpt": "Gunman opens fire at Idaho fast-food restaurant, killing two Fatalities reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho. Twin Falls, Idaho – Three people have been killed and seven others wounded after a gunman opened fire at an In-N-Out Burger restaurant in the US state of Idaho.…",
-          "url": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "3 dead, 2 injured in shooting incident in Twin Falls, Idaho",
-          "excerpt": "Good News: Teen returns to field cancer-free after first pitch 03:08 Spain ramps up security amid migrant crisis 01:42 Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked 01:56 Now Playing 3 dead, 2 injured in shooting incident in Twin Falls, Idaho 01:20 UP NEXT Inside the Army’s push to revamp dining halls and fuel soldiers 02:16 Questions grow about Gaza’s…",
-          "url": "https://www.nbcnews.com/nightly-news/video/3-dead-2-injured-in-shooting-incident-in-twin-falls-idaho-267632709644"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Infantino on the brink? Who might replace him if he goes?",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Infantino on the brink? Who might replace him if he goes?",
-          "excerpt": "Infantino on the brink? Who might replace him if he goes? - Published Life moves fast for Fifa president Gianni Infantino. It was doing so last month as he was zig-zagging across the United States in a private jet to make him virtually omnipresent as the World Cup reached its crescendo.…",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Infantino scraps controversial FIFA sell-off plan saying it 'created divisions'",
-          "excerpt": "Gianni Infantino announced to Sky News that FIFA was scrapping plans to sell shares in the World Cup to private investors, in a climbdown following a global backlash that has imperilled his presidency.",
-          "url": "https://news.sky.com/story/created-division-gianni-infantino-abandons-fifa-sell-off-plan-following-global-backlash-13568939"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
-          "excerpt": "Ukraine: Zelenskyy says Patriot missile shortage costs lives August 1, 2026 At least nine people died and 23 were injured after Russia struck Ukraine's capital city Kyiv with ballistic missiles overnight, Ukraine's State Emergency Service said on Saturday morning. The missiles struck several homes and a five-storey residential building, while cars were also set alight.…",
-          "url": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Kyiv: 9 dead and 22 hurt in missile attack",
-          "excerpt": "At leased nine people were killed and 22 others wounded in Ukraine's capital Kyiv after Russia launched a series of ballistic missiles overnight into Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukraine.",
-          "url": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "В Энгельсе многоквартирный дом получил повреждения при атаке БПЛА",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В Энгельсе многоквартирный дом получил повреждения при атаке БПЛА",
-          "excerpt": "В Энгельсе при атаке БПЛА поврежден многоквартирный жилой дом. Два человека погибли, есть пострадавшие. Жителям предоставят места в пункте временного размещения на время обследования здания. САРАТОВ, 2 авг - РИА Новости.…",
-          "url": "https://ria.ru/20260802/bpla-2108465128.html"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "БПЛА повредили многоквартирный дом в саратовском Энгельсе, погибли двое",
-          "excerpt": "БПЛА повредили многоквартирный дом в саратовском Энгельсе, погибли двое Москва. 2 августа. INTERFAX.RU - Многоквартирный жилой дом получил повреждение в результате атаки БПЛА в Энгельсе Саратовской области, сообщил губернатор Роман Бусаргин в канале Мах в воскресенье. \"Повреждение получил многоквартирный дом. Погибли два человека. Семье будет оказана вся необходимая помощь\", - написал Бусаргин.…",
-          "url": "https://www.interfax.ru/russia/1106990"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Hungary plans to shut down only nuclear power plant amid drought",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Hungary plans to shut down only nuclear power plant amid drought",
-          "excerpt": "Hungary plans to shut down only nuclear power plant amid drought The plant that supplies nearly half of Hungary’s electricity cannot operate with Danube at record lows. BUDAPEST, Hungary – Hungary has announced it will shut down its only nuclear power plant after record-low levels on the Danube River reduced the water available for cooling its reactors.…",
-          "url": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Hungary to shut sole nuclear plant for first time on Sunday",
-          "excerpt": "Hungary to shut sole nuclear plant for first time on Sunday August 2, 2026 Hungary will shut down the Paks nuclear power plant on Sunday for the first time in its 44-year history, Prime Minister Peter Magyar said. He made the announcement on social media late Saturday night, saying the decision was taken after a further drop in the Danube's water level.…",
-          "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-          "excerpt": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco About 60,000 migrants entered Spain's North African enclave of Ceuta from Morocco on 30 July, with many swimming and using inflatables. Others ran through a gate in the border fence.…",
-          "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ceuta: Most migrants have returned to Morocco, 57 died crossing the border",
-          "excerpt": "Spanish officials said more than 48,000 migrants had returned, after around 50,000 people crossed the border between Morocco and the Spanish enclave of Ceuta by sea. Meanwhile, France and Italy bolstered border controls on Saturday, with Italian Prime Minister Giorgia Meloni announcing the suspension of Schengen free movement between Spain and Italy.…",
-          "url": "https://www.france24.com/en/video/20260801-ceuta-most-migrants-have-returned-to-morocco-57-died-crossing-the-border-1"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Hundreds of thousands attend Pride events in UK and mainland Europe after deadly Berlin attack",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Hundreds of thousands attend Pride events in UK and mainland Europe after deadly Berlin attack",
-          "excerpt": "Hundreds of thousands of people have taken part in Pride events in the UK and mainland Europe, a week after a deadly extremist attack on a Pride festival in Berlin.",
-          "url": "https://news.sky.com/story/hundreds-of-thousands-attend-pride-events-in-uk-and-mainland-europe-after-deadly-berlin-attack-13569094"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Germany news: Big turnout for Pride after Berlin attack",
-          "excerpt": "Germany news: Big turnout for Pride after Berlin attack Published August 1, 2026last updated August 2, 2026 What you need to know - Pride events are taking place in several German cities a week after a deadly attack on a Pride march in Berlin - Authorities warn of holiday traffic disruption in Germany amid the two-hour closure of a key pass road in Austria - A forest fire is burning out of control…",
-          "url": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Лесные пожары во Франции удалось взять под контроль",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Лесные пожары во Франции удалось взять под контроль",
-          "excerpt": "Лесные пожары во Франции удалось взять под контроль Премьер-министр Франции Себастьян Лекорню сообщил, что лесные пожары в стране в целом удалось взять под контроль. Жители некоторых эвакуированных районов уже начали возвращаться в свои дома, уточнил он.…",
-          "url": "https://www.kommersant.ru/doc/8860745"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Премьер Франции заявил, что лесные пожары в целом удалось взять под контроль",
-          "excerpt": "Премьер Франции заявил, что лесные пожары в целом удалось взять под контроль Москва. 2 августа. INTERFAX.RU - НТЕРФАКС - Масштабные природные пожары, охватившие в июле юг Франции, в целом удалось взять под контроль, заявил в субботу вечером премьер-министр страны Себастьен Лекорню. \"В целом на сегодняшний день пожары в нашей стране под контролем\", - приводит его слова газета Le Figaro.…",
-          "url": "https://www.interfax.ru/world/1106975"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Sam Altman is getting dragged for suggesting this ChatGPT 'use case' for parents",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Sam Altman is getting dragged for suggesting this ChatGPT 'use case' for parents",
-          "excerpt": "Sam Altman's concept of \"cool\" seems to differ from the majority. In his X profile, he says, for instance, that \"AI is cool i guess,\" a statement with which many would likely disagree. He also fails to capitalize \"i,\" which some think is cool, but not all. And when the OpenAI CEO shared what he called a \"cool use case\" for ChatGPT on X this week, the reception was not cool. It was cold.…",
-          "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Sam Altman is still making the case for parenting via ChatGPT",
-          "excerpt": "OpenAI CEO Sam Altman seemed excited to share what he called a “cool use case” on Friday, posting that parents could “connect your family calendars and explain your kids’ interests” to the company’s new product ChatGPT Work, then “every morning for the drive to school, have it make a podcast that talks about one kid’s soccer game that afternoon, one kid’s upcoming birthday, some news, etc.” Altman…",
-          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Alienware 15 Gaming Laptop Review: Hedging Its Bets",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Alienware 15 Gaming Laptop Review: Hedging Its Bets",
-          "excerpt": "Decent performance for the price. Keyboard and touchpad are good, not great. Simple design aesthetic is nice. It has plenty of ports, including Ethernet. TIRED Display lacks color. Thick bezels and a tall hinge make it chunky and clunky. Many of thebest gaming laptops cost hundreds of dollars more than they did six months ago.…",
-          "url": "https://www.wired.com/review/alienware-15-gaming-laptop/"
-        },
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "Alienware 15 vs. LOQ Essential 15: I compared both budget gaming laptops - it was close",
-          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
-          "url": "https://www.zdnet.com/article/alienware-15-vs-loq-essential-15/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ceuta: 60,000 cross the border, 57 died",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ceuta: 60,000 cross the border, 57 died",
-          "excerpt": "After a day of deadly chaos in Spain’s tiny North African enclave of Ceuta, calm has returned for now. Of the 60,000 migrants who stormed into the territory, around 45,000 returned to neighbouring Morocco within hours. Authorities ordered people to turn around and go back, warning they could otherwise face eventual expulsion. There were fears the massive surge could trigger a humanitarian crisis.…",
-          "url": "https://www.france24.com/en/ceuta-60-000-cross-the-border-57-died"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Al Jazeera reports from Ceuta as migrants leave the enclave",
-          "excerpt": "Al Jazeera reports from Ceuta as migrants leave the enclave Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta by land and sea in recent days have already left voluntarily. Al Jazeera’s Jonah Hull is in Ceuta and filed the following report. Published On 1 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Минпросвещения установило лимит по количеству часов внеурочной деятельности",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Минпросвещения установило лимит по количеству часов внеурочной деятельности",
-          "excerpt": "Минпросвещения установило лимит по количеству часов внеурочной деятельности Минпросвещения России направило в регионы методические рекомендации по организации внеурочной деятельности в школах на 2026/27 учебный год. Как передает «Интерфакс», в неделю общий объем внеурочной деятельности не должен превышать 10 часов. За весь период обучения установлен лимит в 1 тыс.…",
-          "url": "https://www.kommersant.ru/doc/8860748"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Минпросвещения установило лимиты часов внеурочной деятельности на будущий учебный год",
-          "excerpt": "Минпросвещения установило лимиты часов внеурочной деятельности на будущий учебный год Москва. 2 августа. INTERFAX.RU - Минпросвещения РФ направило в регионы методические рекомендации по организации внеурочной деятельности на 2026/27 учебный год: общий объем такой работы не должен превышать 10 часов в неделю, а за весь период обучения - до 1 тыс. 350 часов в начальной школе, 1 тыс.…",
-          "url": "https://www.interfax.ru/russia/1106978"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
-          "excerpt": "British trip-hop band Massive Attack has been barred from performing in Singapore after an investigation found two members unfurled a Palestinian flag during a concert, police said. Singapore, known for its tough laws on public speech and assembly, bans the open display of all foreign flags, national emblems or banners without a permit.…",
-          "url": "https://www.theguardian.com/music/2026/aug/01/singapore-bans-massive-attack-for-showing-palestinian-flag-breaching-ban-on-foreign-emblems"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Singapore bans UK band Massive Attack over Palestinian flag",
-          "excerpt": "Singapore bans UK band Massive Attack over Palestinian flag Singapore barred two members of British band Massive Attack from re-entering the country after they unfurled a Palestinian flag on stage. Authorities said they were investigated over support for a political cause and displaying a foreign flag without permission. Published On 1 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss"
+          "headline": "I paid off $15,000 in credit card debt. A credit counseling expert explains how to never go back",
+          "excerpt": "I paid off $15,000 in credit card debt. A credit counseling expert explains how to never go back Laura Grande 7 min read Peter thought paying off his credit cards would be the end of the story. After years of working down a $15,000 balance, the 40-year-old finally made his last payment. There was no more monthly bill to worry about, and no more watching interest charges eat away at his progress.…",
+          "url": "https://finance.yahoo.com/markets/articles/paid-off-15-000-credit-100000627.html"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "FIFA Faces Backlash Over Investment Plan",
+      "headline_en": "Firefighters Battle Wildfires in Greece",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "FIFA Faces Backlash Over Investment Plan",
-          "excerpt": "Bloomberg Senior Sports Reporter Randall Williams says FIFA President Gianni Infantino is under mounting pressure after withdrawing plans to sell a stake in the World Cup following opposition from UEFA and other soccer leaders.…",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-01/fifa-faces-backlash-over-investment-plan-video"
+          "headline": "Firefighters Battle Wildfires in Greece",
+          "excerpt": "Video shows firefighters working to contain wildfires in Porto Germeno, Greece, on Sunday. The conflagrations are some the latest in what’s been a volatile wildfire season in Europe, which started early and picked up quickly. (Source: Associated Press)",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-03/firefighters-battle-wildfires-in-greece"
         },
         {
-          "source": "CBS News",
+          "source": "DW English",
           "lang": "en",
-          "headline": "UEFA says it has lost confidence in FIFA leadership after investment plan",
-          "excerpt": "European soccer says it has lost confidence in FIFA chief Gianni Infantino as investment plan scrapped Successfully stopping Gianni Infantino's FIFA plan to sell World Cup profits to private investors was the first half of a high-stakes game in global soccer politics. The second half kicked off Saturday with what seemed a clear aim of ending Infantino's decade-long presidency.…",
-          "url": "https://www.cbsnews.com/news/uefa-fifa-investment-plan-scrapped-gianni-infantino-backlash/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "It’s Exactly A Year Until The ‘Eclipse Of The Century’",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "It’s Exactly A Year Until The ‘Eclipse Of The Century’",
-          "excerpt": "Topline On Aug. 2, 2027, the longest total solar eclipse visible from land this century will sweep across southern Spain, North Africa and the Middle East. Today marks exactly one year until millions of people experience one of the most anticipated astronomical events of modern times — and the countdown comes just 10 days before mainland Europe’s first total solar eclipse since 1999.…",
-          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/08/02/its-exactly-a-year-until-the-eclipse-of-the-century/"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "The first solar eclipse in almost 30 years: Where best to view it?",
-          "excerpt": "This month, people across Europe will have the chance to see their first solar eclipse in nearly three decades.",
-          "url": "https://news.sky.com/story/the-first-solar-eclipse-in-almost-30-years-where-best-to-view-it-13568455"
+          "headline": "On the front line of Europe's battle against wildfires",
+          "excerpt": "On the front line of Europe's battle against wildfires August 2, 2026 The signal to move comes suddenly — and within a minute or so the fire truck is full and speeding off into the distance, a cloud of orange dust swirling in its wake. \"There's always a bit of adrenaline when you get the call,\" marine firefighter Julien says.…",
+          "url": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Под Анапой горят 5 тысяч квадратных метров леса",
+      "headline_en": "Во Владимирской области атакован складской комплекс",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Под Анапой горят 5 тысяч квадратных метров леса",
-          "excerpt": "Под Анапой горят 5 тысяч квадратных метров леса В лесу в районе села Варваровка близ Анапы начался лесной пожар. Об этом сообщила пресс-служба мэрии города в Telegram-канале. Огонь распространился на площади 5 тыс. кв. м.…",
-          "url": "https://www.kommersant.ru/doc/8860732"
+          "headline": "Во Владимирской области атакован складской комплекс",
+          "excerpt": "Во Владимирской области атакован складской комплекс Беспилотники атаковали складской комплекс в Собинском округе Владимирской области, сообщил губернатор Александр Авдеев. Есть разрушения, начался пожар. Как уточнил глава региона, сотрудники склада были эвакуированы. В настоящий момент на месте продолжают работать экстренные службы.…",
+          "url": "https://www.kommersant.ru/doc/8861118"
         },
         {
           "source": "Interfax",
           "lang": "ru",
-          "headline": "Лесной пожар площадью 5 тыс. кв. м тушат под Анапой",
-          "excerpt": "Interfax.Ru Ñòðàíèöû ïî ýòîìó àäðåñó íå ñóùåñòâóåò. Ïîïðîáóéòå çàéòè íà ãëàâíóþ èëè âîñïîëüçóéòåñü ïîèñêîì .",
-          "url": "https://www.interfax.ru/russia/1106969"
+          "headline": "Беспилотники атаковали складской комплекс Wildberries во Владимирской области",
+          "excerpt": "Беспилотники атаковали складской комплекс Wildberries во Владимирской области На территории объекта возник пожар Москва. 3 августа. INTERFAX.RU - Губернатор Владимирской области Александр Авдеев сообщил об атаке БПЛА на складской комплекс в регионе. \"В Собинском округе БПЛА атакован складской комплекс. Есть разрушения, пожар.…",
+          "url": "https://www.interfax.ru/russia/1107114"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+          "excerpt": "A bruising 24 hours - what next for Fifa and under-pressure Infantino? - Published A week is a long time in politics. Football politics. On Tuesday morning, Gianni Infantino was in an impregnable position as Fifa president, the most powerful job in football.…",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Infantino under growing pressure after FIFA scraps World Cup investor proposal",
+          "excerpt": "FIFA President Gianni Infantino is under pressure after abandoning plans to sell a stake in the World Cup to private ​investors. Infantino’s plans fell apart after UEFA’s 55-member nations agreed to boycott the World Cup and all other FIFA competitions. CONCACAF and the Asian Football Confederation also said they opposed the plan.",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260803-infantino-under-growing-pressure-after-fifa-scraps-world-cup-investor-proposal"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+          "excerpt": "Greek authorities have arrested an Afghan national in connection with the death of a Scottish woman whose body was found in a suitcase in an abandoned building in central Athens. Elisabeth-Jane Ross, 38, a charity worker described as an “angel full of innocence and goodness” by friends, had been in Greece for almost three weeks when she is believed to have died.…",
+          "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Man arrested over death of British woman found in suitcase in Athens",
+          "excerpt": "Greek police arrest suspect in suitcase killing case August 3, 2026 A 26-year-old man has been arrested by Greek police in connection with the death of a British woman whose body was found in a suitcase in Athens last month.…",
+          "url": "https://www.dw.com/en/man-arrested-over-death-of-british-woman-found-in-suitcase-in-athens/a-78210183?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Sam Altman and AI’s decel debate",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Sam Altman and AI’s decel debate",
+          "excerpt": "OpenAI CEO Sam Altman recently said that it may be time to “pace the rate of AI development” so that society can “harden around some of these new capability levels.” On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed how Altman’s comments were probably prompted by a recent hack in which an OpenAI agent breached Hugging Face’s systems.…",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Sam Altman says Paul Graham and Peter Thiel taught him a key lesson about investing",
+          "excerpt": "OpenAI CEO Sam Altman said Silicon Valley luminaries taught him how to be ok with standing out when making investments.…",
+          "url": "https://www.businessinsider.com/sam-altman-paul-graham-investing-lesson-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "«Попросила все сохранить в тайне». Меркель призналась пранкерам в фиктивности Минских соглашений",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "«Попросила все сохранить в тайне». Меркель призналась пранкерам в фиктивности Минских соглашений",
+          "excerpt": "Бывший канцлер Германии Ангела Меркель в разговоре с российскими пранкерами Вованом (Владимир Кузнецов) и Лексусом (Алексей Столяров) призналась, что Минские соглашения были нужны лишь для того, чтобы выиграть время и накачать Украину оружием.…",
+          "url": "https://lenta.ru/news/2026/08/03/long-poprosila-vse-sohranit-v-tayne-merkel-priznalas-prankeram-v-fiktivnosti-minskih-soglasheniy/"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Меркель рассказала пранкерам о фиктивности минских соглашений",
+          "excerpt": "Меркель рассказала пранкерам о фиктивности минских соглашений Бывший канцлер Германии Ангела Меркель заявила, что минские соглашения были нужны для того, чтобы выиграть время для Украины и усилить ее вооружение. Об этом сообщили российские пранкеры Вован (Владимир Кузнецов) и Лексус (Алексей Столяров) в интервью «РИА Новости».…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/03/1218309-merkel-rasskazala-prankeram"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
+          "excerpt": "Pakistan: Suicide bomber kills 14 at anti-militancy protest August 2, 2026 A suicide bomber killed 14 people and injured dozens more in an attack targeting anti-militancy demonstrators in the city of Kabal in Pakistan's northwestern Swat Valley.…",
+          "url": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+          "excerpt": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing at a police station in Kabal near the Afghan border killed at least 14 people. Crowds of people had been protesting nearby when the bomb exploded. Published On 3 Aug 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "U.S. wildfire season exceeds 10-year average as 99 large fires burn",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "U.S. wildfire season exceeds 10-year average as 99 large fires burn",
+          "excerpt": "Wildfires in Washington and Oregon have forced evacuations, caused power outages, and burned hundreds of thousands of acres as firefighters battle dozens of massive fires across the Pacific Northwest. Why it matters: The blazes are among 99 active large fires burning across the U.S.…",
+          "url": "https://www.axios.com/2026/08/03/us-wildfire-season-large-fires-10-year-average"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Dangerous wildfires in Washington burn thousands of acres",
+          "excerpt": "New video shows moment hero fires at shooter at Idaho In-and-Out 02:00 Rep. Miller vows to remain in reelection race amid abuse allegations 02:28 Fragile ceasefire between U.S.…",
+          "url": "https://www.nbcnews.com/nightly-news/video/dangerous-wildfires-in-washington-burn-thousands-of-acres-267650117531"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Oil slides after Trump says talks with Iran will resume",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Oil slides after Trump says talks with Iran will resume",
+          "excerpt": "Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close",
+          "url": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+          "excerpt": "Iran says negotiations with Oman over Strait of Hormuz in final stages Tehran’s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal. Iran’s foreign minister says negotiations with Oman on the Strait of Hormuz are entering their “final stages”, as Tehran insists the vital waterway will never return to its pre-war status.…",
+          "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "‘Spider-Man’ and ‘The Odyssey’ power biggest box office weekend in history",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "‘Spider-Man’ and ‘The Odyssey’ power biggest box office weekend in history",
+          "excerpt": "“Spider-Man: Brand New Day” swung to the top of the box office charts with a whopping $355 million debut — the second-biggest opening weekend in domestic box office history. Combined with the ongoing draw of Christopher Nolan’s “The Odyssey,” which pulled in another $51 million this weekend, the two blockbusters delivered a one-two punch that made this the biggest box office weekend ever.…",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/spider-man-odyssey-biggest-box-office-weekend-history-rcna590477"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
+          "excerpt": "Spider-Man is taking on the Avengers. Sony and Marvel's \"Spider-Man: Brand New Day\" tallied an estimated $355 million at the domestic box office this weekend, just $2 million shy of the record-breaking debut of 2019's \"Avengers: Endgame.\" The film kicked off with record-shattering Thursday preview sales and snared $169.3 million on Friday, including presales, and $101.5 million on Saturday.…",
+          "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html"
         }
       ]
     }
