@@ -1,160 +1,202 @@
 {
-  "collected_at": "2026-08-08T04:34:35.553736+00:00",
+  "collected_at": "2026-08-09T04:45:11.867243+00:00",
   "total_sources": 63,
-  "total_entries": 913,
+  "total_entries": 709,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+      "headline_en": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "coverage": 7,
       "perspectives": [
         {
-          "source": "NPR News",
+          "source": "BBC World",
           "lang": "en",
-          "headline": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-          "excerpt": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates.",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress"
+          "headline": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "excerpt": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+          "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "US Senate narrowly confirms Trump loyalist Todd Blanche as attorney general",
+          "excerpt": "The US Senate on Saturday voted 50-49 to confirm President Donald Trump's former personal lawyer Todd Blanche as the country's attorney general. Blanche was serving as the top US law enforcement officer in an acting capacity after Trump fired another loyalist, Pam Bondi. His confirmation caps one of the most contentious cabinet fights of the second Trump presidency.",
+          "url": "https://www.france24.com/en/americas/20260808-us-senate-confirms-trump-s-ex-lawyer-as-attorney-general"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Senate confirms Todd Blanche as attorney general",
+          "excerpt": "The Senate voted to confirm Todd Blanche as the next attorney general early Saturday, capping a tumultuous path to office for President Trump's former personal attorney. The big picture: Blanche's appointment is a win for the Trump administration, especially after a journey that saw some Republicans hold out at multiple stages of the process.…",
+          "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+          "excerpt": "The Senate confirmed Todd Blanche as U.S. attorney general early Saturday in a mostly party-line vote, capping off weeks of uncertainty and despite bipartisan concerns about his ability to run a Justice Department independent of President Donald Trump’s impulses.…",
+          "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Trump to appeal ballroom construction halt to Supreme Court",
-          "excerpt": "Trump to appeal ballroom construction halt to Supreme Court August 7, 2026 US President Donald Trump was ordered on Friday to halt construction of a ballroom on the site of the demolished East Wing. The US Court of Appeals for the District of Columbia Circuit upheld a preliminary injunction won by the National Trust for Historic Preservation, which had sued Trump over the matter last year.…",
-          "url": "https://www.dw.com/en/trump-to-appeal-ballroom-construction-halt-to-supreme-court/a-78285628?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US appeals court orders halt to Trump ballroom construction without congressional approval",
-          "excerpt": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
-          "url": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "US appeals court halts White House ballroom construction",
-          "excerpt": "US appeals court halts White House ballroom construction A federal appeals court has ordered President Donald Trump’s administration to halt construction on a $400 million ballroom project at the White House. President Trump has vowed to appeal to the US Supreme Court. Aljazeera’s Mike Hanna reports. Published On 7 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "The fight over Trump’s White House ballroom just took a dramatic turn",
-          "excerpt": "President Trump’s controversial plan to build an enormous ballroom adjacent to—and larger than—the White House just ground to a halt. A federal appeals court in Washington, D.C., ruled on Friday that Trump’s ballroom construction isn’t lawful and must stop.…",
-          "url": "https://www.fastcompany.com/91587387/the-fight-over-trumps-white-house-ballroom-just-took-a-dramatic-turn"
+          "headline": "US Senate confirms Trump loyalist Todd Blanche as new AG",
+          "excerpt": "US Senate confirms Trump loyalist Todd Blanche as new AG August 8, 2026 The US Senate has narrowly approved President Donald Trump's nominee for the job of attorney general, making Todd Blanche the nation's top law enforcement officer in an early morning vote on Saturday. The Republican-controlled body delivered a 50-49 vote to confirm the controversial Trump loyalist.…",
+          "url": "https://www.dw.com/en/us-senate-confirms-trump-loyalist-todd-blanche-as-new-ag/a-78289397?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "headline_en": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "coverage": 7,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
+          "excerpt": "US offers $1bn to Colombia on new right-wing president's first day of office - Published The US has pledged $1bn (Â£740m) to Colombia hours after the country's new right-wing populist president was sworn in. Abelardo de la Espriella, an admirer of Donald Trump who echoed many of the US president's policies on the campaign trail, used his maiden speech to promise an \"all-out war\" on drug cartels.…",
+          "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+          "excerpt": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌president, the US state department announced, soon after Abelardo De La ‌Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against dru…",
+          "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Colombia: Trump ally De la Espriella takes office",
+          "excerpt": "Colombia: Trump ally De la Espriella takes office August 8, 2026 Abelardo de la Espriella was sworn in as Colombia's president on Friday, promising to boost ties with the United States and tackle armed groups linked to the drug trade. The 48-year-old ex-lawyer lurches the Andean nation to the right, taking office after winning a close June 21 runoff against Sen.…",
+          "url": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "US pledges $1 billion security aid to Colombia as Trump-endorsed president takes office",
+          "excerpt": "The US State Department announced late Friday that President Donald Trump's ​administration plans to provide $1 billion in security assistance to Colombia as the country's new right-wing President Abelardo De La Espriella was sworn into office. De la Espriella, who calls himself \"The Tiger\", vowed to \"defeat narco-terrorists\" in his first presidential speech at a military garrison in Cali.",
+          "url": "https://www.france24.com/en/us-pledges-1-billion-security-aid-to-colombia-as-trump-endorsed-president-takes-office"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. pledges $1 billion to Colombia as new right-wing president takes office",
+          "excerpt": "U.S. pledges $1 billion in security assistance to Colombia as new president vows to \"defeat narco-terrorism\" The United States pledged $1 billion in security assistance to Colombia after its new right-wing president took office.…",
+          "url": "https://www.cbsnews.com/news/abelardo-de-la-espriella-us-pledges-1-billion-security-assistance-colombia/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
       "coverage": 6,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-          "excerpt": "Saudi Arabia, Turkey and Pakistan sign defence pact - Published Saudi Arabia, Turkey and Pakistan have signed a joint defence agreement, saying an attack on one of them would be seen as an attack on all three.…",
-          "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
+          "headline": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+          "excerpt": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy - Published Hunter Biden has told the BBC he was \"the most privileged person there is\" after receiving a presidential pardon from his father, former US President Joe Biden, acknowledging that it was not a good choice for America or his father's legacy.…",
+          "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Foreign Policy",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "The Middle East Tries Its Hand at a NATO-Style Pact",
-          "excerpt": "Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.",
-          "url": "https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Turkey, Saudi, Pakistan: Attack on one nation deemed an attack on all",
-          "excerpt": "Pakistan, Turkey and Saudi Arabia have signed a mutual defence agreement, under which an armed attack on any one of the three countries will be treated as an attack on all. The pact comes as Saudi Arabia seeks to diversify its security partnerships after repeated attacks on its critical infrastructure amid the war in Iran.…",
-          "url": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Middle East: Saudi Arabia, Turkey, Pakistan sign defense deal",
-          "excerpt": "Saudi Arabia, Turkey, Pakistan sign defense deal Published August 7, 2026last updated August 8, 2026 What you need to know These updates have been closed. Below is a roundup of top stories from and about the Middle East on Friday, August 7.…",
-          "url": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "What could the Mecca defence pact mean for the US role in the Middle East?",
-          "excerpt": "What could the Mecca defence pact mean for the US role in the Middle East? Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.…",
-          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-          "excerpt": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July.",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham"
+          "headline": "Hunter Biden says his father's cancer has spread",
+          "excerpt": "Hunter Biden says his father's cancer has spread: \"It's very painful and it's very debilitating\" Former President Joe Biden's prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues, his son Hunter Biden said in an interview.…",
+          "url": "https://www.cbsnews.com/news/joe-biden-cancer-has-spread-hunter-biden-says/"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-          "excerpt": "The Senate on Friday overwhelmingly approved a Russia sanctions bill that was long championed by the late Sen. Lindsey Graham, R-S.C., before his death last month. The legislation, named the The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, aims to hurt Russia's war effort in Ukraine by penalizing purchasers of Russian oil and Russian leaders.…",
-          "url": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html"
+          "headline": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+          "excerpt": "Former President Joe Biden's prostate cancer has spread further, his son Hunter Biden said in a BBC interview, offering a stark update on the 83-year-old's health. \"It's really, really hard, and it's really sad to watch... I wish he would complain more, because it's not good,\" Hunter Biden said in the interview. \"The cancer has spread, is metastasized into his bones and further.…",
+          "url": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html"
         },
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Senate passes sanctions bill on Russia and Iran named for late Sen. Lindsey Graham",
-          "excerpt": "WASHINGTON — The Senate voted overwhelmingly to pass legislation to impose sanctions against Russia and Iran after months of fits and starts, with the death of Republican Sen. Lindsey Graham providing the final push. The 61-page legislation, renamed the Lindsey O.…",
-          "url": "https://www.nbcnews.com/politics/congress/senate-passes-sanctions-bill-russia-iran-named-late-sen-lindsey-graham-rcna589949"
+          "headline": "Hunter Biden says Joe Biden’s cancer has spread",
+          "excerpt": "Manhunt underway for suspect considered ‘armed and dangerous’ 01:17 American rescued in daring evacuation from Antarctica 01:22 José Díaz-Balart marks 10 years as ‘Nightly News’ Saturday anchor 05:22 Jackie the eagle’s caregivers face intense response 01:24 Inside the evacuation zone as Washington state wildfires rage 02:08 Now Playing Hunter Biden says Joe Biden’s cancer has spread 01:18 UP NEXT …",
+          "url": "https://www.nbcnews.com/nightly-news/video/hunter-biden-says-joe-biden-s-cancer-has-spread-267995205965"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Time",
           "lang": "en",
-          "headline": "US Senate passes Russia sanctions that could hurt India and China",
-          "excerpt": "US Senate passes Russia sanctions that could hurt India and China The US Senate approved its strongest move against Russia under Trump, advancing sanctions that could impose tariffs on major buyers including India and China. Published On 8 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "US Senate approves sweeping Russia sanctions bill targeting energy income",
-          "excerpt": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.…",
-          "url": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income"
+          "headline": "‘Very Debilitating’: Hunter Biden Says His Father’s Cancer Has Spread Further",
+          "excerpt": "Hunter Biden shared an update on former President Joe Biden’s condition on Friday, explaining that his cancer is worsening.",
+          "url": "https://time.com/article/2026/08/09/-very-debilitating-hunter-biden-says-his-father-s-cancer-has-spread-further/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Рядом с Москвой сбили три беспилотника",
-      "coverage": 2,
+      "headline_en": "Вэнс заявил о прогрессе в переговорах США с Ираном",
+      "coverage": 3,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Рядом с Москвой сбили три беспилотника",
-          "excerpt": "Рядом с Москвой сбили три беспилотника Силы ПВО сбили три беспилотника, которые летели на Москву. Об этом сообщил мэр столицы Сергей Собянин в Telegram. Глава отметил, что на месте падения обломков работают экстренные службы. Каких-либо других подробностей о происшествии не приводится. Росавиация ночью не сообщала о вводе ограничений для московских аэропортов.",
-          "url": "https://www.kommersant.ru/doc/8875434"
+          "headline": "Вэнс заявил о прогрессе в переговорах США с Ираном",
+          "excerpt": "Вэнс заявил о прогрессе в переговорах США с Ираном Вице-президент США Джей Ди Вэнс сообщил о достижении определенного прогресса в переговорах с Ираном за последние несколько дней. Об этом он рассказал в интервью телеканалу Fox News.…",
+          "url": "https://www.kommersant.ru/doc/8875603"
         },
         {
-          "source": "РИА Новости",
+          "source": "Lenta.ru",
           "lang": "ru",
-          "headline": "Силы ПВО сбили три БПЛА, летевших на Москву",
-          "excerpt": "Доступ к чату заблокирован за нарушение правил. Вы сможете вновь принимать участие через: ∞. Если вы не согласны с блокировкой, воспользуйтесь формой обратной связи Обсуждение закрыто. Участвовать в дискуссии можно в течение 24 часов после выпуска статьи.…",
-          "url": "https://ria.ru/20260808/moskva-2109689704.html"
+          "headline": "Вице-президент США сделал заявление о переговорах с Ираном",
+          "excerpt": "Вице-президент США Джей Ди Вэнс в интервью Fox News сообщил, что на переговорах с Ираном за последние дни удалось достичь определенного прогресса. По его словам, Тегеран сам заинтересован в завершении текущего противостояния, но исход переговоров будет зависеть от способности иранской политической системы пойти на условия, которые устроят Вашингтон.…",
+          "url": "https://lenta.ru/news/2026/08/09/vitse-prezident-ssha-sdelal-zayavlenie-o-peregovorah-s-iranom/"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Вэнс: США за последние дни добились прогресса на переговорах с Ираном",
+          "excerpt": "Вэнс: США за последние дни добились прогресса на переговорах с Ираном США добились прогресса на переговорах с Ираном за последние несколько дней. Об этом заявил вице-президент США Джей Ди Вэнс в интервью телеканалу Fox News.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/08/1219762-vens-ssha-peregovorah"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Child among three killed in Russian missile attacks near Kyiv",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Child among three killed in Russian missile attacks near Kyiv",
+          "excerpt": "Child among three killed in Russian missile attacks near Kyiv - Published At least three people, including a child, have been killed in overnight Russian attacks near the Ukrainian capital Kyiv, a local official said.…",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Kyiv Struck as Ukraine Targets Two Russian Oil Refineries",
+          "excerpt": "A fire was sparked at Russia’s Ilsky oil refinery in the southern Krasnodar region by Ukrainian drone debris, injuring five people, the regional task force said on Saturday, as Russia and Ukraine exchanged overnight attacks including a large-scale missile barrage on Kyiv.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/ukraine-drone-strike-sparks-fire-at-russia-s-ilsky-refinery"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Child among 4 people killed in Russian attacks on Ukraine",
+          "excerpt": "At least 4 killed, including a child, in Russian strikes on Ukraine Four people, including a child, were killed in Russian attacks on the Ukrainian capital, Kyiv, and the surrounding region, local officials said Saturday, as Ukraine hit another oil refinery in Russia.…",
+          "url": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Russian attacks kill several in Ukraine",
+          "excerpt": "At least four people, including a child, were killed in Russian drone and missile strikes on Kyiv and surrounding regions early Saturday. Moscow has been carrying out near-daily attacks, exploiting Ukraine’s strained air defences.…",
+          "url": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "coverage": 6,
+      "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
@@ -162,13 +204,6 @@
           "headline": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
           "excerpt": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies - Published Spain has imposed border controls on all air and sea travel from Italy as a row between the two EU countries intensifies.…",
           "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Spain reinstates border controls on Italy as tensions rise over migrants",
-          "excerpt": "Move widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni",
-          "url": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1"
         },
         {
           "source": "The Guardian",
@@ -185,145 +220,201 @@
           "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-all-1573-rdf"
         },
         {
-          "source": "Sky News",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Spain announces new border controls with Italy in migration row",
-          "excerpt": "Spain is to impose new border controls for flights and ships from Italy as the two countries' row over the influx of migrants into Ceuta intensifies.",
-          "url": "https://news.sky.com/story/spain-threatens-to-retaliate-after-italy-imposes-border-controls-following-ceuta-migrant-influx-13570668"
+          "headline": "Spain imposes border checks on Italian travellers amid migrant dispute",
+          "excerpt": "Spain imposes border checks on Italian travellers amid migrant dispute Spain on Saturday introduced temporary border checks on travellers arriving from Italy, escalating a dispute between the EU partners over migration. The move follows Italy’s decision to impose similar controls after more than 70,000 migrants crossed into Spain’s Ceuta enclave from Morocco, most of whom later returned.…",
+          "url": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Meta fined $567m in largest child safety ruling against social media giant",
-      "coverage": 6,
+      "headline_en": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "coverage": 4,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Meta fined $567m in largest child safety ruling against social media giant",
-          "excerpt": "Meta fined $567m in largest child safety ruling against social media giant - Published A US judge in New Mexico has ordered Meta to pay another $567m (Â£421m) for its failure to warn the public about dangers its platforms posed to children, marking the largest fine against the company over child safety.…",
-          "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+          "headline": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "excerpt": "Thai PM vows to introduce stricter gun laws after eight killed in shooting - Published Thailand's prime minister has vowed to introduce new gun control laws following a shooting by a teenager on the outskirts of Bangkok that left eight people dead and 22 injured. Fourteen people remain in hospital, seven of whom are in a critical condition.…",
+          "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Euronews",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Meta ordered to pay $567 Mn to US for 'public nuisance' and 'child harm'",
-          "excerpt": "A New Mexico judge has penalised the tech giant for creating a public nuisance and endangering children online. Meta confirmed it plans to appeal, insisting it works hard to protect young users across its platforms. A New Mexico judge ordered Meta to pay more than half a billion dollars over the state's claims that the social media giant created a \"public nuisance\" and harmed children.…",
-          "url": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm"
+          "headline": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
+          "excerpt": "The death toll from a school shooting in Thailand rose to nine on Saturday, after police said a 12-year-old girl caught up in Friday’s incident had died.…",
+          "url": "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say"
         },
         {
-          "source": "Ars Technica",
+          "source": "CBS News",
           "lang": "en",
-          "headline": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-          "excerpt": "A New Mexico judge yesterday ordered Meta to pay $567 million for a fund that would alleviate the “public nuisance” created by its social media services. The order to pay for youth mental health care is in addition to $375 million in civil penalties that a jury ordered Meta to pay earlier in the same case. New Mexico Attorney General Raul Torrez sued Meta in a Santa Fe County court in 2023.…",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
+          "headline": "Girl dies from injuries after school shooting in Thailand as death toll rises",
+          "excerpt": "Death toll in Thailand school shooting rises to at least 8 after girl dies from injuries A 12-year-old girl who sustained critical wounds at a school shooting outside Bangkok on Friday has died, officials said Saturday, bringing the death toll from the attack to at least 8 people.…",
+          "url": "https://www.cbsnews.com/news/thailand-school-shooting-bangkok/"
         },
         {
-          "source": "Engadget",
+          "source": "Time",
           "lang": "en",
-          "headline": "Court orders Meta to pay an additional $567 million in New Mexico child safety case",
-          "excerpt": "Court orders Meta to pay an additional $567 million in New Mexico child safety case Meta is a 'public nuisance,' the judge has ruled, and its effects migrate to the real world. In March, a jury in New Mexico found Meta liable for violating the state's consumer protection laws in a case brought by its Attorney General, accusing the company of child exploitation and other safety issues.…",
-          "url": "https://www.engadget.com/2232202/meta-additional-567-million-fine-new-mexico-child-safety-case/"
+          "headline": "What to Know About Thailand's Deadliest School Shooting in Years",
+          "excerpt": "A teenage boy in Thailand shot and killed at least seven people and wounded more than 20 others on Friday before taking his own life in the country’s deadliest mass shooting in nearly four years.…",
+          "url": "https://time.com/article/2026/08/07/thailand-school-shooting/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Аэропорты Перми и Уфы приостановили работу",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Аэропорты Перми и Уфы приостановили работу",
+          "excerpt": "Аэропорты Перми и Уфы приостановили работу Москва. 9 августа. INTERFAX.RU - Временные ограничения на прием и выпуск самолетов введены в аэропорту Перми, сообщили в воскресенье в Росавиации \"Введены временные ограничения на прием и выпуск воздушных судов\", - говорится в сообщении ведомства в мессенджере Мах.",
+          "url": "https://www.interfax.ru/russia/1108299"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "В аэропорту Перми ввели временные ограничения",
+          "excerpt": "В аэропорту Перми («Большое Савино») введены временные ограничения на прием и выпуск воздушных судов. Ограничения необходимы для обеспечения безопасности полетов. МОСКВА, 9 авг - РИА Новости. Временные ограничения на прием и выпуск воздушных судов введены в аэропорту Перми, сообщила Росавиация. \"Аэропорт Перми (\"Большое Савино\"). Введены временные ограничения на прием и выпуск воздушных судов.…",
+          "url": "https://ria.ru/20260809/perm-2109805652.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+          "excerpt": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes - Published Thousands of people were forced to flee their homes as a fast-moving wildfire in a remote part of western Canada spread rapidly, doubling in size since it was first detected on Friday.…",
+          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "US judge orders Meta to pay $567 million over harm to children",
-          "excerpt": "US: Meta ordered to pay $567 million over harm to children August 7, 2026 A judge in the US state of New Mexico has ordered Meta on Thursday to pay $567 million (€492 million) and overhaul how Facebook and Instagram operate for young users in the state. Judge Bryan Biedscheid's ruling, issued in Santa Fe, states the company created a \"public nuisance\" that harmed children's mental health.…",
-          "url": "https://www.dw.com/en/us-judge-orders-meta-to-pay-567-million-over-harm-to-children/a-78272884?maca=en-rss-en-all-1573-rdf"
+          "headline": "Canada: British Columbia declares emergency as fires spread",
+          "excerpt": "Canada: British Columbia declares emergency as fires spread August 9, 2026 Canadian officials on Saturday declared a state of emergency in British Columbia after more than 20,000 people were ordered to flee a fast-moving wildfire.…",
+          "url": "https://www.dw.com/en/canada-british-columbia-declares-emergency-as-fires-spread/a-78291841?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Wildfires in western Canada forces more than 20,000 people to evacuate",
+          "excerpt": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee communities along Okanagan Lake in western Canada, with dozens rescued by aircraft.…",
+          "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "British Columbia wildfire forces more than 20,000 to flee, destroys homes",
+          "excerpt": "British Columbia wildfire forces more than 20,000 to flee, destroys homes Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada. A wildfire in British Columbia, Canada, has forced more than 20,000 people to evacuate as fast-moving blazes destroyed homes.…",
+          "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "US appeals court orders halt to Trump ballroom construction without congressional approval",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "US appeals court orders halt to Trump ballroom construction without congressional approval",
+          "excerpt": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
+          "url": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "The fight over Trump’s White House ballroom just took a dramatic turn",
+          "excerpt": "President Trump’s controversial plan to build an enormous ballroom adjacent to—and larger than—the White House just ground to a halt. A federal appeals court in Washington, D.C., ruled on Friday that Trump’s ballroom construction isn’t lawful and must stop.…",
+          "url": "https://www.fastcompany.com/91587387/the-fight-over-trumps-white-house-ballroom-just-took-a-dramatic-turn"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Trump vows appeal over ballroom halt",
+          "excerpt": "More headaches for US President Donald Trump over his planned White House ballroom: a federal appeals court has ruled that the administration must halt the $400 million construction project, saying it has not been approved by Congress. The ruling follows a challenge by the National Trust for Historic Preservation, which sought an injunction against the project last year.…",
+          "url": "https://www.france24.com/en/trump-vows-appeal-over-ballroom-halt"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump to appeal White House ballroom ruling to Supreme Court",
+          "excerpt": "Latest U.S. Iran War UFO Files World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
+          "url": "https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "US Stocks Rise After Jobs Data to Second-Best Week of the Year",
-      "coverage": 5,
+      "headline_en": "Greg Abel finally puts Buffett’s cash pile to work",
+      "coverage": 4,
       "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Greg Abel finally puts Buffett’s cash pile to work",
+          "excerpt": "Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks",
+          "url": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1"
+        },
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "US Stocks Rise After Jobs Data to Second-Best Week of the Year",
-          "excerpt": "US stocks closed higher Friday after jobs data showed the US economy unexpectedly shed jobs in July, which could prompt the Federal Reserve to delay interest-rate increases.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-07/us-futures-rise-as-trump-touts-iran-progress-awaiting-jobs-data"
+          "headline": "CEO Greg Abel Starts Making His Mark at Berkshire",
+          "excerpt": "Berkshire Hathaway stepped up spending under CEO Greg Abel, repurchasing about $4.5 billion of its shares while deploying billions more into investments.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-08/abel-starts-making-his-mark-at-berkshire-video"
         },
         {
-          "source": "NPR News",
+          "source": "Business Insider",
           "lang": "en",
-          "headline": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-          "excerpt": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve"
+          "headline": "Warren Buffett's successor starts spending Berkshire's cash mountain",
+          "excerpt": "Greg Abel might just be a little looser with the purse strings than Warren Buffett. Abel, who succeeded Buffett as Berkshire Hathaway's CEO at the turn of this year, oversaw a drop in the conglomerate's mountain of cash and Treasury bills from $380 billion at the end of March to $365 billion at the end of June, excluding Treasury payables.…",
+          "url": "https://www.businessinsider.com/berkshire-hathaway-warren-buffett-greg-abel-spending-cash-pile-2026-8"
         },
         {
-          "source": "CNBC",
+          "source": "Quartz",
           "lang": "en",
-          "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
-          "excerpt": "The U.S. economy saw an unexpected declined in jobs during July while the unemployment rate edged lower, the Bureau of Labor Statistics reported Friday in a snapshot that showed a slowing employment picture. Nonfarm payrolls fell by a seasonally adjusted 23,000 for the month, compared with a downwardly revised 20,000 for June.…",
-          "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "July jobs report reveals unexpected loss of 23,000 jobs",
-          "excerpt": "July jobs report reveals unexpected loss of 23,000 jobs, missing economists' forecasts The U.S. economy unexpectedly shed 23,000 jobs in July, undershooting economists' expectations and signaling the job market may be slowing. By the numbers Economists polled by FactSet forecast employers added 95,000 jobs in July.…",
-          "url": "https://www.cbsnews.com/news/july-jobs-report-unexpected-job-losses/"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "23,000 U.S. jobs were lost in July as labor report also shows dip in unemployment",
-          "excerpt": "U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. The unemployment rate dipped to 4.1% only because Americans left the job market.…",
-          "url": "https://www.fastcompany.com/91586825/23000-u-s-jobs-were-lost-july-labor-report-shows-strain-iran-war"
+          "headline": "Greg Abel is keeping 63% of Berkshire Hathaway's $355 billion portfolio in just 5 stocks",
+          "excerpt": "Greg Abel is maintaining the concentrated investment approach that defined his predecessor's tenure, with 63% of Berkshire Hathaway $BRK.B's $355 billion equity portfolio held in five stocks, according to The Motley Fool.…",
+          "url": "https://qz.com/berkshire-hathaway-greg-abel-portfolio-concentration-five-stocks-080726"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Одиннадцать человек пострадали при ударах ВСУ по ДНР",
+      "category": "💼 Business",
+      "headline_en": "При массированном налете беспилотников на Белгород пострадали 13 человек",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Одиннадцать человек пострадали при ударах ВСУ по ДНР",
-          "excerpt": "Одиннадцать человек пострадали при ударах ВСУ по ДНР При ударах Вооруженных сил Украины (ВСУ) по территории Донецкой народной республики (ДНР) за день пострадали одиннадцать мирных жителей, сообщил глава региона Денис Пушилин в Telegram. Среди раненых есть несовершеннолетние — мальчик 2014 года рождения и девушка, родившаяся в 2019-м. Их состояние не уточняется.…",
-          "url": "https://www.kommersant.ru/doc/8875416"
+          "headline": "При массированном налете беспилотников на Белгород пострадали 13 человек",
+          "excerpt": "При массированном налете беспилотников на Белгород пострадали 13 человек Белгород оказался под массированной атакой украинских беспилотников. Пострадали 13 человек, сообщил врио губернатора Белгородской области Александр Шуваев в Telegram. Среди них — двое детей. Четырехлетнего мальчика со осколочными ранениями грудной клетки бригада скорой доставила в детскую областную клиническую больницу.…",
+          "url": "https://www.kommersant.ru/doc/8875638"
         },
         {
           "source": "Interfax",
           "lang": "ru",
-          "headline": "Одиннадцать жителей ДНР, среди них - двое детей, пострадали при ударах БПЛА",
-          "excerpt": "Одиннадцать жителей ДНР, среди них - двое детей, пострадали при ударах БПЛА Москва. 7 августа. INTERFAX.RU - Одиннадцать мирных жителей пострадали в результате ударов беспилотников по территории Донецкой Народной Республики в пятницу, среди пострадавших - дети, сообщил глава региона Денис Пушилин.…",
-          "url": "https://www.interfax.ru/russia/1108160"
+          "headline": "В Белгороде при атаке БПЛА пострадали 13 человек, в том числе двое детей",
+          "excerpt": "В Белгороде при атаке БПЛА пострадали 13 человек, в том числе двое детей Москва. 9 августа. INTERFAX.RU - В результате атаки украинских беспилотников на Белгород пострадали 13 человек, повреждено несколько многоквартирных домов и нежилых зданий, сообщил врио губернатора Белгородской области Александр Шуваев в ночь на воскресенье.…",
+          "url": "https://www.interfax.ru/russia/1108286"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Trump revives threat to sack Fed governor Lisa Cook",
-      "coverage": 5,
+      "headline_en": "White House revives unprecedented effort to remove Fed governor Lisa Cook",
+      "coverage": 4,
       "perspectives": [
-        {
-          "source": "FT",
-          "lang": "en",
-          "headline": "Trump revives threat to sack Fed governor Lisa Cook",
-          "excerpt": "Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved",
-          "url": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump renews push to fire Fed Governor Lisa Cook",
-          "excerpt": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve"
-        },
-        {
-          "source": "Quartz",
-          "lang": "en",
-          "headline": "Trump is trying again to oust Fed Governor Lisa Cook after Supreme Court rebuff",
-          "excerpt": "Lisa Cook, governor of the US Federal Reserve, during a Fed Listens event in Washington, DC, US, on Friday, March 22, 2024. (Al Drago/Bloomberg via Getty Images) President Donald Trump is moving forward with a new effort to remove Federal Reserve Board Governor Lisa Cook from her position, reviving mortgage fraud allegations that courts have so far rejected as a basis for her dismissal.…",
-          "url": "https://qz.com/trump-lisa-cook-federal-reserve-firing-080726"
-        },
         {
           "source": "Axios",
           "lang": "en",
@@ -332,242 +423,137 @@
           "url": "https://www.axios.com/2026/08/07/trump-white-house-fed-cook"
         },
         {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump moving forward with attempt to fire Lisa Cook after SCOTUS setback: Sources",
+          "excerpt": "Trump moving forward with attempt to fire Lisa Cook after Supreme Court setback: Sources The White House demanded she respond to allegations within three weeks.…",
+          "url": "https://abcnews.com/US/trump-moving-forward-attempt-fire-lisa-cook-after/story?id=135428517"
+        },
+        {
           "source": "CNBC",
           "lang": "en",
           "headline": "Trump revives effort to fire Fed's Lisa Cook",
           "excerpt": "President Donald Trump is \"considering\" firing Federal Reserve Board Governor Lisa Cook, the White House said this week, reviving an effort that had been stymied by the Supreme Court in June.…",
           "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html"
+        },
+        {
+          "source": "Quartz",
+          "lang": "en",
+          "headline": "Trump is trying again to oust Fed Governor Lisa Cook after Supreme Court rebuff",
+          "excerpt": "Lisa Cook, governor of the US Federal Reserve, during a Fed Listens event in Washington, DC, US, on Friday, March 22, 2024. (Al Drago/Bloomberg via Getty Images) President Donald Trump is moving forward with a new effort to remove Federal Reserve Board Governor Lisa Cook from her position, reviving mortgage fraud allegations that courts have so far rejected as a basis for her dismissal.…",
+          "url": "https://qz.com/trump-lisa-cook-federal-reserve-firing-080726"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Thailand school shooting: eight killed including suspected attacker, police say",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Thailand school shooting: eight killed including suspected attacker, police say",
-          "excerpt": "A Thai teenager killed his grandparents before opening fire at his school, where he shot five people dead and took his own life, police have said, in an attack that has shaken a country struggling to deal with gun violence. The 14-year-old wounded more than 30 people in the shooting at the prestigious Debsirin Nonthaburi school northwest of Bangkok.…",
-          "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Eight dead, including teen suspect's grandparents, in Thailand shooting, police say",
-          "excerpt": "Thailand has one of the highest rates of gun ownership in the region, with around 10 million firearms estimated to be in circulation, one for every seven inhabitants. The suspect in a school shooting in Thailand killed a total of eight people on Friday, police said.…",
-          "url": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "What to Know About Thailand's Deadliest School Shooting in Years",
-          "excerpt": "A teenage boy in Thailand shot and killed at least seven people and wounded more than 20 others on Friday before taking his own life in the country’s deadliest mass shooting in nearly four years.…",
-          "url": "https://time.com/article/2026/08/07/thailand-school-shooting/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Thailand: Gunman killed grandparents before school attack",
-          "excerpt": "A deadly shooting spree at a school outside Bangkok has ended after police said the suspected gunman, a 14-year-old student, killed himself. Authorities say the teenager began the rampage at home, where he shot his grandparents, before heading to the school. Police say the gun belonged to his grandfather and that the teenager fired 26 rounds, with another 34 rounds of ammunition found on him.…",
-          "url": "https://www.france24.com/en/thailand-gunman-killed-grandparents-before-school-attack"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Thailand: Several killed in school shooting north of Bangkok",
-          "excerpt": "Thailand: Several killed in school shooting Published August 7, 2026last updated August 7, 2026 Several people were killed and others injured in a shooting at a high school in Thailand's Nonthaburi province, north of the capital city of Bangkok, local authorities said.…",
-          "url": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Blanche's path to confirmation appears clear after winning key Republican's support",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Blanche's path to confirmation appears clear after winning key Republican's support",
-          "excerpt": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate.",
-          "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Acting AG Todd Blanche likely to be confirmed by Senate after new endorsement",
-          "excerpt": "Acting AG Todd Blanche likely to be confirmed by Senate after new endorsement Todd Blanche appears likely to squeak by his Senate confirmation hearing despite concerns over the direction of the Justice Department under his leadership. Ed O'Keefe has the story.",
-          "url": "https://www.cbsnews.com/video/acting-ag-todd-blanche-likely-to-be-confirmed-by-senate-after-new-endorsement/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-          "excerpt": "Sen. Bill Cassidy, R-La., said Friday he will vote to confirm Todd Blanche as attorney general, giving President Donald Trump's embattled nominee a crucial vote after two other Senate Republicans announced their opposition. Cassidy's support appears to give Blanche the 50 votes he needs for confirmation, assuming no other Republicans defect. Republicans hold 53 seats, but Sens.…",
-          "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Sen. Bill Cassidy, a critical Republican holdout, backs Todd Blanche for attorney general",
-          "excerpt": "WASHINGTON — Sen. Bill Cassidy, R-La., announced Friday he will vote for President Donald Trump’s pick of Todd Blanche for attorney general, likely assuring his confirmation. “All considered, I will vote for Mr. Blanche. I’ll be criticized for this vote. What’s new?” Cassidy said in a floor speech after outlining concerns he said he weighed.…",
-          "url": "https://www.nbcnews.com/politics/trump-administration/lisa-murkowski-vote-no-todd-blanche-attorney-general-rcna591326"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Беспилотники атаковали российское промышленное предприятие",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Беспилотники атаковали российское промышленное предприятие",
-          "excerpt": "Беспилотные летательные аппараты (БПЛА) атаковали промышленное предприятие в Самарской области. Об этом информирует губернатор Вячеслав Федорищев в своем Telegram-канале. Он сообщил, что на месте падения дронов работают оперативные службы, последствия ликвидируют. Какое именно предприятие попало под удар, Федорищев не уточнил.…",
-          "url": "https://lenta.ru/news/2026/08/08/bespilotniki-atakovali-rossiyskoe-promyshlennoe-predpriyatie/"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В Самарской области БПЛА атаковали промышленное предприятие",
-          "excerpt": "Одно из промышленных предприятий Самарской области подверглось атаке БПЛА ночью. На месте падения БПЛА работают оперативные службы, информация о пострадавших уточняется. МОСКВА, 8 авг - РИА Новости. Одно из промышленных предприятий Самарской области ночью подверглось атаке БПЛА, идет ликвидация последствий, сообщил губернатор Вячеслав Федорищев.…",
-          "url": "https://ria.ru/20260808/ataka-2109688375.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "coverage": 4,
+      "headline_en": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "excerpt": "Trump again tries to limit US birthright citizenship with new executive orders - Published Donald Trump is trying again to scale back birthright citizenship in the US, weeks after the Supreme Court shot down his previous attempt to eliminate the right.…",
-          "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-          "excerpt": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
-          "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Trump targets birth tourism and citizenship in new executive orders",
-          "excerpt": "President Trump plans to sign two executive orders Thursday seeking to narrow birthright citizenship in several circumstances and intensify the federal crackdown on commercial \"birth tourism,\" Axios has learned. Trump also is seeking to deny birthright citizenship for children born of some foreign diplomatic staff in the U.S. and, potentially, U.S. territories in the future.…",
-          "url": "https://www.axios.com/2026/08/06/trump-birth-tourism-birthright-citizenship"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "Trump’s Déjà-Vu Moment on Birthright Citizenship",
-          "excerpt": "Trump’s Déjà-Vu Moment on Birthright Citizenship The president’s latest attempt to limit who is an American by birth is plagued by weak legal arguments and nonsensical claims. This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.…",
-          "url": "https://www.theatlantic.com/newsletters/2026/08/trump-birthright-citizenship-limits/688232/?utm_source=feed"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Murkowski will oppose Blanche, threatening his confirmation",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Murkowski will oppose Blanche, threatening his confirmation",
-          "excerpt": "Sen. Lisa Murkowski (R-Alaska) will vote against Todd Blanche's nomination for attorney general , becoming the second known Republican to oppose him. Why it matters: Murkowski's opposition puts Blanche's confirmation in jeopardy . With Sen. Mitch McConnell (R-Ky.) still absent from the Senate, Blanche cannot afford to lose any more GOP support. Sen.…",
-          "url": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Cassidy backs Blanche for attorney general, clearing way for confirmation",
-          "excerpt": "Cassidy backs Blanche for attorney general, clearing way for confirmation Washington — Republican Sen. Bill Cassidy of Louisiana announced Friday that he will support Todd Blanche's nomination for attorney general, clearing the way for him to lead the Justice Department in a permanent capacity. \"Mr.…",
-          "url": "https://www.cbsnews.com/news/bill-cassidy-todd-blanche-attorney-general-confirmation/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Cassidy Says He'll Support Blanche for Attorney General, Offering Lifeline to Trump's Nominee",
-          "excerpt": "Republican Sen. Bill Cassidy of Louisiana announced Friday he'll vote in favor of confirming Todd Blanche for Attorney General, offering a lifeline to President Donald Trump’s nominee. In an address on the Senate floor, Cassidy acknowledged Blanche \"is not perfect,\" but argued no one is, and suggested another nominee may not fare any better.…",
-          "url": "https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Sen. Mitch McConnell announces he has been discharged from rehab facility",
-          "excerpt": "Sen. Mitch McConnell announces he has been discharged from rehab facility McConnell said in a statement he'll continue his recovery at home. Republican Sen. Mitch McConnell, after weeks of in-patient care following a fall in mid-June, announced via a statement on Thursday that he has been discharged from a rehabilitation center and will continue his recovery at home.…",
-          "url": "https://abcnews.com/Politics/mcconnell-discharged-rehab-facility/story?id=135434047"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-          "excerpt": "The Trump administration plans to provide $1bn in security assistance to the government of Colombia’s new rightwing president, the US state department announced, soon after Abelardo De La Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against drug trafficking, as well as austerity measures to restore confidence in the economy.…",
-          "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Colombia: Trump ally De la Espriella takes office",
-          "excerpt": "Colombia: Trump ally De la Espriella takes office August 8, 2026 Abelardo de la Espriella was sworn in as Colombia's president on Friday, promising to boost ties with the United States and tackle armed groups linked to the drug trade. The 48-year-old ex-lawyer lurches the Andean nation to the right, taking office after winning a close June 21 runoff against Sen.…",
-          "url": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-all-1573-rdf"
+          "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "excerpt": "Saudi Arabia, Turkey and Pakistan sign defence pact - Published Saudi Arabia, Turkey and Pakistan have signed a joint defence agreement, saying an attack on one of them would be seen as an attack on all three.…",
+          "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "Colombia's Abelardo de la Espriella takes office, vows war on guerrillas",
-          "excerpt": "Colombian President-elect Abelardo de la Espriella takes office August 8, vowing to launch a war on drug gangs and cosy up to the United States. The former lawyer won June's run-off election by less than a percentage point. He's a right-wing populist in the mould of El Salvador's Nayib Bukele and Argentina's Javier Milei, and is being sworn in in an unusual location.",
-          "url": "https://www.france24.com/en/video/20260807-colombia-s-abelardo-de-la-espriella-takes-office-vows-war-on-guerrillas"
+          "headline": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
+          "excerpt": "Saudi Arabia, Pakistan and Turkey signed a joint defence agreement in Mecca on Friday, aimed at strengthening collective deterrence. Under the pact, an armed attack on any one of the three countries would be considered an attack on all. Simon Moritz tells us more about what’s in the agreement.",
+          "url": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war"
         },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-          "excerpt": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.…",
-          "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss"
+          "headline": "What are the challenges facing the Mecca agreement?",
+          "excerpt": "What are the challenges facing the Mecca agreement? Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US. Saudi Arabia, Pakistan and Turkiye have signed a joint defence pact. It is an alliance that analysts say highlights Riyadh’s desire to diversify its defence partnerships, expanding to Ankara and Islamabad.…",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss"
         }
       ]
     },
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "Wildberries протестирует партнёрские хабы для хранения товаров — их могут открыть владельцы и арендаторы подходящих помещений",
+      "category": "🌍 World",
+      "headline_en": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
+          "excerpt": "Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-close ties with Russia.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukraine: Russia pounds Kyiv as Zelenskyy visits Serbia",
+          "excerpt": "Ukraine: Russia pounds Kyiv as Zelenskyy visits Serbia August 8, 2026 As Russia continues its relentless bombardment of Kyiv, Ukrainian President Volodymyr Zelenskyy is making his first visit to Serbia, a European country that has maintained friendly relations with Russia despite the latter's full-scale invasion of Ukraine.…",
+          "url": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Russian strikes kill four near Kyiv, Zelensky makes landmark visit to Serbia",
+          "excerpt": "Russian missile strikes killed four people, including a child, ​in ‌the Kyiv region on Saturday, said local authorities. The attack came hours after Ukrainian President Volodymyr Zelensky arrived in Belgrade on a landmark visit to Serbia, a country with close ties to Moscow. FRANCE 24's Emmanuelle Chaze reports from Kharkiv.",
+          "url": "https://www.france24.com/en/video/20260808-russian-strikes-kill-three-near-kyiv-zelensky-makes-landmark-visit-to-serbia"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Бывший глава Верховного суда Венгрии согласился стать президентом страны",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "vc.ru",
+          "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Wildberries протестирует партнёрские хабы для хранения товаров — их могут открыть владельцы и арендаторы подходящих помещений",
-          "excerpt": "В рамках мер поддержки продавцов и владельцев ПВЗ.Wildberries начинает тестирование партнёрской программы по открытию хабов для хранения и обработки товаров, рассказали в объединённой компании RWB.Владельцы и арендаторы подходящих помещений смогут открыть партнёрский хаб и получать вознаграждение за обработку, хранение и отгрузку товаров продавцов маркетплейса.…",
-          "url": "https://vc.ru/marketplace/3067542-wildberries-testiruet-partnerskie-haby-dlya-hraneniya-tovarov?from=rss"
+          "headline": "Бывший глава Верховного суда Венгрии согласился стать президентом страны",
+          "excerpt": "Бывший глава Верховного суда Венгрии согласился стать президентом страны Бывший председатель Верховного суда Венгрии Андраш Бака принял предложение партии «Тиса» стать президентом республики. Об этом сообщил премьер-министр Петер Мадьяр в Facebook (принадлежит Meta, которая признана экстремистской и запрещена в РФ).…",
+          "url": "https://www.kommersant.ru/doc/8875610"
         },
         {
-          "source": "Meduza",
+          "source": "Ведомости",
           "lang": "ru",
-          "headline": "Wildberries решила запустить «партнерские хабы» для хранения товаров",
-          "excerpt": "Wildberries решила запустить «партнерские хабы» для хранения товаров Маркетплейс Wildberries откроет «партнерские хабы» для хранения товаров в рамках мер поддержки продавцов и владельцев пунктов выдачи заказов (ПВЗ), сообщила пресс-служба объединенной компании RWB.…",
-          "url": "https://meduza.io/news/2026/08/07/wildberries-reshila-zapustit-partnerskie-haby-dlya-hraneniya-tovarov"
+          "headline": "Бывший глава Верховного суда Венгрии принял предложение стать президентом страны",
+          "excerpt": "Бывший глава Верховного суда Венгрии принял предложение стать президентом страны Бывший председатель Верховного суда Венгрии Андраш Бака согласился стать кандидатом на пост президента страны от правящей партии «Тиса».…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/08/1219766-glava-verhovnogo-suda-vengrii"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Perez Hilton faces long recovery after self-harm livestream",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Perez Hilton faces long recovery after self-harm livestream",
+          "excerpt": "Perez Hilton faces long recovery after self-harm livestream - Published The US blogger Perez Hilton is in a \"serious but stable\" condition after being admitted to hospital, according to his family. Emergency services were called to his Miami home on Tuesday after members of the public reported concerns while watching a TikTok livestream.…",
+          "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Perez Hilton hospitalized in ‘serious but stable’ condition, family says",
+          "excerpt": "Perez Hilton was in serious condition Saturday at a Florida hospital after he livestreamed what appeared to be self-harm from his Miami-area home Tuesday night, his family said in a statement. The blogger, known for celebrity news and criticism, has been stabilized, but his injuries will require surgery, the family said on Hilton’s website.…",
+          "url": "https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-serious-stable-condition-will-need-surgery-f-rcna591535"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "The Internet Is in Crisis",
+          "excerpt": "The Internet Is in Crisis For 15 minutes, the celebrity-gossip blogger Perez Hilton livestreamed his violent self-harm without anyone intervening. Almost 20 years ago, I had tickets to see Amy Winehouse perform in London, at a show that was canceled just an hour before it was scheduled to start.…",
+          "url": "https://www.theatlantic.com/culture/2026/08/perez-hilton-livestream/688223/?utm_source=feed"
         }
       ]
     },
     {
       "category": "💼 Business",
       "headline_en": "Rockstar Energy's founder wants to push out Celsius Holdings' CEO after an earnings miss",
-      "coverage": 4,
+      "coverage": 3,
       "perspectives": [
         {
           "source": "Quartz",
@@ -575,13 +561,6 @@
           "headline": "Rockstar Energy's founder wants to push out Celsius Holdings' CEO after an earnings miss",
           "excerpt": "Russ Savage, the founder of Rockstar Energy, has built a stake of more than 12 million shares in Celsius Holdings and is calling for the removal of its chief executive after the energy drink company reported second-quarter results that missed analyst expectations earlier this week.…",
           "url": "https://qz.com/rockstar-energy-founder-celsius-holdings-ceo-ouster-080726"
-        },
-        {
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "headline": "Celsius Holdings, Inc. Q2 2026 Earnings Call Summary",
-          "excerpt": "Strategic Portfolio Evolution and Operational Realignment Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.…",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/celsius-holdings-inc-q2-2026-212353089.html"
         },
         {
           "source": "Inc.",
@@ -601,526 +580,302 @@
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "coverage": 4,
+      "headline_en": "X is replacing revenue sharing with a new original content rewards program",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "excerpt": "Trump administration to pay German firm $1.2bn to halt US wind projects - Published German energy company RWE has said it will abandon its offshore wind projects in the US after reaching a $1.2bn (Â£892m) payout deal with President Donald Trump's Department of the Interior (DoI).…",
-          "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss"
+          "headline": "X is replacing revenue sharing with a new original content rewards program",
+          "excerpt": "X is replacing revenue sharing with a new original content rewards program It will focus on rewarding users that regularly post original content. X has stopped accepting new applications for its revenue-sharing program and will completely shut it down after September 7.…",
+          "url": "https://www.engadget.com/2232981/x-replacing-revenue-sharing-with-original-content-rewards-program/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+          "excerpt": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk’s reign. In its place, it’s launching a new Original Content Rewards program on September 8th.…",
+          "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards"
         },
         {
           "source": "TechCrunch",
           "lang": "en",
-          "headline": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-          "excerpt": "The Trump administration is paying another $1.2 billion to cancel an offshore wind lease, this time to German utility RWE. The energy company said in an announcement that the wind farms would have been built off the coasts of California, Louisiana, and New York. Instead, RWE will spend $900 million to buy a small stake in a Louisiana liquid natural gas export terminal.…",
-          "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
-          "excerpt": "Trump administration spends another $1.2 billion to kill offshore wind farm projects This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract. The Trump administration has reached a deal with the German energy company RWE to cancel offshore wind leases and redirect funds to fossil fuel investments.…",
-          "url": "https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Trump administration to pay €1.06 billion to cancel RWE offshore wind leases",
-          "excerpt": "US President Donald Trump, long a critic of wind energy, has repeatedly dismissed wind turbines as unsightly and has labelled them an \"economic and environmental disaster.\" Washington will fork out $1.22 billion (€1.06 billion) to German energy firm RWE to cancel the company's offshore wind leases.…",
-          "url": "http://www.euronews.com/2026/08/06/trump-administration-to-pay-106-billion-to-cancel-rwe-offshore-wind-leases"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-          "excerpt": "Thai PM vows to introduce stricter gun laws after eight killed in shooting - Published Thailand's prime minister has vowed to introduce new gun control laws in the wake of a shooting by a teenager on the outskirts of Bangkok that left eight people dead and 22 injured.…",
-          "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Video shows gunman start deadly rampage at Idaho In-N-Out drive-thru",
-          "excerpt": "Idaho In-N-Out shooting video shows gunman start deadly rampage in drive-thru Police released surveillance video footage Friday showing chilling moments from last weekend's deadly shooting that started at an Idaho In-N-Out restaurant. Three people were killed in last Saturday's rampage in Twin Falls, Idaho.…",
-          "url": "https://www.cbsnews.com/news/idaho-shooting-video-gunman-in-n-out-drive-thru/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Idaho police release chilling new video of In-N-Out mass shooting",
-          "excerpt": "Police released Friday new surveillance video of the mass shooting at an In-N-Out in Twin Falls, Idaho, showing the clearest account yet of the horrific scene that unfolded last weekend. In a news conference, the Twin Falls Police Department showed a video of the shooting edited together with clips from multiple surveillance cameras and using detailed voice-over from law enforcement.…",
-          "url": "https://www.nbcnews.com/news/us-news/idaho-police-release-chilling-new-video-n-mass-shooting-rcna591396"
+          "headline": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+          "excerpt": "X, the social media platform now owned by Elon Musk’s SpaceX, is shaking up how it pays influencers and creators. In announcing the change, the company said it will be winding down its existing Revenue Sharing program and replacing it with something called Original Content Rewards.…",
+          "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
         }
       ]
     },
     {
       "category": "💼 Business",
-      "headline_en": "Беспилотики атаковали промышленное предприятие в Самарской области",
+      "headline_en": "ЦСКА сыграл вничью с «Ростовом» в третьем туре РПЛ",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Коммерсант",
           "lang": "ru",
-          "headline": "Беспилотики атаковали промышленное предприятие в Самарской области",
-          "excerpt": "Беспилотики атаковали промышленное предприятие в Самарской области Одно из промышленных предприятий в Самарской области было атаковано с помощью беспилотников, сообщил губернатор Вячеслав Федорищев. Какое именно предприятие и где оно находится, глава региона не уточнил. Информации о пострадавших от удара пока нет, написал господин Федорищев.…",
-          "url": "https://www.kommersant.ru/doc/8875427"
+          "headline": "ЦСКА сыграл вничью с «Ростовом» в третьем туре РПЛ",
+          "excerpt": "ЦСКА сыграл вничью с «Ростовом» в третьем туре РПЛ Московский ЦСКА и «Ростов» завершили матч третьего тура Российской премьер-лиги (РПЛ) со счетом 0:0. Игра прошла на «ВЭБ-Арене» в Москве. По итогам матча ЦСКА с пятью очками занимает шестую строчку в турнирной таблице РПЛ. «Ростов» с четырьмя очками находится на седьмом месте. В следующем туре ЦСКА сыграет дома с воронежским «Факелом».…",
+          "url": "https://www.kommersant.ru/doc/8875628"
         },
         {
           "source": "Interfax",
           "lang": "ru",
-          "headline": "Промышленное предприятие в Самарской области подверглось атаке БПЛА",
-          "excerpt": "Промышленное предприятие в Самарской области подверглось атаке БПЛА Москва. 8 августа. INTERFAX.RU - Губернатор Самарской области Вячеслав Федорищев сообщил об атаке беспилотников на промышленное предприятие в регионе. \"Одно из промышленных предприятий Самарской области сегодня ночью подверглось атаке вражеских беспилотников\", - написал он в своем канале в Max утром в субботу.…",
-          "url": "https://www.interfax.ru/russia/1108184"
+          "headline": "ЦСКА и \"Ростов\" сыграли вничью в матче РПЛ",
+          "excerpt": "ÖÑÊÀ è \"Ðîñòîâ\" ñûãðàëè âíè÷üþ â ìàò÷å ÐÏË Ìîñêâà. 8 àâãóñòà. INTERFAX.RU - Ìîñêîâñêèé ÖÑÊÀ è \"Ðîñòîâ\" (Ðîñòîâ-íà-Äîíó) ñî ñ÷åòîì 0:0 çàâåðøèëè ìàò÷ òðåòüåãî òóðà ÷åìïèîíàòà Ðîññèè ïî ôóòáîëó. Âñòðå÷à ñîñòîÿëàñü â Ìîñêâå. Êîìàíäû ñîñåäè ïî òóðíèðíîé òàáëèöå. ÖÑÊÀ çàíèìàåò øåñòîå ìåñòî (5 î÷êîâ), \"Ðîñòîâ\" - ñåäüìîå (4).…",
+          "url": "https://www.sport-interfax.ru/1108279"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Puerto Rico faces severe drought as 180,000 households and businesses forced to ration water",
+      "headline_en": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "CBS News",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Puerto Rico faces severe drought as 180,000 households and businesses forced to ration water",
-          "excerpt": "Latest U.S. Iran War UFO Files World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pi…",
-          "url": "https://www.cbsnews.com/video/puerto-rico-faces-severe-drought-as-180000-households-and-businesses-forced-to-ration-water/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
-          "excerpt": "Puerto Rico rations water as severe drought leaves reservoirs depleted Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs. Al Jazeera’s Matthew Torres reports from San Juan, where residents are relying on water tankers and storage tanks as dry conditions persist. Published On 8 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Hundreds of thousands without water in Puerto Rico",
-          "excerpt": "Hundreds of thousands without water in Puerto Rico 02:10 UP NEXT New video of heroic actions at In-N-Out shooting 02:12 Judge orders Meta to pay hundreds of millions over kids’ mental health 01:29 Amanda Knox performs comedy show 01:30 Appeals court deals major setback to Trump's White House ballroom 01:31 U.S.…",
-          "url": "https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-without-water-in-puerto-rico-267970117910"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
-          "excerpt": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "OpenAI says it slowed Astra model development over security concerns",
-          "excerpt": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities.…",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "excerpt": "OpenAI says it is pausing “internal activities” around an in-development AI model, Astra, because it doesn’t yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
-          "excerpt": "A Senate panel voted Thursday to hold Anthony Fauci in contempt for repeatedly declining to answer questions last week from lawmakers investigating the origins of the COVID-19 pandemic. Why it matters: Sen. Rand Paul (R-Ky.) has said he will refer the contempt resolution to the Department of Justice for possible prosecution.…",
-          "url": "https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Senate committee votes to hold Fauci in contempt of Congress",
-          "excerpt": "Senate committee votes to hold Fauci in contempt of Congress Sen. Paul said Fauci couldn't plead the Fifth because of his preemptive pardon. Republicans on the Senate Homeland Security and Governmental Affairs Committee on Thursday voted to hold Dr. Anthony Fauci in contempt of Congress.…",
-          "url": "https://abcnews.com/Politics/senate-committee-votes-hold-fauci-contempt-congress/story?id=135422327"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "A Senate Panel Has Voted to Hold Fauci in Contempt of Congress. What Happens Next?",
-          "excerpt": "The Senate Homeland Security and Government Affairs Committee on Thursday voted to hold Dr. Anthony Fauci in contempt of Congress following a contentious hearing in which the infectious disease expert declined to answer lawmakers’ questions over 100 times.…",
-          "url": "https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Сенат США одобрил законопроект о санкциях против России",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Сенат США одобрил законопроект о санкциях против России",
-          "excerpt": "Сенат США одобрил законопроект о санкциях против России Сенат США проголосовал за законопроект о санкциях против России, сообщает Reuters. Теперь документ рассмотрит палата представителей, после этого его должен будет подписать президент США Дональд Трамп. Когда законопроект будет рассматривать палата представителей, неизвестно.…",
-          "url": "https://meduza.io/news/2026/08/07/senat-ssha-odobril-zakonoproekt-o-sanktsiyah-protiv-rossii"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Сенат США проголосовал за ужесточение санкций против РФ и Ирана",
-          "excerpt": "Сенат США проголосовал за ужесточение санкций против РФ и Ирана Сенат конгресса США проголосовал за законопроект, предусматривающий ужесточение американских санкций против России и Ирана. Прямую трансляцию голосования вел официальный сайт верхней палаты. Теперь документ поступит на рассмотрение палаты представителей конгресса.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/07/1219673-senat-ssha-progolosoval"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-          "excerpt": "The AI industry is having a rogue agent summer. The latest model to escape onto the open internet during security testing is Kimi K3, a powerful open-weight offering from the Chinese company Moonshot AI. Frontier Security, a US startup, says that Kimi K3 went outside of its sandbox while testing its defensive cybersecurity skills.…",
-          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-          "excerpt": "Kimi K3, the latest AI model made by Chinese company Moonshot, escaped an environment set up to test its cyber capabilities, researchers said in a blog post published on Friday. The news shows once again that companies and independent organizations are struggling to contain their AI models designed for hacking. In recent weeks, frontier LLMs at U.S.…",
-          "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
-          "excerpt": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment But it not, unlike OpenAI and Anthropic's models, hack a third-party website or service. It wasn't too long ago when the idea of an AI model or agent escaping their confines and breaking into websites on their own felt alarming. Now, it has become a pretty common story.…",
-          "url": "https://www.engadget.com/2232256/chinese-ai-kimi-k3-also-escaped-containment/"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-          "excerpt": "Doge overstated claims to have saved Americans $110bn, watchdog finds - Published Some estimates made by Doge, the body charged with reducing US government spending, that it saved billions of dollars are \"incorrect or lack supporting evidence\", a watchdog has found.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss"
+          "headline": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
+          "excerpt": "IRGC says Hormuz to open if US accepts Iran's terms Published August 8, 2026last updated August 8, 2026 What you need to know - The Revolutionary Guard says Iran will reopen the Strait of Hormuz once the US 'corrects its behavior' and accepts Iran's conditions - They include never threatening Iran again, lifting sanctions and releasing frozen Iranian assets - The Guards also say the strategic wate…",
+          "url": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-          "excerpt": "Elon Musk's DOGE promised to slash $2 trillion in federal spending and to make the federal workforce lean and efficient. But even the cost savings it has claimed in an online \"Wall of Receipts\" of the smaller amount of $110 billion didn't check out, according to a report the Government Accountability Office published Thursday.…",
-          "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html"
+          "headline": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+          "excerpt": "Iran on Saturday laid out sweeping demands to the U.S. for reopening the Strait of Hormuz, according to media reports. The Secretary of Iran's Supreme National Security Council, Mohammad Bagher Zolghadr, said Saturday that reopening the strait would require Washington to lift its naval blockade and sanctions, withdraw U.S.…",
+          "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html"
         },
         {
-          "source": "Ars Technica",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "DOGE's wild, unverifiable savings claims discredited in US government report",
-          "excerpt": "It won’t come as a surprise that Trump’s Department of Government Efficiency (DOGE) didn’t save taxpayers nearly as much as it claimed.…",
-          "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/"
+          "headline": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
+          "excerpt": "Live updatesLive updates, Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks IRGC sets terms to reopen Hormuz as US seeks commitments to end attacks on ships in the waterway.…",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "headline_en": "Watch: BBC asks Infantino if he will resign as Fifa president",
       "coverage": 3,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-          "excerpt": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film - Published Israeli prosecutors have charged a settler over the killing of a Palestinian activist in the occupied West Bank who helped film Oscar-winning documentary No Other Land.…",
-          "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss"
+          "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
+          "excerpt": "Watch: BBC asks Infantino if he will resign as Fifa president The BBC has asked Fifa president Gianni Infantino if he has the support of football's South American governing body, Conmebol. The Fifa head has faced multiple calls to resign after his highly controversial attempt to sell private stakes in the World Cup, which he later abandoned.…",
+          "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "The Guardian",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "Israel indicts settler over death of Palestinian activist who worked on No Other Land",
-          "excerpt": "Prosecutors in Israel have indicted an extremist settler for shooting a Palestinian activist last July, the first attempt this decade to hold an Israeli responsible for killing a Palestinian in the occupied West Bank. Yinon Levy, who was under western sanctions, is charged with manslaughter over the death of Awdeh Hathaleen, an English teacher and peace activist.…",
-          "url": "https://www.theguardian.com/world/2026/aug/06/israel-charges-west-bank-settler-killing-palestinian-activist-awdah-hathaleen"
+          "headline": "FIFA attacks critics trying to 'undermine' Gianni Infantino",
+          "excerpt": "FIFA has accused critics of a \"concerted and ongoing effort\" to undermine its president Gianni Infantino, amid claims that UEFA paid off an alleged mistress while he led European football's governing body.",
+          "url": "https://news.sky.com/story/fifa-attacks-critics-trying-to-undermine-gianni-infantino-13571263"
         },
         {
-          "source": "Al Jazeera",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Medics among six Palestinians injured in Israeli attacks across West Bank",
-          "excerpt": "Medics among six Palestinians injured in Israeli attacks across West Bank Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say. Israeli forces and settlers have injured six Palestinians, including two paramedics, in a series of attacks across the occupied West Bank governorates of Nablus and Bethlehem, according to authorities.…",
-          "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss"
+          "headline": "FIFA warns against 'concerted effort' to undermine Gianni Infantino",
+          "excerpt": "FIFA warns against 'concerted effort' to undermine Infantino August 9, 2026 FIFA warned against what it calls a \"concerted and ongoing effort\" to \"undermine\" the organization and its president, Gianni Infantino.…",
+          "url": "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "В Сумской области выявили вспышку лихорадки Западного Нила",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В Сумской области выявили вспышку лихорадки Западного Нила",
-          "excerpt": "Краткий пересказ от РИА ИИ - На подконтрольной ВСУ территории Сумской области выявлена вспышка лихорадки Западного Нила. - В этом регионе также самый высокий на Украине показатель заболеваемости гепатитом С, что связывают с большим числом раненых украинских солдат. МОСКВА, 8 авг — РИА Новости.…",
-          "url": "https://ria.ru/20260808/nil-2109688870.html"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "В Сумской области выявили вспышку экзотического заболевания",
-          "excerpt": "Вспышка лихорадки Западного Нила выявлена на подконтрольной Вооруженным силам Украины (ВСУ) территории Сумской области. Об этом РИА Новости заявили в российских силовых структурах. «На подконтрольной киевскому режиму территории Сумской области — вспышка экзотического, но сравнительно неопасного заболевания — лихорадки Западного Нила», — сообщил собеседник агентства.…",
-          "url": "https://lenta.ru/news/2026/08/08/v-sumskoy-oblasti-vyyavili-vspyshku-ekzoticheskogo-zabolevaniya/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
+      "headline_en": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
       "coverage": 3,
       "perspectives": [
         {
-          "source": "Engadget",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
-          "excerpt": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400 It would be an ambitiously high price for the AI-powered hardware pivot. We typically expect Mark Gurman at Bloomberg to have the latest tips on Apple tech, but today he's sharing info about OpenAI's planned move into hardware.…",
-          "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/"
+          "headline": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
+          "excerpt": "WASHINGTON — The Senate voted 90-6 early Saturday to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections. The legislation, advanced in a late-night session that stretched into the early hours, would keep federal funds flowing through Dec. 11 at existing levels to give time to negotiate a full-year deal.…",
+          "url": "https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359"
         },
         {
-          "source": "Fast Company",
+          "source": "Axios",
           "lang": "en",
-          "headline": "OpenAI’s vision of the future is reportedly a donut-shaped smart speaker",
-          "excerpt": "We&#8217;ve got a new vision for the next great piece of AI hardware —and it (allegedly) is going to look a lot like a donut. Details about OpenAI&#8217;s first piece of hardware, designed by Jony Ive&#8217;s LoveFrom studio, are emerging. According to Bloomberg, the device will be a smart speaker with no display . It will be shaped like a donut roughly the size of a hockey puck.…",
-          "url": "https://www.fastcompany.com/91587001/openai-hardware-donut-shaped-smart-speaker"
+          "headline": "Senate passes stopgap to avert pre-election shutdown",
+          "excerpt": "The Senate passed a stopgap spending bill early Saturday that would keep the government funded through Dec. 11, moving Washington closer to avoiding another shutdown before the November midterms. Why it matters: The bipartisan 90-6 vote would push the next government funding deadline past Election Day while offering some checks on the Trump administration.…",
+          "url": "https://www.axios.com/2026/08/08/senate-government-funding-shutdown-stopgap"
         },
         {
-          "source": "Ars Technica",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-          "excerpt": "OpenAI’s upcoming smart speaker will probably cost over $300, “people familiar with the matter” have told Bloomberg’s Mark Gurman. The generative AI company has “discussed” charging up to $400, Bloomberg, which has been reporting on the yet-to-be-announced smart speaker since July, said today. The publication said that OpenAI is viewing the smart speaker as a smartphone replacement.…",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
+          "headline": "Senate approves funding bill to avoid a shutdown before the election",
+          "excerpt": "Senate approves funding bill to avoid a shutdown before the election The Senate has passed a short-term measure to keep federal agencies funded into early December and avoid a government shutdown during campaign season WASHINGTON -- The Senate in an overnight vote Saturday approved a short-term measure to fund federal agencies into early December and avoid a potentially chaotic government shutdown…",
+          "url": "https://abcnews.com/US/wireStory/senate-approves-funding-bill-avoid-shutdown-election-135478157"
         }
       ]
     },
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "Made by Google 2026: How to watch and what to expect from the big Pixel 11 event",
+      "category": "💼 Business",
+      "headline_en": "Егор Громадский стал чемпионом Европы по пятиборью",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "Made by Google 2026: How to watch and what to expect from the big Pixel 11 event",
-          "excerpt": "Made by Google 2026: How to watch and what to expect from the big Pixel 11 event Follow ZDNET: Add us as a preferred source on Google. Google will announce its latest smartphone lineup, the Pixel 11 series, at its \"Made by Google\" event on Aug. 12.…",
-          "url": "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/"
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Егор Громадский стал чемпионом Европы по пятиборью",
+          "excerpt": "Егор Громадский стал чемпионом Европы по пятиборью Российский спортсмен Егор Громадский завоевал золотую медаль на чемпионате Европы по современному пятиборью. Турнир проходит в Стамбуле. Фото: Федерация современного пятиборья России Громадский набрал 1606 баллов. Серебряную медаль завоевал венгерский спортсмен Ботонд Тамаш с 1599 баллами.…",
+          "url": "https://www.kommersant.ru/doc/8875626"
         },
         {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Android Circuit: Galaxy Z Fold8 Ultra Records, Qualcomm’s New 8 Elite, Pixel 11 Pro Specs",
-          "excerpt": "Taking a look back at this week’s news and headlines across the Android world, including Pixel 11 Pro specs, Galaxy Z Fold8 records broken, Samsung’s approach to health and fitness, Gemini for WearOS, Qualcomm’s latest 8 Elite, Asus Googlebook spotted, and more Developer Verification issues.…",
-          "url": "https://www.forbes.com/sites/ewanspence/2026/08/06/android-news-headlines-galaxy-fold8-ultra-gemini-wearos-pixel-11-pro-googlebook/"
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Российский пятиборец Егор Громадский завоевал золото на ЧЕ",
+          "excerpt": "Российский пятиборец Егор Громадский завоевал золото на ЧЕ Россиянин Егор Громадский выиграл чемпионат Европы по современному пятиборью, проходивший в Стамбуле. Спортсмен набрал 1606 баллов. Серебряным призером стал венгр Ботонд Тамаш с результатом 1599 баллов, бронзу взял итальянец Джорджио Малан, набравший 1592 балла. Чемпионат завершится 9 августа.…",
+          "url": "https://www.vedomosti.ru/lifestyle/news/2026/08/08/1219774-pyatiborets-che"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware",
-      "coverage": 2,
+      "headline_en": "Senate passes sanctions bill on Russia and Iran named for late Sen. Lindsey Graham",
+      "coverage": 3,
       "perspectives": [
         {
-          "source": "Wired",
+          "source": "NBC News",
           "lang": "en",
-          "headline": "3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware",
-          "excerpt": "The Best Cheap Gaming Laptops Actually Worth Buying Featured in this article There was a time not so long ago when you could buy a decent gaming laptop for around $800. It wouldn't be pretty, but it could play modern games at decent frame rates and provided an entry point to PC gaming for a broader demographic. These days, those same laptops cost $400 or $500 more.…",
-          "url": "https://www.wired.com/gallery/best-cheap-gaming-laptops/"
+          "headline": "Senate passes sanctions bill on Russia and Iran named for late Sen. Lindsey Graham",
+          "excerpt": "WASHINGTON — The Senate voted overwhelmingly to pass legislation to impose sanctions against Russia and Iran after months of fits and starts, with the death of Republican Sen. Lindsey Graham providing the final push. The 61-page legislation, renamed the Lindsey O.…",
+          "url": "https://www.nbcnews.com/politics/congress/senate-passes-sanctions-bill-russia-iran-named-late-sen-lindsey-graham-rcna589949"
         },
         {
-          "source": "CNN World",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Want Cash Out of Your Home? Here Are Your Best Options",
-          "excerpt": "Are you still interested in seeing your free loan offers? You're almost there! You're just minutes away from seeing great offers, absolutely FREE! Click to Continue Terms & conditions apply. NMLS#1136 Donât leave yet! You only have a few more quick questions. Continue to See Quotes You're just a few steps away from creating your account, your information is safe with us.…",
-          "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=cashoutoptions_housemoneystack&placement_name=sectionfronts&ad_headline=cashoutoptions&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616"
+          "headline": "Senate approves Russia sanctions bill named after Sen. Lindsey Graham",
+          "excerpt": "Senate approves Russia sanctions bill named after Sen. Lindsey Graham The bill was approved with overwhelming bipartisan support. The Senate on Friday approved a long-awaited Russia and Iran sanctions bill named after the late Sen. Lindsey Graham. The bill was approved with overwhelming bipartisan support by a vote of 86-11. Sen.…",
+          "url": "https://abcnews.com/Politics/senate-approves-russia-sanctions-bill-named-after-sen/story?id=135464099"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
+          "excerpt": "The Senate on Friday overwhelmingly approved a Russia sanctions bill that was long championed by the late Sen. Lindsey Graham, R-S.C., before his death last month. The legislation, named the The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, aims to hurt Russia's war effort in Ukraine by penalizing purchasers of Russian oil and Russian leaders.…",
+          "url": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html"
         }
       ]
     },
     {
-      "category": "💡 Tech & AI",
-      "headline_en": "Бренд Umo открыл предзаказы на гибридный кроссовер Umo 8 — от 4,9 млн рублей за базовую версию",
+      "category": "🌍 World",
+      "headline_en": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Бренд Umo открыл предзаказы на гибридный кроссовер Umo 8 — от 4,9 млн рублей за базовую версию",
-          "excerpt": "Первые автомобили покупатели получат в октябре 2026 года. Источник здесь и далее: Umo Umo 8 представлен в двух комплектациях: Max — от 4,9 млн рублей и Ultra — от 5,5 млн рублей, сообщила компания. Цены учитывают государственную субсидию — это скидка на электромобили и последовательные гибриды до 925 тысяч рублей.Автомобиль представили в начале июня 2026 года. Он создан на базе китайского GAC S7.…",
-          "url": "https://vc.ru/transport/3067492-brend-umo-predzakazy-gibridnyj-krossover-umo-8?from=rss"
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+          "excerpt": "Since the flesh-eating screwworm fly reinvaded Mexico in 2024, human cases of the voracious parasite have been mounting. According to a July surveillance report from Mexico’s Ministry of Health, there have been over 500 human cases in 2025 and 2026.…",
+          "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/"
         },
         {
-          "source": "RB.ru",
-          "lang": "ru",
-          "headline": "В России открылся предзаказ на электрокроссовер UMO 8 — цены начинаются от 4,99 млн ₽",
-          "excerpt": "В России открылся предзаказ на электрокроссовер UMO 8 — цены начинаются от 4,99 млн ₽ В автомобиль встроены сервисы Яндекса и голосовой помощник Алиса Российский производитель электромобилей UMO открыл предзаказы на полноразмерный гибридный кроссовер UMO 8, сообщили Russian Business в компании.…",
-          "url": "https://rb.ru/news/v-rossii-otkrylsya-predzakaz-na-elektrokrossover-umo-8-ceny-nachinayutsya-ot-499-mln/"
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Louisiana warns against flesh-eating bacteria after five deaths",
+          "excerpt": "Louisiana health officials are urging residents to take precautions against a flesh-eating bacterial infection following the deaths of five people this year. The Louisiana Department of Health issued a warning about the infection, known as Vibrio vulnificus, in a press release on Thursday. The department said nine people have been infected this year and five have died.…",
+          "url": "https://www.nbcnews.com/news/us-news/louisiana-five-die-flesh-eating-bacteria-rcna591518"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "excerpt": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait - Published Oman has said positive talks have been taking place with Iran over an agreement to secure a shipping route through the Strait of Hormuz, as Tehran warned that any deal would not see an immediate reopening of the vital waterway.…",
+          "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Talks between Iran, Oman continue over Strait of Hormuz",
+          "excerpt": "Talks between Iran, Oman continue over Strait of Hormuz Negotiations are ongoing between Iran and Oman regarding the management of the Strait of Hormuz. While those talks over the crucial waterway drag on, however, gas prices remain high for Americans. Imtiaz Tyab reports.",
+          "url": "https://www.cbsnews.com/video/iran-oman-continue-talks-over-strait-of-hormuz/"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Innovation Doesn't Happen Without Crisis: Rolapp",
+      "headline_en": "Уиткофф и Кушнер могут посетить Киев и Москву — источник ТАСС",
       "coverage": 2,
       "perspectives": [
+        {
+          "source": "The Bell",
+          "lang": "ru",
+          "headline": "Уиткофф и Кушнер могут посетить Киев и Москву — источник ТАСС",
+          "excerpt": "Спецпредставители Дональда Трампа Стив Уиткофф и Джаред Кушнер могут посетить Киев и Москву «в диапазоне недели — дней десяти», сообщил источник агентства ТАСС. Западные союзники Украины пытаются снова организовать мирные переговоры между Москвой и Киевом с конца июля. Неделю назад госсекретарь США Марко Рубио заявил, что Вашингтон «приложит усилия», чтобы понять, возможен ли диалог.…",
+          "url": "https://thebell.io/uitkoff-i-kushner-mogut-posetit-kiev-i-moskvu--istochnik-tass"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "ТАСС: Уиткофф и Кушнер могут посетить Киев и Москву на следующей неделе",
+          "excerpt": "ТАСС: Уиткофф и Кушнер могут посетить Киев и Москву на следующей неделе Спецпосланник президента США Дональда Трампа Стив Уиткофф и зять американского лидера Джаред Кушнер могут приехать в Киев и Москву на следующей неделе. Об этом сообщает ТАСС со ссылкой на источник. Собеседник агентства отметил, что поездка может состояться в течение недели или десяти дней.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/08/1219753-uitkoff-kushner-kiev-moskvu"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "China’s monthly inflation cools as impact from Iran war eases",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "China’s monthly inflation cools as impact from Iran war eases",
+          "excerpt": "July CPI rises at slowest pace since January while factory-gate price growth decelerates",
+          "url": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1"
+        },
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Innovation Doesn't Happen Without Crisis: Rolapp",
-          "excerpt": "Brian Rolapp, CEO of PGA Tour, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the changing landscape of sports media coverage, the rising costs of streaming bills for consumers, and the evolution of the PGA Tour after the rise and fall of LIV Golf. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-07/innovation-doesn-t-happen-without-crisis-rolapp-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "PGA Tour CEO Exclusive and David Kelly Talks Investing | Bloomberg Money 8/7/2026",
-          "excerpt": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Meredith Whitney Advisory Group CEO Meredith Whitney, JPMorgan Asset Management Chief Global Strategist David Kelly, and PGA Tour CEO Brian Rolapp. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-money-8-7-2026-video"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Two adults and a child who disappeared while tubing on a Michigan river found safe",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Two adults and a child who disappeared while tubing on a Michigan river found safe",
-          "excerpt": "Two women and a 9-year-old who disappeared while tubing on a Michigan river earlier this week were found safe Friday afternoon, authorities said. A Michigan State Police K-9 team and state conservation officers found them at 4:36 p.m., nearly a mile away from a boat launch on the Muskegon River, state police said in a statement. “This is the outcome everyone hoped for,” the agency said.…",
-          "url": "https://www.nbcnews.com/news/us-news/two-adults-child-disappeared-tubing-michigan-river-found-safe-rcna591446"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "2 adults, 9-year-old who went missing after tubing on river found safe",
-          "excerpt": "2 adults, 9-year-old who went missing after tubing on Muskegon River found safe \"This is the outcome everyone involved had hoped for,\" police said. Three people who went missing after they were believed to have been tubing on the Muskegon River in Michigan have been found \"alive and safe,\" authorities said Friday.…",
-          "url": "https://abcnews.com/US/2-adults-9-year-missing-after-tubing-muskegon/story?id=135426576"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Yemen's Houthis escalate deadly attacks on Saudi-backed troops",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Yemen's Houthis escalate deadly attacks on Saudi-backed troops",
-          "excerpt": "Iran War Updates: Yemen's Houthis escalate deadly attacks on Saudi-backed troops What to know about the Iran war today: - Yemeni state media reported Friday that Iran-backed Houthi rebels had launched fresh missile and drone attacks on Saudi-backed government troops in the eastern Yemeni city of Marib, a day after a series of strikes on government military positions left dozens dead and wounded.…",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Houthi attacks kill at least 10 in Yemen as rebels target oil-rich Marib",
-          "excerpt": "Houthi attacks kill at least 10 in Yemen as rebels target oil-rich Marib At least eight members of Yemeni government forces and two civilians were killed Friday in new attacks by Houthi rebels in an oil-rich province.…",
-          "url": "https://www.france24.com/en/middle-east/20260807-houthi-attacks-kill-at-least-10-in-yemen-as-iran-backed-rebels-target-marib"
+          "headline": "China’s Inflation Cools as Iran War Oil Shock Starts to Ease",
+          "excerpt": "China’s factory-gate inflation eased for the first time since the Iran war broke out in late February while consumer prices also decelerated, in another sign that cost pressures from the oil shock are starting to fade.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-s-inflation-cools-as-oil-shock-of-iran-war-starts-to-ease"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Исследование: переход на российские сертификаты безопасности обойдётся крупному бизнесу в десятки миллионов рублей",
+      "headline_en": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Habr",
-          "lang": "ru",
-          "headline": "Исследование: переход на российские сертификаты безопасности обойдётся крупному бизнесу в десятки миллионов рублей",
-          "excerpt": "Настройка корпоративных IT‑систем при переходе на отечественные сертификаты безопасности может стоить каждой крупной российской компании с численностью сотрудников от 10 тыс. до 50 тыс. человек от 10 млн до 50 млн рублей. Такие подсчёты сделали по запросу «Ведомостей» представители IT‑разработчиков «Рексофт» и ГК «Астра».…",
-          "url": "https://habr.com/ru/news/1068002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068002"
+          "source": "Wired",
+          "lang": "en",
+          "headline": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
+          "excerpt": "It's easier and more affordable than ever to capture and channel solar energy for your home. These handy portable batteries can harness the power of the sun to give you free electricity for your campsite, RV, or home. Simply pair them with some of the best portable solar panels, and you have the means to generate your own electricity whenever the sun is out.…",
+          "url": "https://www.wired.com/story/best-solar-generators/"
         },
         {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "День 1626: переход на отечественные сертификаты безопасности может стоить каждой крупной российской компании 10-50 млн рублей",
-          "excerpt": "Правительство совместно с участниками отрасли согласовало параметры для отнесения ИИ-моделей к национальным. Российскому юрлицу — разработчику должны принадлежать исключительные права на обучаемые параметры и архитектуру, включая конфигурационные файлы и топологию сети, исходный программный код обучения и эксплуатации модели и «конфигурацию контекстного окна».…",
-          "url": "https://vc.ru/money/3066971-perehod-na-rossiyskie-sertifikaty-bezopasnosti?from=rss"
+          "source": "Time",
+          "lang": "en",
+          "headline": "How and When You Can Watch August's Stunning Partial Solar Eclipse From the U.K. and Ireland",
+          "excerpt": "Europe is getting its first total solar eclipse in 27 years, with some territories set to witness a full obscuration of the sun on Aug. 12. While residents in parts of Greenland, Spain, northern Russia, Iceland, and a small corner of Portugal will benefit from being in the path of totality, people in the U.K. and Ireland will experience a slightly more diluted version of the rare celestial event.…",
+          "url": "https://time.com/article/2026/08/07/solar-eclipse-august-uk-ireland-europe-how-when-to-watch/"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Once Upon a Farm CEO on Outlook Boost, Consumer Demand",
+      "headline_en": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "Wired",
           "lang": "en",
-          "headline": "Once Upon a Farm CEO on Outlook Boost, Consumer Demand",
-          "excerpt": "John Foraker, Co-Founder and CEO of Once Upon a Farm, discussed the company's strong 42% sales growth in the recent quarter and expressed confidence in sustaining this momentum due to resilient consumer demand across baby and kid food categories. The company has raised its guidance for the full year and anticipates continued growth.…",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-07/once-upon-a-farm-ceo-on-outlook-boost-consumer-demand-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Gen CEO on Earnings, New Cybersecurity Attack Tracker",
-          "excerpt": "Gen Digital's shares are reaching their highest levels in nearly a year following an upward revision of its earnings forecast. Vincent Pilette, President and CEO of Gen Digital, expressed strong confidence in sustaining double-digit growth over the coming quarters, driven by increased demand for cybersecurity solutions amid growing concerns related to AI and agentic technologies.…",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-07/gen-ceo-on-earnings-new-cybersecurity-attack-tracker-video"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Child among three killed in Russian missile attacks near Kyiv",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Child among three killed in Russian missile attacks near Kyiv",
-          "excerpt": "Child among three killed in Russian missile attacks near Kyiv - Published At least three people, including a child, have been killed in overnight Russian attacks near the Ukrainian capital Kyiv. In the early hours of Saturday missiles hit east of the capital and witnesses reported hearing powerful explosions just days after strikes across Ukraine killed 21 people.…",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Russian strikes near Ukrainian capital kill three, including child",
-          "excerpt": "Russian strikes near Ukrainian capital kill three, including child Attack comes as US Senate passes new Russia sanctions and Kyiv pleads for more interceptors. Russian strikes have killed three people, including a child, in the region surrounding Kyiv, according to a Ukrainian official, as explosions rocked the capital and fires broke out across parts of the city.…",
-          "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-          "excerpt": "South Korea space agency shares Moon images after SpaceX rocket debris crash - Published South Korea's space agency has released images that show the Moon after part of a SpaceX rocket crashed into its surface on Wednesday.…",
-          "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss"
+          "headline": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+          "excerpt": "The first images of a SpaceX Falcon 9 rocket stage impact on the moon’s surface have emerged. The Korea Aerospace Research Institute shared the first photographs captured by its lunar orbiter. South Korea is one of the few nations that currently has satellites traveling around the moon at an altitude of 62 miles (100 kilometers) above the surface.…",
+          "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/"
         },
         {
           "source": "Engadget",
@@ -1132,23 +887,191 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "The Atlantic: Маск не разрешает Украине использовать Starlink для ударов по России. Он считает, что «пора заключать сделку»",
+      "category": "💼 Business",
+      "headline_en": "Германия выслала почти 400 россиян с начала конфликта на Украине",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Meduza",
+          "source": "Коммерсант",
           "lang": "ru",
-          "headline": "The Atlantic: Маск не разрешает Украине использовать Starlink для ударов по России. Он считает, что «пора заключать сделку»",
-          "excerpt": "The Atlantic: Маск не разрешает Украине использовать Starlink для ударов по России. Он считает, что «пора заключать сделку» Бывший министр обороны Украины Михаил Федоров через неофициальные каналы пытается убедить владельца SpaceX Илона Маска в том, чтобы тот разрешил ВСУ использовать Starlink для наведения на цели в России, а именно на российские ракетные пусковые установки.…",
-          "url": "https://meduza.io/news/2026/08/07/the-atlantic-mask-ne-razreshaet-ukraine-ispolzovat-starlink-dlya-udarov-po-rossii-on-schitaet-chto-pora-zaklyuchat-sdelku"
+          "headline": "Германия выслала почти 400 россиян с начала конфликта на Украине",
+          "excerpt": "Германия выслала почти 400 россиян с начала конфликта на Украине За четыре года немецкие власти выслали на родину более 80 российских дипломатов и 313 обычных граждан России, сообщает Bild со ссылкой на данные МИД и МВД ФРГ. Массовые высылки сотрудников дипмиссии начались весной 2022 года, когда персонами нон грата сразу объявили 40 человек.…",
+          "url": "https://www.kommersant.ru/doc/8875631"
         },
         {
           "source": "Ведомости",
           "lang": "ru",
-          "headline": "The Atlantic: Маск запретил Украине использовать Starlink для ударов по РФ",
-          "excerpt": "The Atlantic: Маск запретил Украине использовать Starlink для ударов по РФ Миллиардер Илон Маск ограничил Украине использование спутниковой сети Starlink для атак на Россию и призвал к мирным переговорам. Об этом сообщило издание The Atlantic со ссылкой на источник из ближайшего круга бывшего министра обороны Украины Михаила Федорова.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/07/1219669-mask-zapretil-ukraine"
+          "headline": "Bild: Германия выслала около 400 россиян с начала конфликта на Украине",
+          "excerpt": "Bild: Германия выслала около 400 россиян с начала конфликта на Украине Германия с начала 2022 г. выслала около 400 граждан России, среди которых более 80 человек имели дипломатический статус, подсчитал Bild. По информации газеты, немецкие власти рассматривали высланных российских дипломатов как лиц, связанных с разведывательной деятельностью.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/08/1219767-germaniya-vislala-rossiyan"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Weak Jobs Data Masked by Falling Unemployment",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Weak Jobs Data Masked by Falling Unemployment",
+          "excerpt": "The US unexpectedly lost 23,000 jobs in July while unemployment fell to 4.1%, a decline driven by fewer people participating in the labor force rather than stronger employment.…",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-08/weak-jobs-data-masked-by-falling-unemployment-video"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
+          "excerpt": "The U.S. economy saw an unexpected declined in jobs during July while the unemployment rate edged lower, the Bureau of Labor Statistics reported Friday in a snapshot that showed a slowing employment picture. Nonfarm payrolls fell by a seasonally adjusted 23,000 for the month, compared with a downwardly revised 20,000 for June.…",
+          "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+          "excerpt": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China - Published Typhoon Dolphin has cut power to at least 44,000 buildings and injured at least five people after hitting Japan's Okinawa island on Saturday. Flights to and from Okinawa's main airport - Naha International Airport - were cancelled as it closed on Friday as the storm arrived.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Typhoon Dolphin hits Japan as China braces for coming storm",
+          "excerpt": "Typhoon Dolphin hits Japan as China braces for coming storm August 8, 2026 Typhoon Dolphin raged over Japan's southern regions on Saturday, causing some injuries and blackouts. Okinawa and Amami island in Kagoshima prefecture were the areas expected to be worst affected.…",
+          "url": "https://www.dw.com/en/typhoon-dolphin-hits-japan-as-china-braces-for-coming-storm/a-78286728?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Messi's father Jorge dies aged 68 after illness",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Messi's father Jorge dies aged 68 after illness",
+          "excerpt": "Messi's father Jorge dies aged 68 after illness - Published Lionel Messi's father Jorge has died at the age of 68 following a long illness. Jorge, who had also been the Argentina forward's agent since he was 14, passed away in a hospital in his hometown of Rosario, Argentina, in the early hours of Saturday morning.…",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68",
+          "excerpt": "Jorge Messi, a constant presence in the stands at his son Lionel Messi’s matches, has died at age 68 after an illness, according to a statement from the clinic that treated him. The Argentine businessman worked as a steel executive and managed his son’s career for decades.…",
+          "url": "https://www.nbcnews.com/sports/soccer/jorge-messi-father-soccer-legend-lionel-dies-age-68-rcna591487"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "В «Шереметьево» опоздавшие на рейс пассажирки выбежали на летное поле",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "В «Шереметьево» опоздавшие на рейс пассажирки выбежали на летное поле",
+          "excerpt": "В «Шереметьево» опоздавшие на рейс пассажирки выбежали на летное поле В аэропорту «Шереметьево» опоздавшие на рейс пассажирки выбежали на летное поле за буксируемым на взлетную полосу самолетом. Видеозапись инцидента завирусилась в соцсетях. Как сообщили в пресс-службе аэропорта, пассажирки прошли все линии предполетного контроля и находились в чистой зоне перед посадкой.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/08/08/1219750-sheremetevo-vibezhali-na-pole"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "В Шереметьево две пассажирки, опоздавшие на рейс, попытались догнать самолет по летному полю. Их задержали",
+          "excerpt": "В Шереметьево две пассажирки, опоздавшие на рейс, попытались догнать самолет по летному полю. Их задержали В аэропорту Шереметьево опоздавшие на рейс пассажирки попытались догнать самолет прямо по летному полю. Ролик, как девушки идут за самолетом, пока его буксируют на взлетную полосу, завирусился в соцсетях. В пресс-службе Шереметьево рассказали, что инцидент произошел еще 25 июля.…",
+          "url": "https://meduza.io/news/2026/08/08/v-sheremetievo-dve-passazhirki-opozdavshie-na-reys-popytalis-dognat-samolet-po-letnomu-polyu-ih-zaderzhali"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "WATCH:  What social media apps can do to support children's mental health",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  What social media apps can do to support children's mental health",
+          "excerpt": "What social media apps can do to support children's mental health ABC News' Stephanie Ramos spoke with University of Wisconsin professor Dr. Megan Moreno about the nearly billion dollar penalty against Meta and the impact on children's mental health. August 7, 2026",
+          "url": "https://abcnews.com/video/135471110/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+          "excerpt": "A New Mexico judge yesterday ordered Meta to pay $567 million for a fund that would alleviate the “public nuisance” created by its social media services. The order to pay for youth mental health care is in addition to $375 million in civil penalties that a jury ordered Meta to pay earlier in the same case. New Mexico Attorney General Raul Torrez sued Meta in a Santa Fe County court in 2023.…",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
+          "excerpt": "A Lebanese village held by the country's army was infiltrated by Israeli forces, who built a roadblock near the town square overnight, the mayor and state media said Saturday. The Lebanese army was deployed to Zawtar al-Gharbiya more than two weeks ago within the framework of a US-sponsored agreement signed with Israel.",
+          "url": "https://www.france24.com/en/middle-east/20260808-israeli-troops-infiltrate-lebanese-army-held-village-and-build-roadblock-mayor-says"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "excerpt": "Lebanese soldiers injured while Israeli troops intrude on southern town Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where residents say Israeli forces built an earth barrier. Three Lebanese soldiers have been wounded while trying to defuse unexploded ordnance in the southern village of Zawtar al-Gharbiyah, the Lebanese army said.…",
+          "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "The Middle East Tries Its Hand at a NATO-Style Pact",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "The Middle East Tries Its Hand at a NATO-Style Pact",
+          "excerpt": "The Middle East Tries Its Hand at a NATO-Style Pact Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations. Welcome back to World Brief, where we’re looking at military commitments for Pakistan, Saudi Arabia, and Turkey; a mass shooting in Thailand; and Colombia’s new right-wing president.…",
+          "url": "https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+          "excerpt": "Will Pakistan-Saudi-Turkiye defence pact change US strategy? Some experts say the deal precipitates a larger strategic shift in the Middle East, while others say it reinforces US goals.…",
+          "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Силы ПВО сбили 360 беспилотников над Россией за день",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Силы ПВО сбили 360 беспилотников над Россией за день",
+          "excerpt": "Силы ПВО сбили 360 беспилотников над Россией за день Средства ПВО уничтожили 360 беспилотников вооруженных сил Украины над российской территорией с 8:00 до 20:00 мск. Об этом сообщила пресс-служба Минобороны России.…",
+          "url": "https://www.kommersant.ru/doc/8875623"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Средства ПВО уничтожили 360 украинских БПЛА за день",
+          "excerpt": "Средства ПВО уничтожили 360 украинских БПЛА за день Дежурные расчеты противовоздушной обороны России перехватили и ликвидировали 360 беспилотных летательных аппаратов самолетного типа, запущенных Украиной. Об этом сообщило Министерство обороны РФ в Telegram-канале. По данным ведомства, дроны были сбиты в период с 8:00 до 20:00 мск.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/08/1219771-pvo-360-bpla"
         }
       ]
     }
