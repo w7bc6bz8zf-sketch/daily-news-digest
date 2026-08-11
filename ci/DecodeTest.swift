@@ -57,6 +57,37 @@ struct DecodeTest {
         check(sourcesCountText(21) == "21 источник", "плюрализация: 21 источник")
         check("Привет".containsCyrillic && !"Hello".containsCyrillic, "определение кириллицы")
 
+        // 6. Персонализация «Для вас»
+        func makeStory(_ headline: String, category: String, source: String, url: String) throws -> Story {
+            let json = """
+            {"id":"\(url)","category":"\(category)","lang":"ru","headline":"\(headline)","headline_en":"","coverage":2,"single_source":false,"image":"","perspectives":[{"source":"\(source)","lang":"ru","headline":"\(headline)","excerpt":"Текст","url":"https://x.ru/\(url)"}]}
+            """
+            return try JSONDecoder().decode(Story.self, from: Data(json.utf8))
+        }
+        let tech = try makeStory("Новый чип для ИИ представлен", category: "Технологии", source: "Habr", url: "a")
+        let sport = try makeStory("Футбольный матч завершился", category: "Спорт", source: "Sports.ru", url: "b")
+        let crypto = try makeStory("Биткоин обновил максимум, криптовалюты растут", category: "Экономика", source: "РБК", url: "c")
+
+        var profile = InterestProfile()
+        profile.registerRead(category: "Технологии", sources: ["Habr"])
+        profile.registerRead(category: "Технологии", sources: ["Habr"])
+        check(profile.categoryAffinity("Технологии") == 1.0, "профиль: аффинити категории")
+
+        let ranked = Personalization.rank(stories: [sport, tech], profile: profile,
+                                          topics: [], readIDs: [])
+        check(ranked.first?.id == tech.id, "«Для вас»: любимая категория поднимается выше")
+
+        let topics = Personalization.matchedTopics(in: crypto, topics: ["Криптовалюты", "Футбол"])
+        check(topics == ["Криптовалюты"], "темы: находится совпадение по ключевому слову")
+
+        let rankedTopics = Personalization.rank(stories: [tech, sport, crypto], profile: profile,
+                                                topics: ["криптовалюты"], readIDs: [])
+        check(rankedTopics.first?.id == crypto.id, "«Для вас»: подписка на тему сильнее аффинити")
+
+        let rankedRead = Personalization.rank(stories: [tech, sport], profile: profile,
+                                              topics: [], readIDs: [tech.id])
+        check(rankedRead.first?.id == sport.id, "«Для вас»: прочитанное опускается вниз")
+
         if failures > 0 {
             print("ПРОВАЛЕНО: \(failures)")
             exit(1)

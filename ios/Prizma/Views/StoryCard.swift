@@ -31,6 +31,15 @@ struct StoryCard: View {
                 }
 
                 HStack(spacing: 6) {
+                    if let topic = state.matchedTopics(for: story).first {
+                        Text("#\(topic)")
+                            .font(.caption2.weight(.semibold))
+                            .padding(.horizontal, 7)
+                            .padding(.vertical, 3)
+                            .background(Color.orange.opacity(0.15), in: Capsule())
+                            .foregroundStyle(.orange)
+                            .lineLimit(1)
+                    }
                     if story.coverage > 1 {
                         Text(sourcesCountText(story.coverage))
                             .font(.caption2.weight(.semibold))

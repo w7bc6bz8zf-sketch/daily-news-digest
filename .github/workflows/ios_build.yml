@@ -22,7 +22,7 @@ jobs:
 
       - name: Unit checks (модели, старый и новый формат JSON, закладки)
         run: |
-          swiftc -parse-as-library -o /tmp/decode_test ios/Prizma/Models.swift ci/DecodeTest.swift
+          swiftc -parse-as-library -o /tmp/decode_test ios/Prizma/Models.swift ios/Prizma/Personalization.swift ci/DecodeTest.swift
           /tmp/decode_test news_data.json
 
       - name: Build app for iOS Simulator

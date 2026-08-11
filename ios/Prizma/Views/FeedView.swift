@@ -2,6 +2,7 @@ import SwiftUI
 
 struct FeedView: View {
     @EnvironmentObject private var state: AppState
+    @StateObject private var briefing = BriefingPlayer()
 
     var body: some View {
         NavigationStack {
@@ -20,6 +21,19 @@ struct FeedView: View {
                 }
             }
             .navigationTitle("Призма")
+            .toolbar {
+                ToolbarItem(placement: .topBarTrailing) {
+                    Button {
+                        briefing.toggle(stories: state.displayedStories)
+                    } label: {
+                        Image(systemName: briefing.isPlaying
+                              ? "stop.circle.fill" : "headphones.circle.fill")
+                            .font(.title3)
+                    }
+                    .accessibilityLabel(briefing.isPlaying
+                                        ? "Остановить аудио-брифинг" : "Аудио-брифинг")
+                }
+            }
             .navigationDestination(for: Story.self) { StoryDetailView(story: $0) }
             .searchable(text: $state.searchText, prompt: "Поиск по сюжетам")
             .refreshable { await state.refresh() }
@@ -29,7 +43,7 @@ struct FeedView: View {
     private var feedList: some View {
         List {
             Section {
-                ForEach(state.filteredStories) { story in
+                ForEach(state.displayedStories) { story in
                     NavigationLink(value: story) {
                         StoryCard(story: story)
                     }
@@ -37,11 +51,21 @@ struct FeedView: View {
                 }
             } header: {
                 VStack(alignment: .leading, spacing: 10) {
+                    Picker("Режим ленты", selection: $state.feedMode) {
+                        ForEach(FeedMode.allCases) { mode in
+                            Text(mode.title).tag(mode)
+                        }
+                    }
+                    .pickerStyle(.segmented)
+                    .padding(.horizontal, 16)
+
                     categoryChips
+
                     if let date = state.collectedAt {
                         Text("Обновлено \(DateParser.relative(date))")
                             .font(.caption2)
                             .foregroundStyle(.secondary)
+                            .padding(.horizontal, 16)
                     }
                 }
                 .textCase(nil)
@@ -50,7 +74,7 @@ struct FeedView: View {
         }
         .listStyle(.plain)
         .overlay {
-            if state.filteredStories.isEmpty && !state.stories.isEmpty {
+            if state.displayedStories.isEmpty && !state.stories.isEmpty {
                 ContentUnavailableView(
                     "Ничего не найдено",
                     systemImage: "magnifyingglass",

@@ -1,6 +1,17 @@
 import Foundation
 import SwiftUI
 
+enum FeedMode: String, CaseIterable, Identifiable {
+    case forYou, all
+    var id: String { rawValue }
+    var title: String {
+        switch self {
+        case .forYou: "Для вас"
+        case .all:    "Все"
+        }
+    }
+}
+
 @MainActor
 final class AppState: ObservableObject {
 
@@ -13,27 +24,46 @@ final class AppState: ObservableObject {
     // Фильтры
     @Published var selectedCategory: String?
     @Published var searchText = ""
+    @Published var feedMode: FeedMode { didSet { defaults.set(feedMode.rawValue, forKey: "feedMode") } }
 
     // Персонализация (сохраняется между запусками)
     @Published var russianOnly: Bool { didSet { defaults.set(russianOnly, forKey: "russianOnly") } }
     @Published var hiddenSources: Set<String> { didSet { defaults.set(Array(hiddenSources), forKey: "hiddenSources") } }
     @Published var readIDs: Set<String> { didSet { defaults.set(Array(readIDs), forKey: "readIDs") } }
     @Published var bookmarkedStories: [Story] { didSet { persistBookmarks() } }
+    @Published var followedTopics: [String] { didSet { defaults.set(followedTopics, forKey: "followedTopics") } }
     @Published var feedURL: String { didSet { defaults.set(feedURL, forKey: "feedURL") } }
+    private(set) var profile: InterestProfile
+
+    // Уведомления
+    @Published var notifyEnabled: Bool { didSet { defaults.set(notifyEnabled, forKey: "notifyEnabled") } }
+    @Published var notifyTime: Date { didSet { defaults.set(notifyTime.timeIntervalSince1970, forKey: "notifyTime") } }
 
     private let service = NewsService()
     private let defaults = UserDefaults.standard
 
     init() {
+        feedMode = FeedMode(rawValue: defaults.string(forKey: "feedMode") ?? "") ?? .forYou
         russianOnly = defaults.bool(forKey: "russianOnly")
         hiddenSources = Set(defaults.stringArray(forKey: "hiddenSources") ?? [])
         readIDs = Set(defaults.stringArray(forKey: "readIDs") ?? [])
+        followedTopics = defaults.stringArray(forKey: "followedTopics") ?? []
         feedURL = defaults.string(forKey: "feedURL") ?? NewsService.defaultFeedURL
+        notifyEnabled = defaults.bool(forKey: "notifyEnabled")
+        let t = defaults.double(forKey: "notifyTime")
+        notifyTime = t > 0 ? Date(timeIntervalSince1970: t)
+            : Calendar.current.date(bySettingHour: 8, minute: 30, second: 0, of: .now) ?? .now
         if let data = defaults.data(forKey: "bookmarks"),
            let saved = try? JSONDecoder().decode([Story].self, from: data) {
             bookmarkedStories = saved
         } else {
             bookmarkedStories = []
+        }
+        if let data = defaults.data(forKey: "interestProfile"),
+           let saved = try? JSONDecoder().decode(InterestProfile.self, from: data) {
+            profile = saved
+        } else {
+            profile = InterestProfile()
         }
     }
 
@@ -65,7 +95,7 @@ final class AppState: ObservableObject {
         collectedAt = DateParser.parse(digest.collectedAt)
     }
 
-    // MARK: - Фильтрация
+    // MARK: - Фильтрация и ранжирование
 
     var availableCategories: [String] {
         var seen = Set<String>()
@@ -93,7 +123,37 @@ final class AppState: ObservableObject {
         }
     }
 
-    // MARK: - Закладки и прочитанное
+    /// Что показывает лента: «Все» — редакционный порядок,
+    /// «Для вас» — переранжирование под профиль и темы.
+    var displayedStories: [Story] {
+        switch feedMode {
+        case .all:
+            return filteredStories
+        case .forYou:
+            return Personalization.rank(stories: filteredStories, profile: profile,
+                                        topics: followedTopics, readIDs: readIDs)
+        }
+    }
+
+    func matchedTopics(for story: Story) -> [String] {
+        Personalization.matchedTopics(in: story, topics: followedTopics)
+    }
+
+    // MARK: - Темы
+
+    func followTopic(_ raw: String) {
+        let topic = raw.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !topic.isEmpty,
+              !followedTopics.contains(where: { $0.caseInsensitiveCompare(topic) == .orderedSame })
+        else { return }
+        followedTopics.append(topic)
+    }
+
+    func unfollowTopic(_ topic: String) {
+        followedTopics.removeAll { $0 == topic }
+    }
+
+    // MARK: - Закладки, прочитанное, профиль
 
     func isBookmarked(_ story: Story) -> Bool {
         bookmarkedStories.contains { $0.id == story.id }
@@ -108,11 +168,26 @@ final class AppState: ObservableObject {
     }
 
     func markRead(_ story: Story) {
+        guard !readIDs.contains(story.id) else { return }
         readIDs.insert(story.id)
+        profile.registerRead(category: story.categoryClean, sources: story.sourceNames)
+        persistProfile()
     }
 
     func isRead(_ story: Story) -> Bool {
         readIDs.contains(story.id)
+    }
+
+    func resetProfile() {
+        profile = InterestProfile()
+        persistProfile()
+        objectWillChange.send()
+    }
+
+    private func persistProfile() {
+        if let data = try? JSONEncoder().encode(profile) {
+            defaults.set(data, forKey: "interestProfile")
+        }
     }
 
     private func persistBookmarks() {
