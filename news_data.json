@@ -1,496 +1,335 @@
 {
-  "collected_at": "2026-08-10T05:05:15.662834+00:00",
+  "collected_at": "2026-08-11T04:48:27.135412+00:00",
   "total_sources": 63,
-  "total_entries": 586,
-  "story_count": 38,
+  "total_entries": 835,
+  "story_count": 40,
   "stories": [
     {
-      "category": "🌍 World",
-      "headline_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "coverage": 9,
+      "category": "💡 Tech & AI",
+      "headline_en": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+      "coverage": 6,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "CNBC",
           "lang": "en",
-          "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "excerpt": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says - Published Israeli Prime Minister Benjamin Netanyahu has rejected US President Donald Trump's 15-point plan for Gaza, stating that no military pull-out will happen until Hamas is \"genuinely\" disarmed.…",
-          "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+          "headline": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+          "excerpt": "Meta said it would open source its most powerful AI models and launch new ones designed for consumer devices, as it looks to rival leading labs like OpenAI and Anthropic. In an Instagram video posted Monday, CEO Mark Zuckerberg said that the company would open the weights for its latest AI model Muse Spark 1.2, meaning it can be downloaded and used by the public.…",
+          "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html"
         },
         {
-          "source": "The Guardian",
+          "source": "Business Insider",
           "lang": "en",
-          "headline": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-          "excerpt": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump.…",
-          "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu"
+          "headline": "What smart people are saying about Meta's open-weight model Muse Glimmer and Mark Zuckerberg's AI manifesto",
+          "excerpt": "Don't call it a comeback (yet). On Monday, much of the tech world was thrilled that Meta returned to open models with the release of Muse Glimmer. On top of that announcement, CEO Mark Zuckerberg outlined his views on the future of AI in a more than 6,500-word essay.…",
+          "url": "https://www.businessinsider.com/meta-muse-glimmer-open-weight-zuckerberg-ai-views-reactions-2026-8"
         },
         {
-          "source": "NPR News",
+          "source": "VentureBeat",
           "lang": "en",
-          "headline": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
-          "excerpt": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
-          "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas"
+          "headline": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
+          "excerpt": "Meta today released Muse Glimmer, a 30-billion-parameter open-weight model designed to run autonomous AI agents directly on consumer hardware — pushing agentic workloads that normally depend on cloud infrastructure onto high-end Macs and PCs. Just as notable as what the model does is how it&#x27;s licensed.…",
+          "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now"
         },
         {
-          "source": "Sky News",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "Netanyahu rejects Trump's Board of Peace plan for Gaza",
-          "excerpt": "Benjamin Netanyahu says he rejects a 15-point plan for Gaza by Donald Trump's Board of Peace.",
-          "url": "https://news.sky.com/story/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza-13571334"
+          "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+          "excerpt": "Meta on Monday released Muse Glimmer, an open-weight model designed to power AI agents locally on consumer hardware, providing the clearest picture yet of what CEO Mark Zuckerberg’s vision of “personal superintelligence” could look like in practice. The 30-billion parameter model is essentially an open version of Meta’s most powerful closed model, Muse Spark, which the company debuted in April.…",
+          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
         },
         {
-          "source": "Al Jazeera",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-          "excerpt": "‘No surprise': Netanyahu rejects US-backed Gaza plan ‘No surprise’: Netanyahu rejects US-backed Gaza plan Palestinian politician Mustafa Barghouti says Israeli PM Benjamin Netanyahu’s rejection of the US-backed Gaza plan is no surprise, arguing Israel has repeatedly violated past agreements. He says the real test is whether the US and Western governments will hold Israel accountable.…",
-          "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss"
+          "headline": "Meta's 'open source' Muse Glimmer model can run on a single computer",
+          "excerpt": "Meta's 'open source' Muse Glimmer model can run on a single computer The download is available for free and users can run the model on their own PCs. Meta has released a new slimmed down \"open source\" AI model that's light enough to run on a single computer, the company announced today.…",
+          "url": "https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+      "headline_en": "Trump Makes New Demands on Iran as Deal Hopes Dim",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Trump Makes New Demands on Iran as Deal Hopes Dim",
+          "excerpt": "US President Donald Trump made new demands on Iran, including compensation for people killed and wounded by Iranian actions, and for damages and death in Lebanon, Syria, Yemen, and Gaza. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-11/trump-makes-new-demands-on-iran-as-deal-hopes-dim-video"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
+          "excerpt": "US president’s statement is latest sign that negotations to end war and reopen strait of Hormuz have stalled Donald Trump has said he will demand that Iran pay compensation for the deaths of thousands of US soldiers and Iran’s own civilians killed in recent decades in the latest sign his negotiations to end the war and reopen the strait of Hormuz have reached an impasse.…",
+          "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+          "excerpt": "Live updatesLive updates, Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation Trump says the US will demand compensation from Iran for people killed in the war and during Iranian protests over the past 50 years. live This video may contain light patterns or images that could trigger seizures or cause discomfort for people with visual sensitivities.…",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "How have the goals of the Iran war evolved?",
+          "excerpt": "How have the goals of the Iran war evolved? The Iranian regime is now saying it will not reopen the Strait of Hormuz if the U.S. doesn't meet its demands, including compensation for the damage it has done in the more than five months since the start of the war. While the U.S.…",
+          "url": "https://www.cbsnews.com/video/how-have-the-goals-of-the-iran-war-evolved/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Trump Responds as Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen",
+          "excerpt": "The U.S. President said he, in turn, has instructed his representatives to demand compensation from Iran.",
+          "url": "https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Five Takeaways From Zuckerberg’s 6,500-Word Manifesto on AI",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Five Takeaways From Zuckerberg’s 6,500-Word Manifesto on AI",
+          "excerpt": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg touted his views on artificial intelligence in a 6,500-word essay published Monday, emphasizing his belief that wider access to AI models is key to the industry’s future.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+          "excerpt": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence — his latest essay spans more than 6,500 words on the matter.…",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "5 takeaways from Zuckerberg's essay on his vision for superintelligence",
+          "excerpt": "5 takeaways from Zuckerberg's essay on his vision for superintelligence Mark Zuckerberg said in an essay published on Meta's website on Monday that artificial intelligence tools should be shared with \"as many people and businesses as possible.\" In a 6,500-word post outlining the Meta founder's vision of AI, Zuckerberg also expressed his belief that \"superintelligence\" — a theoretical form of AI wi…",
+          "url": "https://www.cbsnews.com/news/mark-zuckerberg-ai-essay-takeaways/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+          "excerpt": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the “personal superintelligence” systems Meta AI is building. The ideas in the post aren’t totally new. A version of the essay ran in the Wall Street Journal two weeks ago, and he’s talked about them on Meta earnings calls before.…",
+          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Mark Zuckerberg lays out Meta’s AI vision in a 6,500-word essay: 6 things to know",
+          "excerpt": "Mark Zuckerberg is making the case for Meta&#8217;s approach to artificial intelligence . In a 6,500-word essay published Monday, Zuckerberg explained the company&#8217;s thinking on AI, what it could mean for society and security, and how policymakers should approach calls for greater oversight of the industry.…",
+          "url": "https://www.fastcompany.com/91587790/mark-zuckerberg-lays-out-metas-ai-vision-in-a-6500-word-essay-6-things-to-know"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Верховный суд снял «Яблоко» с выборов в Госдуму",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Bell",
+          "lang": "ru",
+          "headline": "Верховный суд снял «Яблоко» с выборов в Госдуму",
+          "excerpt": "Верховный суд удовлетворил иск партии «Родина» и снял с выборов в Госдуму «Яблоко» — единственную партию, выступающую за немедленное прекращение войны. За снятие ранее высказались Генпрокуратура и ЦИК. «Мы считаем, что есть все основания для удовлетворения иска в соответствии с законом, и просим снять „Яблоко” с выборов в Госдуму», — заявлял на процессе прокурор.…",
+          "url": "https://thebell.io/verkhovnyy-sud-snyal-yabloko-s-vyborov-v-gosdumu"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Верховный суд снял «Яблоко» с выборов в Госдуму по требованию конкурентов — партии «Родина». Главное. Из иска мы узнали, что антивоенная позиция — это экстремизм, а картинки из СhatGPT — это нарушение авторских прав",
+          "excerpt": "Верховный суд снял «Яблоко» с выборов в Госдуму по требованию конкурентов — партии «Родина». Главное Из иска мы узнали, что антивоенная позиция — это экстремизм, а картинки из СhatGPT — это нарушение авторских прав Верховный суд России удовлетворил иск о снятии партии «Яблоко» с выборов в Госдуму. Его в прошлую пятницу подала партия «Родина».…",
+          "url": "https://meduza.io/feature/2026/08/10/verhovnyy-sud-snyal-yabloko-s-vyborov-v-gosdumu-po-trebovaniyu-konkurentov-partii-rodina-glavnoe"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Scores dead in Colombia after powerful earthquake strikes west of country",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Scores dead in Colombia after powerful earthquake strikes west of country",
+          "excerpt": "More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of buildings in major cities including Cali and Pereira. The US and Colombian geological surveys reported that a 7.4-magnitude earthquake struck at 7.34am local time on Monday, with its epicentre in the western department of Chocó.…",
+          "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Colombia earthquake: Death toll rises to over 100",
+          "excerpt": "Colombia earthquake: Death toll rises to over 100 Published August 10, 2026last updated August 10, 2026 A powerful earthquake shook western Colombia early on Monday morning. Around six hours after the quake struck, Colombia's president said that 111 people had been confirmed dead around the country. Rescue teams were working to free residents after buildings collapsed in Cali and other cities.…",
+          "url": "https://www.dw.com/en/colombia-earthquake-death-toll-rises-to-over-100/a-78307841?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "7.4 earthquake strikes western Colombia, killing over 100 people",
+          "excerpt": "Strong earthquake strikes western Colombia, killing at least 111 people A strong earthquake with a magnitude of 7.4 struck western Colombia on Monday, killing at least 111 people, injuring at least 87 and causing major damage across the region. It was the largest quake to hit the South American country on record.…",
+          "url": "https://www.cbsnews.com/news/colombia-earthquake-western-region-evacuations/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Moment of terror as powerful earthquake shakes airport in Colombia",
+          "excerpt": "Moment of terror as powerful earthquake shakes airport in Colombia NewsFeed Moment of terror as powerful earthquake shakes airport in Colombia Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake leading to utter panic as the building starts to fall apart. Published On 10 Aug 2026",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Deadly 7.4-magnitude earthquake strikes western Colombia",
+          "excerpt": "At least 47 people were killed and dozens of buildings collapsed in cities across western Colombia on Monday after a powerful 7.4-magnitude earthquake struck the South American nation.",
+          "url": "https://www.france24.com/en/video/20260810-deadly-7-4-magnitude-earthquake-strikes-western-colombia"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
       "coverage": 5,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-          "excerpt": "How Kinahan's hearing unfolded inside the courtroom in Dublin Suspected crime boss Daniel Kinahan appeared in court in Dublin on Sunday after being extradited from Dubai following his arrest there in April. Kinahan has been charged with directing the activities of a criminal organisation between October 2015 and April 2017.…",
-          "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss"
+          "headline": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+          "excerpt": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings A powerful 7.4 magnitude earthquake has shaken western Colombia. At least 111 people have been killed and dozens more are injured, according to local officials. Buildings have collapsed and rescue efforts are under way to free those who have been trapped beneath rubble.…",
+          "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "DW English",
+          "source": "Time",
           "lang": "en",
-          "headline": "Alleged Irish crime boss Kinahan charged with directing criminal organisation",
-          "excerpt": "Alleged Irish crime boss Kinahan flown from Dubai, charged August 9, 2026 Suspected international crime boss Daniel Kinahan landed in Ireland on Sunday after being extradited from the United Arab Emirates. Following his arrival in Ireland, prosecutors charged Kinahan with directing a criminal organization during a special court sitting.…",
-          "url": "https://www.dw.com/en/alleged-irish-crime-boss-kinahan-charged-with-directing-criminal-organisation/a-78297919?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "Alleged boss of Irish crime gang charged and taken to jail",
-          "excerpt": "Daniel Kinahan has been remanded in custody after appearing before an Irish court charged with directing an organised crime group.",
-          "url": "https://news.sky.com/story/daniel-kinahan-alleged-boss-of-irish-crime-gang-charged-and-taken-to-jail-13571522"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
-          "excerpt": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai. The 49-year-old, who is one of the world’s most wanted men, was charged with directing a criminal organisation after being extradited from Dubai. Published On 10 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss"
+          "headline": "What to Know About the Earthquake in Colombia",
+          "excerpt": "A 7.4-magnitude earthquake rattled western Colombia on Monday, causing widespread destruction and leaving at least 111 people dead.…",
+          "url": "https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Suspected Irish crime boss extradited from Dubai",
-          "excerpt": "Daniel Kinahan, 49, faces charges of directing an organized crime group.",
-          "url": "https://www.cbsnews.com/news/daniel-kinahan-irish-crime-boss-extradited-dubai/"
+          "headline": "7.4 magnitude earthquake rocks Colombia, over 100 dead, president says",
+          "excerpt": "7.4 magnitude earthquake rocks Colombia, over 100 dead, president says A 7.4 magnitude earthquake toppled dozens of buildings in western Colombia on Monday. President Abelardo de la Espriella said over 100 people were killed, and many others are missing in the rubble. Lilia Luciano is tracking the latest developments.",
+          "url": "https://www.cbsnews.com/video/74-magnitude-earthquake-rocks-colombia-over-100-dead-president-says/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia",
+          "excerpt": "Death toll in earthquake surpasses 100, Colombian president says 02:18 Now Playing Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia 01:37 UP NEXT Search for survivors underway after 7.4-magnitude earthquake hits Colombia 02:39 Centuries-old Roman shipwreck discovered off the coast of Italy 00:49 Mexican influencer fatally shot during livestream 00:50 At least 17 people …",
+          "url": "https://www.nbcnews.com/video/videos-capture-the-moment-a-7-4-magnitude-earthquake-strikes-colombia-268050501807"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "🔴 At least 20 dead after 7.4-magnitude quake hits western Colombia",
+          "excerpt": "🔴 At least 20 dead after 7.4-magnitude quake hits western Colombia",
+          "url": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Hunter Biden says Joe Biden’s cancer has spread",
+      "headline_en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
       "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Hunter Biden says Joe Biden’s cancer has spread",
-          "excerpt": "Former President Joe Biden’s son Hunter Biden told the BBC on Friday that his father’s cancer is spreading, describing it as “very debilitating” and “painful.” “It’s really hard,” Hunter Biden told the British broadcaster about his father’s condition in a televised interview. “It’s really sad to watch.” “I wish he would complain more, because it’s not good.…",
-          "url": "https://www.nbcnews.com/politics/politics-news/hunter-biden-joe-biden-prostate-cancer-spreading-rcna591499"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Hunter Biden talks about his father's 'very debilitating' battle with cancer",
-          "excerpt": "Hunter Biden talks about his father's 'very debilitating' battle with cancer The former president's son said cancer won't stop him from \"doing his thing.\" Hunter Biden said former President Joe Biden is living in pain as he battles cancer, but that hasn't stopped him from \"doing his thing.\" \"The cancer has spread, is metastasized into his bones, and further, it's very painful, and it's very debili…",
-          "url": "https://abcnews.com/Politics/hunter-biden-talks-fathers-debilitating-battle-cancer/story?id=135502601"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "‘Very Debilitating’: Hunter Biden Says His Father’s Cancer Has Spread Further",
-          "excerpt": "Former President Joe Biden’s cancer has spread “further,” his son Hunter Biden told the BBC on Friday. In an interview on Newsnight, Hunter Biden described how difficult it was to see his 83-year-old father battling the disease, which was first shared with the public in May 2025. “The cancer has spread, metastasized into his bones and further,” he said.…",
-          "url": "https://time.com/article/2026/08/09/-very-debilitating-hunter-biden-says-his-father-s-cancer-has-spread-further/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-          "excerpt": "Former President Joe Biden's prostate cancer has spread further, his son Hunter Biden said in a BBC interview, offering a stark update on the 83-year-old's health. \"It's really, really hard, and it's really sad to watch... I wish he would complain more, because it's not good,\" Hunter Biden said in the interview. \"The cancer has spread, is metastasized into his bones and further.…",
-          "url": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "При взрыве на золотом руднике на Камчатке погиб один человек",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "При взрыве на золотом руднике на Камчатке погиб один человек",
-          "excerpt": "При взрыве на золотом руднике на Камчатке погиб один человек На Асачинском золоторудном месторождении на Камчатке произошел взрыв. Один человек погиб, двое пострадали, заявили «Интерфаксу» в камчатском центре медицины катастроф. Пострадавшие находятся в стабильно тяжелом состоянии. Решается вопрос об их эвакуации наземным или воздушным транспортом, уточнили в центре. Причина взрыва неизвестна.…",
-          "url": "https://www.kommersant.ru/doc/8875965"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "При взрыве на золоторудном месторождении на Камчатке погиб человек",
-          "excerpt": "Краткий пересказ от РИА ИИ - На Асачинском золоторудном месторождении на Камчатке погиб один человек, еще двое пострадали. - По предварительной информации, причиной происшествия стал взрыв баллона на стройплощадке очистных сооружений. П.-КАМЧАТСКИЙ, 10 авг - РИА Новости.…",
-          "url": "https://ria.ru/20260810/kamchatka-2109903732.html"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Один человек погиб при взрыве на месторождении на Камчатке, двое пострадали",
-          "excerpt": "Один человек погиб при взрыве на месторождении на Камчатке, двое пострадали Москва. 10 августа. INTERFAX.RU - Один человек погиб, двое пострадали в понедельник во время взрыва на Асачинском золоторудном месторождении на Камчатке, сообщили \"Интерфаксу\" в Камчатском территориальном Центре медицины катастроф. \"По предварительной информации, один человек погиб и еще двое пострадали.…",
-          "url": "https://www.interfax.ru/russia/1108401"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Who Lived and Who Died in the Battle of Tumbleton in the House of the Dragon Season 3 Finale",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Who Lived and Who Died in the Battle of Tumbleton in the House of the Dragon Season 3 Finale",
-          "excerpt": "Warning: This post contains spoilers for the House of the Dragon Season 3 finale. It's been a good six episodes since Rhaenyra Targaryen (Emma D'Arcy) at long last seized the Iron Throne and proclaimed herself Queen of the Seven Kingdoms in House of the Dragon Season 3.…",
-          "url": "https://time.com/article/2026/08/06/house-of-the-dragon-season-3-finale-battle-of-tumbleton-who-died/"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "10 deaths in 'House of the Dragon' that were significantly changed from the book",
-          "excerpt": "Warning: Major spoilers through the \"House of the Dragon\" season three finale. \"House of the Dragon\" has returned for its third season, continuing its tradition of expanding on the source material. HBO's flagship \"Game of Thrones\" spinoff is based on George R. R. Martin's \"Fire & Blood,\" a fictional history of House Targaryen.…",
-          "url": "https://www.businessinsider.com/house-of-the-dragon-deaths-different-from-book-fire-and-blood"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "‘House Of The Dragon’ Season 3, Episode 8 Recap And Review: A Season Finale Rivaling The Best Of ‘Game Of Thrones’",
-          "excerpt": "Heavy lies the crown. Sunday night’s brutal, devastating episode of House of the Dragon certainly made that point abundantly clear. As Rhaenyra slowly descends into a pit of despair and desperation, Daemon and his armies run into some snags on their assault of Tumbleton thanks to the various tricks Lord Ormund has up his sleeves.…",
-          "url": "https://www.forbes.com/sites/erikkain/2026/08/09/house-of-the-dragon-season-3-finale-recap-review/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
-          "excerpt": "Iran has issued tough new demands for reopening the strait of Hormuz, while the United Arab Emirates said one of its ships was targeted by an Iranian missile, as a deal to open the strategic waterway remained out of reach on Saturday.…",
-          "url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Iran, Oman near deal on Strait of Hormuz",
-          "excerpt": "Iran says talks with Oman over reopening the Strait of Hormuz are nearing their final stages, but that reopening the waterway depends on further conditions and compensation for what Tehran calls violations of the June agreement. Iran has issued new demands, including that the US lift its naval blockade of the strait and Iranian ports and withdraw its military forces from the area.…",
-          "url": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Iran Says There’s Still No Deal on Reopening the Strait of Hormuz",
-          "excerpt": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges 00:37 Iran Says There’s Still No Deal on Reopening the Strait of Hormuz 01:54 Copied Copied Iran is issuing a new set of demands to President Donald Trump and American negotiators before it will consider re-opening the vital Strait of Hormuz.…",
-          "url": "https://www.today.com/video/iran-issues-new-demands-to-reopen-the-strait-of-hormuz-268006469558"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
-          "excerpt": "Republican Rep. Max Miller of Ohio will remain in his reelection race, after a key deadline passed for the GOP to replace him as its nominee, despite mounting calls from fellow Republicans for him to drop his reelection bid. Under Ohio law, Republicans have until Monday at 4 p.m. to name a replacement nominee.…",
-          "url": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Sen. Jim Banks says Rep. Max Miller should drop his re-election bid if allegations are true",
-          "excerpt": "Sen. Jim Banks, R-Ind., told NBC News’ “Meet the Press” Sunday that embattled Rep. Max Miller, R-Ohio, who is facing abuse allegations, should drop his re-election bid and resign “if the allegations are true.” Miller’s ex-wife, Emily Moreno, the daughter of Republican Sen. Bernie Moreno of Ohio, accused the congressman of domestic violence.…",
-          "url": "https://www.nbcnews.com/politics/congress/jim-banks-max-miller-resign-reelection-bid-moreno-ohio-rcna591571"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "GOP may be stuck with Rep. Max Miller in Ohio",
-          "excerpt": "Rep. Max Miller appeared to let a crucial Saturday withdrawal cutoff pass in Ohio's 7th Congressional District, effectively closing Republicans' last practical window to replace the embattled incumbent on the November ballot.…",
-          "url": "https://www.axios.com/2026/08/09/ohio-gop-max-miller-7th-district-moreno-2026"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Главные новости к утру 10 августа",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Главные новости к утру 10 августа",
-          "excerpt": "Главные новости к утру 10 августа Президент Сербии Александр Вучич предрек начало «большой войны». Число погибших при ночной атаке на Белгород выросло до шести. В Белоруссии задержали обвиняемого в поставках некачественной тушенки на СВО. В Москве из-за пожара на подстанции несколько домов остались без света, рассказал «Ъ» очевидец. Турция снова начала пропускать суда в Черное море.…",
-          "url": "https://www.kommersant.ru/doc/8875961"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Число погибших при атаке дронов ВСУ на Белгород выросло до шести",
-          "excerpt": "Число погибших при атаке дронов ВСУ на Белгород выросло до шести В ходе разбора завалов многоквартирного дома, охваченного огнем в ходе массированной ночной атаки украинских беспилотников на Белгород, обнаружено тело еще одного погибшего мужчины, сообщил оперативный штаб Белгородской области в Max. Таким образом, число жертв атаки возросло до шести человек.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/08/09/1219885-chislo-pogibshih-viroslo"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Todd Blanche’s Confirmation Would Have Been A Scandal in 1973",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Todd Blanche’s Confirmation Would Have Been A Scandal in 1973",
-          "excerpt": "Todd Blanche’s Confirmation Would Have Been A Scandal in 1973 Nixon’s “Saturday Night Massacre” triggered nationwide outage—and a firewall which is now gone.…",
-          "url": "https://foreignpolicy.com/2026/08/10/todd-blanche-saturday-night-massacre-justice-department/"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Todd Blanche's confirmation as attorney general strikes worries over US Justice independence",
-          "excerpt": "After risking his career defending Donald Trump in a criminal trial, Todd Blanche was confirmed as US attorney general, raising fears over the US Justice Department's independence. The US Senate confirmed President Donald Trump's former personal lawyer Todd Blanche as attorney general early Saturday, cementing Trump's sought-after power over the Department of Justice.…",
-          "url": "http://www.euronews.com/2026/08/09/todd-blanches-confirmation-as-attorney-general-strikes-worries-over-us-justice-independenc"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Here’s the biggest news you missed this weekend",
-          "excerpt": "Israel will not accept the 15-point plan for Gaza set out by President Donald Trump’s Board of Peace, Prime Minister Benjamin Netanyahu told a Cabinet meeting Sunday. The peace plan called for a phased withdrawal of Israel’s troops from Gaza alongside the disarmament of Hamas, but Netanyahu said that Israeli forces are not going anywhere until Hamas completely disarms first.…",
-          "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-9-rcna591443"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-          "excerpt": "Yemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two days after the kingdom signed a defence pact with Turkey and Pakistan in response to growing regional instability caused by the US-Israel war on Iran.…",
-          "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-          "excerpt": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
-          "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
-          "excerpt": "Iranian Foreign Minister Abbas Araghchi said Tehran is not currently in direct talks with the U.S. to end the war with Iran and open the Strait of Hormuz, despite Washington's assertions that a deal is near. A brief hiatus in fighting between the U.S.…",
-          "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "FIFA attacks critics trying to 'undermine' Gianni Infantino",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "FIFA attacks critics trying to 'undermine' Gianni Infantino",
-          "excerpt": "FIFA has accused critics of a \"concerted and ongoing effort\" to undermine its president Gianni Infantino, amid claims that UEFA paid off an alleged mistress while he led European football's governing body.",
-          "url": "https://news.sky.com/story/fifa-attacks-critics-trying-to-undermine-gianni-infantino-13571263"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "FIFA defends its President Infantino amid backlash",
-          "excerpt": "FIFA is defending its president, Gianni Infantino, against media allegations that an alleged lover received a six-figure severance payment. The football governing body has strongly criticised what it calls a concerted and ongoing effort to “undermine” FIFA and its president. Infantino is also facing mounting pressure over his role in a proposal to open up the World Cup to private investors.…",
-          "url": "https://www.france24.com/en/fifa-defends-its-president-infantino-amid-backlash"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "FIFA warns against 'concerted effort' to undermine Gianni Infantino",
-          "excerpt": "FIFA warns against 'concerted effort' to undermine Infantino August 9, 2026 FIFA warned against what it calls a \"concerted and ongoing effort\" to \"undermine\" the organization and its president, Gianni Infantino.…",
-          "url": "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "В Севастополе эвакуируют людей из кемпинга из-за упавших обломков БПЛА",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "В Севастополе эвакуируют людей из кемпинга из-за упавших обломков БПЛА",
-          "excerpt": "В Севастополе эвакуируют людей из кемпинга из-за упавших обломков БПЛА Над Севастополем ночью сбили 15 беспилотников, сообщил губернатор Михаил Развожаев. При ударах никто не пострадал, но из-за падения обломков сбитых БПЛА загорелся лес в районе пляжа Инжир. В лесу возникло два очага возгорания.…",
-          "url": "https://www.kommersant.ru/doc/8875953"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "В Севастополе после падения обломков БПЛА загорелся лес в районе пляжа Инжир",
-          "excerpt": "В Севастополе после падения обломков БПЛА загорелся лес в районе пляжа Инжир Москва. 10 августа. INTERFAX.RU - Губернатор Севастополя Михаил Развожаев сообщил, что число беспилотников, сбитых над городом, достигло 15. В результате падения обломков БПЛА загорелся лес в районе пляжа Инжир. \"Наши военные, авиация, ПВО и мобильные огневые группы отразили атаку ВСУ. Сбито 15 БПЛА.…",
-          "url": "https://www.interfax.ru/russia/1108393"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Abdul El-Sayed says he hopes to campaign with Obama after ‘warm and inspiring’ call",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Abdul El-Sayed says he hopes to campaign with Obama after ‘warm and inspiring’ call",
-          "excerpt": "Abdul El-Sayed, the Democratic nominee for Senate in Michigan, confirmed Sunday that he spoke to Barack Obama following his primary victory last week and said he hopes the former president will join him on the campaign trail this fall. “It was a really warm and inspiring conversation,” El-Sayed told NBC News’ “Meet the Press” about his call with Obama. “I was grateful for his advice,” he added.…",
-          "url": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "El-Sayed spoke with Obama as Michigan Democrats look to unite",
-          "excerpt": "El-Sayed spoke with Obama as Michigan Democrats look to unite El-Sayed says he hopes the former president will campaign with him. BRIDGEWATER, N.J. -- BRIDGEWATER, N.J. (AP) — Abdul El-Sayed, the Democratic nominee for U.S.…",
-          "url": "https://abcnews.com/Politics/wireStory/el-sayed-spoke-obama-michigan-democrats-unite-after-135499530"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "How Spain’s migration surge tested E.U. border policy",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "How Spain’s migration surge tested E.U. border policy",
-          "excerpt": "Tens of thousands of migrants crossed from Morocco into Ceuta, an autonomous Spanish territory in North Africa, between July 30 and 31. The unexpected crisis overwhelmed local authorities and infrastructure, marking a first test of the European Union’s (E.U.) new Pact on Migration and Asylum.…",
-          "url": "https://www.nbcnews.com/world/europe/ceuta-morocco-spain-europe-union-migration-policy-africa-rcna591322"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Spain starts border checks on Italy over Ceuta dispute",
-          "excerpt": "Spain starts border checks on Italy over Ceuta dispute Europe Issued on: 09/08/2026 - 11:02 Share The EU says the tit-for-tat border restrictions between Spain and Italy are temporary and will have no lasting impact on the Schengen zone.…",
-          "url": "https://www.france24.com/en/spain-starts-border-checks-on-italy-over-ceuta-dispute"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Hormuz Deal Elusive; Wall Street Sees Bond-Market Angst | The Asia Trade 8/10/2026",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Hormuz Deal Elusive; Wall Street Sees Bond-Market Angst | The Asia Trade 8/10/2026",
-          "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-10/the-asia-trade-8-10-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "DeepX CEO on Business Strategy, New Funding",
-          "excerpt": "Lokwon Kim, Founder and CEO at DeepX, discusses the chip designer's business strategy and latest funding. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "В Белгородской области при атаке БПЛА погибла женщина",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "В Белгородской области при атаке БПЛА погибла женщина",
-          "excerpt": "В Белгородской области при атаке БПЛА погибла женщина В селе Новая Таволжанка дрон ударил по территории частного дома. Погибла мирная жительница, сообщил оперштаб Белгородской области. ЧП случилось в Шебекинском округе. В результате полученных травм женщина скончалась на месте, уточнили в оперштабе. Белгородская область граничит с Украиной и регулярно подвергается атакам со стороны ВСУ.…",
-          "url": "https://www.kommersant.ru/doc/8875989"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Женщина погибла в результате атаки ВСУ в Белгородской области",
-          "excerpt": "Женщина погибла в результате атаки ВСУ в Белгородской области Москва. 10 августа. INTERFAX.RU - Мирная жительница погибла при украинской атаке по территории частного дома в селе Новая Таволжанка, сообщили в оперативном штабе Белгородской области в понедельник. \"В селе Новая Таволжанка ранним утром дрон ударил по территории частного дома.…",
-          "url": "https://www.interfax.ru/russia/1108407"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Demi Vollering wins Tour de France for the 2nd time",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Demi Vollering wins Tour de France for the 2nd time",
-          "excerpt": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-Phinney.",
-          "url": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Demi Vollering wins second Women’s Tour de France title",
-          "excerpt": "Demi Vollering wins second Women’s Tour de France title Dutch rider Demi Vollering won her second Tour de France Femmes title on Sunday after winning the final stage in Nice and extending her lead over nearest rival Kasia Niewiadoma, who finished second overall. Vollering previously won the race in 2023.…",
-          "url": "https://www.france24.com/en/sport/20260809-demi-vollering-wins-second-women-s-tour-de-france-title"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-          "excerpt": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant - Published The operator of a boat that overturned near the Statue of Liberty, killing a woman and a baby, has been arrested and charged with reckless endangerment, New York police said. Officials said a large search and rescue operation was launched after the incident near New York Harbour on Saturday night.…",
-          "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss"
+          "headline": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+          "excerpt": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word - Published Israel's Prime Minister Benjamin Netanyahu may have categorically rejected the new Board of Peace roadmap to disarm Hamas in Gaza, but that is unlikely to be the final word.…",
+          "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Flip-flopping Netanyahu rejects Gaza plan but cannot placate all his allies",
+          "excerpt": "Benjamin Netanyahu’s public rejection of a US-backed deal for Gaza drew scepticism in Israel, amid reports he was personally hammering out details of a pilot military withdrawal days earlier. The Israeli prime minister is struggling to balance incompatible demands on Gaza policy from his key domestic and international allies.…",
+          "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Netanyahu says no Gaza withdrawal until Hamas disarms",
+          "excerpt": "Benjamin Netanyahu said Sunday that Israel’s military “will not carry out any withdrawal until Hamas is genuinely disarmed.” The White House has not commented on the Israeli Prime Minister’s dismissal of Trump’s deal for Gaza.",
+          "url": "https://www.france24.com/en/video/20260810-netanyahu-says-no-gaza-withdrawal-until-hamas-disarms"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
+          "excerpt": "US President Donald Trump maintains that his relationship with Israel&#039;s PM Benjamin Netanyahu is still good.",
+          "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "В Хабаровске ввели режим ЧС из-за паводка на Амуре",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Хабаровске ввели режим ЧС из-за паводка на Амуре",
+          "excerpt": "В Хабаровске ввели режим ЧС из-за паводка на Амуре Мэр Хабаровска Сергей Кравчук подписал указ о введении в городе режима ЧС из-за паводка на реке Амур. Об этом сообщает пресс-служба городской администрации. По данным гидрологов, сейчас уровень воды в реке достиг 475 см. К концу августа он может подняться до 6 м.…",
+          "url": "https://www.kommersant.ru/doc/8876789"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "В Хабаровске объявили режим ЧС из-за паводка на Амуре",
+          "excerpt": "В Хабаровске объявили режим ЧС из-за паводка на Амуре В Хабаровске объявили режим чрезвычайной ситуации (ЧС) в связи с паводком на реке Амур. Соответствующее постановление подписал мэр Сергей Кравчук, сообщается на сайте администрации города. Мера принята в связи с неблагоприятным прогнозом гидрологов. К концу августа уровень воды в Амуре может подняться до 6 м.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/08/11/1220194-habarovske-chs"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+          "excerpt": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis The only suspect ever charged for the drive-by shooting that killed rap superstar Tupac Shakur on 7 September 1996 is Duane \"Keffe D\" Davis. The 63-year-old former gang boss is due to stand trial in Las Vegas, where he is accused of murder with a deadly weapon with the intent to promote, further or assist a criminal gang.…",
+          "url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Man who allegedly arranged Tupac Shakur's 1996 killing is on trial in Las Vegas",
+          "excerpt": "Man who allegedly arranged Tupac Shakur's 1996 killing is on trial in Las Vegas Las Vegas — The man who prosecutors say orchestrated the 1996 killing of rap icon Tupac Shakur went on trial Monday, almost 30 years after the fatal drive-by shooting in Las Vegas.…",
+          "url": "https://www.cbsnews.com/news/tupac-shakur-killing-1996-alleged-organizer-trial-las-vegas-duane-keffe-d-davis/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Trial opens for ex-gang leader charged with Tupac Shakur's 1996 murder",
+          "excerpt": "Jury selection is due to begin on Monday in the ​murder trial of an ex-street gang leader accused of masterminding the drive-by shooting death of hip-hop star Tupac Shakur three decades ago in Las Vegas, a long-unsolved crime that became a seminal moment in rap music history.",
+          "url": "https://www.france24.com/en/video/20260810-trial-opens-for-ex-gang-leader-charged-with-tupac-shakur-s-1996-murder"
         },
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Woman and Baby Die After Boat Capsized in New York Harbor",
-          "excerpt": "Trump Blasts Jeanine Pirro’s Move to Drop Reflecting Pool Charges 00:37 Woman and Baby Die After Boat Capsized in New York Harbor 01:12 Copied Copied New York City police are on the scene of a tragic boating accident where a woman and a young child were killed near the Statue of Liberty.…",
-          "url": "https://www.today.com/video/woman-and-five-month-old-killed-in-nyc-boating-accident-268003397711"
+          "headline": "Tupac Murder Trial Set to Begin, Nearly 30 Years After Shooting",
+          "excerpt": "The man accused of planning the murder of Tupac Shakur is set to stand trial as prosecutors look to prove Duane \"Keefe D\" Davis orchestrated the drive-by shooting that killed the hip-hop legend nearly 30 years ago. Davis has spent years talking about his involvement in the case, saying he was inside the Cadillac with the gunman when shots were fired from the backseat near the Las Vegas strip.…",
+          "url": "https://www.today.com/video/tupac-shakur-murder-trial-begins-nearly-30-years-after-death-268027973650"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
-      "coverage": 2,
+      "coverage": 4,
       "perspectives": [
         {
           "source": "The Guardian",
@@ -500,410 +339,760 @@
           "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations"
         },
         {
-          "source": "Euronews",
+          "source": "Sky News",
           "lang": "en",
-          "headline": "Over 1 million evacuated as Typhoon Dolphin hits China",
-          "excerpt": "Typhoon Dolphin made landfall in densely populated eastern China on Sunday, meteorological authorities said, after the storm triggered more than 1,000 flight cancellations, 1 million evacuations, and a top-level alert.",
-          "url": "http://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Россия и Сирия договорились о будущем российских военных баз. Их превратят в совместные тренировочные центры",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Россия и Сирия договорились о будущем российских военных баз. Их превратят в совместные тренировочные центры",
-          "excerpt": "Россия и Сирия договорились о будущем российских военных баз. Их превратят в совместные тренировочные центры Дамаск и Москва подписали меморандум о реорганизации присутствия России в Сирии. Об этом сообщает сирийское агентство SANA со ссылкой на министерство иностранных дел страны.…",
-          "url": "https://meduza.io/news/2026/08/09/rossiya-i-siriya-dogovorilis-o-buduschem-rossiyskih-voennyh-baz-ih-prevratyat-v-sovmestnye-trenirovochnye-tsentry"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Sana: Сирия и Россия договорились о будущем российских военных баз",
-          "excerpt": "Sana: Сирия и Россия договорились о будущем российских военных баз Сирия и Россия подписали меморандум о взаимопонимании о будущем российских военных баз. Они будут преобразованы в центры совместной военной подготовки, сообщило сирийское государственное агентство Sana.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/09/1219833-siriya-i-rossiya-dogovorilis"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Berkshire Hathaway’s Rare Spending Spree Turns Heads on Wall Street",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Berkshire Hathaway’s Rare Spending Spree Turns Heads on Wall Street",
-          "excerpt": "A strong earnings report reveals that new CEO Greg Abel dipped into Warren Buffett’s $380 billion cash reserve to buy back stock, boost Berkshire’s stake in Alphabet, and pursue one of its biggest acquisitions in years. One weak spot: GEICO.",
-          "url": "https://www.inc.com/kevin-haynes/berkshire-hathaways-rare-spending-spree-turns-heads-on-wall-street/91387319"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Abel puts a big chunk of Berkshire's cash to work",
-          "excerpt": "(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.) Abel puts a big chunk of Berkshire's cash to work In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending.…",
-          "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "excerpt": "Residents warned to brace for the worst as Canada wildfire rages out of control - Published A state of emergency has been declared after thousands of people were forced to flee their homes as a fast-moving wildfire spread rapidly in western Canada, doubling in size since it was first detected on Friday.…",
-          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
+          "headline": "Hundreds of flights cancelled as Typhoon Dolphin hits China",
+          "excerpt": "Torrential rain and storms in Typhoon Dolphin's wake have inundated several provinces in China's east, cancelling of hundreds of flights.",
+          "url": "https://news.sky.com/story/hundreds-of-flights-cancelled-as-typhoon-dolphin-hits-china-13571598"
         },
         {
           "source": "DW English",
           "lang": "en",
-          "headline": "Canada: British Columbia declares emergency as fires spread",
-          "excerpt": "Canada: British Columbia declares emergency as fires spread August 9, 2026 Canadian officials on Saturday declared a state of emergency in British Columbia after more than 20,000 people were ordered to flee a fast-moving wildfire.…",
-          "url": "https://www.dw.com/en/canada-british-columbia-declares-emergency-as-fires-spread/a-78291841?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "World’s seas have hit hottest temperature on record for July, say scientists",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "World’s seas have hit hottest temperature on record for July, say scientists",
-          "excerpt": "The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe. Sea surface temperatures hit record highs for July on the Atlantic coast and western Mediterranean, the EU’s Copernicus climate change service found, with severe marine heatwaves roiling Europe’s seas.…",
-          "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists"
+          "headline": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
+          "excerpt": "China: Typhoon Dolphin prompts evacuations, canceled flights August 10, 2026 Heavy rainfall and strong winds prompted flood alerts and more than 1,000 flight cancellations across China on Monday, even as Typhoon Dolphin weakened.…",
+          "url": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf"
         },
         {
           "source": "Euronews",
           "lang": "en",
-          "headline": "Western Europe sets new temperature record as heat waves continue to pummel region",
-          "excerpt": "Last month saw the highest average sea surface temperature ever recorded for July across the extra-polar oceans, or the oceans free of seasonal sea ice, Copernicus said. The European Climate Office Copernicus reports that the average temperature record for the June–July period set in 2022 was overturned by the heatwaves plaguing Western Europe this summer.…",
-          "url": "http://www.euronews.com/2026/08/10/western-europe-sets-new-temperature-record-as-heat-waves-continue-to-pummel-region"
+          "headline": "Hundreds more flights cancelled as Tropical Storm Dolphin causes flooding in eastern China",
+          "excerpt": "More than 900 flights, or about 40% of those expected, were cancelled in Shanghai’s Hongqiao and Pudong airports after about 1,300 were canceled the day before, according to Shanghai Airport Group.…",
+          "url": "http://www.euronews.com/2026/08/11/hundreds-more-flights-cancelled-as-tropical-storm-dolphin-causes-flooding-in-eastern-china"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Iran vows to keep Strait of Hormuz closed until US meets demands",
-      "coverage": 2,
+      "headline_en": "The U.S. just had its hottest month on record",
+      "coverage": 4,
       "perspectives": [
         {
-          "source": "France 24",
+          "source": "Axios",
           "lang": "en",
-          "headline": "Iran vows to keep Strait of Hormuz closed until US meets demands",
-          "excerpt": "Iran’s Revolutionary Guards said Sunday that the Strait of Hormuz would remain closed until the US meets Tehran’s demands, including an end to sanctions and compensation for war damage. The blockade of the crucial energy route has rattled markets and pushed up prices, while President Donald Trump said he was taking a low-key approach to negotiations with Iran.",
-          "url": "https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands"
+          "headline": "The U.S. just had its hottest month on record",
+          "excerpt": "Reproduced from NOAA ; Chart: Axios Visuals July was the hottest month on record for the contiguous U.S., per new federal data dating back to 1895. By the numbers: Last month's average temperature was 76.89°F, topping the 76.77°F mark set in July 1936. That's 3.3°F warmer than the 1901-2000 average.…",
+          "url": "https://www.axios.com/2026/08/10/july-2026-hottest-month"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "The U.S. just had its hottest month on record",
+          "excerpt": "The United States sweltered through its hottest July ever recorded last month, the National Oceanic and Atmospheric Administration confirmed Monday. Warmer-than-normal temperatures affected the entire contiguous U.S., averaging 76.9 degrees for the month, which was 3.3 degrees above the 20th-century average, according to NOAA.…",
+          "url": "https://www.nbcnews.com/science/climate-change/us-just-hottest-month-record-rcna591771"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "The U.S. records its hottest month ever, NOAA says",
+          "excerpt": "The contiguous United States set a record for its hottest month ever in July, according to the National Oceanic and Atmospheric Administration. Last month averaged 76.89 degrees Fahrenheit (24.94 degrees Celsius) across the Lower 48 states, eclipsing the Dust Bowl’s July 1936 by an eighth of a degree.…",
+          "url": "https://www.fastcompany.com/91587960/hottest-month-july-climate-change"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed",
-          "excerpt": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed Iran's Revolutionary Guard insisted that the Strait of Hormuz will remain closed until the U.S. complies with a list of demands, including paying for war damage. Imtiaz Tyab reports on the latest in a series of mixed messages from the regime.",
-          "url": "https://www.cbsnews.com/video/iranian-leaders-demand-us-pay-war-damage-keep-strait-of-hormuz-closed/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "An Amazon data center could have the worst polluting power plant in the country",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "An Amazon data center could have the worst polluting power plant in the country",
-          "excerpt": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state’s power grid.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-          "excerpt": "As part of a planned data center in Pecos County, Texas, Amazon is investing in an on-site power plant that could become the largest source of climate pollution in the United States, according to The New York Times. The NYT says the plant would burn natural gas and is permitted to release 33 million tons of carbon dioxide per year — more than any other power plant in the U.S.…",
-          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+          "headline": "Contiguous U.S. breaks its record for hottest month ever, NOAA says",
+          "excerpt": "Contiguous U.S. breaks its record for hottest month ever, NOAA says July was \"a wild weather month,\" setting a record as the warmest month ever for the contiguous United States, the National Oceanic and Atmospheric Administration said Monday.…",
+          "url": "https://www.cbsnews.com/news/contiguous-us-hottest-month-july-record-noaa/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Child among three killed in Russian missile attacks near Kyiv",
+      "headline_en": "В Челябинской области объявили режим \"Беспилотная опасность\"",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Child among three killed in Russian missile attacks near Kyiv",
-          "excerpt": "Child among three killed in Russian missile attacks near Kyiv - Published At least three people, including a child, have been killed in overnight Russian attacks near the Ukrainian capital Kyiv, a local official said.…",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "В Челябинской области объявили режим \"Беспилотная опасность\"",
+          "excerpt": "Доступ к чату заблокирован за нарушение правил. Вы сможете вновь принимать участие через: ∞. Если вы не согласны с блокировкой, воспользуйтесь формой обратной связи Обсуждение закрыто. Участвовать в дискуссии можно в течение 24 часов после выпуска статьи.…",
+          "url": "https://ria.ru/20260811/bespilotniki-2110126322.html"
         },
         {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
-          "excerpt": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS August 9, 2026 Overnight drone and missile attacks have killed several people and injured dozens more according to various local authorities in Ukraine and Russia. In the southern Russian city of Belgorod, near the Ukrainian border, at least five people were killed and 25 injured.…",
-          "url": "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf"
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Режим беспилотной опасности объявили в Челябинской области",
+          "excerpt": "Режим беспилотной опасности объявили в Челябинской области Москва. 11 августа. INTERFAX.RU - Режим \"Беспилотная опасность\" объявлен на территории Челябинской области, сообщается в официальном канале правительства региона в Мах. \"На территории Челябинской области объявлен режим \"Беспилотная опасность\". Возможны временные перебои в работе связи и доступа к сети Интернет\", - говорится в сообщении.",
+          "url": "https://www.interfax.ru/russia/1108602"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Anthropic is turning Claude Code’s auto mode on by default",
-      "coverage": 2,
+      "headline_en": "YouTube now requires creators to have twice as many watch hours to start earning money",
+      "coverage": 4,
       "perspectives": [
         {
           "source": "TechCrunch",
           "lang": "en",
-          "headline": "Anthropic is turning Claude Code’s auto mode on by default",
-          "excerpt": "Programming with Claude Code will soon require even less human oversight, as Anthropic says it’s making auto mode the default for Pro, Max, and Team accounts, starting on August 14. The company first unveiled a test version of auto mode in March, pitching it as a way to balance speed and control.…",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+          "headline": "YouTube now requires creators to have twice as many watch hours to start earning money",
+          "excerpt": "YouTube announced on Monday that new creators will have to meet higher thresholds to begin earning money from ads and subscriptions. Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.…",
+          "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/"
         },
         {
           "source": "Engadget",
           "lang": "en",
-          "headline": "How to use Claude's voice mode",
-          "excerpt": "How to use Claude's voice mode Anthropic's chatbot can be very vocal, if you want it to be. Since 2025, Anthropic has offered a voice mode through Claude, allowing you to speak to its chatbot instead of writing out your prompts. This past July, the company updated the feature to make it more useful.…",
-          "url": "https://www.engadget.com/2231293/how-to-use-claude-voice-mode/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "How Google’s Pixel 11 Pro Will Change Smartphones Forever",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "How Google’s Pixel 11 Pro Will Change Smartphones Forever",
-          "excerpt": "Google will launch the Pixel 11 and Pixel 11 Pro family of smartphones this week. The new smartphones will show the direction Google is taking the smartphone ecosystem through its new AI features, premium hardware choices, and controversial Android upgrades. Previous Pixel releases have reshaped the mobile landscape.…",
-          "url": "https://www.forbes.com/sites/ewanspence/2026/08/09/google-pixel-11-pro-android-17-launch-preview/"
+          "headline": "YouTube is making it harder for creators to start getting a cut of ad revenue",
+          "excerpt": "YouTube is making it harder for creators to start getting a cut of ad revenue New partners will now need twice the number of watch hours or Shorts views in order to qualify. YouTube could soon become a less viable earning source for new content creators. The platform just announced updated rules for monetization via its YouTube Partner Program and, well, it's not the best news.…",
+          "url": "https://www.engadget.com/2233900/youtube-is-making-it-harder-for-creators-to-start-getting-a-cut-of-ad-revenue/"
         },
         {
-          "source": "ZDNet",
+          "source": "The Verge",
           "lang": "en",
-          "headline": "Made by Google 2026: How to watch and what to expect from at the Pixel 11 event",
-          "excerpt": "Made by Google 2026: How to watch and what to expect from at the Pixel 11 event Follow ZDNET: Add us as a preferred source on Google. This Wednesday, Google will announce its new smartphone lineup: the Pixel 11 series.…",
-          "url": "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-          "excerpt": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found Espionage, sabotage, cyberattacks, and covert operations are a ‘constant reality’, says Germany’s interior minister. Germany is facing daily “hybrid warfare” attacks from abroad, an official has said, days after an explosive-laden drone was discovered at Leipzig/Halle Airport.…",
-          "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Germany: Interior Minister warns of 'daily' hybrid warfare",
-          "excerpt": "Germany: Interior Minister warns of 'daily' hybrid warfare August 9, 2026 Germany's Interior Minister Alexander Dobrindt on Sunday warned that hybrid warfare attacks had become a daily threat to the country. \"We're not at war, but we are the daily target of hybrid warfare,\" Dobrindt told the newspaper Bild am Sonntag following the discovery of a drone carrying explosives at Leipzig/Halle Airport.…",
-          "url": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
-          "excerpt": "Italy’s foreign minister has called Spain’s decision to impose retaliatory checks on travellers from Italy “incomprehensible and completely unacceptable” as people making their way between the two EU countries were left grappling with the effects of the escalating feud. Spain started carrying out spot checks on visitors from Italy at midnight on Saturday.…",
-          "url": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Spain - Italy: Dispute grows over migration between EU countries",
-          "excerpt": "Spain - Italy: Dispute grows over migration between EU countries Spain Issued on: 09/08/2026 - 11:10 Share The EU says the tit-for-tat border restrictions between Spain and Italy are temporary and will have no lasting impact on the Schengen zone.…",
-          "url": "https://www.france24.com/en/spain-italy-dispute-grows-over-migration-between-eu-countries"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Syria says deal agreed with Russia on future of military bases",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Syria says deal agreed with Russia on future of military bases",
-          "excerpt": "Syria says deal agreed on future of Russian bases August 9, 2026 Syria and Russia have agreed on the future management of Russian bases on the country's Mediterranean coast. Russia used the bases to provide military support to former Syrian leader Bashar Assad during Syria's 13-year civil war that ended in 2024.…",
-          "url": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Syria, Russia agree to end military use of key Mediterranean bases",
-          "excerpt": "Syria, Russia agree to end military use of key Mediterranean bases Syria and Russia have agreed to end Moscow’s use of two strategic Mediterranean bases as military outposts, Syria's foreign ministry said Sunday. Under the deal, Damascus will take control of the Hmeimem air base and part of Tartous port, while the remaining military facilities will be converted into joint training centres.…",
-          "url": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump names Will Scharf as White House counsel ahead of midterms",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Trump names Will Scharf as White House counsel ahead of midterms",
-          "excerpt": "Trump names Will Scharf as White House counsel ahead of midterms The former Trump lawyer, who worked on the presidential immunity case and oversaw approval of the president’s disputed White House ballroom project, will replace David Warrington on September 1.…",
-          "url": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Trump announces staff secretary Will Scharf will be his new White House counsel",
-          "excerpt": "Trump announces staff secretary Will Scharf will be his new White House counsel President Donald Trump says Will Scharf will be the new White House counsel, replacing David Warrington WASHINGTON -- President Donald Trump announced Sunday that his new White House counsel will be Will Scharf, the staff secretary who as the Trump-appointed head of the National Capital Planning Commission helped secur…",
-          "url": "https://abcnews.com/Politics/wireStory/trump-announces-staff-secretary-scharf-new-white-house-135505179"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Taylor Farms pulls jalapeño products sold at grocery stores",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Taylor Farms pulls jalapeño products sold at grocery stores",
-          "excerpt": "Taylor Farms pulls jalapeño products sold at grocery stores The recall list includes dips, salsas and guacamole. Taylor Farms -- the massive food producer linked to the record cyclosporiasis outbreak -- is now pulling more than a dozen products with jalapeños from grocery stores across the United States.…",
-          "url": "https://abcnews.com/US/taylor-farms-pulls-jalapeo-products-sold-grocery-stores/story?id=135507281"
+          "headline": "YouTube is making it harder to earn money on YouTube",
+          "excerpt": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube’s Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days.…",
+          "url": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements"
         },
         {
           "source": "Business Insider",
           "lang": "en",
-          "headline": "Taylor Farms issued a recall for over a dozen items, including salsa and guacamole, over Salmonella risks",
-          "excerpt": "Taylor Farms is recalling items, including salsa and guacamole, due to Salmonella risks, weeks after the company was linked to a cyclosporiasis outbreak. On Sunday, the fresh food producer said that it is pulling over a dozen prepared food items containing jalapeños from retail stores because of concerns over Salmonella, a bacteria that can cause painful food poisoning.…",
-          "url": "https://www.businessinsider.com/taylor-farms-issues-recall-salsa-guacamole-salmonella-risk-2026-8"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Ancient Roman shipwreck discovered off Sicily coast",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Ancient Roman shipwreck discovered off Sicily coast",
-          "excerpt": "Ancient Roman shipwreck discovered off Sicily coast - Published Italian divers have discovered an ancient Roman shipwreck off the coast of Sicily, believed to be more than 2,000 years old. The vessel was found piled high with hundreds of well-preserved containers, which were used to transport goods such as wine and olive oil.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Divers in Italy find ancient Roman shipwreck, amphorae off coast of Sicily believed to be 2,100 years old",
-          "excerpt": "Ancient Roman shipwreck found off coast of Sicily August 9, 2026 Divers have discovered an ancient Roman shipwreck off the coast of Sicily, Italian police said. The shipwreck is believed to be 2,100 years old. The wreck had been found approximately three nautical miles off the coast of Mazaro del Vallo in western Sicily at a depth of 46 meters (150 feet), police said in a statement.…",
-          "url": "https://www.dw.com/en/divers-in-italy-find-ancient-roman-shipwreck-amphorae-off-coast-of-sicily-believed-to-be-2-100-years-old/a-78296552?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russia and Ukraine exchange deadly overnight strikes",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Russia and Ukraine exchange deadly overnight strikes",
-          "excerpt": "Russia and Ukraine exchanged another round of overnight strikes, killing civilians and injuring many others on both sides. In Russia’s border region of Belgorod, Ukrainian drone attacks killed five people and wounded around two dozen others. Meanwhile, Russian missiles struck a high-rise apartment building in Kharkiv, killing two people, and injured several more in the Black Sea port of Odesa.…",
-          "url": "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "13 killed in Ukraine and 90 injured as Russia intensifies overnight bombardment campaign of Ukrainian cities",
-          "excerpt": "13 people were killed and some 90 others were wounded over the past 24 hours as Russian attacks as the Kremlin intensifies its bombardment of Ukrainian cities. Meanwhile, Moscow says five people were killed in Ukrainian drone attacks targeting Russian cities. Russia and Ukraine exchanged strikes overnight that killed civilians and injured many others on both sides, local authorities reported.…",
-          "url": "http://www.euronews.com/2026/08/09/13-killed-in-ukraine-and-90-injured-as-russia-intensifies-overnight-bombardment-campaign-o"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Wildfires in western Canada force more than 20,000 people to evacuate",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Wildfires in western Canada force more than 20,000 people to evacuate",
-          "excerpt": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate, killing at least 1 A fast-moving wildfire in British Columbia has killed at least one person, destroyed homes and forced more than 20,000 people to flee communities along Okanagan Lake in western Canada, with dozens rescued by aircraft.…",
-          "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Wildfires: British Columbia declares state of emergency, thousands forced to flee homes",
-          "excerpt": "Canada’s British Columbia has declared a state of emergency as a fast-moving wildfire forced more than 20,000 people to evacuate overnight. Officials say strong winds helped the flames spread rapidly, with significant challenges still remaining to bring the blaze under control. Simon Moritz has the latest.",
-          "url": "https://www.france24.com/en/wildfires-british-columbia-declares-state-of-emergency-thousands-forced-to-flee-homes"
+          "headline": "YouTube is making it harder for creators to start earning money",
+          "excerpt": "Do you dream of making money as a content creator? Well, it's about to get harder to qualify for YouTube's program that pays creators. YouTube announced on Monday that it's raising the entry requirements for the main tier of its YouTube Partner Program (YPP), the video platform's advertising revenue-sharing program.…",
+          "url": "https://www.businessinsider.com/youtube-changes-harder-creators-qualify-ypp-partner-program-monetization-ads-2026-8"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
-      "coverage": 2,
+      "headline_en": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "coverage": 4,
       "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump signs order to limit childhood vaccines and split MMR shots",
+          "excerpt": "Trump signs order to limit childhood vaccines and split MMR shots - Published US President Donald Trump has signed an order that calls for fewer childhood vaccines and also recommends splitting the mumps, measles and rubella (MMR) shots. \"Decades ago, children received only a small fraction of the vaccines required today,\" Trump said.…",
+          "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+          "excerpt": "President Trump signed an executive order Monday that makes sweeping, unilateral changes to federal vaccine recommendations. The order aims to reduce the number of lifesaving vaccines all children are recommended to get—from 18 to 11—while also splitting them up and spacing them out over more time and more medical visits. The vaccine changes are not backed by evidence or spurred by new findings.…",
+          "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/"
+        },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
-          "excerpt": "Rep. Alexandria Ocasio-Cortez said Sunday she has not \"ruled out\" a run for president in 2028 as the Democratic Party's left flank surges in midterm primaries across the country.…",
-          "url": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html"
+          "headline": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
+          "excerpt": "President Donald Trump on Monday signed an executive order backing fewer routine vaccines for kids, calling to whittle down the number of recommended childhood shots to 11 while falsely tying immunizations to autism. The order builds on the Trump administration's efforts to reshape the childhood shot schedule under Health and Human Services Secretary Robert F.…",
+          "url": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html"
         },
         {
           "source": "Axios",
           "lang": "en",
-          "headline": "AOC is keeping two very big options open for 2028",
-          "excerpt": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) left the door open Sunday to either running for president in 2028 or challenging fellow New Yorker and Senate Democratic leader Chuck Schumer. Why it matters: Ocasio-Cortez is emerging as a leading potential heir to the movement built by Sen. Bernie Sanders (I-Vt.), and whichever path she chooses could reshape the future of Democratic politics.…",
-          "url": "https://www.axios.com/2026/08/09/aoc-2028-president-schumer-senate"
+          "headline": "Trump signs executive order to split up MMR vaccine",
+          "excerpt": "President Trump issued an executive order Monday calling for fewer childhood vaccinations, splitting the childhood MMR vaccine into three shots and delivering vaccines at separate medical visits. Why it matters: Controversial vaccine policy changes appear to be roaring back ahead of the midterms .…",
+          "url": "https://www.axios.com/2026/08/10/trump-order-split-up-mmr-vaccine"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "headline_en": "US appeals court says social media addiction lawsuits can proceed",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "US appeals court says social media addiction lawsuits can proceed",
+          "excerpt": "US appeals court says social media addiction lawsuits can proceed The San Francisco-based 9th US Circuit Court of Appeals rejected tech companies’ bid to stop more than 3,000 lawsuits over addictive platform design A federal appeals court in the United States has permitted thousands of lawsuits to move forward against Meta, Google, TikTok, Snapchat and other social media companies for allegedly de…",
+          "url": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Court clears way for social media addiction suits against tech giants",
+          "excerpt": "Social media addiction lawsuits against Meta and TikTok can proceed, court rules Thousands of lawsuits alleging that social media platforms such as Instagram and TikTok encourage addictive usage can proceed after a U.S. federal appeals court on Monday denied their parent companies' appeal. The ruling by the U.S.…",
+          "url": "https://www.cbsnews.com/news/social-media-addiction-lawsuits-court-rules/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+          "excerpt": "Social media companies like Meta, TikTok, Snapchat, and Google are facing a long road of litigation over claims that they intentionally designed their products to be addictive to minors. According to a report from Reuters, San Francisco’s 9th U.S.…",
+          "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Meta, others lose appeal to drop thousands of social media addiction lawsuits",
+          "excerpt": "A U.S. Appeals Court said Monday that thousands of lawsuits targeting Meta Platforms , ByteDance's TikTok and other social media outlets can proceed. The big picture: The lawsuits argue that the platforms are addictive and harmful to young people, and have prompted several tech companies to attempt to stamp them out in a years-long process.…",
+          "url": "https://www.axios.com/2026/08/10/social-media-addiction-lawsuits-meta-tiktok"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Два склада в Воронежской области загорелись после падения обломков БПЛА",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Два склада в Воронежской области загорелись после падения обломков БПЛА",
+          "excerpt": "Два склада в Воронежской области загорелись после падения обломков БПЛА Один человек погиб, двое ранены Москва. 11 августа. INTERFAX.RU - В результате атаки 15 БПЛА на Воронеж и область погиб один человек, двое получили ранения; на складах крупной компании возникли возгорания на площади 16 тыс. и 20 тыс. кв. м, сообщил губернатор региона Александр Гусев.…",
+          "url": "https://www.interfax.ru/russia/1108599"
+        },
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "В Воронежской области загорелись два склада",
+          "excerpt": "В Воронежской области после падения БПЛА загорелись два склада крупной компании. Об этом сообщил губернатор российского региона Александр Гусев в Telegram-канале. «На одном объекте возгорание локализовано на площади 16 тысяч квадратных метров, на другом идет тушение пожара на 20 тысячах квадратных метров. На месте находятся оперативные службы», — написал он.…",
+          "url": "https://lenta.ru/news/2026/08/11/v-voronezhskoy-oblasti-zagorelis-dva-sklada/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump and RFK Jr. try again to upend vaccines for kids",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Trump and RFK Jr. try again to upend vaccines for kids",
+          "excerpt": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
+          "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Trump signs order to change child vaccine recommendations",
+          "excerpt": "Beloved bald eagle Jackie dies after weeks of intensive care 01:26 Family’s sweet birthday tradition goes viral 01:21 New food items recalled over salmonella outbreak 01:50 Deadly earthquake hits Colombia 02:02 Tornadoes tear through Midwest as wildfires burn in the west 01:45 Brad Pitt opens up about thoughts of suicide amid ‘family stuff’ 01:31 Trump responds to Iran’s new demands 01:12 Now Play…",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-signs-order-to-change-child-vaccine-recommendations-268070469795"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump orders new vaccine recommendations, experts urge parents to listen to their kids' doctors",
+          "excerpt": "Trump orders new vaccine recommendations, experts urge parents to listen to their kids' doctors As kids head back to school amid the worst measles outbreak in decades, President Trump signed an executive order slashing the number of vaccines recommended for children. Ed O'Keefe has the details and Dr. Jon LaPook discusses what parents should know.",
+          "url": "https://www.cbsnews.com/video/trump-orders-new-vaccine-recommendations-experts-urge-parents-listen-doctors/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Taylor Farms recalls jalapeño products potentially contaminated with salmonella",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Taylor Farms recalls jalapeño products potentially contaminated with salmonella",
+          "excerpt": "Taylor Farms recalls jalapeño products potentially contaminated with salmonella Taylor Farms, the company linked to this summer's lettuce-related parasite outbreak, is now recalling jalapeño pepper products after new concerns about salmonella. Tom Hanson reports.",
+          "url": "https://www.cbsnews.com/video/taylor-farms-recalls-jalapeo-products-potentially-contaminated-salmonella/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
+          "excerpt": "Amid a massive Cyclospora outbreak linked to its iceberg lettuce, Taylor Farms is now recalling products containing jalapeños, which were linked last week to a large, multi-state Salmonella outbreak. On Sunday, August 9, Taylor Farms recalled jalapeño-containing products, including diced jalapeños, dips, salsas, pico de gallo, guacamole, and pre-made salads, burritos, and sandwiches.…",
+          "url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Food safety crisis deepens for Taylor Farms with salmonella outbreak",
+          "excerpt": "Taylor Farms, a major produce supplier and producer of finished food products in North America, is engulfed in a food safety crisis that's ensnaring some of the biggest consumer brands in the U.S.…",
+          "url": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Russia: Top court bans opposition anti-war party from vote",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Russia: Top court bans opposition anti-war party from vote",
+          "excerpt": "Russia: Top court bans opposition anti-war party from vote August 10, 2026 The Supreme Court of Russia on Monday ruled in favor of the nationalist pro-Kremlin Rodina (Motherland) party and barred Yabloko (Apple) — Russia's only anti-war party — from participating in September parliamentary elections.…",
+          "url": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
+          "excerpt": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections Russia's Supreme Court on Monday barred the country's only anti-war party, Yabloko (Apple), from running in September's parliamentary elections. About a hundred protesters gathered outside the courthouse chanting, \"Shame! Shame!\" after the ruling was delivered.…",
+          "url": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+          "excerpt": "Russia bars only party opposing war in Ukraine from parliamentary vote The pro-Kremlin nationalist party Rodina accused Yabloko of receiving undeclared campaign support, notably from Western sources – an allegation Yabloko denied. Russia‘s Supreme Court has barred the only officially registered party opposing Moscow’s war in Ukraine from running in next month’s parliamentary elections.…",
+          "url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "НСПК предупредила о «сложностях» при оплате картами Visa и Mastercard на российских сайтах и порекомендовала заменить их на карты «Мир»",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "НСПК предупредила о «сложностях» при оплате картами Visa и Mastercard на российских сайтах и порекомендовала заменить их на карты «Мир»",
+          "excerpt": "Из-за перехода на российские сертификаты безопасности для сайтов и сервисов НСПК. Источник: Legion-Media Национальная система платёжных карт (НСПК, оператор платёжной системы «Мир») сообщила, что переходит на российские сертификаты безопасности для своих официальных сайтов и сервисов для оплаты покупок, пишет «Прайм».Из-за этого она предупреждает о «возможных» проблемах при оплате покупок на росси…",
+          "url": "https://vc.ru/money/3071780-nspk-predupredila-o-slozhnostyakh-s-visa-i-mastercard?from=rss"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "НСПК предупредила о проблемах с онлайн-оплатой картами Visa и Mastercard",
+          "excerpt": "НСПК предупредила о проблемах с онлайн-оплатой картами Visa и Mastercard Национальная система платежных карт (НСПК) предупредила о возможных проблемах при оплате покупок в интернете картами Visa и Mastercard, выпущенными до введения санкций. Об этом сообщили «РИА Новости» со ссылкой на заявление НСПК.…",
+          "url": "https://www.vedomosti.ru/finance/news/2026/08/10/1220123-nspk-predupredila"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "An Android app store competitor is available in the Play Store",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "An Android app store competitor is available in the Play Store",
+          "excerpt": "An Android app store competitor is available in the Play Store You can download Aptoide Games now in the US. Today brings a development Google has fought long and hard against: A rival Android app store is officially available in Google Play. Aptoide has announced that Aptoide Games is now downloadable through Google Play for Android users in the United States.…",
+          "url": "https://www.engadget.com/2233395/an-android-app-store-competitor-is-available-in-the-play-store/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+          "excerpt": "A new day has dawned in the Play Store, and it’s one that Google tried very hard to avoid. The first third-party app store has arrived in Google Play as a result of the long-running antitrust lawsuit with Epic. Those in the US can now head into Google Play and download Aptoide, a game-focused store that has been available as a sideloaded client since the early days of Android.…",
+          "url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Aptoide becomes the first rival app store to return to Google Play in the US",
+          "excerpt": "Competing Android app stores are now back on Google Play in the U.S., and Aptoide is the first to take advantage of the new option. On Monday, the Portugal-based app distributor brought its games store back to Google Play after more than a decade, crediting the loosening of restrictions that had been criticized as anticompetitive. For the first time in many years, U.S.…",
+          "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "AOC shares her egg-freezing journey. Here's what to know about the process.",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "AOC shares her egg-freezing journey. Here's what to know about the process.",
+          "excerpt": "Alexandria Ocasio-Cortez shares her egg-freezing journey online. Here's what to know about the process. Washington — Democratic Rep.…",
+          "url": "https://www.cbsnews.com/news/alexandria-ocasio-cortez-aoc-egg-freezing/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Ocasio-Cortez says she's freezing her eggs as she decides her next political moves",
+          "excerpt": "Rep. Alexandria Ocasio-Cortez says she is freezing her eggs as she decides her next political moves ahead of the 2028 presidential election campaign. “This is a choice that I am making to feel more in control of my life,” Ocasio-Cortez, 36, said on Instagram about her decision regarding her reproductive options.",
+          "url": "https://www.france24.com/en/video/20260810-ocasio-cortez-says-she-s-freezing-her-eggs-as-she-decides-her-next-political-moves"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "AOC joins thousands of women putting fertility on ice",
+          "excerpt": "While analysts speculate whether Rep. Alexandria Ocasio-Cortez (D-N.Y.) will launch a Senate or presidential bid, she's planning another part of her future: having kids. The big picture: Few prospective parents are weighing a White House bid, but Ocasio-Cortez is among a growing number of people freezing their eggs to preserve the possibility of having children later.…",
+          "url": "https://www.axios.com/2026/08/10/aoc-egg-freezing-women-fertility"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
+          "excerpt": "At least 13 killed in Ukrainian drone strike deep into Russia - Published At least 13 people have been killed in a Ukrainian drone strike on the Russian republic of Tatarstan, local officials have said. They confirmed one child was among those killed, with 75 more people injured as drones hit Nizhnekamsk, more than 1,100 kilometres (680m) from the Ukrainian border.…",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Live: Deadly Russian missiles strike Kyiv and Zaporizhzhia",
+          "excerpt": "Russian forces launched missile attacks on Kyiv and Zaporizhzhia early Tuesday, triggering fires in the Ukrainian capital and damaging buildings in the southeastern city, officials said. At least five people were killed and 20 injured in the attacks. Follow our liveblog for the latest developments.…",
+          "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Ukrainian drone attack kills at least 13 in central Russia",
+          "excerpt": "Ukrainian drone attack kills at least 13 in central Russia August 10, 2026 A Ukrainian drone attack on the city of Nizhnekamsk, located in an energy-rich Tatarstan region of central Russia, killed at least 13 people, according to a local press service statement issued Monday. The attack killed several Central Asians and a child, and wounded 48 more.…",
+          "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Мирошник заявил о массированных атаках ВСУ на склады маркетплейса",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "Мирошник заявил о массированных атаках ВСУ на склады маркетплейса",
+          "excerpt": "С 3 по 9 августа логистическая инфраструктура Wildberries подверглась скоординированным и масштабным атакам беспилотников Вооруженных сил Украины (ВСУ). Об этом сообщил РИА Новости посол по особым поручениям МИД РФ Родион Мирошник. Уточняется, что за прошлую неделю атаки ВСУ затронули крупные региональные хабы и сортировочные центры в пяти регионах России.…",
+          "url": "https://lenta.ru/news/2026/08/11/miroshnik-zayavil-o-massirovannyh-atakah-vsu-na-sklady-marketpleysa/"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Мирошник рассказал о массированных атаках ВСУ на склады Wildberries",
+          "excerpt": "Краткий пересказ от РИА ИИ - Логистическая инфраструктура Wildberries подверглась скоординированным атакам беспилотников ВСУ за неделю с 3 по 9 августа. - Атаки затронули крупные региональные хабы и сортировочные центры в пяти регионах России. - Под удары БПЛА попали распределительные центры в Владимирской, Свердловской, Тульской, Тверской областях. МОСКВА, 11 авг - РИА Новости.…",
+          "url": "https://ria.ru/20260811/wildberries--2110121763.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "At least 132 killed in Colombia's largest  earthquake in years",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "At least 132 killed in Colombia's largest  earthquake in years",
+          "excerpt": "At least 132 killed in Colombia's largest earthquake in years - Published At least 132 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years. The death toll is likely to rise, with more feared trapped under collapsed buildings.…",
+          "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Colombia earthquake: Dozens dead, people trapped in collapsed buildings",
+          "excerpt": "Colombia earthquake: Over 100 dead, people trapped in collapsed buildings, officials say The president has declared a national disaster. Over 100 people are dead after a 7.4-magnitude earthquake rocked western Colombia on Monday, officials said. The country's new president, Abelardo de la Espriella, has declared a national disaster, with destruction reported in multiple cities.…",
+          "url": "https://abcnews.com/International/colombia-earthquake-fatalities-buildings-collapsed/story?id=135518897"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "State of emergency declared as 111 confirmed dead in major earthquake in Colombia",
+          "excerpt": "The epicentre was in San Jose Del Palmar, a community of about 4,800 people in the Choco region about 250 miles west of Bogotá, the US Geological Survey and Colombia's counterpart reported. At least 111 people were killed and hundreds of buildings damaged after a powerful 7.4-magnitude earthquake struck Colombia, the country's President Abelardo de la Espriella said on Monday.…",
+          "url": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "It Was a Brutal House of the Dragon Season 3 Finale for Rhaenyra. But She’s Still the Hero",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "It Was a Brutal House of the Dragon Season 3 Finale for Rhaenyra. But She’s Still the Hero",
+          "excerpt": "This article contains spoilers for the House of the Dragon Season 3 finale. House of the Dragon is not making a habit out of quiet finales.…",
+          "url": "https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "‘House Of The Dragon’ Season 3, Episode 8 Recap And Review: A Season Finale Rivaling The Best Of ‘Game Of Thrones’",
+          "excerpt": "Post updated 08/10/26. See updates below. Heavy lies the crown. Sunday night’s brutal, devastating episode of House of the Dragon certainly made that point abundantly clear. As Rhaenyra slowly descends into a pit of despair, cruelty and desperation, Daemon and his armies run into some snags on their assault of Tumbleton thanks to the various tricks Lord Ormund has up his sleeves.…",
+          "url": "https://www.forbes.com/sites/erikkain/2026/08/10/house-of-the-dragon-season-3-finale-recap-review/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: What we know about suspected crime boss Daniel Kinahan",
+          "excerpt": "Watch: What we know about suspected crime boss Daniel Kinahan Suspected cartel leader Daniel Kinahan has appeared in front of a special non-jury court in Dublin after an extradition treaty between Ireland and the UAE brought his 10 years of exile in Dubai to an abrupt end.…",
+          "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "'I think we know I won't be getting bail,' suspected cartel boss tells judge",
+          "excerpt": "Daniel Kinahan has been remanded in custody after appearing before an Irish court charged with directing an organised crime group.",
+          "url": "https://news.sky.com/story/daniel-kinahan-alleged-boss-of-irish-crime-gang-charged-and-taken-to-jail-13571522"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "В Воронежской области при падении БПЛА загорелись склады крупной компании. Что известно на данный момент?",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "В Воронежской области при падении БПЛА загорелись склады крупной компании. Что известно на данный момент?",
+          "excerpt": "Беспилотные летательные аппараты (БПЛА) атаковали Воронежскую область. Утром 11 августа губернатор российского региона Александр Гусев сообщил о жертве атаки и двух пострадавших, а также о возгорании на двух складах крупной компании. «В результате падения обломков в Новоусманском районе был тяжело ранен и скончался в больнице находившийся на улице 49-летний мужчина.…",
+          "url": "https://lenta.ru/news/2026/08/11/long-v-voronezhskoy-oblasti-pri-padenii-bpla-zagorelis-sklady-krupnoy-kompanii-chto-izvestno/"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "В Воронежской области при падении БПЛА загорелись склады крупной компании",
+          "excerpt": "Краткий пересказ от РИА ИИ - В Воронежской области при падении БПЛА возникли пожары на двух складах крупной компании. - Возгорание на одном складе локализовано на площади 16 тысяч квадратных метров, на другом идет тушение пожара на 20 тысячах квадратных метров. МОСКВА, 11 авг - РИА Новости.…",
+          "url": "https://ria.ru/20260811/bpla-2110122530.html"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Nvidia’s $500B Bet To Make AI Compute Wall Street’s Next Asset Class",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Nvidia’s $500B Bet To Make AI Compute Wall Street’s Next Asset Class",
+          "excerpt": "Nvidia wants investors to finance AI compute like infrastructure. Whether that holds up depends on how long the machines keep earning, and who takes the loss when they age faster than the loans. Nvidia wants Wall Street to treat AI compute as a new asset class.…",
+          "url": "https://www.forbes.com/sites/robertszczerba/2026/08/10/nvidias-500b-bet-to-make-ai-compute-wall-streets-next-asset-class/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
+          "excerpt": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to source $500 billion in financing for artificial intelligence infrastructure.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+          "excerpt": "Jackie, the famous California bald eagle, dies after weeks of intensive care - Published Jackie, a bald eagle in California who became an online star, died on Monday after receiving weeks of veterinary treatment. Jackie was being cared for by Ojai Raptor Center, a wildlife rehabilitation organisation, after she was attacked by other eagles.…",
+          "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Big Bear bald eagle Jackie has died, California veterinary center says",
+          "excerpt": "Big Bear bald eagle Jackie dies after health \"continued to deteriorate,\" California veterinary center says Jackie, the bald eagle who gained national attention for raising eaglets in Big Bear with her partner Shadow, has died after receiving care in an animal care center, Ojai Raptor Center in California announced Monday.…",
+          "url": "https://www.cbsnews.com/news/jackie-big-bear-eagle-dies/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Captain of boat that capsized near Statue of Liberty charged in deaths of mother and baby",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Captain of boat that capsized near Statue of Liberty charged in deaths of mother and baby",
+          "excerpt": "The captain of an allegedly unlicensed boat that capsized in New York Harbor near Liberty Island over the weekend, killing a young woman and her baby, has been charged in their deaths.…",
+          "url": "https://www.nbcnews.com/news/us-news/captain-boat-capsized-statue-liberty-charged-deaths-mother-baby-rcna591831"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Captain of boat that capsized in New York facing federal charges after mom, infant die",
+          "excerpt": "Captain of boat that capsized in New York Harbor facing federal charges after mom, 5-month-old baby die A woman and her 5-month-old baby died after a vessel carrying 14 people overturned in New York Harbor on Saturday night, according to police, and the boat's captain now faces federal charges.…",
+          "url": "https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Стратегический нефтяной резерв США оказался на самом низком уровне с 1983 года",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Стратегический нефтяной резерв США оказался на самом низком уровне с 1983 года",
+          "excerpt": "Стратегический нефтяной резерв США оказался на самом низком уровне с 1983 года Запасы сырой нефти в Южно-Тихоокеанском нефтяном резерве США (SPR) впервые с января 1983 года упали ниже 300 млн баррелей. На прошлой неделе сокращение составило 6,1 млн баррелей, общий запас достиг 298,7 млн баррелей. Об этом сообщает CNBC.…",
+          "url": "https://www.kommersant.ru/doc/8876779"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Запасы нефти США упали ниже 300 млн баррелей впервые с 1983 года",
+          "excerpt": "Запасы нефти США упали ниже 300 млн баррелей впервые с 1983 года На минувшей неделе стратегические запасы нефти США упали на 6,1 млн баррелей до 298,7 млн. Это стало самым низким показателем с 1983 г., сообщает CNBC со ссылкой на данные американского министерства энергетики.…",
+          "url": "https://www.vedomosti.ru/economics/news/2026/08/11/1220193-zapasi-nefti-ssha"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Trump to Axios: \"We are low-keying it\" with Iran",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump to Axios: \"We are low-keying it\" with Iran",
+          "excerpt": "President Trump signaled on Sunday that he's prepared to allow economic pressure on Iran to mount — as opposed to ordering a new military offensive — even as the country continues to defy the U.S. Why it matters: Only a week ago, Trump was on the verge of ordering a return to major combat operations. But in an interview with Axios, he did not make any new military threats.…",
+          "url": "https://www.axios.com/2026/08/09/trump-iran-interview"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Trump says will demand conflict compensation from Iran as part of peace talks",
+          "excerpt": "Trump this weekend said he was \"low-keying\" his approach to the conflict, suggesting that he was prepared to let economic pressure mount in place of further military strikes. US President Donald Trump said on Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and killings stretching back decades allegedly backed or perpetrated by Tehran.…",
+          "url": "http://www.euronews.com/2026/08/10/trump-says-will-demand-conflict-compensation-from-iran-as-part-of-peace-talks"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Netanyahu rejects Board of Peace 15-point peace plan until Hamas 'truly disarmed'",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Netanyahu rejects Board of Peace 15-point peace plan until Hamas 'truly disarmed'",
+          "excerpt": "Netanyahu rejects Board of Peace 15-point peace plan until Hamas 'truly disarmed' Netanyahu made the remarks at a Cabinet meeting Sunday. Israeli Prime Minister Benjamin Netanyahu said on Sunday that Israel would reject the 15-point proposal for peace in Gaza put forward by President Donald Trump’s Board of Peace.…",
+          "url": "https://abcnews.com/International/netanyahu-rejects-board-peace-15-point-peace-plan/story?id=135497376"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Can Netanyahu defy Trump on his Gaza peace plan?",
+          "excerpt": "Inside Story Can Netanyahu defy Trump on his Gaza peace plan? Can Netanyahu risk continuing to defy Trump? Israel’s prime minister Benjamin Netanyahu rejects the U.S.-brokered 15-point peace plan for Gaza.…",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Trump Media posts $238 million second-quarter loss as crypto declines",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump Media posts $238 million second-quarter loss as crypto declines",
+          "excerpt": "Trump Media & Technology Group on Monday reported a net loss of more than $238 million for its fiscal second quarter on revenue of less than $2 million.…",
+          "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Trump Media Losses Hit $238 Million as Firm Pivots to Fast Feeds",
+          "excerpt": "Donald Trump’s social media company posted steeper losses as it careened from a big cryptocurrency bet into a controversial new line of business selling faster access to market-moving posts from the US president.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/trump-media-losses-hit-238-million-as-firm-pivots-to-fast-feeds"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Hong Kong set to include trading firms in ‘big bang’ tax reforms",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "FT",
+          "lang": "en",
+          "headline": "Hong Kong set to include trading firms in ‘big bang’ tax reforms",
+          "excerpt": "Proposal is part of push by the Chinese territory to compete with Singapore for top-tier financial talent",
+          "url": "https://www.ft.com/content/c9c7c2dc-979e-49b2-a57f-77bb461bb7db?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Hong Kong May Expand Tax Breaks to Trading Firms, FT Says",
+          "excerpt": "Hong Kong regulators may include trading firms such as Jane Street and Citadel Securities in a sweeping new tax regime that has already boosted the city’s appeal to hedge funds, according to a report from the Financial Times.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-11/hong-kong-may-expand-tax-breaks-to-trading-firms-ft-says"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "headline": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
+          "excerpt": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure. After 42 drawings with no jackpot winner, the Powerball's big prize stands at $905 million in annual payments or a lump sum cash payment of $391.9 million. The next drawing is set for tonight, Aug. 10.…",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Winning numbers for Monday's $905 million Powerball jackpot drawn",
+          "excerpt": "Winning numbers for Monday's $905 million Powerball jackpot drawn The winning numbers for Monday's $905 million Powerball jackpot, the largest of 2026, have been drawn. The numbers are 6, 37, 54, 55, 64 and a Powerball of 10. It was not immediately clear if there were any jackpot winners. With no winner since May, the grand prize has ballooned to the game's eighth largest in history.…",
+          "url": "https://www.cbsnews.com/news/powerball-jackpot-drawing-monday-aug-10-2026/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Turkey MPs back historic law on reintegrating PKK militants",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Turkey MPs back historic law on reintegrating PKK militants",
+          "excerpt": "Turkey MPs back historic law on reintegrating PKK militants August 11, 2026 Turkey's parliament on Monday approved legislation offering a conditional pardon and legal protections to thousands of members of the Kurdistan Workers' Party (PKK). After around 12 hours of debate, lawmakers voted 468 to 88 in favor of the 12-article bill, with six abstentions.…",
+          "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Turkey's parliament passes limited amnesty law for Kurdish PKK militants",
+          "excerpt": "Turkey's parliament approved limited amnesty for Kurdish PKK militants on Monday, a key step in a peace process aimed at ending decades of conflict. However, the legislation excludes jailed PKK founder Abdullah Ocalan, whose release the group has made a central demand.",
+          "url": "https://www.france24.com/en/middle-east/20260810-turkey-parliament-passes-limited-amnesty-law-for-kurdish-pkk-militants"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Why Taylor Farms faces scrutiny over salmonella and cyclospora outbreaks",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Why Taylor Farms faces scrutiny over salmonella and cyclospora outbreaks",
+          "excerpt": "Why Taylor Farms is facing scrutiny over salmonella and cyclospora outbreaks Taylor Farms, whose lettuce public health officials have identified as the source of this summer's widespread cyclosporiasis outbreak, now faces another serious food safety issue.…",
+          "url": "https://www.cbsnews.com/news/taylor-farms-salmonella-cyclospora-outbreaks/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "What to know about Taylor Farms, the Taco Bell supplier facing recalls amid cyclosporiasis and salmonella outbreaks",
+          "excerpt": "Taylor Farms products are being recalled again. This time, the company is recalling prepared foods containing jalapeños over possible salmonella contamination amid a broader outbreak that has sickened 345 people across 27 states. Taylor Farms has said it is not aware of any illnesses linked specifically to its recalled products.…",
+          "url": "https://www.businessinsider.com/what-to-know-taylor-farms-taco-bell-lettuce-supplier-cyclosporiasis-2026-7"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Dogs can distinguish between fearful and angry or sad human faces, brain scans suggest",
       "coverage": 2,
       "perspectives": [
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-          "excerpt": "Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires that killed one person and forced about 22,000 people to flee their homes in frantic evacuations.…",
-          "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires"
+          "headline": "Dogs can distinguish between fearful and angry or sad human faces, brain scans suggest",
+          "excerpt": "While dogs are known to turn the puppy eyes on their owners, it seems our pets are keeping a close eye on us too: research has revealed dog brains can distinguish different types of unhappy human faces.…",
+          "url": "https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans"
         },
         {
-          "source": "DW English",
+          "source": "Ars Technica",
           "lang": "en",
-          "headline": "Canada: British Columbia wildfires burning out of control",
-          "excerpt": "Canada: British Columbia wildfires burning out of control August 9, 2026 Wildfires raging in the western Canadian province of British Columbia gained momentum, growing significantly in both scale and intensity in a situation already declared a state of emergency on Saturday by British Columbia Minister of Emergency Management and Climate Readiness Kelly Greene.…",
-          "url": "https://www.dw.com/en/canada-british-columbia-wildfires-burning-out-of-control/a-78296928?maca=en-rss-en-all-1573-rdf"
+          "headline": "Dogs can tell if you're scared or sad",
+          "excerpt": "Any dog owner would tell you that their canine companions are attuned to their humans’ emotional state and respond accordingly. Scientists have performed fMRI scans on dogs and identified a specific brain region that processes happy human facial expresses, like a smile, according to a new paper published in the journal iScience.…",
+          "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/"
         }
       ]
     }
