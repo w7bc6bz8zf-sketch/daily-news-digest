@@ -1,0 +1,37 @@
+name: iOS Build
+
+on:
+  push:
+    paths:
+      - "ios/**"
+      - "ci/**"
+      - ".github/workflows/ios_build.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show Xcode version
+        run: xcodebuild -version
+
+      - name: Unit checks (модели, старый и новый формат JSON, закладки)
+        run: |
+          swiftc -parse-as-library -o /tmp/decode_test ios/Prizma/Models.swift ci/DecodeTest.swift
+          /tmp/decode_test news_data.json
+
+      - name: Build app for iOS Simulator
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project ios/Prizma.xcodeproj \
+            -scheme Prizma \
+            -configuration Debug \
+            -destination 'generic/platform=iOS Simulator' \
+            CODE_SIGNING_ALLOWED=NO \
+            build
