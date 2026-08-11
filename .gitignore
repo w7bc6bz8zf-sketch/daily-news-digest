@@ -1,0 +1,11 @@
+# Xcode
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+DerivedData/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
