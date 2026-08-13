@@ -1,41 +1,895 @@
 {
-  "collected_at": "2026-08-12T05:13:17.354847+00:00",
+  "collected_at": "2026-08-13T05:16:53.859890+00:00",
   "total_sources": 63,
-  "total_entries": 886,
+  "total_entries": 891,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Trump says he switched planes after Nato summit because of possible threat",
+      "headline_en": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "coverage": 12,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+          "excerpt": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+          "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "White House press secretary leaving",
+          "excerpt": "Karoline Leavitt will continue to be an outside adviser, Trump said",
+          "url": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Karoline Leavitt’s Most Memorable Moments as White House Press Secretary",
+          "excerpt": "During her time behind the White House podium, departing Press Secretary Karoline Leavitt has gained a reputation for her sharp retorts to reporters, an echo of President Donald Trump’s contentious relationship with the press.…",
+          "url": "https://time.com/article/2026/08/12/karoline-leavitt-white-house-press-secretary-memorable-moments/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "White House press secretary Karoline Leavitt to leave role at end of month, Trump says",
+          "excerpt": "Leavitt's departure comes as Trump faces steadily sinking poll numbers and the Republican Party risks defeat in the November midterm elections. White House press secretary Karoline Leavitt, the youngest person to hold the role, will leave at the end of the month, US President Donald Trump announced on Wednesday.…",
+          "url": "http://www.euronews.com/2026/08/12/white-house-press-secretary-karoline-leavitt-to-leave-role-at-end-of-month-trump-says"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Karoline Leavitt’s 19-Month White House Run Put Amazon, Intel, TikTok, and Crypto in the Spotlight",
+          "excerpt": "Trump’s departing press secretary became a frequent messenger—and sometimes a market-moving one—for the administration’s corporate agenda.",
+          "url": "https://www.inc.com/georgia-fearn/karoline-leavitt-19-month-white-house-run-put-amazon-intel-tiktok-crypto-spotlight/91390175"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
+      "coverage": 10,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
+          "excerpt": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality Wed 12 Aug 2026 17.00 EDT First published on Wed 12 Aug 2026 09.25 EDT Wed 12 Aug 2026 17.00 EDT First published on Wed 12 Aug 2026 09.25 EDT This blog is now closed We are now closing the blog.…",
+          "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Photos: See the best photos from the solar eclipse",
+          "excerpt": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
+          "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
+        },
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "The Best Photos of the Big August Solar Eclipse",
+          "excerpt": "It’s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here’s what it looked like in the path of totality.",
+          "url": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Europe sees total solar eclipse: \"A very grand thing connected to something bigger than yourself\"",
+          "excerpt": "Europe sees total solar eclipse: \"A very grand thing connected to something bigger than yourself\" A total solar eclipse turned day into night across a slice of Europe and North America on Wednesday, and put millions in unique contact with the heavens above. Meteorologist Rob Marciano reports from Spain.",
+          "url": "https://www.cbsnews.com/video/europe-sees-total-solar-eclipse-very-grand-thing/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Once-in-a-lifetime total solar eclipse sweeps across Europe",
+          "excerpt": "Fever coach Stephanie White fires back at critics after controversial foul 01:33 Now Playing Once-in-a-lifetime total solar eclipse sweeps across Europe 01:47 UP NEXT Desperate search for earthquake survivors 01:31 Attempted Reagan assassin’s message to Jodie Foster 01:44 Midwest flash flood emergency triggers rescues 02:06 Two killed in military helicopter crash in Texas 00:40 ICE purchases ‘zap …",
+          "url": "https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "ICE plans to equip agents with gloves that can deliver electric shocks",
       "coverage": 8,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Trump says he switched planes after Nato summit because of possible threat",
-          "excerpt": "Trump says he switched planes after Nato summit because of possible threat - Published President Donald Trump has confirmed that he secretly swapped planes as he left a Nato summit in Turkey last month due to a possible threat. \"I go by Secret Service and the military. They wanted me to go in a different flight, different plane,\" Trump told reporters.…",
-          "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
+          "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "excerpt": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+          "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "NBC News",
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Trump says security threat spurred secret plane swap in Turkey",
-          "excerpt": "President Donald Trump confirmed Tuesday night that he secretly switched planes when he traveled back from Turkey in July, saying a security threat prompted the clandestine maneuver. Trump told reporters that the “Secret Service and the military” made the decision. “They wanted me to go on a different flight, a different plane,” he said.…",
-          "url": "https://www.nbcnews.com/politics/donald-trump/president-says-security-threat-spurred-secret-plane-swap-turkey-rcna592053"
+          "headline": "ICE plans to outfit officers with electric shock gloves",
+          "excerpt": "The company that makes the gloves, Compliant Technologies, says they're a nonlethal tool to make individuals compliant during arrests.",
+          "url": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "ICE plans to put electric-shock gloves on officers' hands",
+          "excerpt": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters .…",
+          "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "ICE wants to give agents electrified gloves that shock people into compliance",
+          "excerpt": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March 2027.…",
+          "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "Trump secretly switched to different plane in Turkey amid Iran threat",
-          "excerpt": "Trump secretly switched to different plane in Turkey amid Iran missile threat Shortly before Air Force One took off from Turkey at the end of last month's NATO summit, President Trump secretly slipped away from the presidential jet and was whisked to another plane with the help of an airport catering truck, according to a U.S. official with direct knowledge of the matter.…",
-          "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/"
+          "headline": "ICE to spend up to $20 million on gloves that deliver painful electric shocks, DHS notice says",
+          "excerpt": "ICE to spend up to $20 million on gloves that deliver painful electric shocks, DHS notice says ICE is planning to spend up to $20 million on gloves for its agents that can deliver painful electric shocks, according to a DHS notice.…",
+          "url": "https://www.cbsnews.com/video/ice-to-spend-up-to-20-million-on-electric-shock-gloves/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Путин впервые посетил курильский остров Итуруп",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Путин впервые посетил курильский остров Итуруп",
+          "excerpt": "Путин впервые посетил курильский остров Итуруп Президент России Владимир Путин впервые посетил курильский остров Итуруп в Сахалинской области. Его поездка началась с визита на рыбоперерабатывающий завод предприятия «Ясный». Кадры опубликовал телеканал «Россия 24». На заводе президента угостили красной икрой и сообщили, что в это время воды курильских островов заполнены тунцом весом до 300 кг.…",
+          "url": "https://www.kommersant.ru/doc/8878415"
         },
         {
-          "source": "Sky News",
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Путин посетил курильский остров Итуруп",
+          "excerpt": "Путин посетил курильский остров Итуруп Москва. 13 августа. INTERFAX.RU - Президент РФ Владимир Путин посетил курильский остров Итуруп. Глава государства в ходе поездки в Сахалинскую область посетил рыбозавод \"Ясный\" на Итурупе. Кадры с поездки президента были показаны телеканалом \"Россия 24\" (ВГТРК).…",
+          "url": "https://www.interfax.ru/russia/1109005"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Путин посетил курильский остров Итуруп",
+          "excerpt": "Путин посетил курильский остров Итуруп Президент России Владимир Путин посетил курильский остров Итуруп, передает «РИА Новости». В частности, российский лидер осмотрел рыбоперерабатывающее предприятие «Ясный». 12 августа Путин в Южно-Сахалинске понаблюдал за завершающей стадией учений Тихоокеанского флота с борта ракетного крейсера «Варяг».…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/13/1220801-putin-posetil-kurilskii"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump sued over service selling faster access to Truth Social posts",
+      "coverage": 7,
+      "perspectives": [
+        {
+          "source": "NPR News",
           "lang": "en",
-          "headline": "Trump confirms secret plane switch over possible threat",
-          "excerpt": "Donald Trump has confirmed US media reports he secretly left Turkey by switching planes via a catering container over a threat from Iran.",
-          "url": "https://news.sky.com/story/donald-trump-secretly-left-nato-summit-on-military-plane-over-iran-threat-13571831"
+          "headline": "Trump sued over service selling faster access to Truth Social posts",
+          "excerpt": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers.",
+          "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Trump sued over Truth Social advance access sale",
+          "excerpt": "President Donald Trump was sued on Wednesday by a media outlet and a non-profit group seeking to block a controversial new service that sells advance notifications of his posts on Truth Social. The lawsuit, filed in U.S.…",
+          "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+          "excerpt": "President Trump was sued by nonprofit news groups today over Truth Social’s “Truth API” that sells real-time access to posts from Trump and other top users of the social network. Trump is profiting from selling preferential access to government information, the lawsuit said.…",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Trump is being sued for charging for faster access to Truth Social posts",
+          "excerpt": "Trump is being sued for charging for faster access to Truth Social posts A new lawsuit claims the Truth API violates the First and Fifth Amendments. We may receive a commission on purchases made from links.…",
+          "url": "https://www.engadget.com/2235905/trump-is-being-sued-for-charging-for-faster-access-to-truth-social-posts/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
+          "excerpt": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts Free press groups say selling access to Trump's posts is \"unconstitutional.\" A federal lawsuit filed Wednesday accuses the Trump administration of violating the First Amendment by selling special advance access to Truth Social posts before they go public. \"This scheme is profoundly corrupt.…",
+          "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+      "coverage": 6,
+      "perspectives": [
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+          "excerpt": "Google's Pixel Camera chief, Isaac Reynolds, thinks year-to-year upgrades to smartphone cameras are still critical, even though some detractors think they’re passé. “A person who is a casual photographer and desperately wants to be a hobbyist—they're never going to break that ceiling unless you give them the tools,\" he says.…",
+          "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+          "excerpt": "Alphabet on Wednesday unveiled its new Pixel 11 smartphone lineup, putting its most agentic version of Gemini yet at the center of the devices just weeks before Apple is expected to roll out a rebuilt Siri powered by Google's AI models. The new lineup includes the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold.…",
+          "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "How Google’s new Pixel 11 phones compare to last year’s models",
+          "excerpt": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They’re slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance.…",
+          "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features"
+        },
+        {
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Google Pixel Watch 5 vs. Apple Watch Series 11: How Google competes against Apple",
+          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
+          "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-apple-watch-series-11/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "excerpt": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Twitch streamers can now refuse to let Amazon train its genAI models on their content",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Twitch streamers can now refuse to let Amazon train its genAI models on their content",
+          "excerpt": "Twitch streamers can now refuse to let Amazon train its genAI models on their content There’s now an opt-out toggle for something that should have been opt-in to begin with. Twitch has updated its account settings to let streamers opt out of letting Amazon (Twitch's parent) train generative AI models on their content.…",
+          "url": "https://www.engadget.com/2235647/twitch-streamers-can-now-refuse-to-let-amazon-train-its-gen-ai-models-on-their-content/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "Twitch faces fury as it confirms Amazon is training AI on its livestreams",
+          "excerpt": "Amazon is training its AI models on Twitch livestreams, and its users are not happy about it. Twitch, which Amazon owns, announced on Wednesday that users could opt out to prevent Amazon's AI models from training on their content. That announcement also served as official confirmation that the training was happening at all.…",
+          "url": "https://www.businessinsider.com/twitch-livestreams-amazon-ai-model-training-opt-out-feature-2026-8"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Twitch streamers can now opt out from training Amazon’s AI",
+          "excerpt": "Twitch users can now opt out of allowing their content to be used to train Amazon’s generative AI models. Opting out means that “your streams, VODs, clips, stream chats, and pictures and text on your channel” won’t be used in “future training” of an Amazon AI model “whose purpose is to generate or synthesize text, audio, images, or video,” according to a Twitch support page.…",
+          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+          "excerpt": "The streaming platform Twitch will now use creators’ content to help train generative AI models for its parent company, Amazon. This move has inspired swift and concentrated backlash from the Twitch community, especially because creators are opted in to having their content used for this AI training by default.…",
+          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
+          "excerpt": "Twitch now lets users opt out of Amazon’s use of content from their channels to train Amazon’s “generative AI content models.” The change, announced today, comes more than two years after a company executive confirmed that Amazon was using Twitch content for AI training.…",
+          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Два пилота погибли при крушении военного вертолета в США",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Два пилота погибли при крушении военного вертолета в США",
+          "excerpt": "Два пилота погибли при крушении военного вертолета в США Военный вертолет AH-64 Apache разбился в Техасе, сообщает CNN. Погибли два находившихся на борту пилота. На месте крушения начался пожар. Фото: Cliff Coleman / Bell County Sheriff's Office / Handout / Reuters Вертолет упал в районе города Саладо, неподалеку от военной базы Форт-Худ, к которой он приписан.…",
+          "url": "https://www.kommersant.ru/doc/8878394"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "При крушении военного вертолета в Техасе погибли два человека",
+          "excerpt": "При крушении военного вертолета в Техасе погибли два человека Недалеко от военной базы армии США Форт-Худ в Техасе разбился военный вертолет, погибли два человека. Об этом сообщила The New York Times со ссылкой на данные местных властей. Представитель офиса шерифа Клифф Коулман рассказал, что крушение вызвало пожар на сухих полях, куда упал вертолет. Пожар пока не локализован, добавил он.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/13/1220787-v-tehase-pogibli"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Bob Iger and Josh Kushner to purchase the Los Angeles Lakers",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Bob Iger and Josh Kushner to purchase the Los Angeles Lakers",
+          "excerpt": "Bob Iger and Josh Kushner to purchase the Los Angeles Lakers Former Walt Disney Company CEO Bob Iger and businessman Josh Kushner are purchasing the Los Angeles Lakers for $12.5 billion, according to ESPN. Iger and Kushner shared a joint statement confirming the purchase to the outlet. The sale will still need to be approved by the NBA Board of Governors, ESPN noted.…",
+          "url": "https://abcnews.com/GMA/Culture/bob-iger-josh-kushner-purchase-los-angeles-lakers/story?id=135579145"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Lakers to be sold to Bob Iger and Josh Kushner for $12 billion",
+          "excerpt": "Nick Reiner indicted on murder charges in the death of his parents 01:43 Karoline Leavitt to step down as White House press secretary at end of August 03:23 Now Playing Lakers to be sold to Bob Iger and Josh Kushner for $12 billion 03:14 UP NEXT At least 169 people dead in Colombia after earthquake as search for survivors continues 03:09 Official confirms Trump used elaborate ruse to fly out of Tu…",
+          "url": "https://www.nbcnews.com/now/video/lakers-to-be-sold-to-bob-iger-and-josh-kushner-for-12-billion-268186693578"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+          "excerpt": "The Los Angeles Lakers have sold — again. Less than a year after buying a controlling ownership stake in the NBA's Lakers, Mark Walter has sold his majority equity to Joshua Kushner and Bob Iger, according to a statement.…",
+          "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "The Lakers just landed a $12.5 billion deal with 2 surprising new owners",
+          "excerpt": "The Los Angeles Lakers have new owners again. The team announced Wednesday that it has been sold to former Disney CEO Bob Iger and billionaire investor Josh Kushner for a record-breaking $12.5 billion. The sale comes less than a year after American businessman Mark Walter purchased the franchise. Walter&#8217;s $10 billion acquisition of the team from the Buss family broke records at the time.…",
+          "url": "https://www.fastcompany.com/91589190/the-lakers-just-landed-a-12-5-billion-deal-with-two-surprising-new-owners"
+        },
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Bob Iger Made a Record-Setting Sports Deal in Just 3 Days. It’s His Biggest Move Since Disney",
+          "excerpt": "The $12.5 billion deal hands ownership of the Los Angeles Lakers to the former Disney CEO and Josh Kushner.",
+          "url": "https://www.inc.com/lucia-auerbach/bob-iger-just-made-record-setting-sports-deal-in-three-days/91389992"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Colombia declares three days of mourning as search for quake survivors continues",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Colombia declares three days of mourning as search for quake survivors continues",
+          "excerpt": "Colombia on Wednesday declared three days of mourning after a 7.4-magnitude earthquake killed more than 200 people in the west of the country. Monday's quake was the strongest to hit Colombia this century, and the search for survivors under the rubble is ongoing.",
+          "url": "https://www.france24.com/en/americas/20260812-colombia-declares-three-days-mourning-for-quake-victims"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Colombia: Rescuers search for survivors after 7.6 magnitude earthquake kills 216 people",
+          "excerpt": "As rescuers search through the rubble for survivors, volunteers join to help clear the wreckage. People brought water and food to the victimes and lined up in front of blood donation centres.…",
+          "url": "http://www.euronews.com/2026/08/12/colombia-rescuers-search-for-survivors-after-76-magnitude-earthquake-kills-216-people"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Colombia earthquake death toll rises as frantic search for survivors continues",
+          "excerpt": "Colombia earthquake death toll rises as frantic search for survivors continues Tons of aid from regional partners began to roll into Colombia on Wednesday, as the search for survivors in the rubble of a powerful earthquake grew more desperate after the temblor razed buildings, buckled roads and crushed cars.…",
+          "url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Desperate search for earthquake survivors",
+          "excerpt": "Fever coach Stephanie White fires back at critics after controversial foul 01:33 Once-in-a-lifetime total solar eclipse sweeps across Europe 01:47 Now Playing Desperate search for earthquake survivors 01:31 UP NEXT Attempted Reagan assassin’s message to Jodie Foster 01:44 Midwest flash flood emergency triggers rescues 02:06 Two killed in military helicopter crash in Texas 00:40 ICE purchases ‘zap …",
+          "url": "https://www.nbcnews.com/nightly-news/video/desperate-search-for-earthquake-survivors-268218949710"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "This battleground state just got closer to electing its first Black governor",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "This battleground state just got closer to electing its first Black governor",
+          "excerpt": "Moderate Democrat David Crowley won the Wisconsin primary for governor, defeating a democratic socialist who fell short while trying to deliver another win for progressives in a battleground state . Crowley, the Milwaukee county executive, is vying to become Wisconsin&#8217;s first Black governor and pitched himself as the candidate best positioned to win in November against Republican U.S. Rep.…",
+          "url": "https://www.fastcompany.com/91589048/this-battleground-state-just-got-closer-electing-first-black-governor"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Voting ends in US midwest primaries",
+          "excerpt": "Voters in six US states went to the polls to choose their preferred candidates in primaries and special elections ahead of November’s midterms. In Wisconsin, moderate David Crowley narrowly defeated Democratic socialist Francesca Hong in the race for governor. On the Republican side, Darline Graham, sister of the late Senator Lindsey Graham, advanced to a runoff in the Senate primary.…",
+          "url": "https://www.france24.com/en/voting-ends-in-us-midwest-primaries"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Socialist fever breaks: Takeaways from Crowley's win",
+          "excerpt": "Milwaukee County Executive David Crowley narrowly defeated socialist Francesca Hong by about 3,000 votes, dealing a blow to the progressive left's momentum Tuesday in Wisconsin's Democratic primary for governor, after his own polling indicated he was behind by nearly 20 points.…",
+          "url": "https://www.axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "David Crowley Beats Former Frontrunner Francesca Hong in Democratic Primary for Wisconsin Governor",
+          "excerpt": "Milwaukee County Executive David Crowley won the Democratic primary race for Wisconsin’s governorship, toppling his Democratic socialist opponent, Francesca Hong, who had surged in the polls leading up to Tuesday. What turned out to be a razor-thin contest wasn’t called by the Associated Press until early Wednesday morning, after a delay in tabulating votes from Milwaukee.…",
+          "url": "https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Приложение Wildberries вернулось в американский App Store — сервис вновь доступен во всех регионах",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "RB.ru",
+          "lang": "ru",
+          "headline": "Приложение Wildberries вернулось в американский App Store — сервис вновь доступен во всех регионах",
+          "excerpt": "Приложение Wildberries вернулось в американский App Store — сервис вновь доступен во всех регионах До этого за один день из популярных магазинов приложений исчезли «Яндекс Пэй» и Ozon банк Приложение Wildberries вновь доступно к скачиванию в США, сообщили в пресс-службе компании. Ранее в сети появилась информация об удалении маркетплейса из американского App Store.…",
+          "url": "https://rb.ru/news/prilozhenie-wildberries-vernulos-v-amerikanskij-app-store-servis-vnov-dostupen-vo-vseh-regionah/"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Приложение Wildberries вернулось в App Store в США",
+          "excerpt": "Приложение Wildberries вернулось в App Store в США Мобильное приложение Wildberries вновь доступно для установки и обновления в американском App Store. Об этом сообщили в официальном Telegram-канале российской компании. Ранее сообщалось, что приложение Wildberries перестало быть доступным для скачивания в американском App Store.…",
+          "url": "https://www.vedomosti.ru/business/news/2026/08/12/1220737-prilozhenie-wildberries-vernulos"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Israeli settlers besieging Palestinian families in West Bank village",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Israeli settlers besieging Palestinian families in West Bank village",
+          "excerpt": "Israeli settlers besieging Palestinian families in West Bank village - Published Israeli settlers have been besieging two Palestinian families in their homes in the occupied West Bank since Sunday, with the families saying their supplies were running out and rights groups urging the authorities to step in.…",
+          "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Israeli militants besiege two Palestinian families in their West Bank homes",
+          "excerpt": "Israeli militants have besieged two Palestinian families in their homes since the weekend, aiming to take over their properties in the West Bank village of Qusra through a campaign of terror. A group of settlers and soldiers set up a tent outside the home of Yousef Hassan on Sunday afternoon, trapping him inside with his wife and two young daughters.…",
+          "url": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+          "excerpt": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra Dozens of settlers besiege three Palestinian families in Qusra, cutting off water, power and essential supplies. Israeli settlers have besieged three Palestinian families inside their homes in the occupied West Bank, cutting off water and electricity in a campaign residents described as an attempt to steal their land.…",
+          "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Israeli troops fail to remove settlers besieging Palestinian homes in West Bank village",
+          "excerpt": "The Israeli military on Wednesday failed to remove settlers from blockaded Palestinian homes in the occupied West Bank. The siege began over the weekend, when a group of settlers blocked essential supplies from entering the Palestinian village of Qusra. The incident marked a ⁠rare confrontation between settlers and the Israeli military.",
+          "url": "https://www.france24.com/en/middle-east/20260812-israeli-settlers-keep-up-siege-of-palestinian-homes-despite-rare-military-intervention"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+          "excerpt": "Trump administration arrests Southern Poverty Law Center expert for fraud Heidi Beirich, an expert on far-right groups, has been charged over the alleged misuse of donor funds to pay informants.…",
+          "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Extremism expert charged in case on Southern Poverty Law Center informants",
+          "excerpt": "A former official at the Southern Poverty Law Center faces federal charges in connection with a case the Justice Department brought over the way the organization made payments to informants who provided details about extremist organizations. Heidi Beirich has been charged in federal court in Montgomery, Alabama, her attorney said.…",
+          "url": "https://www.nbcnews.com/politics/justice-department/extremism-expert-charged-case-targeting-southern-poverty-law-centers-u-rcna592198"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "DOJ charges former Southern Poverty Law Center CFO with fraud",
+          "excerpt": "DOJ charges former Southern Poverty Law Center CFO with fraud Heidi Beirich was arrested Wednesday morning in California, DOJ officials said.…",
+          "url": "https://abcnews.com/US/doj-charges-former-southern-poverty-law-center-cfo/story?id=135590646"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "U.S. indicts former SPLC executive for her role in alleged fraud scheme",
+          "excerpt": "U.S. indicts former SPLC executive in alleged fraud scheme over payments to informants in white supremacist groups Heidi Beirich, a former executive at the Southern Poverty Law Center, has been charged in a superseding indictment for her alleged role in what the government claims was a fraudulent scheme that duped donors and banks, according to court documents unsealed Wednesday.…",
+          "url": "https://www.cbsnews.com/news/southern-poverty-law-center-heidi-beirich-indicted/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump's secret plane switch took place within a day of credible missile threat",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Trump's secret plane switch took place within a day of credible missile threat",
+          "excerpt": "Trump's secret plane switch took place within a day of credible Iranian missile threat Washington — Last month's elaborate ruse that saw President Trump secretly move from Air Force One to another plane by way of a catering truck took place within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the presidential jet, CBS News has learned.…",
+          "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Former Secret Service Agents: Trump’s Secret Plane Swap Unusual, Not Unprecedented",
+          "excerpt": "The Trump administration's extraordinary maneuver to shield the President from an alleged assassination threat from Iran last month by secretly moving him to a different plane has raised new questions about how often the Secret Service resorts to such tactics.…",
+          "url": "https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Trump's secret plane switch: How Air Force One protects the president from threats",
+          "excerpt": "President Trump's secret plane switch in Turkey is putting Air Force One's security protocols and defensive capabilities in the spotlight. Why it matters: Air Force One is the call sign for any Air Force aircraft carrying the president, meaning Trump's secret switch didn't change the designation — but it changed the plane protecting him.…",
+          "url": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "СМИ сообщили о новом \"союзнике\" России в конфликте с Украиной",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "СМИ сообщили о новом \"союзнике\" России в конфликте с Украиной",
+          "excerpt": "Краткий пересказ от РИА ИИ - Аномальная жара в Европе, вызвавшая сбои в судоходстве на Дунае, стала новым союзником России, утверждает Newsweek. - Россия активизировала кампанию против портов в окрестностях Одессы на фоне проблем с альтернативными маршрутами экспорта для Украины. МОСКВА, 13 авг — РИА Новости. Аномальная жара в Европе стала союзником России, пишет Newsweek.…",
+          "url": "https://ria.ru/20260813/ukraina-2110592757.html"
+        },
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "Стало известно о новом союзнике России в конфликте на Украине",
+          "excerpt": "Аномальная жара в Европе стала союзником России в конфликте на Украине. С таким мнением выступило издание Newsweek. По мнению журналистов, погодные условия серьезно угрожают Киеву. «У президента России Владимира Путина появился неожиданный союзник: жара и засуха в Европе. Украина пережила большую часть конфликта, создав новые маршруты экспорта.…",
+          "url": "https://lenta.ru/news/2026/08/13/stalo-izvestno-o-novom-soyuznike-rossii-v-konflikte-na-ukraine/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
+          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
+          "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Pixel 11 Pro Fold vs Galaxy Z Fold 8: How Google and Samsung's foldables stack up",
+          "excerpt": "Pixel 11 Pro Fold vs Galaxy Z Fold 8: How Google and Samsung's foldables stack up Samsung and Google have increasingly different approaches to folding phones. Whether one notable holdout joining the fray will make this the year of the foldable or not, 2026 is already certainly a referendum on foldable aspect ratios.…",
+          "url": "https://www.engadget.com/2235108/pixel-11-pro-fold-vs-galaxy-z-fold-8/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
+          "excerpt": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. Google’s Pixel 11 phone preorders come with up to $350 in gift cards Google’s latest Pixel 11 series phones have arrived, and you can preorder them now.…",
+          "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Powerball player in Illinois wins $1 billion jackpot",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Powerball player in Illinois wins $1 billion jackpot",
+          "excerpt": "Powerball player in Illinois wins $1 billion jackpot It's the largest Powerball jackpot so far this year. A Powerball ticket sold in Illinois matched all six numbers in Wednesday night's drawing, winning an estimated $1.04 billion jackpot, according to the lottery organization. The winning numbers were 4, 26, 66, 67, 69 and red Powerball 9.…",
+          "url": "https://abcnews.com/US/powerball-player-illinois-wins-1-billion-jackpot/story?id=135600933"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "$1.04 billion Powerball jackpot won in Illinois",
+          "excerpt": "$1.04 billion Powerball jackpot won in Illinois A single ticketholder in Illinois won a Powerball jackpot of $1.04 billion Wednesday night, the game says. The winning numbers were 4, 26, 66, 67 and 69, with a Powerball of 9.…",
+          "url": "https://www.cbsnews.com/news/powerball-jackpot-drawing-tonight-1-billion/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
+          "excerpt": "To the tens of thousands and likely more dreaming about a $1 billion Powerball win, the anticipation is over: Someone who bought a ticket in Illinois won it all. A single ticket sold in the state matched all six numbers and the Powerball to win Wednesday’s $1.04 billion jackpot, which is the eighth largest in the history of the lottery game, organizers said.…",
+          "url": "https://www.nbcnews.com/news/us-news/ticket-illinois-wins-1-billion-powerball-jackpot-rcna592269"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "Stocks and Bonds Rise as Fed Rate-Hike Bets Ease: Markets Wrap",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "Stocks and Bonds Rise as Fed Rate-Hike Bets Ease: Markets Wrap",
+          "excerpt": "Global stocks climbed toward a record and bonds extended gains as a subdued US inflation report eased concerns about an imminent interest-rate hike by the Federal Reserve. Brent snapped a six-day rally.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "lang": "en",
+          "headline": "Fed Rate-Hike Bets Ease on Tame CPI; Tech Shares Rally | The Asia Trade 8/13/2026",
+          "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-13/the-asia-trade-8-13-2026-video"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+          "excerpt": "In 2026, gold has been a tough trade to time right, falling from a 10-year high over $5,300 an ounce that it reached early in the year by as much as 18%, according to Goldprice.org. But last week was the precious metal's best week since January, while gold mining stocks had their hottest five-day run since 2008.…",
+          "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Япония выразила протест из-за визита Путина на Итуруп",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Япония выразила протест из-за визита Путина на Итуруп",
+          "excerpt": "Япония выразила протест из-за визита Путина на Итуруп МИД Японии заявил протест из-за поездки президента России Владимира Путина на остров Итуруп. Господин Путин сегодня впервые приехал на остров.…",
+          "url": "https://www.kommersant.ru/doc/8878458"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "МИД Японии заявил протест из-за визита Путина на Итуруп",
+          "excerpt": "Краткий пересказ от РИА ИИ - МИД Японии заявил протест в связи с визитом президента РФ Владимира Путина на Итуруп. - Токио считает Итуруп и другие острова южных Курил своими, называя их «северными территориями». - МИД Японии утверждает, что четыре северных острова, включая Итуруп, исторически и с точки зрения международного права являются неотъемлемой территорией Японии.…",
+          "url": "https://ria.ru/20260813/putin-2110594044.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Inflation eases in July as gasoline and grocery prices fall",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Inflation eases in July as gasoline and grocery prices fall",
+          "excerpt": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.",
+          "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Inflation eased slightly to 3.4% in July, but energy prices are still high",
+          "excerpt": "U.S. inflation slowed last month and a measure of underlying price pressures also cooled, suggesting higher oil and gas prices from the Iran war are only having a limited impact on broader costs in the economy. Consumer prices rose 3.4% in July from a year ago, down slightly from 3.5% in June, the Labor Department said Wednesday.…",
+          "url": "https://www.fastcompany.com/91589034/inflation-eased-slightly-3-4-july-energy-prices-still-high"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+          "excerpt": "A key inflation reading Wednesday showed prices moderating across a range of goods and services, possibly taking the urgency out of an imminent interest rate hike. The consumer price index, part of the Federal Reserve's inflation dashboard, showed a seasonally adjusted increase of 0.1% during July, according to the Bureau of Labor Statistics.…",
+          "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "What Trump’s Executive Order Could Mean for Childhood Vaccines",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "What Trump’s Executive Order Could Mean for Childhood Vaccines",
+          "excerpt": "President Donald Trump has again taken aim at vaccines—this time in a new executive order. The directive, which Trump signed in the Oval Office on Aug. 10, calls for U.S. children to receive fewer vaccines and urges states to reconsider which vaccines they require for school attendance. It also directs the U.S.…",
+          "url": "https://time.com/article/2026/08/12/what-trump-executive-order-could-mean-for-childhood-vaccines/"
+        },
+        {
+          "source": "Forbes",
+          "lang": "en",
+          "headline": "Doctors Push Back Against Trump’s Vaccine Order",
+          "excerpt": "In this week’s edition of InnovationRx, we look at the potential impact of Trump’s executive order on vaccines, the healthcare dynamos on Forbes 50 Over 50, a Swiss startup focused on a rare bleeding disorder, and more. To get it in your inbox, subscribe here. President Trump is back at with talking down vaccines.…",
+          "url": "https://www.forbes.com/sites/innovationrx/2026/08/12/doctors-push-back-against-trumps-vaccine-order/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Trump’s order on vaccines is a win for MAHA voters and an attack line for Democrats",
+          "excerpt": "President Donald Trump pivoted the nation&#8217;s attention back to vaccines this week with an executive order that aims to scale back the childhood immunization schedule and space out shots into separate visits.…",
+          "url": "https://www.fastcompany.com/91589062/trumps-order-vaccines-win-maha-voters-attack-line-democrats"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "The hottest thing to do in London today is wait in line for solar eclipse glasses",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "The hottest thing to do in London today is wait in line for solar eclipse glasses",
+          "excerpt": "East London's Aldgate neighborhood, a mix of dull high-rise offices, fried chicken shops, and apartments, isn't the buzziest part of town. Not until Wednesday afternoon. On the main street, hundreds of people had gathered in a line outside an unassuming store. Teenagers filmed the crowd on their phones, and office workers in shirts stood watching in the stifling 91 degree heat.…",
+          "url": "https://www.businessinsider.com/solar-eclipse-glasses-without-colander-lining-up-london-where-buy-2026-8"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Solar eclipse: What to look forward to",
+          "excerpt": "Solar eclipse: What to look forward to August 12, 2026 On Wednesday, about 980 million people across parts of the Northern Hemisphere will have the chance to observe this upcoming solar eclipse. They will be joined by hosts of researchers who will be taking advantage of the fleeting minutes when the sun's corona is visible from Earth to test specialized instruments and capture rare images.…",
+          "url": "https://www.dw.com/en/solar-eclipse-what-to-look-forward-to/a-78330594?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Europe scrambles for eclipse glasses as solar power output set to dip",
+          "excerpt": "The eclipse will be the first total solar eclipse visible from Europe since 2006. The path of totality will cross northern Spain, Portugal, Iceland, Greenland and northern Russia. London is expected to see around 90 per cent of the Sun obscured, while shoppers in Paris queued for more than two hours outside a specialist store on Rue de Rivoli.…",
+          "url": "http://www.euronews.com/video/2026/08/12/europe-scrambles-for-eclipse-glasses-as-solar-power-output-set-to-dip"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "В Литве эксгумировали останки 81 советского солдата",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Литве эксгумировали останки 81 советского солдата",
+          "excerpt": "В Литве эксгумировали останки 81 советского солдата В центре города Вевис в Литве прошла эксгумация останков 81 советского солдата, погибшего во время Второй мировой войны. Об этом сообщает телерадиокомпания LRT. Останки находились в центре Вевиса возле церкви Святой Анны и были извлечены во время археологических исследований. Работы завершились на этой неделе.…",
+          "url": "https://www.kommersant.ru/doc/8878393"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "В литовском Вевисе эксгумировали останки 81 советского солдата",
+          "excerpt": "В литовском Вевисе эксгумировали останки 81 советского солдата В центре литовского города Вевис завершили эксгумацию останков 81 советского солдата, погибших в ходе Второй мировой войны, сообщил портал LRT со ссылкой на заявление мэра города Гедиминаса Раткевичюса.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/12/1220786-v-vevise-eksgumirovali-ostanki"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "2 killed as Apache helicopter from Fort Hood crashes in Salado, Texas",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "2 killed as Apache helicopter from Fort Hood crashes in Salado, Texas",
+          "excerpt": "2 soldiers killed as Apache helicopter from Fort Hood crashes in Salado, Texas Two soldiers were killed when a U.S. Army Apache helicopter from Fort Hood crashed in Salado, Texas, on Wednesday, the Army and local law enforcement officials said. Bell County Sheriff's Office spokesperson Bill Coleman said two people were on board the helicopter and were pronounced dead at the scene around 2:30 p.m.…",
+          "url": "https://www.cbsnews.com/news/apache-helicopter-crash-salado-texas-fort-hood/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "2 soldiers dead after Apache helicopter crashes in Texas: Army",
+          "excerpt": "2 soldiers dead after Apache helicopter crashes in Texas: Army The chopper was based at Fort Hood, the Army said. Two soldiers are dead after a military helicopter crashed in Salado, Texas, on Wednesday, according to the U.S. Army. The chopper, which crashed in a field near Fort Hood in Texas, was an AH-64 U.S. Army Apache attack helicopter, according to the Army.…",
+          "url": "https://abcnews.com/US/2-dead-army-apache-helicopter-crash-texas-officials/story?id=135591343"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Two killed in military helicopter crash in Texas",
+          "excerpt": "Fever coach Stephanie White fires back at critics after controversial foul 01:33 Once-in-a-lifetime total solar eclipse sweeps across Europe 01:47 Desperate search for earthquake survivors 01:31 Attempted Reagan assassin’s message to Jodie Foster 01:44 Midwest flash flood emergency triggers rescues 02:06 Now Playing Two killed in military helicopter crash in Texas 00:40 UP NEXT ICE purchases ‘zap …",
+          "url": "https://www.nbcnews.com/nightly-news/video/two-killed-in-military-helicopter-crash-in-texas-268218949619"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+          "excerpt": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba - Published At least 44 people have died after a ferry sank on Lake Kariba in Zimbabwe on Tuesday, police have said. The ferry had a capacity to carry 90 passengers and five crew members but a lake official had reported that 120 people, including 12 children, were on it. The vessel was hit by a strong wave and overturned, police added.…",
+          "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+          "excerpt": "At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a capacity of 90 people, but was carrying 114 adult passengers, five crew members and an unknown number of children, Zimbabwe’s civil protection unit (CPU) said earlier on Wednesday, citing ticket sales.…",
+          "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Ferry capsizes on Lake Kariba in Zimbabwe with 95 people on board",
+          "excerpt": "Locals are said to use the ferry to get from rural parts of the region to the town of Kariba, which is on the north side of Lake Kariba, close to the border with Zambia.",
+          "url": "http://www.euronews.com/2026/08/11/ferry-capsizes-on-lake-kariba-in-zimbabwe-with-95-people-on-board"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Oman says oil spill from stricken tanker has reached its coast",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Oman says oil spill from stricken tanker has reached its coast",
+          "excerpt": "Oman says oil spill from stricken tanker has reached its coast Up to 40km of coastline affected by oil pollution, Omani Environmental Authority says. A major oil spill off Oman has spread to the country’s mainland, polluting beaches along the central coast, environmental authorities have said.…",
+          "url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Oil spill from grounded tanker reaches Oman’s mainland beaches",
+          "excerpt": "Oman’s Environment Authority said Wednesday that oil leaking from a tanker grounded off the country’s coast had reached mainland beaches. The spill threatened marine habitats and a nearby protected area as strong winds and monsoon currents spread the oil, raising fears it could reach other islands.",
+          "url": "https://www.france24.com/en/middle-east/20260812-oil-spill-from-grounded-tanker-reaches-oman-mainland-beaches"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Oil spill from tanker believed to be Russian reaches Oman's coastline, Muscat authorities say",
+          "excerpt": "The beaches of Ras Madrakah on mainland Oman, around 200 kilometres north of Qabiliyah Island, have also been contaminated, according to Oman's Environment Authority, which has been keeping an eye on the leak.…",
+          "url": "http://www.euronews.com/2026/08/13/oil-spill-from-tanker-believed-to-be-russian-reaches-omans-coastline-muscat-authorities-sa"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Кэролайн Левитт покинет пост пресс-секретаря Белого дома",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Кэролайн Левитт покинет пост пресс-секретаря Белого дома",
+          "excerpt": "Кэролайн Левитт покинет пост пресс-секретаря Белого дома Пресс-секретарь Белого дома Кэролайн Левитт покинет пост в конце августа. Об этом сообщил президент США Дональд Трамп. По его словам, госпожа Левитт решила проводить больше времени с семьей.…",
+          "url": "https://www.kommersant.ru/doc/8878375"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "Что случилось этой ночью: четверг, 13 августа",
+          "excerpt": "Что случилось этой ночью: четверг, 13 августа Севастополь остался без света после атаки ВСУ, Кэролайн Левитт покидает пост пресс-секретаря Белого дома, Сафонов стал обладателем Суперкубка УЕФА в составе ПСЖ Москва. 13 августа.…",
+          "url": "https://www.interfax.ru/world/1109006"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Watch: What is it like to travel on Air Force One with Trump?",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Watch: What is it like to travel on Air Force One with Trump?",
+          "excerpt": "Watch: What is it like to travel on Air Force One with Trump? President Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, according to US media. Footage from 8 July shows him boarding Air Force One, the presidential jet, at Ankara airport.…",
+          "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Trump says he was at 'greater risk' on secret flight than decoy Air Force One",
+          "excerpt": "Trump says he was at 'greater risk' on secret flight than decoy Air Force One Trump said the switch was the decision of the Secret Service and the military. President Donald Trump said Tuesday night that his secret flight out of Turkey last month, which employed a passenger-filled \"decoy\" Air Force One, was the work of the Secret Service and the U.S. military. \"It's only up to Secret Service.…",
+          "url": "https://abcnews.com/Politics/trump-greater-risk-secret-flight-decoy-air-force/story?id=135564018"
         },
         {
           "source": "Euronews",
@@ -47,772 +901,135 @@
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "coverage": 8,
+      "category": "💡 Tech & AI",
+      "headline_en": "Verizon will give you a Pixel 11 Pro free with this plan, no trade-in required - what to know",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "BBC World",
+          "source": "ZDNet",
           "lang": "en",
-          "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-          "excerpt": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia - Published A Syrian court has sentenced ousted dictator Bashar al-Assad to death in absentia, after convicting him of committing war crimes and crimes against humanity during the country's civil war.…",
-          "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
+          "headline": "Verizon will give you a Pixel 11 Pro free with this plan, no trade-in required - what to know",
+          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
+          "url": "https://www.zdnet.com/article/verizon-pixel-11-pro-deal/"
         },
         {
-          "source": "The Guardian",
+          "source": "Engadget",
           "lang": "en",
-          "headline": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
-          "excerpt": "A Syrian court has sentenced the country’s former president Bashar al-Assad and his brother Maher to death in absentia for crimes against humanity and war crimes during the 14-year civil war, in which about half a million people died. The two men fled to Moscow after being ousted by a lightning rebel offensive in December 2024 which toppled the dictatorial regime in just 11 days.…",
-          "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Former Syrian President Assad sentenced to death in absentia",
-          "excerpt": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
-          "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Syria sentences Bashar Assad to death in absentia",
-          "excerpt": "Syria sentences Bashar Assad to death in absentia August 11, 2026 A Syrian court on Tuesday sentenced former President Bashar Assad to death in absentia. Assad was ousted in December 2024 after rebel forces swept into Damascus, ending more than five decades of rule by the Assad family.…",
-          "url": "https://www.dw.com/en/syria-sentences-bashar-assad-to-death-in-absentia/a-78316245?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Stronghold of Syrian revolution celebrates Assad’s death sentence",
-          "excerpt": "Stronghold of Syrian revolution celebrates Assad’s death sentence NewsFeed Stronghold of Syrian revolution celebrates Assad’s death sentence Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad and several former officials to death over crimes committed during Syria’s civil war.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "5 questions parents may have after Trump's latest vaccine move",
-      "coverage": 7,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "5 questions parents may have after Trump's latest vaccine move",
-          "excerpt": "Parents may be confused about the status of vaccines for their kids after President Trump's new executive order. It's important to know nothing is changing right away.",
-          "url": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Trump signs executive order to split up MMR vaccine",
-          "excerpt": "President Trump issued an executive order Monday calling for fewer childhood vaccinations, splitting the childhood MMR vaccine into three shots and delivering vaccines at separate medical visits. Why it matters: Controversial vaccine policy changes are roaring back ahead of the midterms .…",
-          "url": "https://www.axios.com/2026/08/10/trump-order-split-up-mmr-vaccine"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
-          "excerpt": "President Donald Trump's latest executive order calls for splitting the measles, mumps and rubella, or MMR, vaccine into three separate shots – but doctors and other experts say that effort has no scientific basis and is unlikely to get off the ground.…",
-          "url": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-          "excerpt": "President Trump signed an executive order Monday that makes sweeping, unilateral changes to federal vaccine recommendations. The order aims to reduce the number of lifesaving vaccines all children are recommended to get—from 18 to 11—while also splitting them up and spacing them out over more time and more medical visits. The vaccine changes are not backed by evidence or spurred by new findings.…",
-          "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Trump Issues Executive Order On Vaccines, Makes Multiple False Claims",
-          "excerpt": "President Trump signed an executive order yesterday in the Oval Office calling for a reshaping of the childhood vaccine schedule. Speaking at the event, Trump repeated debunked claims linking autism to vaccines and made other false statements about the fluid content of vaccines as well as the numbers of vaccinations children receive in the United States.…",
-          "url": "https://www.forbes.com/sites/joshuacohen/2026/08/11/trump-issues-executive-order-on-vaccines-makes-multiple-false-claims/"
+          "headline": "This is the $1,900 Google Pixel 11 Pro Fold",
+          "excerpt": "This is the $1,900 Google Pixel 11 Pro Fold Fly like a (Tensor) G6. The Pixel 11 Pro Fold is the ultimate evolution in Google's latest line of mobile devices, featuring all of the Pro upgrades plus the added bonus of a bendable, 8-inch display that pops open like a little book.…",
+          "url": "https://www.engadget.com/2235151/this-is-the-1900-google-pixel-11-pro-fold/"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Приложение «Яндекс Пэй» удалили из App Store",
-      "coverage": 4,
+      "headline_en": "Pixel Watch 5's strength training feature could replace my top lifting app - no phone needed",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Приложение «Яндекс Пэй» удалили из App Store",
-          "excerpt": "Приложение «Яндекс Пэй» удалили из App Store «Яндекс Пэй» больше недоступен в магазине приложений Apple App Store, сообщил сервис в Telegram-канале. В компании рекомендовали отключить автообновления на устройстве, а также режим «Сгружать приложения», чтобы доступ к «Яндекс Пэй» не пропал. Установленное до удаления приложение продолжает работать, добавили в компании.…",
-          "url": "https://www.kommersant.ru/doc/8877547"
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Pixel Watch 5's strength training feature could replace my top lifting app - no phone needed",
+          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
+          "url": "https://www.zdnet.com/article/strength-training-pixel-watch-5-workout-apps/"
         },
         {
-          "source": "Habr",
-          "lang": "ru",
-          "headline": "Приложение «Яндекс Пэй» удалили из App Store",
-          "excerpt": "Банковское приложение «Яндекс Пэй» удалили из App Store во всех регионах. Компания отмечает, что деньги клиентов остались в безопасности, а продолжать пользоваться сервисом можно через веб‑версию. Представители «Пэй» просят пользователей не удалять приложение с iPhone. Уже установленное приложение продолжит работать как раньше, но его не получится обновить или скачать заново.…",
-          "url": "https://habr.com/ru/news/1069472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069472"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "«Яндекс пэй» удалили из App Store",
-          "excerpt": "Приложение «Яндекс пэй» стало недоступно в магазине App Store. Об этом сервис сообщил в своем Telegram-канале. В сервисе подчеркнули, что удаление приложения с площадки не повлияло на сохранность средств. Пользователям также рекомендовали не удалять уже установленное приложение. При этом другие сервисы «Яндекса» продолжают оставаться доступными в App Store.…",
-          "url": "https://www.vedomosti.ru/technology/news/2026/08/12/1220467-yandeks-pei-udalili"
-        },
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Everything Google announced today: Pixel Tag, Pixel 11 series and Pixel Watch 5",
+          "excerpt": "Everything Google announced today: Pixel Tag, Pixel 11 series and Pixel Watch 5 Google unveiled a long-awaited, Pixel-branded Bluetooth tracker alongside its latest phones and smartwatch. It's that time of year once again, folks. The biggest players in the smartphone space are unveiling their latest devices.…",
+          "url": "https://www.engadget.com/2235146/everything-announced-google-pixel-11-event-pixel-watch-5-pixel-tag/"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Nebius Аркадия Воложа отчиталась за второй квартал: выручка выросла на 454% год к году, до $582,3 млн",
+      "coverage": 2,
+      "perspectives": [
         {
           "source": "vc.ru",
           "lang": "ru",
-          "headline": "Приложение «Яндекс Пэй» удалили из App Store",
-          "excerpt": "Оно продолжает работать как раньше, но обновить его «пока не получится».Об этом сообщила сама компания в своём Telegram-канале и отметила: деньги пользователей «в безопасности», а сервисы работают как обычно.«Яндекс Пэй» рекомендовал пользователям iOS не удалять уже установленные приложения, отключить автозагрузку обновлений в настройках и добавить веб-версию на домашний экран.«Нам тоже грустно, ч…",
-          "url": "https://vc.ru/money/3074227-udaleniye-prilozheniya-yandeks-pay-iz-app-store?from=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "coverage": 7,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-          "excerpt": "Rescuers scramble for survivors with 180 dead in Colombia earthquake - Published Rescue workers in Colombia are working against the clock to free survivors trapped in buildings and under rubble following Monday's powerful earthquake. More than 180 people have been confirmed dead - most in the cities of Cali and Pereira.…",
-          "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss"
+          "headline": "Nebius Аркадия Воложа отчиталась за второй квартал: выручка выросла на 454% год к году, до $582,3 млн",
+          "excerpt": "Акции на премаркете растут почти на 17%.Источник: Nebius Nebius Group N.V. поделилась неаудированными финансовыми результатами за второй квартал и первое полугодие, которые завершились 30 июня 2026 года.Квартальная выручка выросла на 454% год к году, до $582,3 млн. Чистый убыток от продолжающейся деятельности составил $190,4 млн против $502,5 млн прибыли годом ранее.…",
+          "url": "https://vc.ru/money/3075317-nebius-otchitalas-o-roste-vyruchki-i-uspehakh-v-oblachnom-biznese?from=rss"
         },
         {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Rescuers race to find Colombia earthquake survivors as death toll rises",
-          "excerpt": "Colombia earthquake rescuers race to find survivors in rubble as death toll rises to at least 181 Rescue workers and volunteers rushed to clear rubble as they searched for survivors in Colombia on Tuesday after the country was struck by its strongest earthquake on record.…",
-          "url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Colombia rescuers race against the clock to search for earthquake survivors",
-          "excerpt": "Colombian volunteers and rescuers cleared rubble with their bare hands and buckets to search for survivors early Tuesday (August 11) after the country's strongest earthquake in a decade killed at least 132 people and smashed dozens of buildings.",
-          "url": "https://www.france24.com/en/colombia-rescuers-race-against-the-clock-to-search-for-earthquake-survivors"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Search Underway After Deadly 7.4 Earthquake Strikes Colombia",
-          "excerpt": "Cooper Flagg Rookie Card That Could Fetch Millions is Found 00:36 Jackie, Bald Eagle Who Rose to Fame Online, Dies After Illness 00:31 Easy AI Hacks to Help Improve Your Day-to-Day Life 04:10 Jenna and Sheinelle on Using 'Mean Mom' Face to Stop Tantrums 04:21 Jalen Brunson and His Mom Share Bond and Basketball Journey 08:20 Romeo Santos Shares New Mission After Son’s Autism Diagnosis 04:48 Food Sa…",
-          "url": "https://www.today.com/video/new-video-shows-moment-powerful-7-4-earthquake-hits-colombia-268095557866"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Colombia earthquake: Rescuers race to find thousands missing",
-          "excerpt": "Colombia earthquake: Rescuers race to find thousands missing August 11, 2026 Rescuers and volunteers searched through collapsed buildings across western Colombia on Tuesday after a magnitude 7.4 earthquake caused widespread destruction across several major cities a day prior.…",
-          "url": "https://www.dw.com/en/colombia-earthquake-rescuers-race-to-find-thousands-missing/a-78324580?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
-          "excerpt": "Sen. Darline Graham, who is serving out the remainder of her brother's term, and Rep. Ralph Norman advance to the special primary runoff later this month.",
-          "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary",
-          "excerpt": "Darline Graham and Ralph Norman advance to runoff in South Carolina GOP Senate primary, CBS News projects Washington — Sen. Darline Graham and Rep. Ralph Norman will advance to a runoff later this month in the South Carolina special Republican primary for Senate, CBS News projects, as the two candidates aim to replace Graham's late brother, Sen. Lindsey Graham, on the ticket in November.…",
-          "url": "https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina",
-          "excerpt": "Appointed Sen. Darline Graham was forced into a Republican Senate primary runoff by Rep. Ralph Norman on Tuesday, raising the prospect that GOP voters will again reject a candidate endorsed by President Donald Trump. Graham, who was appointed by South Carolina Gov.…",
-          "url": "https://www.nbcnews.com/politics/2026-election/appointed-sen-darline-graham-advances-gop-senate-primary-runoff-south-rcna591628"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "South Carolina GOP Senate primary heads to a runoff",
-          "excerpt": "Sen. Darline Graham and Rep. Ralph Norman (R-S.C.) advanced Tuesday to a runoff in South Carolina's crowded Republican Senate primary, per the AP, extending the fight to succeed the late Sen. Lindsey Graham . Why it matters: The Aug. 25 runoff will almost certainly determine South Carolina's next senator.…",
-          "url": "https://www.axios.com/2026/08/12/south-carolina-gop-senate-graham-primary-runoff"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-          "excerpt": "Progressive Democrats keep their winning streak rolling in Minnesota.",
-          "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
-          "excerpt": "Progressive Lt. Gov. Peggy Flanagan won the Democratic primary for Senate from Minnesota. It continues a series of wins for the progressive wing of the party over centrists.",
-          "url": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Peggy Flanagan projected winner of Democratic primary for Senate in Minnesota",
-          "excerpt": "Lt. Gov. Peggy Flanagan wins Democratic primary for Senate in Minnesota, CBS News projects Lt. Gov. Peggy Flanagan on Tuesday captured the Democratic nomination for Senate in the Minnesota primary election, CBS News projects.…",
-          "url": "https://www.cbsnews.com/news/peggy-flanagan-us-senate-minnesota-democratic-primary-projected-winner/"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Progressive Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary",
-          "excerpt": "Lt. Gov. Peggy Flanagan has won the Democratic primary for the Senate in Minnesota, NBC News projects, notching another major victory for her party’s progressive wing. Flanagan defeated moderate Rep. Angie Craig in the race to succeed retiring Sen. Tina Smith, who endorsed Flanagan along with Sens. Bernie Sanders, I-Vt., and Elizabeth Warren, D-Mass., and other progressive leaders.…",
-          "url": "https://www.nbcnews.com/politics/2026-election/progressive-peggy-flanagan-wins-minnesota-democratic-senate-primary-rcna591627"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
-          "excerpt": "In Minnesota, progressive Lt. Gov. Peggy Flanagan and moderate Democratic Rep. Angie Craig are competing for the nomination to succeed the retiring Sen. Tina Smith.",
-          "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "США и еще 40 стран призвали предупреждать о пусках баллистических ракет",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
+          "source": "RB.ru",
           "lang": "ru",
-          "headline": "США и еще 40 стран призвали предупреждать о пусках баллистических ракет",
-          "excerpt": "США и еще 40 стран призвали предупреждать о пусках баллистических ракет 41 государство выступило с заявлением, в котором призвало все страны оповещать за 24 часа о запусках межконтинентальных баллистических ракет (МБР), баллистических ракет подводных лодок (БРПЛ) и ракет-носителей (РКН). Текст опубликован на сайте американского постпредства в ООН.…",
-          "url": "https://www.kommersant.ru/doc/8877588"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Более 40 стран призвали заранее уведомлять о пусках баллистических ракет",
-          "excerpt": "Более 40 стран призвали заранее уведомлять о пусках баллистических ракет Австралия, Болгария, Венгрия, Великобритания, Германия, Япония, Франция, США и еще 33 страны опубликовали совместное заявление, в котором призвали «все соответствующие страны» заблаговременно уведомлять о пусках межконтинентальных баллистических ракет, баллистических ракет подводного базирования и космических ракет-носителей.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/12/1220479-uvedomlyat-ballisticheskih-raket"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Более 40 стран призвали к заблаговременному предупреждению о пусках баллистических ракет",
-          "excerpt": "Более 40 стран призвали к заблаговременному предупреждению о пусках баллистических ракет Москва. 12 августа. INTERFAX.RU - Южная Корея, США, Япония и 38 других стран выступили с совместным заявлением, в котором призвали страны заблаговременно уведомлять о пусках межконтинентальных баллистических ракет (МБР), баллистических ракет для подводных лодок (БРПЛ) и ракет-носителей.…",
-          "url": "https://www.interfax.ru/world/1108783"
+          "headline": "Выручка Nebius Аркадия Воложа выросла на 454% за год — за II квартал компания заработала $582 млн",
+          "excerpt": "Выручка Nebius Аркадия Воложа выросла на 454% за год — за II квартал компания заработала $582 млн Акции технологической компании на премаркете прибавили 17% Выручка технологической компании Nebius Group N.V. во II квартале 2026-го выросла на 454% год к году — до $582,3 млн, следует из отчётности компании. Показатель превысил ожидания аналитиков, которые прогнозировали $572,75 млн.…",
+          "url": "https://rb.ru/news/vyruchka-nebius-arkadiya-volozha-vyrosla-na-454-za-god-za-ii-kvartal-kompaniya-zarabotala-582-mln/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
-          "excerpt": "Lindell had President Trump's endorsement but he lost to Lisa Demuth, the speaker of the state house. She'll face Democratic Sen. Amy Klobuchar in the fall for governor.",
-          "url": "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Minnesota GOP picks Lisa Demuth over Trump-backed Mike Lindell for governor against Democrat Amy Klobuchar",
-          "excerpt": "Minnesota state House Speaker Lisa Demuth won the Republican primary for governor, NBC News projects, defeating Trump ally Mike Lindell and setting up a general election matchup against Democratic Sen. Amy Klobuchar. Demuth’s victory was an upset over Lindell, the MyPillow founder and election conspiracy theorist.…",
-          "url": "https://www.nbcnews.com/politics/2026-election/minnesota-gop-picks-lisa-demuth-trump-backed-mike-lindell-governor-dem-rcna591630"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Trump and the Republican Party Backed Competing Candidates in Minnesota’s Governor Primary. Both Fell Short",
-          "excerpt": "Minnesota Speaker of the House Lisa Demuth has won the Republican primary for governor in her state, beating out the GOP-endorsed and Trump-backed candidates in the race. The Associated Press called the race just before midnight on Tuesday as Demuth was leading with about 44% of the vote to Mike Lindell’s 32% out of the ballots counted thus far.…",
-          "url": "https://time.com/article/2026/08/12/minnesota-governor-republican-primary-election-result-demuth-lindell-qualls/"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Lisa Demuth projected winner of Republican primary in Minnesota governor's race",
-          "excerpt": "Minnesota House Speaker Lisa Demuth wins Republican primary in Minnesota governor's race, CBS News projects Minnesota House Speaker Lisa Demuth will win the Republican primary in Minnesota's gubernatorial race, CBS News projects. Demuth will face Sen. Amy Klobuchar, who won the Democratic primary, in the Nov. 3 general election.…",
-          "url": "https://www.cbsnews.com/news/lisa-demuth-minnesota-republican-governor-primary-projected-winner/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "DR Congo Ebola death toll surpasses 2,000",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "DR Congo Ebola death toll surpasses 2,000",
-          "excerpt": "DR Congo Ebola death toll surpasses 2,000 DR Congo’s Ebola outbreak is spreading rapidly, with the death toll surpassing 2,000. Confirmed infections have reached over 4,300. Save Share",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ebola: Over 2,000 dead in DR Congo as virus gathers pace",
-          "excerpt": "Ebola: Over 2,000 dead in DR Congo as virus gathers pace August 11, 2026 Health authorities in the Democratic Republic of Congo (DRC) said on Tuesday that an outbreak of a particularly virulent strain of the Bundibugyo Ebola virus currently raging in the east and northeast of the country has killed more than 2,000 people since the first case was confirmed.…",
-          "url": "https://www.dw.com/en/ebola-over-2-000-dead-in-dr-congo-as-virus-gathers-pace/a-78327706?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Congo's Ebola Epidemic Began With A Fresh Jump From An Animal. Dating It Will Take More Genomes",
-          "excerpt": "The first genomes from the Ebola outbreak in eastern Congo have been published in Nature Medicine. It was already known that the virus responsible for the outbreak is a variant of a viral species known as Bundibugyo.…",
-          "url": "https://www.forbes.com/sites/johndrake/2026/08/11/congos-ebola-epidemic-began-with-a-fresh-jump-from-an-animal-dating-it-will-take-more-genomes/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "At least 2,000 die in DR Congo's fastest-growing Ebola outbreak on record",
-          "excerpt": "At least 2,000 people have died in Congo’s Ebola outbreak – the fastest-growing on record, according to the latest data – as health authorities struggle to get help to remote localities due to rebel conflict, bad roads and work stoppages over payment issues.",
-          "url": "https://www.france24.com/en/africa/20260811-thousands-die-as-dr-congo-faces-fastest-growing-ebola-outbreak-on-record"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Parisians get ready for the eclipse",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Parisians get ready for the eclipse",
-          "excerpt": "Paris is preparing for the solar eclipse. The last one here in France was in 1999. So this is one not to miss, especially for the astrophotographer we met.",
-          "url": "https://www.france24.com/en/parisians-get-ready-for-the-eclipse"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Where And When To Livestream Today’s Total Solar Eclipse",
-          "excerpt": "Topline Want to livestream today’s total solar eclipse? On Wednesday, Aug. 12, 2026, the moon’s shadow will sweep across the Arctic and Europe, bringing totality to parts of Russia, Greenland, Iceland and Spain. Meanwhile, millions of people across Europe, North America and northwest Africa will see a deep partial solar eclipse.…",
-          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/08/12/where-and-when-to-livestream-todays-total-solar-eclipse/"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Airlines and charter companies are selling front-row seats to the solar eclipse for up to $1,200",
-          "excerpt": "Some adventurous travelers are skipping the crowds on the ground to watch Wednesday's solar eclipse from thousands of feet in the air, thanks to a handful of specially arranged airline and charter flights. Brussels Airlines is flying 100 people over France to view the partial eclipse, Aerospace Global News reported.…",
-          "url": "https://www.businessinsider.com/airlines-private-jets-flying-special-solar-eclipse-flights-2026-8"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "What to know about Wednesday's total solar eclipse",
-          "excerpt": "2026's only total solar eclipse happens Wednesday. Here's the path and times of visibility. The only total solar eclipse of 2026 will have people looking to the skies as darkness falls on its path across part of the Northern Hemisphere on Wednesday. First, if you've never had the opportunity to see a solar eclipse, what you are watching is the moon passing in front of the sun.…",
-          "url": "https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Обломки БПЛА повредили шесть жилых домов в Новороссийске",
+      "headline_en": "Cruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe",
       "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Обломки БПЛА повредили шесть жилых домов в Новороссийске",
-          "excerpt": "Обломки БПЛА повредили шесть жилых домов в Новороссийске Обломки беспилотников попали в шесть жилых домов, коммерческое здание, а также на территорию строительной площадки в Новороссийске, сообщает оперштаб Краснодарского края. Есть пострадавшие, им оказывают медицинскую помощь. Точное число раненых оперштаб не уточняет. На месте работают оперативные службы.…",
-          "url": "https://www.kommersant.ru/doc/8877562"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Обломки БПЛА попали в шесть жилых домов в Новороссийске, есть пострадавшие",
-          "excerpt": "Обломки БПЛА попали в шесть жилых домов в Новороссийске, есть пострадавшие Москва. 12 августа. INTERFAX.RU - В Новороссийске обломки БПЛА попали в шесть жилых домов и коммерческое здание, есть пострадавшие, сообщает оперштаб Краснодарского края. \"В Новороссийске обломки БПЛА попали в шесть жилых домов, коммерческое здание и на территорию строительной площадки.…",
-          "url": "https://www.interfax.ru/russia/1108782"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-      "coverage": 4,
       "perspectives": [
         {
           "source": "The Guardian",
           "lang": "en",
-          "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-          "excerpt": "Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard Air Force One, in an extraordinary ruse – prompted by an Iranian assassination threat – that involved hiding the president in an airport catering container, according to reporting from the Washington Post and the New York Times.…",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Secret Service operation to swap Trump’s planes amid Iran threat",
-          "excerpt": "Desperate search for survivors after deadly Colombia earthquake 02:17 New bodycam of missing tubers rescue 01:32 New York court prepares for high-profile Mangione trial 00:57 'Extremely dangerous' storm batters Midwest 02:13 Teen finds special way to thank his doctors after finishing cancer treatment 01:17 Now Playing Secret Service operation to swap Trump’s planes amid Iran threat 02:35 UP NEXT W…",
-          "url": "https://www.nbcnews.com/nightly-news/video/secret-service-operation-to-swap-trump-s-planes-amid-iran-threat-268148293534"
+          "headline": "Cruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe",
+          "excerpt": "It was a moment of awe shared by millions across Europe: an eclipse that blocked out the sun, plunging parts of the continent into a daytime darkness in which temperatures dropped and birds suddenly went quiet. Wednesday’s eclipse began in Russia’s remote Arctic north, going on to trace an arc over much of western Europe.…",
+          "url": "https://www.theguardian.com/science/ng-interactive/2026/aug/12/cruise-ships-quiet-towns-and-an-all-day-festival-millions-flock-to-eclipse-viewing-spots-across-europe"
         },
         {
           "source": "France 24",
           "lang": "en",
-          "headline": "Trump boarded secret flight via catering truck due to Iran threat, US media reports",
-          "excerpt": "President Donald Trump took a secret military flight from Turkey last month in an operation that involved him being moved between aircraft in a catering truck, an extraordinary deception prompted ​by an Iranian assassination threat, the Washington Post reported.",
-          "url": "https://www.france24.com/en/trump-boarded-secret-flight-via-catering-truck-due-to-iran-threat-us-media-reports"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "Trump secretly switched planes amid an Iranian threat, a new report says. Here's a look at his presidential fleet.",
-          "excerpt": "The president of the United States never has to sit in traffic or fight for the last space in a plane's overhead bin. With a fleet of planes, helicopters, and vehicles at the US president's disposal, the leader of the free world travels in style.…",
-          "url": "https://www.businessinsider.com/presidents-planes-vehicles-air-force-one-marine-one-photos"
+          "headline": "Parts of Spain plunged into darkness as eclipse moves across Europe",
+          "excerpt": "Parts of Spain were briefly plunged into darkness on Wednesday as a solar eclipse that began in Iceland and the Arctic progressed across the continent. It was the first total eclipse to be seen from mainland Europe in two decades. Read our blog to see how the event unfolded. This live page is no longer being updated. For more of our coverage of the solar eclipse, click here.…",
+          "url": "https://www.france24.com/en/science/20260812-live-millions-skywatchers-europe-prepare-total-solar-eclipse"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Russia releases former US Marine reported in poor health",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Russia releases former US Marine reported in poor health",
-          "excerpt": "Russia releases former US Marine reported in poor health - Published President Donald Trump said a former US Marine held in a Russian prison, whose health was reportedly in extremely poor condition, has been released.…",
-          "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Russia frees former US Marine Robert Gilman after more than four years in prison",
-          "excerpt": "Gilman was arrested and detained in Russia in 2022, accused of assaulting a police officer following an incident on a train in Voronezh, to the south of Moscow. Former United States Marine Robert Gilman is on his way back to the US after being freed from prison in Russia. US President Donald Trump said his Russian counterpart Vladimir Putin had approved Gilman's release on humanitarian grounds.…",
-          "url": "http://www.euronews.com/2026/08/11/russia-frees-former-us-marine-robert-gilman-after-more-than-four-years-in-prison"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Russia frees ex-US marine Gilman jailed since 2022",
-          "excerpt": "Russia frees ex-US marine Gilman jailed since 2022 NewsFeed Russia frees ex-US marine Gilman jailed since 2022 Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer. US President Donald Trump says he spoke with Russian President Vladimir Putin who agreed to release Gilman because of his poor health. Published On 12 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Russia frees ailing ex-US marine after four years in prison on disputed charges",
-          "excerpt": "Russia frees ailing ex-US marine after four years in prison on disputed charges A former US military veteran who was imprisoned in Russia for more than four years on disputed charges and under abusive conditions was released on Tuesday. A group advocating for him said he was gravely ill and at risk of dying.…",
-          "url": "https://www.france24.com/en/americas/20260811-russia-frees-ex-us-marine-after-four-years-imprisonment-on-disputed-charges"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "North Korea conducts second ballistic missile test in less than a week",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "North Korea conducts second ballistic missile test in less than a week",
-          "excerpt": "North Korea conducts second ballistic missile test in less than a week North Korea fired a ballistic missile Wednesday, its second test in less than a week, as Seoul and Washington prepare to begin annual military drills next week. The launches appear to signal Pyongyang’s opposition to the exercises, which it views as a rehearsal for an invasion.…",
-          "url": "https://www.france24.com/en/asia-pacific/20260812-north-korea-conducts-second-ballistic-missile-test-in-less-than-a-week"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "North Korea launches a suspected ballistic missile, Japan’s says",
-          "excerpt": "North Korea launches a suspected ballistic missile, Japan’s says Japan’s Defense Ministry says North Korea has launched a possible ballistic missile toward the sea SEOUL, South Korea -- SEOUL, South Korea (AP) — North Korea fired a possible ballistic missile toward the sea on Wednesday, Japan’s Defense Ministry said, the second such weapons launch in less than a week.…",
-          "url": "https://abcnews.com/International/wireStory/north-korea-launches-suspected-ballistic-missile-japans-135558919"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "N Korea launches ballistic missile as S Korea, US plan military drills",
-          "excerpt": "N Korea launches ballistic missile as S Korea, US plan military drills Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises. North Korea has launched a ballistic missile towards the Sea of Japan, according to Seoul and Tokyo, marking the second such test from Pyongyang in less than a week.…",
-          "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "North Korea tests missile ahead of US-South Korea drills",
-          "excerpt": "North Korea tests missile ahead of US-South Korea drills August 12, 2026 North Korea test-fired a ballistic missile off its east coast towards Japan early on Wednesday, its neighbors said, just days before US-South Korea Joint Military drills which Pyongyang views as invasion rehearsals. This is the second such test in less than a week.…",
-          "url": "https://www.dw.com/en/north-korea-tests-missile-ahead-of-us-south-korea-drills/a-78329244?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Обломки БПЛА упали на 21 жилой дом и четыре предприятия в Краснодарском крае",
+      "headline_en": "A Middle Eastern NATO?",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Обломки БПЛА упали на 21 жилой дом и четыре предприятия в Краснодарском крае",
-          "excerpt": "Обломки БПЛА упали на 21 жилой дом и четыре предприятия в Краснодарском крае Есть жертва и пострадавшие Москва. 12 августа.…",
-          "url": "https://www.interfax.ru/russia/1108809"
-        },
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "Обломки БПЛА упали на 21 дом на Кубани",
-          "excerpt": "Обломки БПЛА упали на 21 жилой дом и на 4 предприятия в Краснодарском крае. Порядка 90 человек находятся в пунктах временного размещения. МОСКВА, 12 авг - РИА Новости. Обломки БПЛА упали на 21 жилой дом и на 4 предприятия в Краснодарском крае, порядка 90 человек находятся в пунктах временного размещения (ПВР), сообщил губернатор Вениамин Кондратьев.…",
-          "url": "https://ria.ru/20260812/ataka-2110366561.html"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
+          "source": "Foreign Policy",
           "lang": "en",
-          "headline": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-          "excerpt": "Brad Lightcap, one of the longest-serving executives at OpenAI, is leaving the powerful AI lab to “start something new.” In an internal message that Lightcap shared online Tuesday, the outgoing executive told OpenAI staff that it was “bittersweet to share that I’ll be moving on from OpenAI to start something new.” Lightcap, who joined the company in 2018, spent four years as OpenAI’s chief financi…",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+          "headline": "A Middle Eastern NATO?",
+          "excerpt": "A Middle Eastern NATO? What’s behind the defense pact between Turkey, Saudi Arabia, and Pakistan. Over the last several decades, the Gulf states have used their oil and gas riches to transform their economies into global powerhouses. Many have built gleaming new cities and some of the world’s best airlines—and turned to the United States for security to make sure the party kept going.…",
+          "url": "https://foreignpolicy.com/2026/08/11/turkey-pakistan-saudi-arabia-mecca-pact-fp-live/"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
-          "excerpt": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the artificial intelligence company. Lightcap joined OpenAI in 2018 and held a number of senior leadership roles during his tenure, including a four-year stint as the company's operating chief.…",
-          "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Another OpenAI executive takes off",
-          "excerpt": "Brad Lightcap, OpenAI’s special projects lead and the company’s former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he’d be starting “something new.” Another OpenAI executive takes off Brad Lightcap, special projects lead and the company’s former COO, will be departing.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure"
-        },
-        {
-          "source": "Business Insider",
-          "lang": "en",
-          "headline": "OpenAI loses another top executive, as Brad Lightcap leaves 'to start something new'",
-          "excerpt": "Veteran OpenAI executive Brad Lightcap announced on Tuesday that he's leaving the company, the latest departure at the AI juggernaut as it orients itself toward an initial public offering. Lightcap served as the company's chief financial officer and chief operating officer during his eight-year tenure, and most recently led a special projects team at OpenAI.…",
-          "url": "https://www.businessinsider.com/openais-former-coo-brad-lightcap-leaves-latest-exec-loss-2026-8"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Rep. John Larson ouster makes 2026 a record year for Democratic primary losses",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Rep. John Larson ouster makes 2026 a record year for Democratic primary losses",
-          "excerpt": "Rep. John Larson (D-Conn.) was unseated Tuesday by his primary challenger, former Hartford Mayor Luke Bronin , according to the Associated Press. Why it matters: Larson is the 7th House Democrat ousted in their primary this year . Only one other election cycle in the 21st century has seen this many incumbent losses in primaries.…",
-          "url": "https://www.axios.com/2026/08/12/john-larson-luke-bronin-connecticut-primary"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Democratic Rep. John Larson loses his primary to opponent calling for generational change",
-          "excerpt": "Democratic Rep. John Larson of Connecticut has lost his primary race to former Hartford Mayor Luke Bronin, NBC News projects, becoming the latest example of Democratic voters’ push to sweep out incumbent House members and replace them with younger leadership.…",
-          "url": "https://www.nbcnews.com/politics/2026-election/democratic-rep-john-larson-loses-primary-opponent-calling-generational-rcna591631"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "14-term Rep. John Larson ousted by challenger in Connecticut Democratic primary",
-          "excerpt": "14-term Rep. John Larson ousted by challenger Luke Bronin in Connecticut Democratic primary, CBS News projects Democratic Rep. John Larson — who has represented central Connecticut since the late 1990s — lost his party's primary Tuesday to former Hartford Mayor Luke Bronin, CBS News has projected, after a campaign dominated by debates about generational change.…",
-          "url": "https://www.cbsnews.com/news/john-larson-luke-bronin-connecticut-house-democratic-primary/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Oil prices and US bond yields rise as Trump and Iran trade reparations demands",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Oil prices and US bond yields rise as Trump and Iran trade reparations demands",
-          "excerpt": "Oil prices and US government bond yields both climbed on Tuesday after US President Donald Trump answered Iran's demand for war reparations with a sweeping counterclaim of his own, pushing a deal to reopen the Strait of Hormuz further out of reach.…",
-          "url": "http://www.euronews.com/business/2026/08/11/oil-prices-and-us-bond-yields-rise-as-trump-and-iran-trade-reparations-demands"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Middle East: Trump took secret flight out of Turkey over Iran threat",
-          "excerpt": "Middle East: Trump took secret flight out of Turkey Published August 11, 2026last updated August 12, 2026 What you need to know This blog is now closed.…",
-          "url": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
-          "excerpt": "Oil prices rose Tuesday after a senior Iranian official said the Strait of Hormuz will not reopen until Tehran's conditions are met by Washington. U.S. West Texas Intermediate futures gained 1.3% to close at $83.20 per barrel. Brent crude, the international benchmark, advanced 1.36% to settle at $88.91 per barrel.…",
-          "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Криштиану Роналду и Джорджина Родригес поженились",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Криштиану Роналду и Джорджина Родригес поженились",
-          "excerpt": "Криштиану Роналду и Джорджина Родригес поженились Источник: Криштиану Роналду Португальский футболист Криштиану Роналду женился на испанской модели Джорджине Родригес. Об этом пара сообщила в инстаграме. Они опубликовали фото своих рук с кольцами. Пара в отношениях с 2016 года. За это время у них родились две дочери.…",
-          "url": "https://meduza.io/news/2026/08/11/krishtianu-ronaldu-zhenilsya-na-dzhordzhine-rodriges"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Криштиану Роналду женился на модели Джорджине Родригес",
-          "excerpt": "Криштиану Роналду женился на модели Джорджине Родригес Футболист Криштиану Роналду женился на модели Джорджине Родригес. Об этом он сообщил в Instagram Спортсмен опубликовал фотографию с обручальными кольцами. Аналогичный снимок появился и на странице Родригес. Роналду и Родригес ранее публично подтвердили отношения и продолжительное время оставались парой. В августе 2025 г.…",
-          "url": "https://www.vedomosti.ru/society/news/2026/08/11/1220464-ronaldu-zhenilsya-na-rodriges"
+          "headline": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+          "excerpt": "Saudi Arabia has surged oil exports through a pipeline that stretches across Egypt to the Mediterranean Sea, as Riyadh looks for alternatives to the Red Sea since Iran's Houthi allies declared a maritime embargo of the kingdom.…",
+          "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Trump admin cuts Medicaid funds for youth trans care",
-      "coverage": 3,
+      "headline_en": "Korean Stocks Rise as Chip Rally Regains Steam",
+      "coverage": 2,
       "perspectives": [
         {
-          "source": "Axios",
+          "source": "Bloomberg",
           "lang": "en",
-          "headline": "Trump admin cuts Medicaid funds for youth trans care",
-          "excerpt": "The Trump administration on Tuesday finalized a plan to cut off federal Medicaid funding for hormone therapy, puberty blockers and surgeries for transgender youths. Why it matters: The rule is the latest escalation in the administration's effort to limit transition-related care , which has tested the boundaries of executive powers and could undercut federal and state protections.…",
-          "url": "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump administration bars use of Medicaid funds for some youth transgender care",
-          "excerpt": "Trump administration bars use of Medicaid funds for some youth transgender care President Trump's administration said that Medicaid will stop paying for gender-affirming surgeries and hormone treatments for transgender minors and the state Children's Health Insurance Program won't pay for the treatments for those under 19.…",
-          "url": "https://www.cbsnews.com/news/medicaid-transgender-care-minors/"
+          "headline": "Korean Stocks Rise as Chip Rally Regains Steam",
+          "excerpt": "A revival in the global AI trade pushed South Korean stocks toward a technical bull market, marking a dramatic turnaround from last month’s historic rout. Bloomberg TV's Avril Hong breaks down the latest moves. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-13/korean-stocks-rise-as-chip-rally-regains-steam-video"
         },
         {
           "source": "CNBC",
           "lang": "en",
-          "headline": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
-          "excerpt": "The Trump administration on Tuesday said it is implementing a rule that ends the use of federal Medicaid and CHIP funding for gender-affirming care for children and youth. That includes puberty blockers, hormones and surgical operations, among other treatment. Gender-affirming surgeries are rare among minors.…",
-          "url": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-          "excerpt": "Russia using North Korean missiles to strike Ukraine, Zelensky says - Published Ukraine and Russia have continued striking each other overnight, with President Volodymyr Zelensky accusing Moscow of using North Korean missiles. Ukraine said strikes on the southern city of Zaporizhzhia - which killed seven people and injured at least 24 - involved ballistic missiles from Russia's ally.…",
-          "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Russia fired North Korean missiles in attack that killed six in Zaporizhzhia, Zelenskyy says",
-          "excerpt": "Ukraine's president has repeatedly sounded the alarm over deepening military ties between Moscow and Pyongyang, often while appealing for more Western air-defence supplies. Ukrainian President Volodymyr Zelenskyy said on Tuesday that Russia fired North Korean missiles in an overnight attack that killed six and wounded 19 in the southeastern city of Zaporizhzhia.…",
-          "url": "http://www.euronews.com/2026/08/11/russia-fired-north-korean-missiles-in-attack-that-killed-six-in-zaporizhzhia-zelenskyy-say"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Ukraine says Russia fired North Korean missiles",
-          "excerpt": "Russian attacks across Ukraine killed at least nine people overnight and wounded dozens, Kyiv said Tuesday (August 11), accusing Moscow of launching North Korean missiles in the raid.",
-          "url": "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "At least 15 dead and dozens missing after ferry capsizes in Zimbabwean lake",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Sky News",
-          "lang": "en",
-          "headline": "At least 15 dead and dozens missing after ferry capsizes in Zimbabwean lake",
-          "excerpt": "At least 15 people have died and another 27 are missing after a ferry capsized on a huge lake in Zimbabwe, officials have said.",
-          "url": "https://news.sky.com/story/boat-carrying-more-than-90-capsizes-in-zimbabwe-13572036"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Dozens dead and missing after ferry capsizes in Zimbabwe",
-          "excerpt": "Dozens dead and missing after ferry capsizes in Zimbabwe NewsFeed Dozens dead and missing after ferry capsizes in Zimbabwe An overloaded ferry capsized on Zimbabwe’s Lake Kariba, killing at least 15 people and leaving 27 missing. Seventy-seven people were rescued and reached a small island as search and rescue operations continued. Published On 12 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Ferry capsizes on Lake Kariba in Zimbabwe with 95 people on board",
-          "excerpt": "Locals are said to use the ferry to get from rural parts of the region to the town of Kariba, which is on the north side of Lake Kariba, close to the border with Zambia. A boat ferrying 90 passengers and five crew members across Lake Kariba in Zimbabwe capsized on Tuesday, according to police.…",
-          "url": "http://www.euronews.com/2026/08/11/ferry-capsizes-on-lake-kariba-in-zimbabwe-with-95-people-on-board"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Reuters: Россия освободила бывшего морпеха США Роберта Гилмана",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Reuters: Россия освободила бывшего морпеха США Роберта Гилмана",
-          "excerpt": "Reuters: Россия освободила бывшего морпеха США Роберта Гилмана Россия освободила бывшего морского пехотинца США Роберта Гилмана, чтобы он мог пройти лечение в Соединенных Штатах, пишет Reuters со ссылкой на американских чиновников. Президент РФ Владимир Путин помиловал американца по гуманитарным соображениям.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/11/1220395-osvobodila-morpeha"
-        },
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Россия освободила бывшего американского морпеха Роберта Гилмана «по гуманитарным соображениям». Его близкие опасались, что тот умрет в тюрьме",
-          "excerpt": "Россия освободила бывшего американского морпеха Роберта Гилмана «по гуманитарным соображениям». Его близкие опасались, что тот умрет в тюрьме Власти России освободили 32-летнего бывшего американского морского пехотинца Роберта Гилмана, отбывавшего срок в колонии в Воронеже. По данным Reuters, Владимир Путин помиловал Гилмана по гуманитарным соображениям.…",
-          "url": "https://meduza.io/news/2026/08/11/rossiya-osvobodila-byvshego-amerikanskogo-morpeha-roberta-gilmana-po-gumanitarnym-soobrazheniyam-ego-blizkie-opasalis-chto-on-umret-v-tyurme"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "U.S. Marine veteran freed from Russian prison after nearly 4 years",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. Marine veteran freed from Russian prison after nearly 4 years",
-          "excerpt": "Robert Gilman, U.S. Marine veteran, freed from Russian prison after nearly 4 years Russia has released an American military veteran who spent more than four years in prison, President Trump said Tuesday, days after a group advocating for his freedom said he was gravely ill. Mr.…",
-          "url": "https://www.cbsnews.com/news/robert-gilman-russia-released/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Ex-Marine released and returning to US from Russian prison",
-          "excerpt": "Ex-Marine released and returning to US from Russian prison August 11, 2026 Russia on Tuesday released Robert Gilman, a former US Marine who had spent more than four years in prison on disputed charges, according to a group advocating for him and US officials.…",
-          "url": "https://www.dw.com/en/ex-marine-released-and-returning-to-us-from-russian-prison/a-78327699?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Ex-Marine freed from Russian prison after Trump discussed case with Putin",
-          "excerpt": "Ex-Marine freed from Russian prison after Trump discussed case with Putin 02:20 UP NEXT Russia says a Ukrainian drone struck a busy beach, killing at least 7 people 00:15 Wildberries says two warehouses were hit near St.…",
-          "url": "https://www.nbcnews.com/video/ex-marine-freed-from-russian-prison-after-trump-discussed-case-with-putin-268138053912"
+          "headline": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
+          "excerpt": "South Korean stocks rallied Thursday, lifting the benchmark Kospi into a technical bull market as a global revival in the AI trade fuels a sharp recovery after last month's historic sell-off. The Kospi jumped over 4% in early trade, taking its rebound from its July 30 low to roughly 23%, data from LSEG showed.…",
+          "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
       "headline_en": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "coverage": 3,
+      "coverage": 2,
       "perspectives": [
         {
           "source": "Ars Technica",
@@ -822,319 +1039,95 @@
           "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
         },
         {
-          "source": "The Verge",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "ChatGPT and Gemini both just passed 1 billion users",
-          "excerpt": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google’s fastest-growing product ever. ChatGPT and Gemini both just passed 1 billion users OpenAI’s still the chatbot leader, but the race appears to be tightening fast.…",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Google’s Gemini app surges to 1 billion users",
-          "excerpt": "In a significant milestone for Google, CEO Sundar Pichai announced via X that the Gemini app has become one of the company’s fastest-growing products, recently surpassing 1 billion monthly active users. Pichai also noted it was the 14th Google product to hit the 1 billion mark.…",
-          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "AI Could Help Fossil Fuel Companies Create More Emissions",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "AI Could Help Fossil Fuel Companies Create More Emissions",
-          "excerpt": "The emissions from powering data centers rightly get a lot of attention. But new research from former Microsoft sustainability workers cautions that the way artificial intelligence enhances productivity in the oil and gas industry could be much more damaging to the planet.…",
-          "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "AI’s biggest climate problem may not be data centers",
-          "excerpt": "AI ’s carbon footprint is even worse than it seems. It’s not just that new data centers are leading to new fossil-fueled power plants—like an Amazon-backed gas plant in Texas that could be the largest single source of CO2 pollution in the U.S .…",
-          "url": "https://www.fastcompany.com/91588344/ai-climate-impact-enabled-emissions-even-worse-than-data-centers"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "AI could help unlock more oil — and emissions",
-          "excerpt": "Move over, data centers. AI's climate impact may extend well beyond the electricity it consumes. Why it matters: A new peer-reviewed study finds AI could help produce more oil and natural gas — and produce a climate impact the authors argue could far outweigh the technology's benefits for renewable energy.…",
-          "url": "https://www.axios.com/2026/08/11/ai-oil-gas-emissions-increase"
+          "headline": "Google’s CEO Says Gemini Is Its ‘Fastest-Growing Product Ever.’ People Are Using It in 1 Surprising Way",
+          "excerpt": "Over one billion people now use Gemini each month, Sundar Pichai said on X.",
+          "url": "https://www.inc.com/kit-eaton/googles-ceo-says-gemini-is-its-fastest-growing-product-ever-people-are-using-it-in-1-surprising-way/91389765"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Ребенок погиб, восемь человек пострадали при атаке БПЛА на Новороссийск // Губернатор Кубани: ребенок погиб и восемь человек ранены при атаке БПЛА",
+      "headline_en": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Ребенок погиб, восемь человек пострадали при атаке БПЛА на Новороссийск // Губернатор Кубани: ребенок погиб и восемь человек ранены при атаке БПЛА",
-          "excerpt": "Ребенок погиб, восемь человек пострадали при атаке БПЛА на Новороссийск Губернатор Кубани: ребенок погиб и восемь человек ранены при атаке БПЛА В Краснодарском крае отразили массированную атаку нескольких сотен БПЛА, сообщил губернатор Вениамин Кондратьев. По его словам, погибли два человека, в том числе ребенок, пострадали 12 человек.…",
-          "url": "https://www.kommersant.ru/doc/8877624"
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
+          "excerpt": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265 President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools. Rescue efforts in Colombia following Monday’s devastating earthquake have entered what officials called the “final phase” as the death toll rose to 265, with more than 3,500 others wounded.…",
+          "url": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss"
         },
         {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Ребенок погиб, восемь человек пострадали в результате атаки БПЛА на Новороссийск",
-          "excerpt": "Ребенок погиб, восемь человек пострадали в результате атаки БПЛА на Новороссийск За ночь над регионом сбили несколько сотен БПЛА Москва. 12 августа. INTERFAX.RU - Восьмилетний ребенок погиб, восемь человек, в числе которых один ребенок, пострадали в результате атаки БПЛА на Новороссийск, сообщил губернатор Краснодарского края Вениамин Кондратьев утром в среду.…",
-          "url": "https://www.interfax.ru/russia/1108804"
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
+          "excerpt": "Rescuers in Colombia faced a race against time Wednesday as they searched collapsed buildings for survivors after the country's strongest earthquake this century. The magnitude 7.4 quake has killed 265 people and injured more than 3,500, with nearly 500 still missing.",
+          "url": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Markets Brace for US CPI; AI Firms Crush Earnings | The Asia Trade 8/12/2026",
+      "headline_en": "AI nuclear power firm Fermi finally has a new CEO",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Bloomberg",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "Markets Brace for US CPI; AI Firms Crush Earnings | The Asia Trade 8/12/2026",
-          "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-12/the-asia-trade-8-12-2026-video"
+          "headline": "AI nuclear power firm Fermi finally has a new CEO",
+          "excerpt": "Fermi, the AI nuclear power firm, has named a new CEO more than three months after firing co-founder Toby Neugebauer from the top executive post. Fermi said Wednesday it has hired Lee McIntire, an independent member of the company’s board who has held chief executive positions at CH2M Hill and TerraPower, the nuclear power startup founded by Bill Gates.…",
+          "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/"
         },
         {
           "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "Counterpoint's Shah on Nvidia, Circular Deals",
-          "excerpt": "Neil Shah, Vice President at Counterpoint, discusses the outlook for Nvidia and the circular deals underpinning the AI boom. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-12/counterpoint-s-shah-on-nvidia-circular-deals-video"
+          "headline": "Fermi Names McIntire CEO Four Months After Ousting Co-Founder",
+          "excerpt": "Fermi Inc. has named Lee McIntire as chief executive officer, about four months after ousting its co-founder from the top job.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-12/fermi-names-mcintire-ceo-four-months-after-ousting-co-founder"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Two hydrogen-burning engines powered this car to a new land speed record",
+          "excerpt": "It’s been far too long since I’ve been able to report a new land speed record. For a while, it looked like Bloodhound might have been able to make good on its 1,000 mph (1,609 km/h) attempt, but then the money ran out. As a result, Thrust SSC’s two-way average of 763.6 mph (1,229 km/h), set in 1997, remains the fastest anyone has ever driven a wheeled vehicle over a timed mile.…",
+          "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Driver hits 406 mph in new land-speed record",
+          "excerpt": "ABC News Live Video Local Shows Good Morning America ShopGMA Interest Successfully Added We'll notify you here with news about Turn on desktop notifications for breaking stories about interest? Off On Stream on Election takeaways Nick Reiner Solar eclipse Live Updates Live Updates Iran Powerball jackpot Karoline Leavitt Cyclosporiasis cases Budget autos Driver hits 406 mph in new land-speed record…",
+          "url": "https://abcnews.com/video/135570227/"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-          "excerpt": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait NewsFeed Cargo ship in flames after Houthi attack in Bab al-Mandeb strait Footage shows an Egyptian-owned cargo vessel engulfed in flames in the Bab al-Mandeb strait after a suspected attack by Yemen’s Iran-backed Houthis killed four crew members.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "At least six killed in suspected Houthi attack on Egyptian ship in the Red Sea",
-          "excerpt": "At least six killed in suspected Houthi attack on Egyptian ship in the Red Sea At least four crew members were killed in a suspected Houthi attack on an Egyptian-owned cargo vessel in the Bab el-Mandeb strait on Tuesday along with two members of the forces deployed during a rescue mission to evacuate the ship, Yemen's coastguard said.…",
-          "url": "https://www.france24.com/en/middle-east/20260811-three-killed-in-suspected-houthi-attack-on-egyptian-ship-in-the-red-sea"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "3 dead, more than 1 million without power as severe storms strike Midwest",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "3 dead, more than 1 million without power as severe storms strike Midwest",
-          "excerpt": "A person died in a suspected weather-related house explosion, a 4-year-old boy was killed when a tree fell on his home in Indiana, and another person died in Ohio as furious storms moved through the Midwest on Tuesday, officials said. Two of the deaths were in Indiana, where a home in Portage exploded and a fire broke out around 12:20 p.m.…",
-          "url": "https://www.nbcnews.com/weather/storms/dead-million-power-severe-storms-strike-midwest-rcna592035"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Powerful storms slam Midwest, leave nearly 1 million without power",
-          "excerpt": "Powerful storms and suspected tornadoes slam Midwest, leaving nearly 1 million without power Severe weather cut power to nearly 1 million customers in the Midwest as perilous thunderstorms and extreme wind gusts pummeled the region Tuesday. Tornado warning sirens howled as the skies darkened.…",
-          "url": "https://www.cbsnews.com/news/midwest-severe-storms-tornadoes-power-outages/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Путин прибыл на Сахалин для участия в финальном этапе учений Тихоокеанского флота",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Путин прибыл на Сахалин для участия в финальном этапе учений Тихоокеанского флота",
-          "excerpt": "Путин прибыл на Сахалин для участия в финальном этапе учений Тихоокеанского флота Президент России Владимир Путин прибыл в Южно-Сахалинск для участия в завершающей стадии учений Тихоокеанского флота (ТОФ). Об этом сообщает пресс-служба Кремля. В прошлый раз президент посещал Сахалинскую область в 2013 году.…",
-          "url": "https://www.kommersant.ru/doc/8877589"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Путин прибыл на Сахалин для участия в финальной стадии учений ТОФ",
-          "excerpt": "Путин прибыл на Сахалин для участия в финальной стадии учений ТОФ Президент России Владимир Путин прибыл в Южно-Сахалинск, где примет участие в завершающем этапе учений Тихоокеанского флота. Об этом заявили в Кремле.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/12/1220465-putin-pribil-na-sahalin"
-        }
-      ]
-    },
-    {
-      "category": "📈 Economy",
-      "headline_en": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-          "excerpt": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous. Al-Makha, Yemen – Mazhar works on a sea that has long been a front line in Yemen’s conflict.…",
-          "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership",
-          "excerpt": "Iran-backed Houthi rebels killed six people aboard a cargo ship in the Bab el-Mandeb Strait on Tuesday, the first reported fatalities from attacks targeting Red Sea shipping in more than a year. Within hours, U.S. forces said they had fired missiles at a container ship that allegedly attempted to breach Washington's blockade of Iranian ports in the Gulf of Oman.…",
-          "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Canada flight cancelled after child refuses to wear seat belt",
+      "headline_en": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Canada flight cancelled after child refuses to wear seat belt",
-          "excerpt": "Canada flight cancelled after child refuses to wear seat belt - Published The cancellation of a flight in Canada after a child refused to wear a seat belt has reignited a debate about the etiquette and safety procedures relating to children travelling on planes.…",
-          "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
+          "headline": "Woman pulled alive from rubble 36 hours after Colombia quake",
+          "excerpt": "Woman pulled alive from rubble 36 hours after Colombia quake - Published A 32-year-old woman, who had been trapped under rubble for 36 hours following the 7.4-magnitude quake which shook western Colombia, has been rescued alive. Daniela Largo was pulled from beneath a collapsed building in the city of Pereira after a 10-hour-long rescue operation.…",
+          "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "The Guardian",
+          "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Canadian airline cancels flight after child refuses to wear seatbelt",
-          "excerpt": "A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was standing in their chair as the 6 August Porter Airlines flight taxied towards the runway, the airline said.…",
-          "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-          "excerpt": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices. The latest issue stems from earlier this year when Bloomberg published an investigation that mapped out how Phia was taking credit and commission for affiliate purchases it did not help to generate, known as cookie stuffing.…",
-          "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Phia Touted Elevenfold Revenue Growth. Now Reports Say Its Founders Knew It Was Claiming Sales It Didn’t Drive",
-          "excerpt": "Internal messages show Phoebe Gates and Sophia Kianni knew months before Phia’s $35 million Series A that its affiliate technology could take credit for purchases it may not have generated.",
-          "url": "https://www.inc.com/georgia-fearn/phia-touted-elevenfold-revenue-growth-now-reports-say-founders-knew-claiming-sales-didnt-drive/91389219"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "При массированной атаке дронов на Кубань погиб ребенок",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "При массированной атаке дронов на Кубань погиб ребенок",
-          "excerpt": "Краткий пересказ от РИА ИИ - В Новороссийске жертвой атаки БПЛА стал восьмилетний ребенок, также пострадали восемь человек. - Из-за падения обломков дрона погиб мужчина в поселке Волна. - В Анапе фрагменты беспилотников повредили жилой дом, два мирных жителя получили ранения. - Еще двое пострадали в Геленджике. МОСКВА, 12 авг — РИА Новости.…",
-          "url": "https://ria.ru/20260812/novorossiysk-2110366421.html"
-        },
-        {
-          "source": "Lenta.ru",
-          "lang": "ru",
-          "headline": "Ребенок погиб при массированной атаке ВСУ на Краснодарский край",
-          "excerpt": "Несколько сотен беспилотников Вооруженных сил Украины (ВСУ) атаковали Краснодарский край в ночь на 12 августа. Как сообщил губернатор региона Вениамин Кондратьев в своем официальном Telegram-канале, в результате вражеского удара в Новороссийске погиб восьмилетний ребенок. «Выражаю глубокие соболезнования родителям.…",
-          "url": "https://lenta.ru/news/2026/08/12/rebenok-pogib-pri-massirovannoy-atake-vsu-na-krasnodarskiy-kray/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Anthropic models will soon inject watermarks identifying AI-generated text",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Anthropic models will soon inject watermarks identifying AI-generated text",
-          "excerpt": "Anthropic said in a support document Tuesday that its future AI models will put an invisible watermark in all text, identifying it as AI-generated. The change comes in response to new AI transparency laws in the European Union, but Anthropic says it will apply in all countries where Claude models are used. No U.S.…",
-          "url": "https://www.fastcompany.com/91588728/anthropic-models-will-soon-inject-watermarks-identifying-ai-generated-text"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Claude’s New Watermarks Will Follow Text Even After It’s Copied. The Era of Secret AI Use May Be Ending",
-          "excerpt": "Anthropic’s new watermarks will change how businesses worldwide use Claude—and how transparent they are about it.",
-          "url": "https://www.inc.com/kit-eaton/claudes-new-watermarks-will-follow-text-even-after-its-copied-the-era-of-secret-ai-use-may-be-ending/91389264"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-          "excerpt": "As AI models gain advanced capabilities to find vulnerabilities in software, develop ways to exploit them, and even carry out autonomous hacking sprees, researchers offered a sobering new example on Tuesday, disclosing vulnerabilities in the video conferencing platform Zoom that could have been exploited to take over targets’ devices.…",
-          "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Zoom screen-sharing bug let people fully take over other devices on a call",
-          "excerpt": "Zoom screen-sharing bug let people fully take over other devices on a call The platform has, thankfully, issued a fix. Cybersecurity researchers discovered a fairly insidious bug in Zoom that lets people quite literally take control of someone else's device. This is done by exploiting a flaw in the screen-sharing function.…",
-          "url": "https://www.engadget.com/2234871/zoom-screen-sharing-bug-let-people-fully-take-over-other-devices-on-a-call/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Iran, US Harden Stances as Pakistan Says Deal Is Near",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Iran, US Harden Stances as Pakistan Says Deal Is Near",
-          "excerpt": "Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the Strait of Hormuz, even after both sides appeared to toughen their positions in the long-deadlocked negotiations. Bloomberg's Abeer Abu Omar has the latest. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-12/iran-us-harden-stances-as-pakistan-says-deal-is-near-video"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. and Iran close to \"peace arrangement or a deal,\" Pakistan says",
-          "excerpt": "Live Updates: U.S. and Iran close to a \"peace arrangement or a deal,\" Pakistan says What to know about the Iran war today: - The U.S. and Iran are close to \"some sort of an arrangement,\" Pakistan's Defense Minister Khawaja Asif told Bloomberg in Islamabad on Tuesday. \"Things are shaping up again in favor of a peace arrangement or a deal,\" he said. - President Trump told reporters Monday the U.S.…",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-compensation-negotiation/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "«Т-Технологии» отчитались за II квартал 2026 года: чистая выручка группы выросла на 27% – до 216 млрд ₽",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "RB.ru",
-          "lang": "ru",
-          "headline": "«Т-Технологии» отчитались за II квартал 2026 года: чистая выручка группы выросла на 27% – до 216 млрд ₽",
-          "excerpt": "«Т-Технологии» отчитались за II квартал 2026 года: чистая выручка группы выросла на 27% – до 216 млрд ₽ Совет директоров рекомендовал выплатить дивиденды за II квартал — 4,7 рублей на акцию Чистая выручка «Т-Технологий» во II квартале выросла на 27% год к году — до 216,8 млрд рублей, следует из отчётности компании по МСФО. Чистая выручка за I полугодие увеличилась на 26% — до 414,2 млрд рублей.…",
-          "url": "https://rb.ru/news/t-tehnologii-otchitalis-za-ii-kvartal-2026-goda-chistaya-vyruchka-gruppy-vyrosla-na-27-do-2168-mlrd/"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Отчёт «Т-Технологий» за квартал: выручка — 216,8 млрд рублей, операционная чистая прибыль — 52,1 млрд рублей",
-          "excerpt": "Компания представила финансовые результаты за второй квартал 2026 года.Источник: «Т-Технологии»Общая выручка во втором квартале выросла на 10% и составила 404,7 млрд рублей, чистая выручка — на 27%, до 216,8 млрд рублей.…",
-          "url": "https://vc.ru/money/3072591-finansovye-rezultaty-t-tehnologiy?from=rss"
+          "headline": "Thousands missing after Colombia quake as rescue continues",
+          "excerpt": "Thousands missing after Colombia quake as rescue continues NewsFeed Thousands missing after Colombia quake as rescue continues Rescuers are searching collapsed buildings for survivors two days after a 7.4-magnitude earthquake devastated parts of western Colombia, killing hundreds and leaving thousands missing.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss"
         }
       ]
     }
