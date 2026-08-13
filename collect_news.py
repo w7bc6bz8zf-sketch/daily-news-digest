@@ -491,13 +491,21 @@ def extractive_summary(cluster: list[dict], lang: str, max_points: int = 3) -> l
         ws = words(s)
         return sum(freq[w] for w in ws) / (len(ws) ** 0.5) if ws else 0.0
 
+    def jaccard(a: set, b: set) -> float:
+        return len(a & b) / max(len(a | b), 1)
+
+    # RSS-сниппеты часто начинаются с копии заголовка — такие предложения
+    # не несут нового и выбрасываются
+    head_sets = [set(words(e.get("title", ""))) for e in cluster if e.get("title")]
+
     chosen: list[str] = []
     for s in sorted(dict.fromkeys(sentences), key=score, reverse=True):
         if is_bot_check(s) or is_promo(s, ""):
             continue
         sw = set(words(s))
-        if any(len(sw & set(words(c))) / max(len(sw | set(words(c))), 1) > 0.35
-               for c in chosen):
+        if any(jaccard(sw, hs) > 0.5 for hs in head_sets):
+            continue
+        if any(jaccard(sw, set(words(c))) > 0.35 for c in chosen):
             continue
         chosen.append(s)
         if len(chosen) >= max_points:
