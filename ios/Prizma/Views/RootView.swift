@@ -10,7 +10,7 @@ struct RootView: View {
             SettingsView()
                 .tabItem { Label("Настройки", systemImage: "gearshape.fill") }
         }
-        .tint(.indigo)
+        .tint(Theme.accent)
     }
 }
 

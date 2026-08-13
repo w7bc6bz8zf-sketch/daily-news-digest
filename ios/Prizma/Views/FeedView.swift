@@ -29,6 +29,7 @@ struct FeedView: View {
                         Image(systemName: briefing.isPlaying
                               ? "stop.circle.fill" : "headphones.circle.fill")
                             .font(.title3)
+                            .foregroundStyle(Theme.prism)
                     }
                     .accessibilityLabel(briefing.isPlaying
                                         ? "Остановить аудио-брифинг" : "Аудио-брифинг")
@@ -38,14 +39,19 @@ struct FeedView: View {
             .searchable(text: $state.searchText, prompt: "Поиск по сюжетам")
             .refreshable { await state.refresh() }
         }
+        .tint(Theme.accent)
     }
 
     private var feedList: some View {
         List {
             Section {
-                ForEach(state.displayedStories) { story in
+                ForEach(Array(state.displayedStories.enumerated()), id: \.element.id) { index, story in
                     NavigationLink(value: story) {
-                        StoryCard(story: story)
+                        if index == 0 && !story.image.isEmpty {
+                            FeaturedStoryCard(story: story)
+                        } else {
+                            StoryCard(story: story)
+                        }
                     }
                     .listRowInsets(EdgeInsets(top: 6, leading: 16, bottom: 6, trailing: 16))
                 }
@@ -105,8 +111,13 @@ struct FeedView: View {
                 .font(.footnote.weight(.medium))
                 .padding(.horizontal, 12)
                 .padding(.vertical, 7)
-                .background(isSelected ? Color.indigo : Color(.secondarySystemBackground),
-                            in: Capsule())
+                .background {
+                    if isSelected {
+                        Capsule().fill(Theme.prism)
+                    } else {
+                        Capsule().fill(Color(.secondarySystemBackground))
+                    }
+                }
                 .foregroundStyle(isSelected ? .white : .primary)
         }
         .buttonStyle(.plain)

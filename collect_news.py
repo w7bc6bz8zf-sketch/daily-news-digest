@@ -482,7 +482,7 @@ def _strip_title_echo(text: str, title: str) -> str:
     return t
 
 
-def extractive_summary(cluster: list[dict], lang: str, max_points: int = 3) -> list[str]:
+def extractive_summary(cluster: list[dict], lang: str, max_points: int = 5) -> list[str]:
     """Фолбэк без AI: 2-3 самых информативных предложения из текстов кластера
     (частотная оценка слов + отсев почти одинаковых предложений)."""
     def prep(e: dict) -> str:
@@ -549,12 +549,14 @@ def ai_enrich_stories(stories: list[dict]) -> None:
         items = [{
             "id": s["id"],
             "headline": s["headline"],
-            "excerpts": [p["excerpt"][:350] for p in s["perspectives"][:4]],
+            "excerpts": [p["excerpt"][:450] for p in s["perspectives"][:5]],
         } for s in batch]
         user_msg = (
             "Для каждого сюжета составь на русском языке: headline_ru — краткий "
             "новостной заголовок (переведи, если исходный не русский) и summary — "
-            "2-3 пункта строго по фактам из выдержек, без воды и оценок. "
+            "4-5 содержательных пунктов строго по фактам из выдержек. Включай "
+            "конкретику: цифры, имена, даты, места, причины и последствия, "
+            "расхождения между источниками. Не повторяй заголовок, без воды и оценок. "
             'Верни строго JSON: {"stories":[{"id":"...","headline_ru":"...",'
             '"summary":["...","..."]}]}\n\n' + json.dumps(items, ensure_ascii=False)
         )
@@ -565,7 +567,7 @@ def ai_enrich_stories(stories: list[dict]) -> None:
                 json={
                     "model": model,
                     "temperature": 0.3,
-                    "max_tokens": 2500,
+                    "max_tokens": 3500,
                     "response_format": {"type": "json_object"},
                     "messages": [
                         {"role": "system",
@@ -587,7 +589,7 @@ def ai_enrich_stories(stories: list[dict]) -> None:
                 if not r:
                     continue
                 if r.get("summary"):
-                    s["summary"] = [str(x).strip() for x in r["summary"] if str(x).strip()][:3]
+                    s["summary"] = [str(x).strip() for x in r["summary"] if str(x).strip()][:5]
                 hru = (r.get("headline_ru") or "").strip()
                 if hru:
                     s["headline"] = hru

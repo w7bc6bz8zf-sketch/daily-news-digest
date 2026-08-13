@@ -7,21 +7,15 @@ struct StoryDetailView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
-                if !story.image.isEmpty, let url = URL(string: story.image) {
-                    AsyncImage(url: url) { phase in
-                        if case .success(let image) = phase {
-                            image.resizable().aspectRatio(contentMode: .fill)
-                        }
-                    }
-                    .frame(maxWidth: .infinity)
-                    .frame(height: 200)
-                    .clipShape(RoundedRectangle(cornerRadius: 16))
+                if !story.image.isEmpty {
+                    StoryImage(url: story.image)
+                        .frame(maxWidth: .infinity)
+                        .frame(height: 210)
+                        .clipShape(RoundedRectangle(cornerRadius: 18))
                 }
 
                 HStack(spacing: 8) {
-                    Label(story.categoryClean, systemImage: NewsCategory.icon(for: story.categoryClean))
-                        .font(.caption.weight(.semibold))
-                        .foregroundStyle(.indigo)
+                    CategoryPill(category: story.categoryClean)
                     if let date = story.publishedDate {
                         Text(DateParser.relative(date))
                             .font(.caption)
@@ -30,7 +24,7 @@ struct StoryDetailView: View {
                 }
 
                 Text(story.headline)
-                    .font(.title2.weight(.bold))
+                    .font(.system(.title2, design: .rounded, weight: .bold))
 
                 if !story.headlineEn.isEmpty && story.headlineEn != story.headline {
                     Text(story.headlineEn)
@@ -39,37 +33,24 @@ struct StoryDetailView: View {
                 }
 
                 if story.coverage > 1 {
-                    Label("Сюжет освещают \(sourcesCountText(story.coverage))",
-                          systemImage: "eyes")
-                        .font(.footnote.weight(.medium))
-                        .foregroundStyle(.secondary)
+                    HStack(spacing: -6) {
+                        ForEach(story.sourceNames.prefix(5), id: \.self) { source in
+                            SourceAvatar(name: source, size: 26)
+                                .overlay(Circle().strokeBorder(Color(.systemBackground), lineWidth: 1.5))
+                        }
+                        Text("Сюжет освещают \(sourcesCountText(story.coverage))")
+                            .font(.footnote.weight(.medium))
+                            .foregroundStyle(.secondary)
+                            .padding(.leading, 14)
+                    }
                 }
 
                 if !story.summary.isEmpty {
-                    VStack(alignment: .leading, spacing: 8) {
-                        Text("Кратко")
-                            .font(.headline)
-                        ForEach(story.summary, id: \.self) { point in
-                            HStack(alignment: .top, spacing: 8) {
-                                Circle()
-                                    .fill(Color.indigo)
-                                    .frame(width: 6, height: 6)
-                                    .padding(.top, 6)
-                                Text(point)
-                                    .font(.subheadline)
-                            }
-                        }
-                    }
-                    .padding(14)
-                    .frame(maxWidth: .infinity, alignment: .leading)
-                    .background(Color.indigo.opacity(0.08),
-                                in: RoundedRectangle(cornerRadius: 14))
+                    summaryCard
                 }
 
-                Divider()
-
                 Text("Перспективы")
-                    .font(.headline)
+                    .font(.system(.headline, design: .rounded))
 
                 ForEach(story.perspectives) { perspective in
                     PerspectiveCard(perspective: perspective)
@@ -92,6 +73,36 @@ struct StoryDetailView: View {
         }
         .onAppear { state.markRead(story) }
     }
+
+    private var summaryCard: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            HStack(spacing: 6) {
+                Image(systemName: "sparkles")
+                    .font(.subheadline)
+                    .foregroundStyle(Theme.prism)
+                Text("Кратко")
+                    .font(.system(.headline, design: .rounded))
+            }
+            ForEach(story.summary, id: \.self) { point in
+                HStack(alignment: .top, spacing: 10) {
+                    Capsule()
+                        .fill(Theme.prism)
+                        .frame(width: 3)
+                        .padding(.vertical, 2)
+                    Text(point)
+                        .font(.subheadline)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+            }
+        }
+        .padding(14)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(Theme.accent.opacity(0.07), in: RoundedRectangle(cornerRadius: 16))
+        .overlay(
+            RoundedRectangle(cornerRadius: 16)
+                .strokeBorder(Theme.accent.opacity(0.15), lineWidth: 1)
+        )
+    }
 }
 
 private struct PerspectiveCard: View {
@@ -99,9 +110,10 @@ private struct PerspectiveCard: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
-            HStack {
+            HStack(spacing: 8) {
+                SourceAvatar(name: perspective.source)
                 Text(perspective.source)
-                    .font(.subheadline.weight(.bold))
+                    .font(.system(.subheadline, design: .rounded, weight: .bold))
                 Spacer()
                 Text(perspective.lang == "ru" ? "RU" : "EN")
                     .font(.caption2.weight(.bold))
@@ -124,11 +136,12 @@ private struct PerspectiveCard: View {
                 Link(destination: url) {
                     Label("Читать в источнике", systemImage: "arrow.up.right.square")
                         .font(.caption.weight(.semibold))
+                        .foregroundStyle(Theme.accent)
                 }
             }
         }
         .padding(14)
         .frame(maxWidth: .infinity, alignment: .leading)
-        .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 14))
+        .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 16))
     }
 }
