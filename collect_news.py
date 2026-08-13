@@ -463,14 +463,33 @@ def split_sentences(text: str) -> list[str]:
     return [p.strip() for p in parts if 40 <= len(p.strip()) <= 300]
 
 
+def _strip_title_echo(text: str, title: str) -> str:
+    """RSS-сниппеты часто начинаются с копии заголовка (иногда дважды,
+    с мусором вроде 'NewsFeed' или ' - Published') — вырезаем эти повторы."""
+    t = text.replace(" - Published", " ").strip()
+    tl = title.lower().strip()
+    if not tl:
+        return t
+    for _ in range(3):
+        idx = t.lower().find(tl)
+        if idx == -1 or idx > 200:
+            break
+        t = (t[:idx] + t[idx + len(tl):]).strip(" \t-–—.…|")
+        t = re.sub(r"^(NewsFeed|Video|Live|Опубликовано)\b[\s:—-]*", "", t,
+                   flags=re.IGNORECASE).strip()
+    return t
+
+
 def extractive_summary(cluster: list[dict], lang: str, max_points: int = 3) -> list[str]:
     """Фолбэк без AI: 2-3 самых информативных предложения из текстов кластера
     (частотная оценка слов + отсев почти одинаковых предложений)."""
-    texts = [clean_html(e.get("full_text") or e.get("snippet") or "")[:2000]
-             for e in cluster if e.get("lang") == lang]
-    if not texts:
-        texts = [clean_html(e.get("full_text") or e.get("snippet") or "")[:2000]
-                 for e in cluster]
+    def prep(e: dict) -> str:
+        raw = clean_html(e.get("full_text") or e.get("snippet") or "")[:2000]
+        return _strip_title_echo(raw, e.get("title", ""))
+
+    texts = [prep(e) for e in cluster if e.get("lang") == lang]
+    if not any(texts):
+        texts = [prep(e) for e in cluster]
     sentences = []
     for t in texts:
         sentences.extend(split_sentences(t))
