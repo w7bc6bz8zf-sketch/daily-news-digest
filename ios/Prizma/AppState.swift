@@ -48,7 +48,10 @@ final class AppState: ObservableObject {
         hiddenSources = Set(defaults.stringArray(forKey: "hiddenSources") ?? [])
         readIDs = Set(defaults.stringArray(forKey: "readIDs") ?? [])
         followedTopics = defaults.stringArray(forKey: "followedTopics") ?? []
-        feedURL = defaults.string(forKey: "feedURL") ?? NewsService.defaultFeedURL
+        // Миграция: если сохранён старый URL по умолчанию — заменяем на новый
+        let storedURL = defaults.string(forKey: "feedURL")
+        feedURL = (storedURL == nil || storedURL == NewsService.legacyFeedURL)
+            ? NewsService.defaultFeedURL : storedURL!
         notifyEnabled = defaults.bool(forKey: "notifyEnabled")
         let t = defaults.double(forKey: "notifyTime")
         notifyTime = t > 0 ? Date(timeIntervalSince1970: t)

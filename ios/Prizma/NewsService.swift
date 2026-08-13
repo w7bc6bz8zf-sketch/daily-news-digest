@@ -3,7 +3,11 @@ import Foundation
 /// Загрузка ленты с GitHub (raw JSON, обновляется дважды в день GitHub Actions)
 /// и дисковый кэш для офлайн-режима.
 struct NewsService {
+    // Пока идёт тестирование, лента читается из рабочей ветки — там свежий
+    // формат с 85 источниками и саммари. После слияния вернуть на main.
     static let defaultFeedURL =
+        "https://raw.githubusercontent.com/w7bc6bz8zf-sketch/daily-news-digest/claude/ios-russian-news-app-9qqqif/news_data.json"
+    static let legacyFeedURL =
         "https://raw.githubusercontent.com/w7bc6bz8zf-sketch/daily-news-digest/main/news_data.json"
 
     private static var cacheFile: URL {

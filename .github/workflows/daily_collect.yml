@@ -32,6 +32,9 @@ jobs:
           MAX_STORIES: "60"
           HOURS_BACK:  "36"
           RU_SHARE:    "0.6"
+          # AI-саммари и перевод (необязательно): добавьте секрет OPENAI_API_KEY
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL:   "gpt-4o-mini"
         run: python collect_news.py
 
       - name: Commit news data to repo

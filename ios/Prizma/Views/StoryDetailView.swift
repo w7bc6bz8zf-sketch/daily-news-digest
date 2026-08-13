@@ -32,8 +32,7 @@ struct StoryDetailView: View {
                 Text(story.headline)
                     .font(.title2.weight(.bold))
 
-                if story.lang == "ru" && !story.headlineEn.isEmpty
-                    && story.headlineEn != story.headline {
+                if !story.headlineEn.isEmpty && story.headlineEn != story.headline {
                     Text(story.headlineEn)
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
@@ -44,6 +43,27 @@ struct StoryDetailView: View {
                           systemImage: "eyes")
                         .font(.footnote.weight(.medium))
                         .foregroundStyle(.secondary)
+                }
+
+                if !story.summary.isEmpty {
+                    VStack(alignment: .leading, spacing: 8) {
+                        Text("Кратко")
+                            .font(.headline)
+                        ForEach(story.summary, id: \.self) { point in
+                            HStack(alignment: .top, spacing: 8) {
+                                Circle()
+                                    .fill(Color.indigo)
+                                    .frame(width: 6, height: 6)
+                                    .padding(.top, 6)
+                                Text(point)
+                                    .font(.subheadline)
+                            }
+                        }
+                    }
+                    .padding(14)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .background(Color.indigo.opacity(0.08),
+                                in: RoundedRectangle(cornerRadius: 14))
                 }
 
                 Divider()

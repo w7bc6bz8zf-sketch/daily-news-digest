@@ -20,6 +20,7 @@ struct Story: Codable, Identifiable, Hashable {
     let lang: String
     let headline: String
     let headlineEn: String
+    let summary: [String]
     let coverage: Int
     let singleSource: Bool
     let image: String
@@ -27,7 +28,7 @@ struct Story: Codable, Identifiable, Hashable {
     let perspectives: [Perspective]
 
     enum CodingKeys: String, CodingKey {
-        case id, category, lang, headline, coverage, image, perspectives
+        case id, category, lang, headline, summary, coverage, image, perspectives
         case headlineEn = "headline_en"
         case singleSource = "single_source"
         case publishedAt = "published_at"
@@ -44,6 +45,7 @@ struct Story: Codable, Identifiable, Hashable {
             ?? perspectives.first?.url ?? headline
         lang = try c.decodeIfPresent(String.self, forKey: .lang)
             ?? (headline.containsCyrillic ? "ru" : "en")
+        summary = try c.decodeIfPresent([String].self, forKey: .summary) ?? []
         coverage = try c.decodeIfPresent(Int.self, forKey: .coverage) ?? perspectives.count
         singleSource = try c.decodeIfPresent(Bool.self, forKey: .singleSource) ?? (perspectives.count < 2)
         image = try c.decodeIfPresent(String.self, forKey: .image) ?? ""
@@ -55,6 +57,9 @@ struct Story: Codable, Identifiable, Hashable {
     var sourceNames: [String] { perspectives.map(\.source) }
 
     var leadExcerpt: String { perspectives.first?.excerpt ?? "" }
+
+    /// Текст для превью в карточке: первый пункт саммари, иначе выдержка
+    var preview: String { summary.first ?? leadExcerpt }
 
     var categoryClean: String {
         // Старый формат содержал эмодзи в категории ("🌍 World") — убираем

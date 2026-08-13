@@ -31,6 +31,15 @@ struct DecodeTest {
         """
         let d2 = try JSONDecoder().decode(NewsDigest.self, from: Data(newJSON.utf8))
         check(d2.stories[0].id == "abc123", "новый формат: id")
+        // summary: присутствует → декодируется, отсутствует → пустой массив
+        let withSummary = newJSON.replacingOccurrences(
+            of: "\"headline_en\":\"\"",
+            with: "\"headline_en\":\"\",\"summary\":[\"Пункт один\",\"Пункт два\"]")
+        let dS = try JSONDecoder().decode(NewsDigest.self, from: Data(withSummary.utf8))
+        check(dS.stories[0].summary == ["Пункт один", "Пункт два"], "summary декодируется")
+        check(dS.stories[0].preview == "Пункт один", "preview берётся из summary")
+        check(d2.stories[0].summary.isEmpty && d2.stories[0].preview == "Текст",
+              "без summary preview падает на выдержку")
         check(d2.stories[0].publishedDate != nil, "новый формат: published_at распарсен")
         check(DateParser.parse(d2.collectedAt) != nil, "collected_at с микросекундами распарсен")
 

@@ -201,8 +201,9 @@ _RU_SUFFIXES = sorted([
     "иями", "ями", "ами", "иях", "ях", "ах", "ией", "ей", "ой", "ий", "ый",
     "ая", "яя", "ое", "ее", "ого", "его", "ому", "ему", "ыми", "ими", "ым",
     "им", "ом", "ем", "ах", "ов", "ев", "ие", "ые", "ья", "ью", "ия", "ии",
-    "ую", "юю", "ешь", "ишь", "ует", "ают", "яют", "ует", "ат", "ят", "ут",
-    "ют", "ет", "ит", "ла", "ло", "ли", "ть", "ся", "сь", "ам", "ям", "у",
+    "ую", "юю", "ешь", "ишь", "ует", "ают", "яют", "ат", "ят", "ут",
+    "ют", "ет", "ит", "ил", "ыл", "ял", "ила", "или", "ыла", "ыли", "яла",
+    "яли", "ла", "ло", "ли", "ть", "ся", "сь", "ам", "ям", "у",
     "ю", "а", "я", "о", "е", "ы", "и", "ь",
 ], key=len, reverse=True)
 
@@ -455,6 +456,119 @@ def enrich_clusters(clusters: list[list[dict]], top_n: int) -> list[list[dict]]:
     return top
 
 
+# ── Саммари ───────────────────────────────────────────────────────────────────
+
+def split_sentences(text: str) -> list[str]:
+    parts = re.split(r"(?<=[.!?…])\s+", text)
+    return [p.strip() for p in parts if 40 <= len(p.strip()) <= 300]
+
+
+def extractive_summary(cluster: list[dict], lang: str, max_points: int = 3) -> list[str]:
+    """Фолбэк без AI: 2-3 самых информативных предложения из текстов кластера
+    (частотная оценка слов + отсев почти одинаковых предложений)."""
+    texts = [clean_html(e.get("full_text") or e.get("snippet") or "")[:2000]
+             for e in cluster if e.get("lang") == lang]
+    if not texts:
+        texts = [clean_html(e.get("full_text") or e.get("snippet") or "")[:2000]
+                 for e in cluster]
+    sentences = []
+    for t in texts:
+        sentences.extend(split_sentences(t))
+    if not sentences:
+        return []
+
+    def words(s: str) -> list[str]:
+        ws = re.findall(r"[а-яёa-z0-9]{3,}", s.lower())
+        if lang == "ru":
+            ws = [ru_stem(w) for w in ws if w not in RUSSIAN_STOP_WORDS]
+        return ws
+
+    freq = Counter()
+    for s in sentences:
+        freq.update(set(words(s)))
+
+    def score(s: str) -> float:
+        ws = words(s)
+        return sum(freq[w] for w in ws) / (len(ws) ** 0.5) if ws else 0.0
+
+    chosen: list[str] = []
+    for s in sorted(dict.fromkeys(sentences), key=score, reverse=True):
+        if is_bot_check(s) or is_promo(s, ""):
+            continue
+        sw = set(words(s))
+        if any(len(sw & set(words(c))) / max(len(sw | set(words(c))), 1) > 0.35
+               for c in chosen):
+            continue
+        chosen.append(s)
+        if len(chosen) >= max_points:
+            break
+    return chosen
+
+
+def ai_enrich_stories(stories: list[dict]) -> None:
+    """AI-саммари и перевод через OpenAI API (ключ в OPENAI_API_KEY).
+    Экономно: батчи по 10 сюжетов, только заголовок + короткие выдержки,
+    один запрос на батч. Без ключа — пропускается, остаются экстрактивные."""
+    key = os.environ.get("OPENAI_API_KEY", "").strip()
+    if not key:
+        print("[INFO] OPENAI_API_KEY не задан — саммари экстрактивные, без перевода")
+        return
+    model = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
+    total_in = total_out = done = 0
+    for i in range(0, len(stories), 10):
+        batch = stories[i:i + 10]
+        items = [{
+            "id": s["id"],
+            "headline": s["headline"],
+            "excerpts": [p["excerpt"][:350] for p in s["perspectives"][:4]],
+        } for s in batch]
+        user_msg = (
+            "Для каждого сюжета составь на русском языке: headline_ru — краткий "
+            "новостной заголовок (переведи, если исходный не русский) и summary — "
+            "2-3 пункта строго по фактам из выдержек, без воды и оценок. "
+            'Верни строго JSON: {"stories":[{"id":"...","headline_ru":"...",'
+            '"summary":["...","..."]}]}\n\n' + json.dumps(items, ensure_ascii=False)
+        )
+        try:
+            resp = requests.post(
+                "https://api.openai.com/v1/chat/completions",
+                headers={"Authorization": f"Bearer {key}"},
+                json={
+                    "model": model,
+                    "temperature": 0.3,
+                    "max_tokens": 2500,
+                    "response_format": {"type": "json_object"},
+                    "messages": [
+                        {"role": "system",
+                         "content": "Ты редактор новостей. Пишешь кратко, нейтрально, по-русски."},
+                        {"role": "user", "content": user_msg},
+                    ],
+                },
+                timeout=90,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            usage = data.get("usage", {})
+            total_in += usage.get("prompt_tokens", 0)
+            total_out += usage.get("completion_tokens", 0)
+            result = json.loads(data["choices"][0]["message"]["content"])
+            by_id = {r["id"]: r for r in result.get("stories", []) if r.get("id")}
+            for s in batch:
+                r = by_id.get(s["id"])
+                if not r:
+                    continue
+                if r.get("summary"):
+                    s["summary"] = [str(x).strip() for x in r["summary"] if str(x).strip()][:3]
+                hru = (r.get("headline_ru") or "").strip()
+                if hru:
+                    s["headline"] = hru
+                done += 1
+        except Exception as ex:
+            print(f"[WARN] OpenAI batch {i // 10 + 1}: {type(ex).__name__}: {str(ex)[:120]}")
+    cost = (total_in * 0.15 + total_out * 0.60) / 1e6
+    print(f"[INFO] AI: {done}/{len(stories)} сюжетов, токены {total_in}+{total_out} (~${cost:.3f})")
+
+
 # ── Сборка историй ────────────────────────────────────────────────────────────
 
 def get_excerpt(entry: dict) -> str:
@@ -537,6 +651,7 @@ def build_story(cluster: list[dict], allow_single: bool = False) -> dict | None:
         "lang":          lang,
         "headline":      headline_ru or headline_en,
         "headline_en":   headline_en,
+        "summary":       extractive_summary(cluster, lang),
         "coverage":      len(unique_sources),
         "single_source": single,
         "image":         image,
@@ -592,7 +707,7 @@ def write_output(stories: list[dict], total_entries: int, started: datetime) -> 
             "coverage": s["coverage"],
             "image":    s["image"],
             "sources":  [p["source"] for p in s["perspectives"]],
-            "excerpt":  s["perspectives"][0]["excerpt"][:200],
+            "excerpt":  (s["summary"][0] if s.get("summary") else s["perspectives"][0]["excerpt"])[:200],
             "url":      s["perspectives"][0]["url"],
         } for s in stories],
     }
@@ -632,6 +747,7 @@ def main() -> None:
     print(f"[INFO] Историй: {len(ru_stories)} RU + {len(en_stories)} EN")
 
     stories = sorted(ru_stories + en_stories, key=lambda s: -s["score"])
+    ai_enrich_stories(stories)
     write_output(stories, len(entries), started)
 
     elapsed = (datetime.now(timezone.utc) - started).total_seconds()

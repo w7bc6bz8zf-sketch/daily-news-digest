@@ -23,8 +23,8 @@ struct StoryCard: View {
                     .lineLimit(3)
                     .foregroundStyle(state.isRead(story) ? .secondary : .primary)
 
-                if !story.leadExcerpt.isEmpty {
-                    Text(story.leadExcerpt)
+                if !story.preview.isEmpty {
+                    Text(story.preview)
                         .font(.caption)
                         .foregroundStyle(.secondary)
                         .lineLimit(2)
