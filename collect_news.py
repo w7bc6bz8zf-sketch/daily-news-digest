@@ -470,9 +470,11 @@ def _strip_title_echo(text: str, title: str) -> str:
     tl = title.lower().strip()
     if not tl:
         return t
+    # Режем только копии в самом начале текста — совпадение в середине
+    # предложения легитимно, его удаление ломает грамматику
     for _ in range(3):
         idx = t.lower().find(tl)
-        if idx == -1 or idx > 200:
+        if idx == -1 or idx > 5:
             break
         t = (t[:idx] + t[idx + len(tl):]).strip(" \t-–—.…|")
         t = re.sub(r"^(NewsFeed|Video|Live|Опубликовано)\b[\s:—-]*", "", t,
