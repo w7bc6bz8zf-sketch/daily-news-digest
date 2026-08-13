@@ -601,6 +601,9 @@ def ai_enrich_stories(stories: list[dict]) -> None:
 def get_excerpt(entry: dict) -> str:
     text = entry.get("full_text") or entry.get("snippet") or entry.get("title", "")
     text = clean_html(text)
+    # Выдержка не должна начинаться с копии заголовка (частый мусор в RSS)
+    stripped = _strip_title_echo(text, entry.get("title", ""))
+    text = stripped or entry.get("title", "")
     for cutoff in PAYWALL_CUTOFFS:
         idx = text.lower().find(cutoff)
         if idx > 60:
