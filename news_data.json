@@ -1,27 +1,76 @@
 {
-  "collected_at": "2026-08-13T09:53:40.841139+00:00",
+  "collected_at": "2026-08-14T05:14:06.454704+00:00",
   "total_sources": 63,
-  "total_entries": 881,
+  "total_entries": 897,
   "story_count": 40,
   "stories": [
     {
       "category": "🌍 World",
-      "headline_en": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "coverage": 12,
+      "headline_en": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
+      "coverage": 9,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
+          "excerpt": "The board voted to close the Washington, D.C., arts complex's main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure.",
+          "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Kennedy Center votes to restore Trump’s name to venue, close for two years",
+          "excerpt": "Kennedy Center votes to restore Trump’s name to venue, close for two years The venue also voted, again, to close down for two years to complete major renovations.…",
+          "url": "https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Kennedy Center board votes to restore Trump's name on building",
+          "excerpt": "Kennedy Center board votes to put Trump's name back on outside of building, House Democrat says The Kennedy Center's board of trustees voted Thursday to add President Trump's name to the facade of the performing arts center, more than two months after a judge ordered its removal, according to a House Democrat who sits on the center's board. The board — which Mr.…",
+          "url": "https://www.cbsnews.com/news/kennedy-center-board-votes-trump-name-joyce-beatty/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "Kennedy Center board restores Trump's name, testing judge",
+          "excerpt": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S.…",
+          "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order"
+        },
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Trump’s New Plan to Get His Name Back on the Kennedy Center",
+          "excerpt": "Trump’s New Plan to Get His Name Back on the Kennedy Center The center’s board voted—again—to shut down for a renovation. It threw in a design tweak. Donald Trump just won’t let go of his plans for the Kennedy Center.…",
+          "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Who could replace White House Press Secretary Karoline Leavitt?",
+      "coverage": 7,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-          "excerpt": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-          "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss"
+          "headline": "Who could replace White House Press Secretary Karoline Leavitt?",
+          "excerpt": "Who could replace White House Press Secretary Karoline Leavitt? - Published The departure of White House Press Secretary Karoline Leavitt will create a major opening in President Donald Trump's administration, and the guessing-game of who will replace her has already begun.…",
+          "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Inc.",
+          "source": "ABC News",
           "lang": "en",
-          "headline": "Karoline Leavitt’s 19-Month White House Run Put Amazon, Intel, TikTok, and Crypto in the Spotlight",
-          "excerpt": "Trump’s departing press secretary became a frequent messenger—and sometimes a market-moving one—for the administration’s corporate agenda.",
-          "url": "https://www.inc.com/georgia-fearn/karoline-leavitt-19-month-white-house-run-put-amazon-intel-tiktok-crypto-spotlight/91390175"
+          "headline": "Trump announces White House press secretary Karoline Leavitt stepping down",
+          "excerpt": "Trump announces White House press secretary Karoline Leavitt stepping down She will leave her role at the end of the month, Trump said. White House press secretary Karoline Leavitt will leave her role at the end of August \"so she can spend more time with her beautiful young children and family,\" President Donald Trump announced in a social media post on Wednesday.…",
+          "url": "https://abcnews.com/Politics/trump-announces-white-house-press-secretary-karoline-leavitt/story?id=135590424"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Karoline Leavitt to Step Down as White House Press Secretary",
+          "excerpt": "Karoline Leavitt will step away from her position as White House Press Secretary at the end of this month, President Trump announced on Wednesday. In a Truth Social post, Trump said Leavitt, 28, will depart her role to spend more time with her family. Leavitt gave birth to her second child Viviana in May.…",
+          "url": "https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/"
         },
         {
           "source": "Axios",
@@ -31,473 +80,18 @@
           "url": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press"
         },
         {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Trump says Karoline Leavitt resigning as White House press secretary",
-          "excerpt": "White House Press Secretary Karoline Leavitt will leave that post by the end of August, President Donald Trump said on Wednesday. Leavitt's departure was announced less than a month after she returned to the White House after having been on maternity leave for the birth of her daughter on May 1.…",
-          "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Leavitt to leave as White House press secretary",
-          "excerpt": "Leavitt to leave as White House press secretary NewsFeed Leavitt to leave as White House press secretary Karoline Leavitt has announced that she will be stepping down from her position as White House press secretary at the end of the month to focus on family. Leavitt was the youngest-ever White House press secretary. Published On 13 Aug 2026",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
-      "coverage": 11,
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
-          "excerpt": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality Solar eclipse 2026 across Europe: in pictures Cruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe in Land’s End, Cornwall The roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse.…",
-          "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates"
-        },
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Photos: See the best photos from the solar eclipse",
-          "excerpt": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
-          "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
-        },
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "The Best Photos of the Big August Solar Eclipse",
-          "excerpt": "For the first time in more than a century, Spain witnessed a total solar eclipse. The astronomical phenomenon, which was also partially visible in some regions of northern North America, much of Europe, and western Africa, offered an unusual and particularly photogenic sight due to the sun’s position just above the horizon. The path of totality traversed the northern hemisphere from west to east.…",
-          "url": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "When Is The Next Total Solar Eclipse? Dates Through 2037",
-          "excerpt": "Topline When is the next eclipse? Millions of people across Greenland, Iceland and Spain have just witnessed a spectacular total solar eclipse, with a small partial eclipse visible in the northeast U.S and Canada. It was the opening act in an extraordinary sequence of eclipses that will take eclipse chasers across four continents during the next decade.…",
-          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/08/12/when-is-the-next-total-solar-eclipse-where-to-see-totality-through-2037/"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Europe scrambles for eclipse glasses as solar power output set to dip",
-          "excerpt": "The eclipse will be the first total solar eclipse visible from Europe since 2006. The path of totality will cross northern Spain, Portugal, Iceland, Greenland and northern Russia. London is expected to see around 90 per cent of the Sun obscured, while shoppers in Paris queued for more than two hours outside a specialist store on Rue de Rivoli.…",
-          "url": "http://www.euronews.com/video/2026/08/12/europe-scrambles-for-eclipse-glasses-as-solar-power-output-set-to-dip"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "Wired",
-          "lang": "en",
-          "headline": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
-          "excerpt": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag.",
-          "url": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/"
-        },
-        {
-          "source": "ZDNet",
-          "lang": "en",
-          "headline": "AT&T will give you the new Google Pixel 11 Pro for free with trade-in - any year, any condition",
-          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
-          "url": "https://www.zdnet.com/article/google-pixel-11-pro-at-t-deal/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-          "excerpt": "Alphabet on Wednesday unveiled its new Pixel 11 smartphone lineup, putting its most agentic version of Gemini yet at the center of the devices just weeks before Apple is expected to roll out a rebuilt Siri powered by Google's AI models. The new lineup includes the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold.…",
-          "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "How Google’s new Pixel 11 phones compare to last year’s models",
-          "excerpt": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance. The [&#8230;]",
-          "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Everything Google announced today: Pixel Tag, Pixel 11 series and Pixel Watch 5",
-          "excerpt": "The Pixel Tag, Pixel 11 and Pixel Watch 5 are here.",
-          "url": "https://www.engadget.com/2235146/everything-announced-google-pixel-11-event-pixel-watch-5-pixel-tag/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Россия и Украина обменялись телами погибших военнослужащих",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Россия и Украина обменялись телами погибших военнослужащих",
-          "excerpt": "Россия и Украина обменялись телами погибших военнослужащих Россия и Украина провели очередной обмен телами погибших военнослужащих. Российская сторона вернула 261 тело, украинская — 24. Об этом сообщил РБК депутат Госдумы, представитель парламентской координационной группы по вопросам спецоперации Шамсаил Саралиев. В прошлый раз Москва и Киев обменивались телами погибших военнослужащих 16 июля.…",
-          "url": "https://www.kommersant.ru/doc/8878691"
-        },
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Россия и Украина обменялись телами погибших военных",
-          "excerpt": "Россия и Украина обменялись телами погибших военных Источник: РБК Россия и Украина провели обмен телами погибших военных, сообщил РБК депутат Госдумы, представитель парламентской координационной группы по вопросам «СВО» Шамсаил Саралиев. Российская сторона передала 261 тело погибшего, украинская — 24 тела. Украина информацию об обмене пока не сообщала.…",
-          "url": "https://meduza.io/news/2026/08/13/rossiya-i-ukraina-obmenyalis-telami-pogibshih-voennyh"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Россия и Украина обменялись телами погибших бойцов",
-          "excerpt": "Россия и Украина обменялись телами погибших бойцов Российская и украинская стороны обменялись телами погибших военнослужащих. Москва передала Киеву 261 тело военных и получила 24 тела бойцов. Об этом сообщил председатель комиссии Общественной палаты по вопросам суверенитета, патриотическим проектам и поддержке ветеранов Владимир Рогов.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/13/1220873-rossiya-ukraina-obmenyalis"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Trump sued over service selling faster access to Truth Social posts",
-      "coverage": 6,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "Trump sued over service selling faster access to Truth Social posts",
-          "excerpt": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers.",
-          "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "Trump is being sued for charging for faster access to Truth Social posts",
-          "excerpt": "Trump is being sued for charging for faster access to Truth Social posts A new lawsuit claims the Truth API violates the First and Fifth Amendments. We may receive a commission on purchases made from links.…",
-          "url": "https://www.engadget.com/2235905/trump-is-being-sued-for-charging-for-faster-access-to-truth-social-posts/"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-          "excerpt": "President Trump was sued by nonprofit news groups today over Truth Social’s “Truth API” that sells real-time access to posts from Trump and other top users of the social network. Trump is profiting from selling preferential access to government information, the lawsuit said.…",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Trump’s Truth Social Feed Costs Wall Street $100,000 a Month. Now a Lawsuit Could Undercut It",
-          "excerpt": "The Intercept and Freedom of the Press Foundation say paying subscribers should not get faster access to official government announcements.",
-          "url": "https://www.inc.com/georgia-fearn/trumps-truth-social-feed-costs-wall-street-100000-month-new-lawsuit/91389836"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
-          "excerpt": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts Free press groups say selling access to Trump's posts is \"unconstitutional.\" A federal lawsuit filed Wednesday accuses the Trump administration of violating the First Amendment by selling special advance access to Truth Social posts before they go public. \"This scheme is profoundly corrupt.…",
-          "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
-          "excerpt": "ICE plans to equip agents with gloves that can deliver electric shocks - Published US Immigration and Customs Enforcement (ICE) officers may soon be equipped with gloves that can deliver electric shocks as they carry out their law enforcement duties.…",
-          "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "ICE wants to give agents electrified gloves that shock people into compliance",
-          "excerpt": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March 2027.…",
-          "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "ICE plans to put electric-shock gloves on officers' hands",
-          "excerpt": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters .…",
-          "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "ICE plans to give officers gloves that can deliver electric shocks",
-          "excerpt": "ICE plans to give officers gloves that can deliver electric shocks U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks intended to gain compliance from combative individuals.…",
-          "url": "https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/"
-        },
-        {
           "source": "Fast Company",
           "lang": "en",
-          "headline": "ICE is planning a $20 million purchase of a weapon almost impossible to spot",
-          "excerpt": "The federal immigration enforcement agency infamous for using excessive force is spending big on a new way to subdue detainees. ICE will allocate up to $20 million on electrified gloves that can deliver shocks so painful they can subdue a person within seconds.…",
-          "url": "https://www.fastcompany.com/91589215/ice-is-planning-a-20-million-purchase-of-a-weapon-almost-impossible-to-spot"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "David Crowley Beats Former Frontrunner Francesca Hong in Democratic Primary for Wisconsin Governor",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "David Crowley Beats Former Frontrunner Francesca Hong in Democratic Primary for Wisconsin Governor",
-          "excerpt": "Milwaukee County Executive David Crowley won the Democratic primary race for Wisconsin’s governorship, toppling his Democratic socialist opponent, Francesca Hong, who had surged in the polls leading up to Tuesday. What turned out to be a razor-thin contest wasn’t called by the Associated Press until early Wednesday morning, after a delay in tabulating votes from Milwaukee.…",
-          "url": "https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Voting ends in US midwest primaries",
-          "excerpt": "Voters in six US states went to the polls to choose their preferred candidates in primaries and special elections ahead of November’s midterms. In Wisconsin, moderate David Crowley narrowly defeated Democratic socialist Francesca Hong in the race for governor. On the Republican side, Darline Graham, sister of the late Senator Lindsey Graham, advanced to a runoff in the Senate primary.…",
-          "url": "https://www.france24.com/en/voting-ends-in-us-midwest-primaries"
-        },
-        {
-          "source": "The Atlantic",
-          "lang": "en",
-          "headline": "AOC Knows a Lemon When She Sees One",
-          "excerpt": "AOC Knows a Lemon When She Sees One Francesca Hong’s surprise loss in Wisconsin is a blessing to the Democratic Party. Last night, Francesca Hong lost the race to be the Democratic candidate for governor of Wisconsin. This is great news for American democracy.…",
-          "url": "https://www.theatlantic.com/ideas/2026/08/wisconsin-primary-francesca-hong-david-crowley/688263/?utm_source=feed"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Socialist fever breaks: Takeaways from Crowley's win",
-          "excerpt": "Milwaukee County Executive David Crowley narrowly defeated socialist Francesca Hong by about 3,000 votes, dealing a blow to the progressive left's momentum Tuesday in Wisconsin's Democratic primary for governor, after his own polling indicated he was behind by nearly 20 points.…",
-          "url": "https://www.axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "This battleground state just got closer to electing its first Black governor",
-          "excerpt": "Moderate Democrat David Crowley won the Wisconsin primary for governor, defeating a democratic socialist who fell short while trying to deliver another win for progressives in a battleground state . Crowley, the Milwaukee county executive, is vying to become Wisconsin&#8217;s first Black governor and pitched himself as the candidate best positioned to win in November against Republican U.S. Rep.…",
-          "url": "https://www.fastcompany.com/91589048/this-battleground-state-just-got-closer-electing-first-black-governor"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Лантратова опубликовала новый список из 273 военнослужащих ВСУ для обмена",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Лантратова опубликовала новый список из 273 военнослужащих ВСУ для обмена",
-          "excerpt": "Лантратова опубликовала новый список из 273 военнослужащих ВСУ для обмена Уполномоченный по правам человека в России Яна Лантратова опубликовала список из 273 украинских военнопленных для обмена. По ее словам, большинство из них находятся на территории России с 2022 года. Россия готова передать их в любое время, подчеркнула омбудсмен.…",
-          "url": "https://www.kommersant.ru/doc/8878603"
-        },
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Омбудсмен Лантратова опубликовала списки украинских военнопленных для обмена",
-          "excerpt": "Омбудсмен Лантратова опубликовала списки украинских военнопленных для обмена Российская сторона готова к обмену еще 273 украинских военнослужащих, сообщила уполномоченный по правам человека в РФ Яна Лантратова, опубликовав список имен. Накануне Лантратова сообщила, что Москва готова передать 224 украинцев, включая пленных и осужденных в России.…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/13/1220830-lantratova-opublikovala-spiski"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "Омбудсмен РФ опубликовала список из 273 украинских военных, готовых к обмену",
-          "excerpt": "Омбудсмен РФ опубликовала список из 273 украинских военных, готовых к обмену Москва. 13 августа. INTERFAX.RU - Уполномоченный по правам человека в РФ Яна Лантратова опубликовала список из 273 украинских военнослужащих, которых Россия готова передать в ходе обмена Украине. Об этом Лантратова написала в своем канале в мессенджере Max в четверг.…",
-          "url": "https://www.interfax.ru/russia/1109084"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Twitch faces backlash over Amazon using content to train AI",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Twitch faces backlash over Amazon using content to train AI",
-          "excerpt": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Verge",
-          "lang": "en",
-          "headline": "Twitch streamers can now opt out from training Amazon’s AI",
-          "excerpt": "Twitch users can now opt out of allowing their content to be used to train Amazon’s generative AI models. Opting out means that “your streams, VODs, clips, stream chats, and pictures and text on your channel” won’t be used in “future training” of an Amazon AI model “whose purpose is to generate or synthesize text, audio, images, or video,” according to a Twitch support page.…",
-          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
-        },
-        {
-          "source": "Engadget",
-          "lang": "en",
-          "headline": "How to stop Twitch from training AI on your streams",
-          "excerpt": "How to stop Twitch from training AI on your streams And why the company didn't make the feature opt-in. Twitch recently confirmed it will use streamers' content to train its generative AI models. The Amazon-owned platform is automatically opting all users in to the feature. And in the most predictable turn of events possible: the move has not gone over well, to put it mildly.…",
-          "url": "https://www.engadget.com/2235928/how-to-stop-twitch-training-ai-on-streams/"
-        },
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
-          "excerpt": "Twitch now lets users opt out of Amazon’s use of content from their channels to train Amazon’s “generative AI content models.” The change, announced today, comes more than two years after a company executive confirmed that Amazon was using Twitch content for AI training.…",
-          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-          "excerpt": "The streaming platform Twitch will now use creators’ content to help train generative AI models for its parent company, Amazon. This move has inspired swift and concentrated backlash from the Twitch community, especially because creators are opted in to having their content used for this AI training by default.…",
-          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
-          "excerpt": "Rescuers in Colombia faced a race against time Wednesday as they searched collapsed buildings for survivors after the country's strongest earthquake this century. The magnitude 7.4 quake has killed 265 people and injured more than 3,500, with nearly 500 still missing.",
-          "url": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Colombia earthquake death toll rises as frantic search for survivors continues",
-          "excerpt": "Colombia earthquake death toll rises as frantic search for survivors continues Tons of aid from regional partners began to roll into Colombia on Wednesday, as the search for survivors in the rubble of a powerful earthquake grew more desperate after the temblor razed buildings, buckled roads and crushed cars.…",
-          "url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
-          "excerpt": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265 President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools. Rescue efforts in Colombia following Monday’s devastating earthquake have entered what officials called the “final phase” as the death toll rose to 265, with more than 3,500 others wounded.…",
-          "url": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Colombia: \"scene of horror\" as Pereira rescuers search rubble",
-          "excerpt": "The quake, the strongest recorded in Colombia this century, has killed 265 people, injured more than 3,500 and left nearly 500 missing, according to local authorities.…",
-          "url": "http://www.euronews.com/video/2026/08/13/colombia-scene-of-horror-as-pereira-rescuers-search-rubble"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Colombia earthquake: Rescue operation enters 'final phase'",
-          "excerpt": "Colombia earthquake: Rescue operation enters 'final phase' August 13, 2026 Rescuers worked through a third straight night with time ticking towards the 72-hour mark since a powerful earthquake hit Colombia. That's the period aid agencies consider most critical for finding survivors alive, though it can stretch longer if trapped people have access to food and water.…",
-          "url": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-      "coverage": 5,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-          "excerpt": "The Los Angeles Lakers have sold — again. Less than a year after buying a controlling ownership stake in the NBA's Lakers, Mark Walter has sold his majority equity to Joshua Kushner and Bob Iger, according to a statement.…",
-          "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html"
-        },
-        {
-          "source": "ABC News",
-          "lang": "en",
-          "headline": "Bob Iger and Josh Kushner to purchase the Los Angeles Lakers",
-          "excerpt": "Bob Iger and Josh Kushner to purchase the Los Angeles Lakers Former Walt Disney Company CEO Bob Iger and businessman Josh Kushner are purchasing the Los Angeles Lakers for $12.5 billion, according to ESPN. Iger and Kushner shared a joint statement confirming the purchase to the outlet. The sale will still need to be approved by the NBA Board of Governors, ESPN noted.…",
-          "url": "https://abcnews.com/GMA/Culture/bob-iger-josh-kushner-purchase-los-angeles-lakers/story?id=135579145"
-        },
-        {
-          "source": "Inc.",
-          "lang": "en",
-          "headline": "Bob Iger Made a Record-Setting Sports Deal in Just 3 Days. It’s His Biggest Move Since Disney",
-          "excerpt": "The $12.5 billion deal hands ownership of the Los Angeles Lakers to the former Disney CEO and Josh Kushner.",
-          "url": "https://www.inc.com/lucia-auerbach/bob-iger-just-made-record-setting-sports-deal-in-three-days/91389992"
-        },
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "The Lakers just landed a $12.5 billion deal with 2 surprising new owners",
-          "excerpt": "The Los Angeles Lakers have new owners again. The team announced Wednesday that it has been sold to former Disney CEO Bob Iger and billionaire investor Josh Kushner for a record-breaking $12.5 billion. The sale comes less than a year after American businessman Mark Walter purchased the franchise. Walter&#8217;s $10 billion acquisition of the team from the Buss family broke records at the time.…",
-          "url": "https://www.fastcompany.com/91589190/the-lakers-just-landed-a-12-5-billion-deal-with-two-surprising-new-owners"
-        },
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Lakers to be sold to Bob Iger and Josh Kushner for $12 billion",
-          "excerpt": "Nick Reiner indicted on murder charges in the death of his parents 01:43 Karoline Leavitt to step down as White House press secretary at end of August 03:23 Now Playing Lakers to be sold to Bob Iger and Josh Kushner for $12 billion 03:14 UP NEXT At least 169 people dead in Colombia after earthquake as search for survivors continues 03:09 Official confirms Trump used elaborate ruse to fly out of Tu…",
-          "url": "https://www.nbcnews.com/now/video/lakers-to-be-sold-to-bob-iger-and-josh-kushner-for-12-billion-268186693578"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Путин посетил курильский остров Итуруп",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ведомости",
-          "lang": "ru",
-          "headline": "Путин посетил курильский остров Итуруп",
-          "excerpt": "Путин посетил курильский остров Итуруп Президент России Владимир Путин посетил курильский остров Итуруп, передает «РИА Новости». В частности, российский лидер осмотрел рыбоперерабатывающее предприятие «Ясный». 12 августа Путин в Южно-Сахалинске понаблюдал за завершающей стадией учений Тихоокеанского флота с борта ракетного крейсера «Варяг».…",
-          "url": "https://www.vedomosti.ru/politics/news/2026/08/13/1220801-putin-posetil-kurilskii"
-        },
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "Путин впервые приехал на Курилы. Япония выразила «решительный протест»",
-          "excerpt": "Путин впервые приехал на Курилы. Япония выразила «решительный протест» Президент России Владимир Путин посетил курильский остров Итуруп, сообщает пресс-служба Кремля. Это его первый приезд на Курильские острова. Путин посетил рыбоперерабатывающий комбинат «Ясный», Курильскую центральную районную больницу, школу имени Героя России Э.Д.…",
-          "url": "https://meduza.io/news/2026/08/13/putin-vpervye-priehal-na-kurily-yaponiya-vyrazila-reshitelnyy-protest"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "coverage": 4,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-          "excerpt": "More troops to be sent to West Bank village besieged by Israeli settlers - Published The Israeli military says it will deploy additional troops to the occupied West Bank after failing to force away Israeli settlers who have trapped two Palestinian families in their homes since Sunday.…",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Israeli militants besiege two Palestinian families in their West Bank homes",
-          "excerpt": "Settlers and soldiers cut off water and electricity to homes, and block medical care in campaign of terror Israeli militants have besieged two Palestinian families in their homes since the weekend, aiming to take over their properties in the West Bank village of Qusra through a campaign of terror.…",
-          "url": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes"
-        },
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Three Palestinian families besieged in their homes by Israeli settlers",
-          "excerpt": "Three Palestinian families besieged in their homes by Israeli settlers NewsFeed Three Palestinian families besieged in their homes by Israeli settlers Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes by Israeli settlers blocking roads and cutting water and electricity.…",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "US ambassador to Israel slams settler siege against West Bank Palestinians as ‘terror’",
-          "excerpt": "US Ambassador to Israel Mike Huckabee on Thursday denounced a siege by Israeli settlers against Palestinians in the West Bank village of Qusra as a \"horrific act of terror\".…",
-          "url": "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror"
+          "headline": "Karoline Leavitt resigns after Trump kept calling her on maternity leave, sources say",
+          "excerpt": "We’re in the midst of a mass exodus of working mothers from the labor force. The latest is Karoline Leavitt, White House press secretary, who announced her departure Wednesday. And it might have been because President Donald Trump had been calling her repeatedly while she was away on maternity leave, reports suggest.…",
+          "url": "https://www.fastcompany.com/91590136/karoline-leavitt-resigns-after-trump-kept-calling-her-on-mat-leave-reports-say"
         }
       ]
     },
     {
       "category": "🌍 World",
       "headline_en": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "coverage": 4,
+      "coverage": 6,
       "perspectives": [
         {
           "source": "BBC World",
@@ -507,17 +101,24 @@
           "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "France 24",
+          "source": "The Guardian",
           "lang": "en",
-          "headline": "Putin visits disputed Kuril islands, sparking protest from Japan",
-          "excerpt": "Putin visits disputed Kuril islands, sparking protest from Japan Russian President Vladimir Putin visited the far-eastern Kuril islands near Japan's Hokkaido island for the first time on Thursday. Tokyo issued a strong protest in response to the Russian leader's visit to the disputed territory claimed by Japan that was seized by the Soviet Union in 1945.…",
-          "url": "https://www.france24.com/en/asia-pacific/20260813-putin-visits-kuril-islands-claimed-by-japan"
+          "headline": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+          "excerpt": "The Japanese government has reacted angrily to Vladimir Putin’s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow. Japan’s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin’s actions “absolutely unacceptable”.…",
+          "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+          "excerpt": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
+          "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest"
         },
         {
           "source": "Euronews",
           "lang": "en",
           "headline": "Tokyo issues angry response as Putin makes his first visit to the disputed Kuril islands",
-          "excerpt": "The four contested islands, seized by Russia during World War II, have gained importance since the end of the conflict, providing strategic military bases to the Kremlin, coupled with their rich mineral deposits and fishing grounds.…",
+          "excerpt": "The four contested islands, seized by Russia during World War II, have gained importance since the end of the conflict, providing strategic military bases to the Kremlin. Russian President Vladimir Putin visited the far-eastern Kuril islands for the first time on Thursday, prompting a \"strong\" protest by Japan which also claims the territory.…",
           "url": "http://www.euronews.com/2026/08/13/tokyo-issues-angry-response-as-putin-makes-his-first-visit-to-the-disputed-kuril-islands"
         },
         {
@@ -530,30 +131,800 @@
       ]
     },
     {
+      "category": "💼 Business",
+      "headline_en": "В Ленобласти БПЛА повредили территорию в районе порта",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Ленобласти БПЛА повредили территорию в районе порта",
+          "excerpt": "обновлено 06:34 В Ленобласти БПЛА повредили территорию в районе порта Губернатор Ленинградской области Александр Дрозденко сообщил о повреждении в районе порта Усть-Луга. Начался пожар. На месте работают экстренные службы, добавил он. Продолжается атака БПЛА на регион. По информации главы области, всего ночью над регионом уже был сбит 51 беспилотник.…",
+          "url": "https://www.kommersant.ru/doc/8879162"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Повреждение в районе порта Усть-Луга зафиксировали после атаки БПЛА",
+          "excerpt": "Повреждение в районе порта Усть-Луга зафиксировали после атаки БПЛА После атаки украинских беспилотников было зафиксировано повреждение в районе порта Усть-Луга. Об этом сообщил губернатор Ленинградской области Александр Дрозденко. За ночь силы ПВО сбили над регионом 37 БПЛА. Позже Дрозденко сообщил, что в порту Усть-Луга начался пожар, а число сбитых над Ленобластью дронов выросло до 51.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/14/1221086-povrezhdenie-raione"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "В Ленобласти сбиты 37 беспилотников, зафиксировано повреждение в порту Усть-Луга",
+          "excerpt": "В Ленобласти сбиты 37 беспилотников, зафиксировано повреждение в порту Усть-Луга Москва. 14 августа. INTERFAX.RU - Губернатор Ленинградской области Александр Дрозденко сообщил о повреждении в районе порта Усть-Луга в результате атаки БПЛА. \"В Ленинградской области сбито 37 БПЛА противника. Зафиксировано повреждение в районе порта Усть-Луга.…",
+          "url": "https://www.interfax.ru/russia/1109217"
+        }
+      ]
+    },
+    {
       "category": "🌍 World",
-      "headline_en": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
+      "headline_en": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+          "excerpt": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
+          "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt"
+        },
+        {
+          "source": "Wired",
+          "lang": "en",
+          "headline": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
+          "excerpt": "With the revelation that ICE will spend up to $20 million by March on gloves that can deliver painful electric shocks to subdue an individual, according to a notice published earlier this week by the Department of Homeland Security, it's worth looking at how this apparel, designated as a nonlethal tool for law enforcement, actually works.…",
+          "url": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/"
+        },
+        {
+          "source": "Axios",
+          "lang": "en",
+          "headline": "ICE plans to put electric-shock gloves on officers' hands",
+          "excerpt": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters .…",
+          "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "‘A High Potential for Abuse’: Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm From Former Officials",
+          "excerpt": "The Department of Homeland Security (DHS) is moving to equip immigration officers with gloves that can administer electrical shocks, a plan that is sparking alarm from former department officials. According to a notice published by DHS this week, it will spend up to $20 million to purchase Generated Low Output Voltage Emitters, or G.L.O.V.Es, by the end of March 2027.…",
+          "url": "https://time.com/article/2026/08/12/ice-electric-shock-gloves/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "DHS seeks to purchase electric shock gloves for ICE officers",
+          "excerpt": "DHS seeks to purchase electric shock gloves for ICE officers DHS is seeking up to $20 million to purchase the gloves. The Department of Homeland Security is looking to purchase electric shock gloves for U.S. Immigration and Customs Enforcement officers in the field, according to documents DHS submitted earlier this week. DHS submitted paperwork on Monday to move ahead with purchasing the gloves.…",
+          "url": "https://abcnews.com/Politics/dhs-seeks-purchase-electric-shock-gloves-ice-officers/story?id=135581306"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "OpenAI Chief Revenue Officer Denise Dresser Steps Down, Replaced by Dali Rajic",
+      "coverage": 5,
+      "perspectives": [
+        {
+          "source": "Adweek",
+          "lang": "en",
+          "headline": "OpenAI Chief Revenue Officer Denise Dresser Steps Down, Replaced by Dali Rajic",
+          "excerpt": "OpenAI chief revenue officer Denise Dresser is leaving the company after joining the AI giant last year. The exit comes as OpenAI aggressively tries to turn on ads within its popular ChatGPT answer engine as a source of revenue.…",
+          "url": "https://www.adweek.com/media/openai-chief-revenue-officer-denise-dresser-steps-down-replaced-by-dali-rajic/"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
+          "excerpt": "OpenAI said Thursday that Chief Revenue Officer Denise Dresser is leaving her role less than a year after she joined the artificial intelligence lab, a startling exit for a company that's gearing up for what's expected to be a blockbuster IPO. The company said Dresser is leaving \"to pursue other opportunities,\" according to a release.…",
+          "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "OpenAI is losing its second executive this week",
+          "excerpt": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the “coming weeks” to “pursue other opportunities,” she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says.…",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "OpenAI hires new CRO as executive shake-up continues",
+          "excerpt": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab’s top sales job. The move comes as part of a broader shake-up in the organization in the last month, which has seen the departures of COO Brad Lightcap and the company’s No. 2 executive, CEO of AGI deployment Fidji Simo.…",
+          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
+        },
+        {
+          "source": "Business Insider",
+          "lang": "en",
+          "headline": "OpenAI shake-up continues with second major departure of the week",
+          "excerpt": "OpenAI's executive shake-up continues. The company announced Thursday that it is replacing its chief revenue officer, Denise Dresser, after only eight months in the role. Dali Rajic, formerly the chief operating officer of Wiz, is taking over the role with the monumental task of preparing OpenAI for its initial public offering, expected next year.…",
+          "url": "https://www.businessinsider.com/denise-dresser-exits-openai-dali-rajic-steps-in-as-cro-2026-8"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+          "excerpt": "Mangione lawyers to meet federal prosecutors amid reports of plea deal - Published Attorneys for Luigi Mangione, who is accused of killing United Healthcare CEO Brian Thompson in New York, are meeting federal prosecutors on Friday amid US media reports of a potential plea agreement.…",
+          "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR News",
+          "lang": "en",
+          "headline": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
+          "excerpt": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial.",
+          "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Luigi Mangione in discussions about possible guilty plea, sources say",
+          "excerpt": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges ahead of a court appearance Friday in New York City, sources familiar with the matter told CBS News. Mangione, 28, is set to appear at an 11 a.m.…",
+          "url": "https://www.cbsnews.com/news/luigi-mangione-possible-federal-plea-deal/"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "Luigi Mangione expected to plead guilty in New York federal case",
+          "excerpt": "Luigi Mangione is expected to plead guilty Friday to federal charges in connection with the 2024 killing of UnitedHealthcare CEO Brian Thompson in New York City, according to sources familiar with the matter.…",
+          "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-expected-plead-guilty-new-york-federal-case-rcna592221"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "В Латвии сбили беспилотник",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "В Латвии сбили беспилотник",
+          "excerpt": "В Латвии сбили беспилотник Истребители НАТО сбили беспилотник, вторгшийся в воздушное пространство Латвии. Об этом пишет Reuters со ссылкой на вооруженные силы страны. Вооруженные силы также объявили тревогу по поводу воздушной угрозы в регионах, близких к России. Финляндия ввела ограничения на авиационное и морское движение в восточной части Финского залива.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/14/1221088-latvii-bespilotnik"
+        },
+        {
+          "source": "Lenta.ru",
+          "lang": "ru",
+          "headline": "Истребители сбили беспилотник в Латвии",
+          "excerpt": "Истребители сбили беспилотник в Латвии",
+          "url": "https://lenta.ru/news/2026/08/14/istrebiteli-sbili-bespilotnik-v-latvii/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Photos: The Total Solar Eclipse of 2026",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "The Atlantic",
+          "lang": "en",
+          "headline": "Photos: The Total Solar Eclipse of 2026",
+          "excerpt": "PhotographyPhotos: The Total Solar Eclipse of 2026In Western Europe, millions of people looked into the sky, hoping to witness today’s total solar eclipse as the moon’s shadow swept over them, briefly turning day into night.By Alan TaylorAugust 12, 2026, 3:48 PM ET ShareSave Ander Gillenea / AFP / GettyThe sun’s corona glows as the moon completely blocks the sun during the totality phase of the to…",
+          "url": "https://www.theatlantic.com/photography/2026/08/photos-solar-eclipse-2026/688261/?utm_source=feed"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "WATCH:  Wondrous moments inside path of totality for solar eclipse",
+          "excerpt": "ABC News Live Video Local Shows Good Morning America ShopGMA Interest Successfully Added We'll notify you here with news about Turn on desktop notifications for breaking stories about interest? Off On Stream on Lindsay Clancy trial Live Updates Live Updates Iran Powerball winner Meta trial Kennedy Center Colombia quake MMR vaccine El Nino predictions Wondrous moments inside path of totality for so…",
+          "url": "https://abcnews.com/video/135605948/"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Half a million visitors flock to Spain’s path of total solar eclipse",
+          "excerpt": "In Medinaceli, a hilltop town in north-eastern Spain, spectators arrived hours early with chairs, hats and eclipse glasses to secure a clear view before the event reached totality shortly before sunset. Getxo, a coastal town just north-west of Bilbao in the Basque Country, also lay within the narrow path of totality.…",
+          "url": "http://www.euronews.com/video/2026/08/13/half-a-million-visitors-flock-to-spains-path-of-total-solar-eclipse"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "The Most Spectacular Photos of Europe's Total Solar Eclipse",
+          "excerpt": "People jumping from the diving platform at Kolovare Beach in Zadar, Croatia during the total solar eclipse, August 12, 2026 People jumping from the diving platform at Kolovare Beach in Zadar, Croatia during the total solar eclipse, August 12, 2026Zvonimir Barisin—PIXSELL/Sipa USA/Reuters On Aug.…",
+          "url": "https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "West Bank: \"In recent weeks, we've seen a striking escalation in violent acts\"",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "West Bank: \"In recent weeks, we've seen a striking escalation in violent acts\"",
+          "excerpt": "Israeli forces on Thursday moved against rogue settlers laying siege to Palestinians amid unusually strong US criticism, even as Israel inaugurated an emblematic settlement elsewhere in the West Bank. Our correspondent Noga Tarnopolsky tells us more.",
+          "url": "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Siege of Palestinian homes in West Bank a 'horrific act of terror', says US ambassador",
+          "excerpt": "Israeli settlers have been condemned by the US ambassador after the home of an American Palestinian family in the occupied West Bank was besieged.",
+          "url": "https://news.sky.com/story/siege-of-palestinian-homes-in-west-bank-a-horrific-act-of-terror-says-us-ambassador-13572508"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+          "excerpt": "Israeli military moves as settlers besiege 3 West Bank homes August 13, 2026 Israel has sent soldiers to try to protect three homes in the occupied West Bank village of Qusra that have been surrounded by a small group of Israeli settlers for several days.…",
+          "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "NBC News",
+          "lang": "en",
+          "headline": "U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes",
+          "excerpt": "Dozens of Israeli settlers have trapped two Palestinian families in their West Bank homes for days, cutting off food, water and electricity. Their actions even drawing the ire of U.S. Ambassador to Israel Mike Huckabee. The IDF says settlers were dispersed, but some remain. NBC News' Matt Bradley reports from the occupied West Bank.",
+          "url": "https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+      "coverage": 4,
+      "perspectives": [
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+          "excerpt": "President Trump was sued by nonprofit news groups today over Truth Social’s “Truth API” that sells real-time access to posts from Trump and other top users of the social network. Trump is profiting from selling preferential access to government information, the lawsuit said.…",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/"
+        },
+        {
+          "source": "Time",
+          "lang": "en",
+          "headline": "Trump Is Sued Over Selling Early Access to Truth Social Posts Amid Backlash Against Scheme",
+          "excerpt": "President Donald Trump is being sued over a new Truth Social service that sells early access to his posts to the tune of up to $100,000 a month. The lawsuit was filed Wednesday in a New York federal court by two media entities, The Intercept and the Freedom of the Press Foundation.…",
+          "url": "https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
+          "excerpt": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts Free press groups say selling access to Trump's posts is \"unconstitutional.\" A federal lawsuit filed Wednesday accuses the Trump administration of violating the First Amendment by selling special advance access to Truth Social posts before they go public. \"This scheme is profoundly corrupt.…",
+          "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Trump’s $100,000-a-month Truth Social perk just triggered a lawsuit",
+          "excerpt": "President Trump has an unprecedented array of income streams pouring right into the Oval Office, but a lucrative new scheme may run afoul of the Constitution. In July, Truth Social’s parent company announced that it would sell first-look access to the social platform’s posts, a move designed to entice Wall Street traders to splash out big bucks for exclusive market-moving information.…",
+          "url": "https://www.fastcompany.com/91590055/trumps-100000-a-month-truth-social-perk-just-triggered-a-lawsuit"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Instagram** впервые за 10 лет сменил шрифт в названии",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Habr",
+          "lang": "ru",
+          "headline": "Instagram** впервые за 10 лет сменил шрифт в названии",
+          "excerpt": "Instagram** сменил шрифт в названии, отказавшись от прежнего, который использовался в течение последнего десятилетия. «Логотип в верхней части приложения не менялся уже 10 лет, так что пришло время его обновить, — заявил глава Instagram** Адам Моссери в своем аккаунте.…",
+          "url": "https://habr.com/ru/news/1070342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070342"
+        },
+        {
+          "source": "vc.ru",
+          "lang": "ru",
+          "headline": "Instagram* поменял шрифт в названии впервые за 10 лет",
+          "excerpt": "Новый вариант — «чище и современнее». Источник: The VergeInstagram* представил новый вариант написания названия соцсети, которое отображается в верхней части приложения, пишет The Verge. Об изменениях на своей странице рассказал глава Instagram* Адам Моссери.По его словам, предыдущий логотип не менялся 10 лет — пришло время его обновить.…",
+          "url": "https://vc.ru/design/3077304-izmenenie-logotipa-instagram-novoe-napisanie?from=rss"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "excerpt": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms - Published Thousands of US military members who have lived aboard an aircraft carrier for more than 250 days are reportedly contending with food shortages, broken plumbing and exhaustion, leading lawmakers to demand answers from the Pentagon and pressuring the Trump administration over the Iran war.…",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Sailor went overboard USS Abraham Lincoln earlier this month raising mental health concerns",
+          "excerpt": "Sailor went overboard USS Abraham Lincoln earlier this month raising mental health concerns A sailor went overboard off the USS Abraham Lincoln aircraft carrier earlier this month, but was quickly rescued. Sources say the incident is under investigation as family members fear that its long deployment is worsening mental health issues. Charlie D'Agata reports.",
+          "url": "https://www.cbsnews.com/video/sailor-went-overboard-uss-abraham-lincoln-mental-health-concerns/"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "US disputes reports of trying conditions on carrier in Gulf",
+          "excerpt": "Defense Secretary Pete Hegseth called reports of poor conditions and mental health strain aboard the USS Abraham Lincoln aircraft carrier in the Middle East \"completely misrepresented.\" Senators want an investigation.",
+          "url": "https://www.dw.com/en/us-disputes-reports-of-trying-conditions-on-carrier-in-gulf/a-78359084?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Selena Gomez and her mom accused of fraud over their mental health startup",
       "coverage": 3,
       "perspectives": [
         {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
-          "excerpt": "To the tens of thousands and likely more dreaming about a $1 billion Powerball win, the anticipation is over: Someone who bought a ticket in Illinois won it all. A single ticket sold in the state matched all six numbers and the Powerball to win Wednesday’s $1.04 billion jackpot, which is the eighth largest in the history of the lottery game, organizers said.…",
-          "url": "https://www.nbcnews.com/news/us-news/ticket-illinois-wins-1-billion-powerball-jackpot-rcna592269"
+          "headline": "Selena Gomez and her mom accused of fraud over their mental health startup",
+          "excerpt": "Superstar Selena Gomez and her mother are accused of defrauding investors of their mental health startup, Wondermind, in a federal lawsuit filed Thursday. Wondermind, which was co-founded by Gomez; her mother, Mandy Teefey; and Daniella Pierson in November 2021, touts mental fitness practices and tools.…",
+          "url": "https://www.nbcnews.com/news/us-news/selena-gomez-mom-accused-fraud-mental-health-startup-rcna592411"
         },
         {
-          "source": "ABC News",
+          "source": "Inc.",
           "lang": "en",
-          "headline": "Powerball player in Illinois wins $1 billion jackpot",
-          "excerpt": "Powerball player in Illinois wins $1 billion jackpot It's the largest Powerball jackpot so far this year. A Powerball ticket sold in Illinois matched all six numbers in Wednesday night's drawing, winning an estimated $1.04 billion jackpot, according to the lottery organization. The winning numbers were 4, 26, 66, 67, 69 and red Powerball 9.…",
-          "url": "https://abcnews.com/US/powerball-player-illinois-wins-1-billion-jackpot/story?id=135600933"
+          "headline": "Selena Gomez’s Wondermind Raised $1.2 Million on Founder Reputation. Now Investors Say They Were Misled",
+          "excerpt": "A new lawsuit accuses the mental health startup of overstating its leadership, partnerships, and the actress’s involvement. Experts say celebrity founders can draw attention to a business—but should not replace due diligence.",
+          "url": "https://www.inc.com/lucia-auerbach/selena-gomez-wondermind-raised-million-dollars-on-founder-reputation-now-investors-say-misled/91390873"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+          "excerpt": "Singer and actress Selena Gomez and her mother are being sued over their mental health startup, Wondermind. The plaintiffs in the lawsuit say they invested nearly $1.2 million in the startup, and are accusing Gomez of securities fraud and breach of contract.…",
+          "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "8/13: The Takeout with Major Garrett",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "8/13: The Takeout with Major Garrett",
+          "excerpt": "Latest U.S. Iran War Kennedy Center World Politics Entertainment HealthWatch MoneyWatch Crime Space Sports Brand Studio The Free Press Local News Atlanta Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News 24/7 Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelph…",
+          "url": "https://www.cbsnews.com/video/081326-the-takeout-with-major-garrett/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Iran calls out Trump's ‘lies’ about US control over the Strait of Hormuz",
+          "excerpt": "A spokesman for Iran's military command on Thursday called out US President Donald Trump's \"lies and fabrications\" after he claimed on social media that Washington had \"total control over the Strait of Hormuz\". Iran has maintained control of the Strait, a vital energy conduit, since the outbreak of the war on February 28.",
+          "url": "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Iran's military rejects Trump's claims of US control over Strait of Hormuz as 'lies'",
+          "excerpt": "Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war on 28 February, requiring vessels to obtain permission and pay transit fees before using the waterway. Iran's military rejected as \"lies\" on Thursday remarks by US President Donald Trump claiming control of the Strait of Hormuz, saying the strategic waterway was fully under Iranian control.…",
+          "url": "http://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "В Донецке почти 30 тысяч человек остались без света",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "В Донецке почти 30 тысяч человек остались без света",
+          "excerpt": "В Донецке почти 30 тысяч человек остались без света В трех районах Донецка аварийно отключилось электричество. Без света остались более 29,6 тыс. человек, сообщил мэр города Алексей Кулемзин. Аварийное отключение 188 трансформаторных подстанций произошло в Буденновском, Калининском и Пролетарском районах. «Проводятся работы по восстановлению электроснабжения»,— уточнил господин Кулемзин.…",
+          "url": "https://www.kommersant.ru/doc/8879204"
+        },
+        {
+          "source": "РИА Новости",
+          "lang": "ru",
+          "headline": "Почти 30 тысяч абонентов в Донецке остались без света",
+          "excerpt": "В Буденновском, Калининском и Пролетарском районах Донецка произошло аварийное отключение 188 трансформаторных подстанций. Без электричества остались 29 634 абонента, ведутся восстановительные работы. ДОНЕЦК, 14 авг - РИА Новости.…",
+          "url": "https://ria.ru/20260814/donetsk-2110820970.html"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "MIT Tech Review",
+          "lang": "en",
+          "headline": "Flock is tightening its rules in response to a growing surveillance backlash",
+          "excerpt": "Flock is tightening its rules in response to a growing surveillance backlash The company is imposing new guardrails on its police tech after reports that officers are abusing it and cities are dropping contracts. But the changes leave glaring loopholes.…",
+          "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "Surprise, surprise: CBP officers are misusing surveillance tech",
+          "excerpt": "Surprise, surprise: CBP officers are misusing surveillance tech Agents reportedly used electronic databases to spy on family members and even provide intelligence to drug traffickers.…",
+          "url": "https://www.engadget.com/2236104/cbp-officers-are-misusing-surveillance-tech/"
+        },
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Flock adds platform guardrails after misuse and privacy concerns spark backlash",
+          "excerpt": "Flock Safety , the surveillance technology company increasingly under scrutiny from lawmakers from both parties, civil liberties advocates, and citizens across the U.S., announced Thursday that it is making changes to its platform intended to quell privacy concerns and address documented abuses of its system by some members of law enforcement.…",
+          "url": "https://www.fastcompany.com/91589958/flock-license-plate-cameras-surveillance-deflock"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Colombia: \"scene of horror\" as Pereira rescuers search rubble",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Colombia: \"scene of horror\" as Pereira rescuers search rubble",
+          "excerpt": "The quake, the strongest recorded in Colombia this century, has killed 265 people, injured more than 3,500 and left nearly 500 missing, according to local authorities.…",
+          "url": "http://www.euronews.com/video/2026/08/13/colombia-scene-of-horror-as-pereira-rescuers-search-rubble"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Colombia rescuers cling to hope as quake survival window closes",
+          "excerpt": "Rescuers in Colombia made a last-ditch effort to locate earthquake survivors early Thursday, as the critical 72-hour window for finding people alive drew to a close. Our journalist Rosa Perez gives us the lastest information.",
+          "url": "https://www.france24.com/en/video/20260813-colombia-rescuers-cling-to-hope-as-quake-survival-window-closes"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "Colombia’s rescuers search rubble as hope fades on finding survivors",
+          "excerpt": "Colombia’s rescuers search rubble as hope fades on finding survivors NewsFeed Colombia’s rescuers search rubble as hope fades on finding survivors The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging.…",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "US to Roll Out ‘Economic Isolation’ Plan for Iran",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "lang": "en",
+          "headline": "US to Roll Out ‘Economic Isolation’ Plan for Iran",
+          "excerpt": "The US will soon announce what it bills as unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation through financial pressure. Bloomberg's Stuart Livingstone-Wallace breaks down what we know about the plans. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-video"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Middle East live: US threatens Iran with economic isolation like 'never seen before'",
+          "excerpt": "US Treasury Secretary Scott Bessent threatened Thursday to subject Iran to economic isolation \"like the world has never seen before\", adding that new measures are expected next week. Follow our liveblog for the latest updates.…",
+          "url": "https://www.france24.com/en/middle-east/20260814-middle-east-live-us-threatens-iran-with-economic-isolation-like-never-seen-before"
+        },
+        {
+          "source": "CNBC",
+          "lang": "en",
+          "headline": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+          "excerpt": "The U.S. will be applying economic measures \"that have never been seen on Iran,\" according to Treasury Secretary Scott Bessent.…",
+          "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html"
+        }
+      ]
+    },
+    {
+      "category": "📈 Economy",
+      "headline_en": "В Новороссийске остановлен последний крупный зерновой терминал",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "The Bell",
+          "lang": "ru",
+          "headline": "В Новороссийске остановлен последний крупный зерновой терминал",
+          "excerpt": "В Новороссийске остановлен последний крупный зерновой терминал The Bell ГК «Дело», в которую входит зерновой терминал КСК в Новороссийске, объявила о приостановке его работы. «Терминал прекращает разгрузку автомобильного и железнодорожного транспорта, погрузку зерна на морские суда и прочие операции», — сообщила компания.…",
+          "url": "https://thebell.io/vnovorossiyske-ostanovlen-posledniy-krupnyy-zernovoy-terminal"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Третий крупный зерновой терминал в Новороссийске остановил работу после атаки ВСУ",
+          "excerpt": "Третий крупный зерновой терминал в Новороссийске остановил работу после атаки ВСУ Зерновой терминал КСК в Новороссийске, через который идет экспорт российского зерна, приостановил работу, сообщила его владелец, группа компаний «Дело». «Терминал прекращает разгрузку автомобильного и железнодорожного транспорта, погрузку зерна на морские суда и прочие операции.…",
+          "url": "https://meduza.io/news/2026/08/13/tretiy-krupnyy-zernovoy-terminal-v-novorossiyske-ostanovil-rabotu-posle-ataki-vsu"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+          "excerpt": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her A video showing a US Immigration and Customs Enforcement (ICE) agent pointing his gun at a woman has been viewed by millions after she shared the moment on Instagram. Carolina Molina says she was out delivering business cards in Falls Church, Virginia, when she saw ICE agents, who then surrounded her car.…",
+          "url": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "CBS News",
           "lang": "en",
-          "headline": "$1.04 billion Powerball jackpot won in Illinois",
-          "excerpt": "$1.04 billion Powerball jackpot won in Illinois A single ticket in Illinois won a Powerball jackpot of $1.04 billion Wednesday night, the game says. The ticket was purchased at a gas station in the city of Quincy, which is on the Mississippi River about halfway down the Illinois coast. The winning numbers were 4, 26, 66, 67 and 69, with a Powerball of 9.…",
-          "url": "https://www.cbsnews.com/news/powerball-jackpot-drawing-tonight-1-billion/"
+          "headline": "Watch: ICE agent points gun at woman in Virginia, claims she almost ran him over with car",
+          "excerpt": "Watch: ICE agent points gun at woman in Virginia, claims she almost ran him over with car A shocking video shows an ICE agent pointing his gun at a woman in Virginia while claiming she almost ran him and his colleagues over, an action the Homeland Security Department has defended. The woman denies that she tried to hit the agents with her car. CBS News' Camilo Montoya-Galvez breaks it down.",
+          "url": "https://www.cbsnews.com/video/watch-ice-agent-points-gun-at-woman-in-virginia-later-claims/"
+        },
+        {
+          "source": "ABC News",
+          "lang": "en",
+          "headline": "Virginia woman says ICE agent pointed gun at her, denies trying to run over agents",
+          "excerpt": "Virginia woman says ICE agent pointed gun at her, denies trying to run over agents Carolina Molina said she shouted an insult at the agent before the incident. A Virginia woman said Wednesday that a federal immigration agent pointed a firearm at her head and falsely claimed she tried to run over agents during an encounter in Falls Church earlier in the week.…",
+          "url": "https://abcnews.com/US/virginia-woman-ice-agent-pointed-gun-denies-run/story?id=135596884"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+          "excerpt": "Two years ago, Microsoft described AI as a “generational shift” in technology that it wanted to lead. Today, the company is merging its Copilot-branded consumer and business apps, and ditching a number of unsuccessful AI features.…",
+          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
+        },
+        {
+          "source": "ZDNet",
+          "lang": "en",
+          "headline": "Microsoft is merging Copilot and Copilot 365 into one unified app - and retiring 3 features",
+          "excerpt": "Microsoft is merging Copilot and Copilot 365 into one unified app - and retiring 3 features Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways - Microsoft is merging Copilot and Microsoft 365 Copilot into one unified app. - You'll be able to sign into Copilot with a personal, work, or school account.…",
+          "url": "https://www.zdnet.com/article/microsoft-to-merge-copilot-and-copilot-365-into-one-unified-app-retiring-features/"
+        },
+        {
+          "source": "The Verge",
+          "lang": "en",
+          "headline": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+          "excerpt": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot’s voice mode. In a support page, Microsoft says it’s going to move Mico to its Learn Live platform, where the avatar will have “more to react to,” as reported earlier by GeekWire.…",
+          "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
+          "excerpt": "Ukraine has proposed a deal with Russia for both sides to halt their attacks on civilian ships in the Black Sea in an apparent attempt to reopen a crucial grain corridor, Reuters reports. Kyiv is said to have made the offer through a third party. Moscow has yet to respond, the news agency added.…",
+          "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea"
+        },
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles",
+          "excerpt": "Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles Kyiv and Moscow are trading heavier and heavier blows. Welcome back to World Brief, where we’re looking at evolving wartime tactics from Ukraine and Russia, a new amnesty law in Lebanon, and a deadly ferry disaster in Zimbabwe.…",
+          "url": "https://foreignpolicy.com/2026/08/12/ukraine-russia-black-sea-strikes-north-korea-missiles-lebanon-death-penalty/"
+        },
+        {
+          "source": "France 24",
+          "lang": "en",
+          "headline": "Russia-Ukraine war: Grain hub attacks raise fears over global food prices",
+          "excerpt": "Kyiv and Moscow have been trading attacks on each other's grain warehouses, as concerns mount that global food prices could rise as a result.Russia struck Ukraine's largest grain shipment port on the Danube overnight, causing damage and setting off a fire. The attack came a day after Ukraine hit Novorossiysk, a major grain hub in Russia's part of the Black Sea. Keywords for this article",
+          "url": "https://www.france24.com/en/video/20260813-russia-ukraine-war-grain-hub-attacks-raise-fears-over-global-food-prices"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "WP: США потеряли четверть беспилотников MQ-9 Reaper в войне с Ираном",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "WP: США потеряли четверть беспилотников MQ-9 Reaper в войне с Ираном",
+          "excerpt": "WP: США потеряли четверть беспилотников MQ-9 Reaper в войне с Ираном Военные США потеряли минимум 45 беспилотников MQ-9 Reaper в конфликте с Ираном. Это составляет около 25% от их общего парка. Об этом сообщает The Washington Post (WP) со ссылкой на источники.…",
+          "url": "https://www.kommersant.ru/doc/8879167"
+        },
+        {
+          "source": "Interfax",
+          "lang": "ru",
+          "headline": "США лишились четверти арсенала беспилотников MQ-9 Reaper в конфликте с Ираном",
+          "excerpt": "США лишились четверти арсенала беспилотников MQ-9 Reaper в конфликте с Ираном Москва. 14 августа. INTERFAX.RU - США за время конфликта с Ираном потеряли не менее 45 тяжелых разведывательно-ударных беспилотников MQ-9 Reaper, пишет The Washington Post.…",
+          "url": "https://www.interfax.ru/world/1109219"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+          "excerpt": "The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago.…",
+          "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province"
+        },
+        {
+          "source": "Euronews",
+          "lang": "en",
+          "headline": "Congo’s Ebola outbreak on track to surpass deadliest in history, WHO chief says",
+          "excerpt": "“At its current pace, it’s on track to eclipse the West African Ebola outbreak of 2014 to 2016,” WHO chief Tedros Adhanom Ghebreyesus told reporters on Wednesday.…",
+          "url": "http://www.euronews.com/2026/08/13/congos-ebola-outbreak-on-track-to-surpass-deadliest-in-history-who-chief-says"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Fastest-growing Ebola outbreak spreads to previously unaffected area",
+          "excerpt": "DR Congo's Ebola outbreak has spread to a sixth province after a death was recorded in the previously unaffected Bas-Uele province.",
+          "url": "https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Trump Wants Private Companies to Launch Cyber Attacks. They Just Have to Post a $1 Million Bond First",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Inc.",
+          "lang": "en",
+          "headline": "Trump Wants Private Companies to Launch Cyber Attacks. They Just Have to Post a $1 Million Bond First",
+          "excerpt": "The White House established a new program that will enlist private companies for offensive cybersecurity.",
+          "url": "https://www.inc.com/chloe-aiello/trump-wants-private-companies-to-launch-cyber-attacks-they-just-have-to-post-a-1-million-bond-first/91390866"
+        },
+        {
+          "source": "Engadget",
+          "lang": "en",
+          "headline": "US government to allow private companies to carry out cyberattacks on its behalf",
+          "excerpt": "US government to allow private companies to carry out cyberattacks on its behalf The finer points of how this may work remain unknown. President Donald Trump has signed a new national security presidential memorandum that allows private companies to conduct cyberattacks on \"transnational criminal organizations\" on behalf of the federal government.…",
+          "url": "https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "In a first, US will allow some private firms to carry out cyberattacks",
+          "excerpt": "The U.S. government will for the first time allow vetted private companies to launch offensive cyber operations against international criminal gangs and hackers, the White House said on Wednesday.…",
+          "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+          "excerpt": "As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections. Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021.…",
+          "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
+        },
+        {
+          "source": "Foreign Policy",
+          "lang": "en",
+          "headline": "What to Watch in Zambia’s Elections",
+          "excerpt": "What to Watch in Zambia’s Elections The country’s natural resources have put the vote under intense international scrutiny. Welcome to Foreign Policy’s Africa Brief.…",
+          "url": "https://foreignpolicy.com/2026/08/12/zambia-elections-hichilema-economic-policy-us-china-copper-mines/"
+        },
+        {
+          "source": "Al Jazeera",
+          "lang": "en",
+          "headline": "What’s at stake in Zambia’s elections?",
+          "excerpt": "Inside Story What’s at stake in Zambia’s elections? The economy dominates voter concerns in southern Africa country. Zambia’s President Hakainde Hichilema boasts about the economic recovery achieved under his leadership. Now, he is seeking a second term in office.…",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Axios: Кушнер проведет переговоры по Газе в Израиле и Египте",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Коммерсант",
+          "lang": "ru",
+          "headline": "Axios: Кушнер проведет переговоры по Газе в Израиле и Египте",
+          "excerpt": "Axios: Кушнер проведет переговоры по Газе в Израиле и Египте Спецпосланник президента США бизнесмен Джаред Кушнер посетит Израиль и Египет для проведения переговоров по Газе. Об этом сообщает Axios со ссылкой на источники. Визит запланирован на следующей неделе. Он станет первой поездкой господина Кушнера в Израиль с января.…",
+          "url": "https://www.kommersant.ru/doc/8879150"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Axios: Кушнер на следующей неделе прилетит в Израиль на переговоры по Газе",
+          "excerpt": "Axios: Кушнер на следующей неделе прилетит в Израиль на переговоры по Газе Спецпосланник президента США Дональда Трампа Джаред Кушнер планирует на следующей неделе посетить Израиль для переговоров о ситуации в секторе Газа. Об этом сообщает Axios со ссылкой на пять источников, знакомых с планами.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/14/1221075-kushner-peregovori-po-gaze"
+        }
+      ]
+    },
+    {
+      "category": "💡 Tech & AI",
+      "headline_en": "Instagram has a new wordmark",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "Fast Company",
+          "lang": "en",
+          "headline": "Instagram has a new wordmark",
+          "excerpt": "Instagram just unveiled a new wordmark, the social media app&#8217;s first major logo redesign in a decade. &#8220;The wordmark at the top of the app hasn&#8217;t changed in 10 years, so it was time for a refresh,&#8221; head of Instagram Adam Mosseri announced in an Instagram post .…",
+          "url": "https://www.fastcompany.com/91589846/instagram-has-a-new-wordmark"
+        },
+        {
+          "source": "TechCrunch",
+          "lang": "en",
+          "headline": "Instagram introduces a redesigned wordmark",
+          "excerpt": "Instagram on Thursday introduced a new wordmark, which is the text-only logo that spells out the company’s name. The social media giant’s logic was that the older version of its logo felt dated after a decade in use.…",
+          "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/"
+        },
+        {
+          "source": "Ars Technica",
+          "lang": "en",
+          "headline": "The new Instagram logo is the perfect embodiment of AI slop",
+          "excerpt": "Today, Instagram unveiled a refresh of its wordmark, accompanied by the usual bland corporate platitudes these kinds of announcements are always packaged with. Head of Instagram Adam Mosseri called it “leaner and more modern, with references to the original and the simplicity and craft that’s always made it Instagram.” Sure, Adam.…",
+          "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+          "excerpt": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level - Published Romania has shut down its only nuclear power station because of extremely low water levels in the Danube river caused by prolonged hot weather affecting much of Europe.…",
+          "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "lang": "en",
+          "headline": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
+          "excerpt": "Romania has been forced to shut down the last working reactor at its only nuclear plant after drought caused the Danube river to fall to record lows – a rare move that will immediately affect power supplies in neighbouring Moldova. Drought and record-low water levels have deepened fears of an energy crisis across Europe, which is facing a new summer heatwave.…",
+          "url": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought"
+        },
+        {
+          "source": "DW English",
+          "lang": "en",
+          "headline": "Romania shuts nuclear plant, Hungary dams dry Danube River",
+          "excerpt": "Romania shuts nuclear plant, Hungary dams dry Danube River August 13, 2026 Romania shut down its lone nuclear power plant on Thursday, a rare move amid the drought that has caused record lows on the Danube River and other major waterways in Europe. The Danube is the sole source of cooling water for the Cernavoda plant, which usually generates around one-fifth of Romania's electricity.…",
+          "url": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "BBC World",
+          "lang": "en",
+          "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+          "excerpt": "Engine parts smashed Ryanair window that man's head was sucked out of, report says - Published Broken engine fragments smashed a cabin window of a Ryanair plane causing a man's head and right shoulder to be sucked into the hole last month, US investigators have said.…",
+          "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CBS News",
+          "lang": "en",
+          "headline": "Evidence of bird strike after man nearly sucked out of plane window, NTSB says",
+          "excerpt": "Evidence of bird strike found after Ryanair passenger nearly sucked out of plane's broken window, NTSB says A bird strike may have been the cause of an incident in which a passenger was nearly sucked out of a broken window aboard a Ryanair flight in Europe last month, the U.S. National Transportation Safety Board said in its preliminary report Thursday.…",
+          "url": "https://www.cbsnews.com/news/ryanair-bird-strike-passenger-window-ntsb/"
+        },
+        {
+          "source": "Sky News",
+          "lang": "en",
+          "headline": "Revealed: What caused man to be partially sucked out of plane",
+          "excerpt": "A shattered window through which a passenger was partially sucked out of during a Ryanair flight last month was caused by broken engine parts, US investigators have said.",
+          "url": "https://news.sky.com/story/revealedwhat-caused-man-to-be-partially-sucked-out-of-ryanair-plane-13572791"
         }
       ]
     },
@@ -580,554 +951,169 @@
     },
     {
       "category": "🌍 World",
-      "headline_en": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
-          "excerpt": "An impasse between the U.S. and Iran shows no sign of thawing, with the two sides remaining at odds over the terms of ending their five-month war and giving conflicting messages on the Strait of Hormuz overnight.…",
-          "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump says U.S. has \"total control\" over Strait of Hormuz",
-          "excerpt": "Live Updates: Trump says U.S. has \"total control\" over Strait of Hormuz and might \"keep it\" What to know about the Iran war: - President Trump said Wednesday the U.S. has \"total control\" over the Strait of Hormuz, a claim Iran has disputed and that comes as ships are hesitant to pass through the waterway. \"I THINK WE WILL KEEP IT,\" he wrote on his Truth Social platform.…",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Gulf states scramble for Strait of Hormuz alternatives",
-          "excerpt": "Gulf states scramble for Strait of Hormuz alternatives August 12, 2026 Months of blockades and uncertainty around the Strait of Hormuz have pushed energy exporters to look for ways to bypass the key shipping lane.…",
-          "url": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternatives/a-78336679?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "excerpt": "Anthropic recently made the decision to watermark Claude’s outputs — inserting invisible code into the chatbot’s editorial text that marks it as AI-generated. Anthropic rolled out this new policy to satisfy the EU AI Act’s Transparency Code, which now requires tech companies to label content that has been AI-generated or edited in a manner identifiable to computer systems.…",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
-        },
-        {
-          "source": "Axios",
-          "lang": "en",
-          "headline": "Anthropic's text watermarks signal new front in AI detection",
-          "excerpt": "Anthropic's new models will add machine-readable \"watermarks\" to Claude-generated text and files to comply with new European Union transparency regulations. Why it matters: Comms teams using Claude to simply clean up, translate, or format human-drafted press releases could stamp those documents with an AI signature. How it works: For models launched in the EU after Aug.…",
-          "url": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection"
-        },
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Explaining Anthropic’s New Watermarking Of Claude AI-Generated Outputs And What It Signifies For Society",
-          "excerpt": "In today’s column, I examine the recently announced effort by Anthropic to watermark the AI-generated output of Claude. This is a watershed moment for generative AI and large language models (LLMs).…",
-          "url": "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
-          "excerpt": "In Pictures Photos: Hope fades in Colombia as teams dig for earthquake survivors Colombian rescuers battle time to save lives after deadly 7.4 earthquake, as hopes dwindle in search for survivors. Colombian rescuers are racing against time to find survivors of Monday’s powerful magnitude 7.4 earthquake, as search operations stretch into a fourth day across the country’s west.…",
-          "url": "https://www.aljazeera.com/gallery/2026/8/13/photos-hope-fades-in-colombia-as-teams-dig-for-earthquake-survivors?traffic_source=rss"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Search for Colombia earthquake survivors enters critical window",
-          "excerpt": "Tons of aid from regional partners began to roll into Colombia on Wednesday, as the search for survivors in the rubble of a powerful earthquake grew more desperate after the temblor razed buildings, buckled roads and crushed cars.",
-          "url": "https://www.france24.com/en/video/20260813-search-for-colombia-earthquake-survivors-enters-critical-window"
-        },
-        {
-          "source": "Euronews",
-          "lang": "en",
-          "headline": "Colombia: Rescuers search for survivors after 7.6 magnitude earthquake kills 216 people",
-          "excerpt": "As rescuers search through the rubble for survivors, volunteers join to help clear the wreckage. People brought water and food to the victimes and lined up in front of blood donation centres.…",
-          "url": "http://www.euronews.com/2026/08/12/colombia-rescuers-search-for-survivors-after-76-magnitude-earthquake-kills-216-people"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "В Белгородской области два человека пострадали при ударе БПЛА по машине",
+      "headline_en": "Appeals court dodges major ruling on Trump’s contentious use of obscure deportation law",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "В Белгородской области два человека пострадали при ударе БПЛА по машине",
-          "excerpt": "В Белгородской области два человека пострадали при ударе БПЛА по машине В городе Шебекино беспилотник ударил по автомобилю. Пострадали двое мужчин, сообщил оперативный штаб Белгородской области. Пострадавших с осколочными ранениями доставили в Шебекинскую больницу. Транспортное средство получило повреждения. Белгородская область граничит с Украиной и регулярно подвергается атакам.…",
-          "url": "https://www.kommersant.ru/doc/8878625"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "В Белгородской области из-за ударов БПЛА по машинам пострадали еще двое",
-          "excerpt": "В Белгородской области из-за ударов БПЛА по машинам пострадали еще двое Москва. 13 августа. INTERFAX.RU - В Белгородской области в результате атак дронов на машины ранены еще двое мужчин, сообщил региональный оперштаб. В Ракитянском округе в селе Трефиловка дрон атаковал грузовой автомобиль. Там мужчина получил осколочное ранение живота, его доставили в больницу в тяжелом состоянии.…",
-          "url": "https://www.interfax.ru/russia/1109075"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "BBC World",
-          "lang": "en",
-          "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-          "excerpt": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - Published A \"massive\" Ukrainian drone and missile strike on Russia's port of Novorossiysk has damaged two major grain export terminals and hit the last big Russian naval base on the Black Sea, reports say.…",
-          "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Foreign Policy",
-          "lang": "en",
-          "headline": "Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles",
-          "excerpt": "Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles Kyiv and Moscow are trading heavier and heavier blows. Welcome back to World Brief, where we’re looking at evolving wartime tactics from Ukraine and Russia, a new amnesty law in Lebanon, and a deadly ferry disaster in Zimbabwe.…",
-          "url": "https://foreignpolicy.com/2026/08/12/ukraine-russia-black-sea-strikes-north-korea-missiles-lebanon-death-penalty/"
-        },
-        {
-          "source": "CNBC",
-          "lang": "en",
-          "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
-          "excerpt": "Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk, prompting Russia to warn of a disruption to global food supplies. Regional governor Veniamin Kondratyev said that three people were killed in the attack, including an eight-year-old, while another 24 were injured.…",
-          "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NPR News",
-          "lang": "en",
-          "headline": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-          "excerpt": "A grand jury has indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner, and adds the allegation that he was lying in wait before attacking them.",
-          "url": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
-          "excerpt": "Nick Reiner indicted on murder charges in killings of parents Rob and Michele at their Los Angeles home Nick Reiner has been indicted on murder charges in the killings of his parents, Rob and Michele Reiner, inside their Brentwood home last year.…",
-          "url": "https://www.cbsnews.com/news/nick-reiner-indicted-murder-charges-rob-michele-los-angeles/"
-        },
-        {
           "source": "NBC News",
           "lang": "en",
-          "headline": "Nick Reiner indicted on murder charges in the death of his parents",
-          "excerpt": "Teen charged with murder of mother and brother allegedly used A.I. before their deaths 02:36 ICE purchases ‘zap gloves’ to use on non-compliant suspects 01:44 Ring video shows moments person appears to set fire to home 01:20 Lindsay Clancy breaks down in court during graphic testimony on her children's autopsies 03:03 Man who tried to kill Ronald Reagan to impress Jodie Foster 'wishes her well' 02…",
-          "url": "https://www.nbcnews.com/now/video/nick-reiner-indicted-on-murder-charges-in-the-death-of-his-parents-268203589881"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Extremism expert charged in case on Southern Poverty Law Center informants",
-      "coverage": 3,
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "lang": "en",
-          "headline": "Extremism expert charged in case on Southern Poverty Law Center informants",
-          "excerpt": "A former official at the Southern Poverty Law Center faces federal charges in connection with a case the Justice Department brought over the way the organization made payments to informants who provided details about extremist organizations. Heidi Beirich has been charged in federal court in Montgomery, Alabama, her attorney said.…",
-          "url": "https://www.nbcnews.com/politics/justice-department/extremism-expert-charged-case-targeting-southern-poverty-law-centers-u-rcna592198"
+          "headline": "Appeals court dodges major ruling on Trump’s contentious use of obscure deportation law",
+          "excerpt": "A U.S. appeals court dodged a decision Thursday on President Donald Trump’s contentious use of an obscure law called the Alien Enemies Act to deport alleged Venezuelan gang members. The judges dismissed the case because the Trump administration has now removed all three plaintiffs from the U.S. using alternative legal authorities. The ruling by the New Orleans-based 5th U.S.…",
+          "url": "https://www.nbcnews.com/politics/immigration/appeals-court-trump-alien-enemies-act-tren-de-aragua-venezuela-rcna592435"
         },
         {
           "source": "ABC News",
           "lang": "en",
-          "headline": "DOJ charges former Southern Poverty Law Center CFO with fraud",
-          "excerpt": "DOJ charges former Southern Poverty Law Center CFO with fraud Heidi Beirich was arrested Wednesday morning in California, DOJ officials said.…",
-          "url": "https://abcnews.com/US/doj-charges-former-southern-poverty-law-center-cfo/story?id=135590646"
-        },
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "U.S. indicts former SPLC executive for her role in alleged fraud scheme",
-          "excerpt": "U.S. indicts former SPLC executive in alleged fraud scheme over payments to informants in white supremacist groups Heidi Beirich, a former executive at the Southern Poverty Law Center, has been charged in a superseding indictment for her alleged role in what the government claims was a fraudulent scheme that duped donors and banks, according to court documents unsealed Wednesday.…",
-          "url": "https://www.cbsnews.com/news/southern-poverty-law-center-heidi-beirich-indicted/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Рябков: Россия не получала от США предложений Зеленского по урегулированию",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Коммерсант",
-          "lang": "ru",
-          "headline": "Рябков: Россия не получала от США предложений Зеленского по урегулированию",
-          "excerpt": "Рябков: Россия не получала от США предложений Зеленского по урегулированию Американские дипломаты не передавали российской стороне новые предложения президента Украины Владимира Зеленского по завершению конфликта. Об этом заявил замглавы МИД России Сергей Рябков.…",
-          "url": "https://www.kommersant.ru/doc/8878656"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "В МИД заявили, что США не передавали РФ предложения Зеленского по завершению конфликта",
-          "excerpt": "В МИД заявили, что США не передавали РФ предложения Зеленского по завершению конфликта Москва. 13 августа. INTERFAX.RU - США не передавали Москве по дипломатическим каналам предложения украинского президента Владимира Зеленского по поводу завершения конфликта на Украине, заявил в четверг замглавы МИД РФ Сергей Рябков.…",
-          "url": "https://www.interfax.ru/russia/1109072"
+          "headline": "Appeals court dismisses case challenging Alien Enemies Act",
+          "excerpt": "Appeals court dismisses case challenging Alien Enemies Act, does not address question of Trump's use of the wartime law The court dismissed the case because the plaintiffs were deported. A U.S. appeals court has dismissed a case challenging the Trump administration's use of the Alien Enemies Act to deport alleged Venezuelan gang members. The U.S.…",
+          "url": "https://abcnews.com/Politics/appeals-court-dismisses-case-challenging-alien-enemies-act/story?id=135626524"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "coverage": 3,
+      "headline_en": "Mexico says Colombia rejected its earthquake rescue team",
+      "coverage": 2,
       "perspectives": [
-        {
-          "source": "The Guardian",
-          "lang": "en",
-          "headline": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-          "excerpt": "As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections. Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021.…",
-          "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
-        },
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Zambia heads to polls with President Hichilema expected to win second term",
-          "excerpt": "Zambians vote Thursday in a general election widely expected to give President Hakainde Hichilema a second term, as his economic record faces a test from voters frustrated by the cost of living and opposition parties seek to capitalise on discontent despite deep divisions.",
-          "url": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term"
-        },
         {
           "source": "Al Jazeera",
           "lang": "en",
-          "headline": "Polls open in Zambia presidential election as economic reforms tested",
-          "excerpt": "Polls open in Zambia presidential election as economic reforms tested The vote will test if incumbent Hakainde Hichilema’s reforms are enough to overcome widespread frustration with living costs. Polls have opened for Zambia’s presidential election, in which President Hakainde Hichilema is seeking a second term.…",
-          "url": "https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Ars Technica",
-          "lang": "en",
-          "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-          "excerpt": "Google has revealed its Pixel phone hardware for 2026, and you won’t be surprised. The Pixel 11 series looks a lot like last year’s lineup, featuring an evolution of the design Google adopted with the Pixel 9. There are some minor tweaks, a few new hardware goodies, and yes, even more Gemini-powered AI.…",
-          "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/"
+          "headline": "Mexico says Colombia rejected its earthquake rescue team",
+          "excerpt": "Mexico says Colombia rejected its earthquake rescue team Colombia denies politics played a role after Mexico said its military rescuers were refused entry.…",
+          "url": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss"
         },
         {
-          "source": "ZDNet",
+          "source": "DW English",
           "lang": "en",
-          "headline": "Google Pixel Watch 5 vs. Apple Watch Series 11: How Google competes against Apple",
-          "excerpt": "'ZDNET Recommends': What exactly does it mean? ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites.…",
-          "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-apple-watch-series-11/"
-        }
-      ]
-    },
-    {
-      "category": "💡 Tech & AI",
-      "headline_en": "Stocks Edge Higher as Fed Rate-Hike Bets Ease: Markets Wrap",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "lang": "en",
-          "headline": "Stocks Edge Higher as Fed Rate-Hike Bets Ease: Markets Wrap",
-          "excerpt": "Stocks traded close to record highs after a subdued US inflation report reinforced hopes that the Federal Reserve won’t need to raise interest rates next month.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "TD Securities' Brooks on US Inflation, Fed Policy",
-          "excerpt": "Molly Brooks, US Rates Strategist at TD Securities, discusses how the latest US core inflation data is likely to ease pressure on the Federal Reserve to raise interest rates. She speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-13/td-securities-brooks-on-us-inflation-fed-policy-video"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Выручка Nebius Аркадия Воложа выросла на 454% за год — за II квартал компания заработала $582 млн",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "RB.ru",
-          "lang": "ru",
-          "headline": "Выручка Nebius Аркадия Воложа выросла на 454% за год — за II квартал компания заработала $582 млн",
-          "excerpt": "Выручка Nebius Аркадия Воложа выросла на 454% за год — за II квартал компания заработала $582 млн Акции технологической компании на премаркете прибавили 17% Выручка технологической компании Nebius Group N.V. во II квартале 2026-го выросла на 454% год к году — до $582,3 млн, следует из отчётности компании. Показатель превысил ожидания аналитиков, которые прогнозировали $572,75 млн.…",
-          "url": "https://rb.ru/news/vyruchka-nebius-arkadiya-volozha-vyrosla-na-454-za-god-za-ii-kvartal-kompaniya-zarabotala-582-mln/"
-        },
-        {
-          "source": "vc.ru",
-          "lang": "ru",
-          "headline": "Nebius Аркадия Воложа отчиталась за второй квартал: выручка выросла на 454% год к году, до $582,3 млн",
-          "excerpt": "Акции на премаркете растут почти на 17%.Источник: Nebius Nebius Group N.V. поделилась неаудированными финансовыми результатами за второй квартал и первое полугодие, которые завершились 30 июня 2026 года.Квартальная выручка выросла на 454% год к году, до $582,3 млн. Чистый убыток от продолжающейся деятельности составил $190,4 млн против $502,5 млн прибыли годом ранее.…",
-          "url": "https://vc.ru/money/3075317-nebius-otchitalas-o-roste-vyruchki-i-uspehakh-v-oblachnom-biznese?from=rss"
+          "headline": "Colombia earthquake: Rescue operation enters 'final phase'",
+          "excerpt": "Colombia earthquake: Rescue operation enters 'final phase' August 13, 2026 Rescuers worked through a third straight night with time ticking towards the 72-hour mark since a powerful earthquake hit Colombia. That's the period aid agencies consider most critical for finding survivors alive, though it can stretch longer if trapped people have access to food and water.…",
+          "url": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
       "category": "📈 Economy",
-      "headline_en": "Korea Stock Bulls Drive Second Day of Emerging-Market Gains",
+      "headline_en": "Can Dogs Transform Cancer Screening?",
       "coverage": 2,
       "perspectives": [
         {
           "source": "Bloomberg",
           "lang": "en",
-          "headline": "Korea Stock Bulls Drive Second Day of Emerging-Market Gains",
-          "excerpt": "A jump in South Korean stocks drove emerging-market equities higher on Thursday as the revival in the global AI trade pushed Seoul’s Kospi index into a technical bull market.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/korea-stock-bulls-drive-second-day-of-emerging-market-gains"
+          "headline": "Can Dogs Transform Cancer Screening?",
+          "excerpt": "Dogs have been used to sniff out drugs, explosives and even Covid. Could cancer be next? An Indian startup is combining canine noses with AI in an effort to make cancer screening cheaper and more accessible. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-14/can-dogs-transform-cancer-screening-video"
         },
         {
-          "source": "CNBC",
+          "source": "Bloomberg Tech",
           "lang": "en",
-          "headline": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-          "excerpt": "South Korean stocks rallied Thursday, lifting the benchmark Kospi into a technical bull market as a global revival in the AI trade fuels a sharp recovery after last month's historic sell-off. The Kospi jumped over 4% in early trade, taking its rebound from its July 30 low to roughly 23%, data from LSEG showed.…",
-          "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html"
+          "headline": "Indian Startup Leans on Cancer-Sniffing Dogs and AI for Early Detection",
+          "excerpt": "On a two-acre farm outside Bengaluru in southern India, Billy, Jessie and Banu put on their gear, enter a laboratory packed with samples and clock in for a shift detecting early signs of cancer.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-14/indian-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection"
         }
       ]
     },
     {
-      "category": "🌍 World",
-      "headline_en": "Trump's secret plane switch took place within a day of credible missile threat",
+      "category": "💼 Business",
+      "headline_en": "Против комика Долгополова возбудили дело о реабилитации нацизма",
       "coverage": 2,
       "perspectives": [
-        {
-          "source": "CBS News",
-          "lang": "en",
-          "headline": "Trump's secret plane switch took place within a day of credible missile threat",
-          "excerpt": "Trump's secret plane switch took place within a day of credible Iranian missile threat Washington — Last month's elaborate ruse that saw President Trump secretly move from Air Force One to another plane by way of a catering truck took place within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the presidential jet, CBS News has learned.…",
-          "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Trump Breaks Silence on Secret Plane Switch in Turkey Over Possible Iranian Threat",
-          "excerpt": "President Donald Trump has confirmed he secretly switched planes when leaving the NATO summit in Turkey last month in an effort to evade a possible Iranian threat. “It's only up to the Secret Service. I just follow what they'd like to do, so I go by Secret Service and the military,” Trump told reporters late Tuesday at Joint Base Andrews in Maryland.…",
-          "url": "https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Reform UK's Farage and Count Binface go head-to-head in snap UK election",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "France 24",
-          "lang": "en",
-          "headline": "Reform UK's Farage and Count Binface go head-to-head in snap UK election",
-          "excerpt": "Voters cast their ballots on Thursday in a local English election pitting Brexit backer Nigel Farage against a collection of independents, jokers and single-issue candidates,including a comedian dressed as a dustbin, in a test ​of opposition ‌to the Reform UK leader's brand of populist politics.",
-          "url": "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "Introducing Count Binface, Britain's Political Satirist Who Is Standing Against Nigel Farage",
-          "excerpt": "Satirical candidates are a long-standing tradition in British politics. When former Prime Minister Keir Starmer delivered a victory speech after winning his north London seat in the 2024 General Election, he was flanked by someone in an Elmo costume and a man wearing a laboratory coat and a comically large hat.…",
-          "url": "https://time.com/article/2026/08/12/count-binface-interview-nigel-farage-british-politics-clacton-byelection/"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "В Севастополе при детонации средства поражения ВСУ погибли пять человек",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "РИА Новости",
-          "lang": "ru",
-          "headline": "В Севастополе при детонации средства поражения ВСУ погибли пять человек",
-          "excerpt": "В Севастополе при осмотре территории после атаки ВСУ произошла детонация взрывного устройства. Погибли четверо пиротехников МЧС и один охранник. СЕВАСТОПОЛЬ, 13 авг - РИА Новости. Пиротехники МЧС погибли из-за детонации взрывного устройства при осмотре территории после атаки ВСУ в Севастополе, сообщил губернатор Михаил Развожаев.…",
-          "url": "https://ria.ru/20260813/detonatsiya-2110655562.html"
-        },
         {
           "source": "Ведомости",
           "lang": "ru",
-          "headline": "Пять человек погибли при разминировании в Севастополе",
-          "excerpt": "Пять человек погибли при разминировании в Севастополе Четверо пиротехников МЧС и охранник погибли при разминировании боеприпасов ВСУ в Севастополе. Об этом сообщил губернатор Михаил Развожаев. RTSI855,12-2,11%↓RGBI115,27-0,25%↓CNY Бирж.12,435+1,11%↑IMOEX2 252,95-2,11%↓RGBITR777,69-0,21%↓",
-          "url": "https://www.vedomosti.ru/society/news/2026/08/13/1220875-pyat-chelovek-pogibli"
+          "headline": "Против комика Долгополова возбудили дело о реабилитации нацизма",
+          "excerpt": "Против комика Долгополова возбудили дело о реабилитации нацизма В отношении стендап-комика Александра Долгополова возбуждено уголовное дело по статье о реабилитации нацизма. Об этом свидетельствуют данные картотеки Таганского суда Москвы. Следствие обратилось в суд с ходатайством о заочном аресте Долгополова по ч. 4 ст. 354.1 УК РФ.…",
+          "url": "https://www.vedomosti.ru/society/news/2026/08/13/1221002-protiv-dolgopolova"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "На комика Сашу Долгополова завели дело о реабилитации нацизма",
+          "excerpt": "На комика Сашу Долгополова завели дело о реабилитации нацизма Обновлено. Таганский суд арестовал Сашу Долгополова в заочном порядке. В Таганский суд Москвы поступило ходатайство о заочном аресте комика Саши Долгополова, пишет «Медиазона». Дело против него возбуждено по статье о реабилитации нацизма. Ранее такое дело требовала завести прокуратура.…",
+          "url": "https://meduza.io/news/2026/08/13/na-komika-sashu-dolgopolova-zaveli-delo-o-reabilitatsii-natsizma"
         }
       ]
     },
     {
       "category": "🌍 World",
-      "headline_en": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "headline_en": "Three men will be executed on the same day as death penalties rise in US",
       "coverage": 2,
       "perspectives": [
         {
           "source": "BBC World",
           "lang": "en",
-          "headline": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-          "excerpt": "Ebola outbreak on track to be deadliest ever, WHO chief says - Published The current outbreak of Ebola in the Democratic Republic of Congo is on track to surpass the deadliest outbreak of the disease ever, the director-general of the World Health Organization (WHO) has said.…",
-          "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
+          "headline": "Three men will be executed on the same day as death penalties rise in US",
+          "excerpt": "Three men will be executed on the same day as death penalties rise in US - Published It's been 16 years since three people were executed on the same day in the US, but later on Thursday, three men convicted of murder in different US states will all face the death penalty.…",
+          "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Euronews",
           "lang": "en",
-          "headline": "Congo’s Ebola outbreak on track to surpass deadliest in history, WHO chief says",
-          "excerpt": "“At its current pace, it’s on track to eclipse the West African Ebola outbreak of 2014 to 2016,” WHO chief Tedros Adhanom Ghebreyesus told reporters on Wednesday.…",
-          "url": "http://www.euronews.com/2026/08/13/congos-ebola-outbreak-on-track-to-surpass-deadliest-in-history-who-chief-says"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "India: Data centers boom as water supply runs low",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "India: Data centers boom as water supply runs low",
-          "excerpt": "India: Data centers boom as water supply runs low August 12, 2026 Residents of Khora, a densely populated area in the city of Ghaziabad, just outside New Delhi, have long struggled to obtain a reliable water supply. \"We are dependent on groundwater. In some parts, one has to dig 1,000-1,200 feet (305-366 meters) to extract water,\" said Deepak Joshi, president of the Khora Residents' Association.…",
-          "url": "https://www.dw.com/en/india-data-centers-boom-as-water-supply-runs-low/a-78335533?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "lang": "en",
-          "headline": "Can India Power the AI Boom?",
-          "excerpt": "As AI adoption accelerates, India could see a sharp increase in power demand from data centers. On the Emerging podcast, Tata Power CEO Praveer Sinha and India Energy & Climate Center's Mohit Bhargava discuss whether India is in for a grid shock. (Source: Bloomberg)",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-13/can-india-power-the-ai-boom-video"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "lang": "en",
-          "headline": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-          "excerpt": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February. Russian forces have struck Ukraine’s Izmail port in southern Odesa, setting off a fire, authorities said, a day after Kyiv pounded Russia’s Novorossiysk port.…",
-          "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "lang": "en",
-          "headline": "Short on US Patriot missiles, Ukraine looks for alternatives",
-          "excerpt": "Short on US Patriot missiles, Ukraine looks for alternatives August 12, 2026 Russia is increasingly relying on ballistic missiles for its attacks on Ukraine — precisely the weapons that Ukraine's armed forces depend heavily on Western support to ward off. However, the crucial US-produced Patriot interceptor missiles are often in short supply.…",
-          "url": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "category": "🌍 World",
-      "headline_en": "На Трампа подали в суд из-за платного доступа к его постам",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Meduza",
-          "lang": "ru",
-          "headline": "На Трампа подали в суд из-за платного доступа к его постам",
-          "excerpt": "На Трампа подали в суд из-за платного доступа к его постам Издание The Intercept и некоммерческая организация Freedom of the Press Foundation подали в суд на президента США Дональда Трампа. Они требуют заблокировать платный сервис Truth API, который дает ранний доступ к публикациям Трампа в соцсети Truth Social. Об этом сообщает CNBC.…",
-          "url": "https://meduza.io/news/2026/08/13/na-trampa-podali-v-sud-iz-za-platnogo-dostupa-k-ego-postam"
-        },
-        {
-          "source": "Interfax",
-          "lang": "ru",
-          "headline": "К Трампу подали иск для блокировки платного доступа к его постам в Truth Social",
-          "excerpt": "К Трампу подали иск для блокировки платного доступа к его постам в Truth Social Москва. 13 августа. INTERFAX.RU - Издание The Intercept Media и некоммерческая организация Freedom of the Press Foundation подали иск против президента США Дональда Трампа, добиваясь блокировки платной услуги мгновенного доступа к его постам в соцсети Truth Social, сообщает CNBC.…",
-          "url": "https://www.interfax.ru/world/1109080"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Iron Vs Carbon: Funds Surge For Makers Of Batteries That Store Power For Days",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Forbes",
-          "lang": "en",
-          "headline": "Iron Vs Carbon: Funds Surge For Makers Of Batteries That Store Power For Days",
-          "excerpt": "Form Energy, which makes iron-based batteries to hold electricity for days, said it raised $750 million to expand production. That follows a $550 million raise by rival Antora, which snagged the same amount to accelerate production of its thermal batteries made from carbon blocks that also hold power for at least 100 hours. Unsurprisingly, data center power demand underpins the investment spike.…",
-          "url": "https://www.forbes.com/sites/alanohnsman/2026/08/12/iron-vs-carbon-funds-surge-for-makers-of-batteries-that-store-power-for-days/"
-        },
-        {
-          "source": "TechCrunch",
-          "lang": "en",
-          "headline": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-          "excerpt": "Battery startup Form Energy said on Wednesday that it has raised $750 million to expand its manufacturing capacity in West Virginia, the latest sign that the AI data center building boom is fueling investment in energy storage. The U.S. installed 9.7 gigawatt-hours of energy storage in the first three months of this year, up 32% from 2025.…",
-          "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/"
-        }
-      ]
-    },
-    {
-      "category": "💼 Business",
-      "headline_en": "Trump’s order on vaccines is a win for MAHA voters and an attack line for Democrats",
-      "coverage": 2,
-      "perspectives": [
-        {
-          "source": "Fast Company",
-          "lang": "en",
-          "headline": "Trump’s order on vaccines is a win for MAHA voters and an attack line for Democrats",
-          "excerpt": "President Donald Trump pivoted the nation&#8217;s attention back to vaccines this week with an executive order that aims to scale back the childhood immunization schedule and space out shots into separate visits.…",
-          "url": "https://www.fastcompany.com/91589062/trumps-order-vaccines-win-maha-voters-attack-line-democrats"
-        },
-        {
-          "source": "Time",
-          "lang": "en",
-          "headline": "What Trump’s Executive Order Could Mean for Childhood Vaccines",
-          "excerpt": "President Donald Trump has again taken aim at vaccines—this time in a new executive order. The directive, which Trump signed in the Oval Office on Aug. 10, calls for U.S. children to receive fewer vaccines and urges states to reconsider which vaccines they require for school attendance. It also directs the U.S.…",
-          "url": "https://time.com/article/2026/08/12/what-trump-executive-order-could-mean-for-childhood-vaccines/"
+          "headline": "France accues Iran of 'bloodshed' over use of death penalty",
+          "excerpt": "After a statement condemning Iran's use of the death penalty, tensions rose between senior diplomats. Paris accused Tehran of 'bloodshed' and Iran called France's stance 'blatant hypocrisy.' Following the publication of an international statement condemning the use of the death penalty in Iran, a war of words escalated between senior French and Iranian diplomatic officials.…",
+          "url": "http://www.euronews.com/2026/08/13/france-accues-iran-of-bloodshed-over-use-of-death-penalty"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Amazon gets out of the MMO game",
+      "headline_en": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
       "coverage": 2,
       "perspectives": [
         {
           "source": "The Verge",
           "lang": "en",
-          "headline": "Amazon gets out of the MMO game",
-          "excerpt": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting “a significant amount” of its work on first-party AAA games, “specifically around MMOs,” Amazon will be handing over live operations of Throne and Liberty and Lost Ark in the West to other companies, according to announcements on Wednesday.…",
-          "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations"
+          "headline": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+          "excerpt": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring — as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He’s going to try to make them cost a lot more.…",
+          "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts"
         },
         {
-          "source": "Engadget",
+          "source": "France 24",
           "lang": "en",
-          "headline": "Amazon is severing ties with two other MMOs",
-          "excerpt": "Amazon is severing ties with two other MMOs The company is handing off Lost Ark and Throne and Liberty to other publishers. After announcing plans to wind down its MMO New World: Aeternum in October 2025, Amazon has shared that it'll also no longer publish MMOs Lost Ark and Throne and Liberty in the west, according to PC Gamer.…",
-          "url": "https://www.engadget.com/2235700/amazon-is-severing-ties-with-two-other-mmos/"
+          "headline": "Donald Trump imposes tariffs of up to 100% on imported drones",
+          "excerpt": "Donald Trump imposes tariffs of up to 100% on imported drones President Donald Trump on Thursday imposed tariffs of up to 100% on imported drones and components, including from key US allies, citing national security concerns and a need to reduce US reliance on foreign suppliers. The measures will take effect in 21 days.…",
+          "url": "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones"
         }
       ]
     },
     {
       "category": "💡 Tech & AI",
-      "headline_en": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "headline_en": "Writer introduces new AI model and upgraded harness to contain token costs",
       "coverage": 2,
       "perspectives": [
         {
-          "source": "Ars Technica",
+          "source": "TechCrunch",
           "lang": "en",
-          "headline": "Two hydrogen-burning engines powered this car to a new land speed record",
-          "excerpt": "It’s been far too long since I’ve been able to report a new land speed record. For a while, it looked like Bloodhound might have been able to make good on its 1,000 mph (1,609 km/h) attempt, but then the money ran out. As a result, Thrust SSC’s two-way average of 763.6 mph (1,229 km/h), set in 1997, remains the fastest anyone has ever driven a wheeled vehicle over a timed mile.…",
-          "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/"
+          "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "excerpt": "Across the AI industry, users are becoming more conscious of just how expensive their deployments can be —and feeling a new urgency to cut costs. But while open source models offer significantly lower per-token costs, it can be difficult to find the right model for a given job.…",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
         },
         {
-          "source": "ABC News",
+          "source": "VentureBeat",
           "lang": "en",
-          "headline": "WATCH:  Driver hits 406 mph in new land-speed record",
-          "excerpt": "ABC News Live Video Local News Shows Good Morning America ShopGMA Interest Successfully Added We'll notify you here with news about Turn on desktop notifications for breaking stories about interest? Off On Stream on Live Updates Live Updates Iran Powerball winner Solar eclipse Apache crash Lindsay Clancy Karoline Leavitt Nick Reiner Kennedy Center Driver hits 406 mph in new land-speed record Andy …",
-          "url": "https://abcnews.com/video/135570227/"
+          "headline": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+          "excerpt": "Writer , the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration &quot;harness&quot; and new governance tools designed to give IT leaders control over runaway token spending.…",
+          "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges"
+        }
+      ]
+    },
+    {
+      "category": "💼 Business",
+      "headline_en": "Ангелина Мельникова выиграла золото ЧЕ по спортивной гимнастике в многоборье",
+      "coverage": 2,
+      "perspectives": [
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Ангелина Мельникова выиграла золото ЧЕ по спортивной гимнастике в многоборье",
+          "excerpt": "Ангелина Мельникова выиграла золото ЧЕ по спортивной гимнастике в многоборье Олимпийская чемпионка России Ангелина Мельникова завоевала золото чемпионата Европы по спортивной гимнастике в личном многоборье. Соревнования проходят в Загребе, сообщил «Чемпионат». Мельникова набрала по итогам выступления 55,932 балла. Второе место заняла россиянка Анна Калмыкова, получившая 54,632 балла.…",
+          "url": "https://www.vedomosti.ru/lifestyle/news/2026/08/13/1221051-mnogobore-chempionate-evropi"
+        },
+        {
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Ангелина Мельникова стала чемпионкой Европы по спортивной гимнастике. Россияне выступили на этом турнире впервые за пять лет",
+          "excerpt": "Ангелина Мельникова стала чемпионкой Европы по спортивной гимнастике. Россияне выступили на этом турнире впервые за пять лет Российская гимнастка Ангелина Мельникова стала чемпионкой Европы-2026 в личном многоборье. Она набрала 55,932 балла на турнире по спортивной гимнастике в Хорватии. Второе место заняла еще одна россиянка Анна Калмыкова (54,632).…",
+          "url": "https://meduza.io/news/2026/08/13/angelina-melnikova-stala-chempionkoy-evropy-po-sportivnoy-gimnastike-rossiyane-vystupili-na-etom-turnire-vpervye-za-pyat-let"
         }
       ]
     }
