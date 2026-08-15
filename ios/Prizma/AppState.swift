@@ -62,10 +62,13 @@ final class AppState: ObservableObject {
         hiddenSources = Set(defaults.stringArray(forKey: "hiddenSources") ?? [])
         readIDs = Set(defaults.stringArray(forKey: "readIDs") ?? [])
         followedTopics = defaults.stringArray(forKey: "followedTopics") ?? []
-        // Миграция: если сохранён старый URL по умолчанию — заменяем на новый
+        // Миграция: если сохранён один из старых URL по умолчанию — заменяем
         let storedURL = defaults.string(forKey: "feedURL")
-        feedURL = (storedURL == nil || storedURL == NewsService.legacyFeedURL)
-            ? NewsService.defaultFeedURL : storedURL!
+        if let stored = storedURL, !NewsService.legacyFeedURLs.contains(stored) {
+            feedURL = stored
+        } else {
+            feedURL = NewsService.defaultFeedURL
+        }
         hasOnboarded = defaults.bool(forKey: "hasOnboarded")
         appTheme = defaults.string(forKey: "appTheme") ?? "dark"
         notifyEnabled = defaults.bool(forKey: "notifyEnabled")
