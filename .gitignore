@@ -9,3 +9,9 @@ build/
 __pycache__/
 *.pyc
 .venv/
+
+# Android / Gradle
+.gradle/
+local.properties
+*.apk
+!android/keystore/*.p12
