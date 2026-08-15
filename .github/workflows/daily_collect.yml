@@ -2,7 +2,9 @@ name: Collect News Data
 
 on:
   schedule:
-    - cron: "30 3 * * *"
+    # Дважды в день: утро и вечер по Москве (04:30 и 14:30 UTC)
+    - cron: "30 4 * * *"
+    - cron: "30 14 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,7 +13,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
       - name: Checkout repository
@@ -23,50 +25,23 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install feedparser trafilatura requests scikit-learn nltk duckduckgo-search
+        run: pip install -r requirements.txt
 
       - name: Collect and cluster news
         env:
-          MAX_STORIES: "40"
+          MAX_STORIES: "60"
           HOURS_BACK:  "36"
+          RU_SHARE:    "0.6"
+          # AI-саммари и перевод (необязательно): добавьте секрет OPENAI_API_KEY
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL:   "gpt-4o-mini"
         run: python collect_news.py
-
-      - name: Generate compact JSON for API fetching
-        run: |
-          python3 - << 'PYEOF'
-          import json, os
-          with open("news_data.json") as f:
-              data = json.load(f)
-          compact_stories = []
-          for s in data["stories"]:
-              compact_stories.append({
-                  "category": s["category"],
-                  "headline_en": s["headline_en"],
-                  "perspectives": [
-                      {
-                          "source": p["source"],
-                          "excerpt": p["excerpt"][:150] if p.get("excerpt") else "",
-                          "url": p.get("url", ""),
-                          "lang": p.get("lang", "en"),
-                      }
-                      for p in s["perspectives"]
-                  ],
-              })
-          compact = {
-              "collected_at": data["collected_at"],
-              "story_count": len(data["stories"]),
-              "stories": compact_stories,
-          }
-          with open("news_compact.json", "w") as f:
-              json.dump(compact, f, ensure_ascii=False, separators=(",", ":"))
-          size = os.path.getsize("news_compact.json")
-          print(f"news_compact.json: {len(data['stories'])} stories, {size} bytes")
-          PYEOF
 
       - name: Commit news data to repo
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
+          git pull --rebase origin ${GITHUB_REF_NAME} || true
           git add news_data.json news_compact.json
-          git diff --staged --quiet || git commit -m "📰 Daily news data $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "📰 News data $(date -u +'%Y-%m-%d %H:%M')"
           git push

@@ -1,0 +1,60 @@
+name: iOS Build
+
+on:
+  push:
+    paths:
+      - "ios/**"
+      - "ci/**"
+      - ".github/workflows/ios_build.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show Xcode version
+        run: xcodebuild -version
+
+      - name: Unit checks (модели, старый и новый формат JSON, закладки)
+        run: |
+          swiftc -parse-as-library -o /tmp/decode_test ios/Prizma/Models.swift ios/Prizma/Personalization.swift ci/DecodeTest.swift
+          /tmp/decode_test news_data.json
+
+      - name: Build app for iOS Simulator
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project ios/Prizma.xcodeproj \
+            -scheme Prizma \
+            -configuration Debug \
+            -destination 'generic/platform=iOS Simulator' \
+            CODE_SIGNING_ALLOWED=NO \
+            build
+
+      - name: Build unsigned IPA (установка на iPhone через Sideloadly/AltStore)
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project ios/Prizma.xcodeproj \
+            -scheme Prizma \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath /tmp/PrizmaDD \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            build
+          mkdir -p /tmp/ipa/Payload
+          cp -R /tmp/PrizmaDD/Build/Products/Release-iphoneos/Prizma.app /tmp/ipa/Payload/
+          cd /tmp/ipa && zip -qry Prizma-unsigned.ipa Payload
+          ls -la /tmp/ipa/Prizma-unsigned.ipa
+
+      - name: Upload IPA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Prizma-unsigned-ipa
+          path: /tmp/ipa/Prizma-unsigned.ipa
+          retention-days: 30
