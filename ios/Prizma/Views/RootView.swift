@@ -1,6 +1,8 @@
 import SwiftUI
 
 struct RootView: View {
+    @EnvironmentObject private var state: AppState
+
     var body: some View {
         TabView {
             FeedView()
@@ -11,6 +13,12 @@ struct RootView: View {
                 .tabItem { Label("Настройки", systemImage: "gearshape.fill") }
         }
         .tint(Theme.accent)
+        .fullScreenCover(isPresented: Binding(
+            get: { !state.hasOnboarded },
+            set: { presented in if !presented { state.hasOnboarded = true } }
+        )) {
+            OnboardingView()
+        }
     }
 }
 

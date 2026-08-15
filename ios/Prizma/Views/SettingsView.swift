@@ -8,12 +8,14 @@ struct SettingsView: View {
         NavigationStack {
             Form {
                 Section("Лента") {
-                    Toggle("Только русскоязычные сюжеты", isOn: $state.russianOnly)
+                    Toggle(isOn: $state.russianOnly) {
+                        settingsRow("globe", .blue, "Только русскоязычные сюжеты")
+                    }
                     NavigationLink {
                         TopicsView()
                     } label: {
                         HStack {
-                            Text("Мои темы")
+                            settingsRow("number", .orange, "Мои темы")
                             Spacer()
                             if !state.followedTopics.isEmpty {
                                 Text("\(state.followedTopics.count)")
@@ -25,7 +27,7 @@ struct SettingsView: View {
                         SourcesView()
                     } label: {
                         HStack {
-                            Text("Источники")
+                            settingsRow("square.stack.3d.up.fill", Theme.accent, "Источники")
                             Spacer()
                             if !state.hiddenSources.isEmpty {
                                 Text("скрыто: \(state.hiddenSources.count)")
@@ -36,7 +38,9 @@ struct SettingsView: View {
                 }
 
                 Section {
-                    Toggle("Ежедневное напоминание", isOn: $state.notifyEnabled)
+                    Toggle(isOn: $state.notifyEnabled) {
+                        settingsRow("bell.badge.fill", .red, "Ежедневное напоминание")
+                    }
                     if state.notifyEnabled {
                         DatePicker("Время", selection: $state.notifyTime,
                                    displayedComponents: .hourAndMinute)
@@ -89,6 +93,17 @@ struct SettingsView: View {
                 }
             }
             .navigationTitle("Настройки")
+        }
+    }
+
+    private func settingsRow(_ symbol: String, _ color: Color, _ title: String) -> some View {
+        HStack(spacing: 12) {
+            Image(systemName: symbol)
+                .font(.footnote.weight(.semibold))
+                .foregroundStyle(.white)
+                .frame(width: 28, height: 28)
+                .background(color, in: RoundedRectangle(cornerRadius: 7))
+            Text(title)
         }
     }
 

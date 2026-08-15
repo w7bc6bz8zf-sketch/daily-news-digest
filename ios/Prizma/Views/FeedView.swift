@@ -42,16 +42,27 @@ struct FeedView: View {
         .tint(Theme.accent)
     }
 
+    /// Топ-3 сюжета с фото — в карусель, остальные — списком
+    private var featuredStories: [Story] {
+        Array(state.displayedStories.filter { !$0.image.isEmpty }.prefix(3))
+    }
+
+    private var listStories: [Story] {
+        let featuredIDs = Set(featuredStories.map(\.id))
+        return state.displayedStories.filter { !featuredIDs.contains($0.id) }
+    }
+
     private var feedList: some View {
         List {
             Section {
-                ForEach(Array(state.displayedStories.enumerated()), id: \.element.id) { index, story in
+                if !featuredStories.isEmpty {
+                    FeaturedCarousel(stories: featuredStories)
+                        .listRowInsets(EdgeInsets(top: 2, leading: 0, bottom: 6, trailing: 0))
+                        .listRowSeparator(.hidden)
+                }
+                ForEach(listStories) { story in
                     NavigationLink(value: story) {
-                        if index == 0 && !story.image.isEmpty {
-                            FeaturedStoryCard(story: story)
-                        } else {
-                            StoryCard(story: story)
-                        }
+                        StoryCard(story: story)
                     }
                     .listRowInsets(EdgeInsets(top: 6, leading: 16, bottom: 6, trailing: 16))
                 }

@@ -35,6 +35,9 @@ final class AppState: ObservableObject {
     @Published var feedURL: String { didSet { defaults.set(feedURL, forKey: "feedURL") } }
     private(set) var profile: InterestProfile
 
+    // Онбординг
+    @Published var hasOnboarded: Bool { didSet { defaults.set(hasOnboarded, forKey: "hasOnboarded") } }
+
     // Уведомления
     @Published var notifyEnabled: Bool { didSet { defaults.set(notifyEnabled, forKey: "notifyEnabled") } }
     @Published var notifyTime: Date { didSet { defaults.set(notifyTime.timeIntervalSince1970, forKey: "notifyTime") } }
@@ -52,6 +55,7 @@ final class AppState: ObservableObject {
         let storedURL = defaults.string(forKey: "feedURL")
         feedURL = (storedURL == nil || storedURL == NewsService.legacyFeedURL)
             ? NewsService.defaultFeedURL : storedURL!
+        hasOnboarded = defaults.bool(forKey: "hasOnboarded")
         notifyEnabled = defaults.bool(forKey: "notifyEnabled")
         let t = defaults.double(forKey: "notifyTime")
         notifyTime = t > 0 ? Date(timeIntervalSince1970: t)
