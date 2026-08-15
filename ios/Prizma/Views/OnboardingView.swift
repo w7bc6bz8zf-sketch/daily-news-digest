@@ -45,9 +45,7 @@ struct OnboardingView: View {
                         }
                     }
                 }
-                .padding(16)
-                .background(Color(.secondarySystemBackground),
-                            in: RoundedRectangle(cornerRadius: 18))
+                .prizmaCard(padding: 16)
 
                 Toggle(isOn: $state.russianOnly) {
                     VStack(alignment: .leading, spacing: 2) {
@@ -58,9 +56,7 @@ struct OnboardingView: View {
                             .foregroundStyle(.secondary)
                     }
                 }
-                .padding(16)
-                .background(Color(.secondarySystemBackground),
-                            in: RoundedRectangle(cornerRadius: 18))
+                .prizmaCard(padding: 16)
 
                 Button {
                     withAnimation { state.hasOnboarded = true }
@@ -76,7 +72,7 @@ struct OnboardingView: View {
             }
             .padding(.horizontal, 22)
         }
-        .background(Color(.systemBackground))
+        .background(Theme.background)
     }
 
     private func topicChip(_ topic: String) -> some View {
@@ -101,7 +97,7 @@ struct OnboardingView: View {
                 if isOn {
                     Capsule().fill(Theme.prism)
                 } else {
-                    Capsule().fill(Color(.tertiarySystemBackground))
+                    Capsule().fill(Theme.chip)
                 }
             }
             .foregroundStyle(isOn ? .white : .primary)

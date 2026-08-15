@@ -20,6 +20,8 @@ struct FeedView: View {
                     feedList
                 }
             }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(Theme.background)
             .navigationTitle("Призма")
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
@@ -59,12 +61,15 @@ struct FeedView: View {
                     FeaturedCarousel(stories: featuredStories)
                         .listRowInsets(EdgeInsets(top: 2, leading: 0, bottom: 6, trailing: 0))
                         .listRowSeparator(.hidden)
+                        .listRowBackground(Color.clear)
                 }
                 ForEach(listStories) { story in
                     NavigationLink(value: story) {
                         StoryCard(story: story)
                     }
                     .listRowInsets(EdgeInsets(top: 6, leading: 16, bottom: 6, trailing: 16))
+                    .listRowSeparator(.hidden)
+                    .listRowBackground(Color.clear)
                 }
             } header: {
                 VStack(alignment: .leading, spacing: 10) {
@@ -90,6 +95,7 @@ struct FeedView: View {
             }
         }
         .listStyle(.plain)
+        .scrollContentBackground(.hidden)
         .overlay {
             if state.displayedStories.isEmpty && !state.stories.isEmpty {
                 ContentUnavailableView(
@@ -126,7 +132,7 @@ struct FeedView: View {
                     if isSelected {
                         Capsule().fill(Theme.prism)
                     } else {
-                        Capsule().fill(Color(.secondarySystemBackground))
+                        Capsule().fill(Theme.chip)
                     }
                 }
                 .foregroundStyle(isSelected ? .white : .primary)

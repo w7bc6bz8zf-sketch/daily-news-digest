@@ -54,6 +54,7 @@ struct StoryDetailView: View {
             }
             .padding(16)
         }
+        .background(Theme.background)
         .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             ToolbarItemGroup(placement: .topBarTrailing) {
@@ -174,8 +175,6 @@ private struct PerspectiveCard: View {
                 }
             }
         }
-        .padding(14)
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 16))
+        .prizmaCard()
     }
 }

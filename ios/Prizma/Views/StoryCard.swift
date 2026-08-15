@@ -59,7 +59,7 @@ struct StoryCard: View {
                     )
             }
         }
-        .padding(.vertical, 4)
+        .prizmaCard(padding: 12)
     }
 }
 

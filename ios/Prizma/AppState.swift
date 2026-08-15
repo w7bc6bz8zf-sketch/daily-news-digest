@@ -38,6 +38,17 @@ final class AppState: ObservableObject {
     // Онбординг
     @Published var hasOnboarded: Bool { didSet { defaults.set(hasOnboarded, forKey: "hasOnboarded") } }
 
+    // Тема оформления: dark (фирменная, по умолчанию) / light / system
+    @Published var appTheme: String { didSet { defaults.set(appTheme, forKey: "appTheme") } }
+
+    var preferredColorScheme: ColorScheme? {
+        switch appTheme {
+        case "dark":  .dark
+        case "light": .light
+        default:      nil
+        }
+    }
+
     // Уведомления
     @Published var notifyEnabled: Bool { didSet { defaults.set(notifyEnabled, forKey: "notifyEnabled") } }
     @Published var notifyTime: Date { didSet { defaults.set(notifyTime.timeIntervalSince1970, forKey: "notifyTime") } }
@@ -56,6 +67,7 @@ final class AppState: ObservableObject {
         feedURL = (storedURL == nil || storedURL == NewsService.legacyFeedURL)
             ? NewsService.defaultFeedURL : storedURL!
         hasOnboarded = defaults.bool(forKey: "hasOnboarded")
+        appTheme = defaults.string(forKey: "appTheme") ?? "dark"
         notifyEnabled = defaults.bool(forKey: "notifyEnabled")
         let t = defaults.double(forKey: "notifyTime")
         notifyTime = t > 0 ? Date(timeIntervalSince1970: t)

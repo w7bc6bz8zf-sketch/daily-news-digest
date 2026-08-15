@@ -5,8 +5,45 @@ import SwiftUI
 // раскладывает новость на перспективы разных изданий.
 
 enum Theme {
-    /// Фирменный акцент — глубокий индиго
-    static let accent = Color(red: 0.40, green: 0.35, blue: 0.90)
+    /// Фирменный акцент: в тёмной теме ярче, чтобы светился на глубоком фоне
+    static let accent = Color(uiColor: UIColor { trait in
+        trait.userInterfaceStyle == .dark
+            ? UIColor(red: 0.58, green: 0.52, blue: 1.00, alpha: 1)
+            : UIColor(red: 0.40, green: 0.35, blue: 0.90, alpha: 1)
+    })
+
+    // Поверхности: тёмная тема — фирменный «космос», светлая — мягкая лаванда
+    static let bgTop = Color(uiColor: UIColor { trait in
+        trait.userInterfaceStyle == .dark
+            ? UIColor(red: 0.055, green: 0.045, blue: 0.130, alpha: 1)
+            : UIColor(red: 0.965, green: 0.955, blue: 0.995, alpha: 1)
+    })
+    static let bgBottom = Color(uiColor: UIColor { trait in
+        trait.userInterfaceStyle == .dark
+            ? UIColor(red: 0.110, green: 0.080, blue: 0.215, alpha: 1)
+            : UIColor(red: 0.925, green: 0.925, blue: 0.985, alpha: 1)
+    })
+    static let card = Color(uiColor: UIColor { trait in
+        trait.userInterfaceStyle == .dark
+            ? UIColor(red: 0.140, green: 0.115, blue: 0.245, alpha: 1)
+            : UIColor.white
+    })
+    static let cardStroke = Color(uiColor: UIColor { trait in
+        trait.userInterfaceStyle == .dark
+            ? UIColor(white: 1, alpha: 0.09)
+            : UIColor(white: 0, alpha: 0.05)
+    })
+    static let chip = Color(uiColor: UIColor { trait in
+        trait.userInterfaceStyle == .dark
+            ? UIColor(red: 0.185, green: 0.160, blue: 0.310, alpha: 1)
+            : UIColor(red: 0.905, green: 0.900, blue: 0.960, alpha: 1)
+    })
+
+    /// Градиентный фон всех экранов
+    static var background: some View {
+        LinearGradient(colors: [bgTop, bgBottom], startPoint: .top, endPoint: .bottom)
+            .ignoresSafeArea()
+    }
 
     /// Спектральный градиент призмы — для выделенных элементов
     static let prism = LinearGradient(
@@ -32,6 +69,29 @@ enum Theme {
 
     static func color(for category: String) -> Color {
         categoryColors[category] ?? .gray
+    }
+}
+
+// MARK: - Карточка-поверхность
+
+struct PrizmaCard: ViewModifier {
+    var padding: CGFloat
+
+    func body(content: Content) -> some View {
+        content
+            .padding(padding)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .background(Theme.card, in: RoundedRectangle(cornerRadius: 18))
+            .overlay(
+                RoundedRectangle(cornerRadius: 18)
+                    .strokeBorder(Theme.cardStroke, lineWidth: 1)
+            )
+    }
+}
+
+extension View {
+    func prizmaCard(padding: CGFloat = 14) -> some View {
+        modifier(PrizmaCard(padding: padding))
     }
 }
 

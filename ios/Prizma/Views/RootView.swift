@@ -13,6 +13,7 @@ struct RootView: View {
                 .tabItem { Label("Настройки", systemImage: "gearshape.fill") }
         }
         .tint(Theme.accent)
+        .preferredColorScheme(state.preferredColorScheme)
         .fullScreenCover(isPresented: Binding(
             get: { !state.hasOnboarded },
             set: { presented in if !presented { state.hasOnboarded = true } }

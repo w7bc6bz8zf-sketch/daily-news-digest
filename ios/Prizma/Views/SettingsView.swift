@@ -7,6 +7,17 @@ struct SettingsView: View {
     var body: some View {
         NavigationStack {
             Form {
+                Section("Оформление") {
+                    Picker(selection: $state.appTheme) {
+                        Text("Тёмная").tag("dark")
+                        Text("Светлая").tag("light")
+                        Text("Как в системе").tag("system")
+                    } label: {
+                        settingsRow("circle.lefthalf.filled", .purple, "Тема")
+                    }
+                }
+                .listRowBackground(Theme.card)
+
                 Section("Лента") {
                     Toggle(isOn: $state.russianOnly) {
                         settingsRow("globe", .blue, "Только русскоязычные сюжеты")
@@ -36,6 +47,7 @@ struct SettingsView: View {
                         }
                     }
                 }
+                .listRowBackground(Theme.card)
 
                 Section {
                     Toggle(isOn: $state.notifyEnabled) {
@@ -55,6 +67,7 @@ struct SettingsView: View {
                         Text("Локальное напоминание о свежем дайджесте — сервер не используется.")
                     }
                 }
+                .listRowBackground(Theme.card)
                 .onChange(of: state.notifyEnabled) { applyNotifications() }
                 .onChange(of: state.notifyTime) { applyNotifications() }
 
@@ -71,6 +84,7 @@ struct SettingsView: View {
                 } footer: {
                     Text("Лента собирается автоматически дважды в день из 80+ изданий: русскоязычные источники в приоритете, каждый сюжет — с перспективами нескольких изданий.")
                 }
+                .listRowBackground(Theme.card)
 
                 Section("О приложении") {
                     LabeledContent("Призма", value: "1.0")
@@ -79,6 +93,7 @@ struct SettingsView: View {
                         LabeledContent("Обновлено", value: DateParser.relative(date))
                     }
                 }
+                .listRowBackground(Theme.card)
 
                 Section {
                     Button("Отметить всё прочитанным") {
@@ -91,7 +106,10 @@ struct SettingsView: View {
                         state.readIDs.removeAll()
                     }
                 }
+                .listRowBackground(Theme.card)
             }
+            .scrollContentBackground(.hidden)
+            .background(Theme.background)
             .navigationTitle("Настройки")
         }
     }
@@ -144,6 +162,7 @@ struct TopicsView: View {
             } footer: {
                 Text("Сюжеты с этими словами поднимаются в ленте «Для вас» и помечаются оранжевой меткой.")
             }
+            .listRowBackground(Theme.card)
 
             if !state.followedTopics.isEmpty {
                 Section("Вы следите") {
@@ -156,6 +175,7 @@ struct TopicsView: View {
                         }
                     }
                 }
+                .listRowBackground(Theme.card)
             }
 
             Section("Популярные темы") {
@@ -169,7 +189,10 @@ struct TopicsView: View {
                     }
                 }
             }
+            .listRowBackground(Theme.card)
         }
+        .scrollContentBackground(.hidden)
+        .background(Theme.background)
         .navigationTitle("Мои темы")
     }
 
@@ -199,7 +222,10 @@ struct SourcesView: View {
             } footer: {
                 Text("Выключенный источник не показывается в ленте. Сюжет скрывается, только если выключены все его источники.")
             }
+            .listRowBackground(Theme.card)
         }
+        .scrollContentBackground(.hidden)
+        .background(Theme.background)
         .navigationTitle("Источники")
     }
 }

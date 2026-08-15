@@ -18,14 +18,20 @@ struct BookmarksView: View {
                             NavigationLink(value: story) {
                                 StoryCard(story: story)
                             }
+                            .listRowInsets(EdgeInsets(top: 6, leading: 16, bottom: 6, trailing: 16))
+                            .listRowSeparator(.hidden)
+                            .listRowBackground(Color.clear)
                         }
                         .onDelete { indexSet in
                             state.bookmarkedStories.remove(atOffsets: indexSet)
                         }
                     }
                     .listStyle(.plain)
+                    .scrollContentBackground(.hidden)
                 }
             }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(Theme.background)
             .navigationTitle("Закладки")
             .navigationDestination(for: Story.self) { StoryDetailView(story: $0) }
         }
