@@ -287,7 +287,7 @@
           "published_at": "2026-08-13T09:49:34+00:00"
         },
         {
-          "source": "Euronews",
+          "source": "NBC News",
           "lang": "en",
           "headline": "Half a million visitors flock to Spain’s path of total solar eclipse",
           "excerpt": "In Medinaceli, a hilltop town in north-eastern Spain, spectators arrived hours early with chairs, hats and eclipse glasses to secure a clear view before the event reached totality shortly before sunset. Getxo, a coastal town just north-west of Bilbao in the Basque Country, also lay within the narrow path of totality. There, the Moon completely covered the Sun for only a few seconds at around 20:27 CEST, with the Sun just 8 degrees above the western horizon.…",
@@ -399,7 +399,7 @@
           "published_at": "2026-08-13T09:32:58+00:00"
         },
         {
-          "source": "Ведомости",
+          "source": "vc.ru",
           "lang": "ru",
           "headline": "Россия и Украина обменялись телами погибших бойцов",
           "excerpt": "Российская и украинская стороны обменялись телами погибших военнослужащих. Москва передала Киеву 261 тело военных и получила 24 тела бойцов. Об этом сообщил председатель комиссии Общественной палаты по вопросам суверенитета, патриотическим проектам и поддержке ветеранов Владимир Рогов. Рогов обратил внимание, что соотношение при обмене телами составило 1 к 11. В середине июля Россия и Украина провели обмен телами погибших военных.…",
@@ -1174,7 +1174,28 @@
       "score": 23.83,
       "perspectives": [
         {
-          "source": "The Guardian",
+          "source": "Meduza",
+          "lang": "ru",
+          "headline": "Суд снял с выборов в Госдуму депутата Михаила Матвеева — из-за отсутствия прав на собственные фотографии и шрифты Microsoft",
+          "excerpt": "Суд снял с выборов в Госдуму депутата Михаила Матвеева — из-за отсутствия прав на собственные фотографии и шрифты Microsoft Самарский областной суд отменил регистрацию на выборах в Госдуму для действующего депутата от КПРФ Михаила Матвеева. Иск подала его конкурентка по одномандатному округу от «Партии пенсионеров» Анна Саранцева.…",
+          "url": "https://meduza.io/news/2026/08/14/sud-snyal-s-vyborov-v-gosdumu-deputata-mihaila-matveeva-iz-za-otsutstviya-prav-na-sobstvennye-fotografii-i-shrifty-microsoft"
+        },
+        {
+          "source": "Ведомости",
+          "lang": "ru",
+          "headline": "Суд снял депутата Матвеева с выборов в Госдуму",
+          "excerpt": "Суд снял депутата Матвеева с выборов в Госдуму Его обвиняли в нарушении авторских прав Суд Самарской области удовлетворил иск о снятии депутата Госдумы от КПРФ Михаила Матвеева с выборов. Об этом сообщил его сторонник – депутат Самарской гордумы Михаил Асеев в своем Telegram-канале. Депутат от Партии пенсионеров Анна Саранцева подала иск о снятии Матвеева с выборов из-за нарушения авторских прав.…",
+          "url": "https://www.vedomosti.ru/politics/news/2026/08/14/1221281-snyal-matveeva-s-viborov"
+        }
+      ]
+    },
+    {
+      "category": "🌍 World",
+      "headline_en": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+      "coverage": 3,
+      "perspectives": [
+        {
+          "source": "NPR News",
           "lang": "en",
           "headline": "Sports Direct owner buys Harvey Nichols department store chain",
           "excerpt": "The owner of Sports Direct has bought Harvey Nichols out of administration after the upmarket department store chain warned it could run out of money if it did not find new funding. Mike Ashley’s Frasers Group said on Thursday it had bought the chain, which is headquartered at its store in Knightsbridge, for an undisclosed sum on the day it was put into administration. Harvey Nichols has 13 stores and 1,200 employees.…",
