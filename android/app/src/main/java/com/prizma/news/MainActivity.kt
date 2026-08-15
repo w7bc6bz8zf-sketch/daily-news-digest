@@ -61,8 +61,29 @@ fun PrizmaApp(onShare: (String) -> Unit, onOpenUrl: (String) -> Unit) {
     val briefing = remember { Briefing(context.applicationContext) }
     var tab by remember { mutableIntStateOf(0) }
     var openStory by remember { mutableStateOf<Story?>(null) }
+    var openArticle by remember { mutableStateOf<Perspective?>(null) }
 
     LaunchedEffect(Unit) { vm.loadInitial() }
+
+    // Встроенная читалка поверх всего
+    val article = openArticle
+    if (article != null) {
+        BackHandler { openArticle = null }
+        androidx.compose.foundation.layout.Box(
+            Modifier
+                .fillMaxSize()
+                .background(Prizma.backgroundBrush)
+        ) {
+            ReaderScreen(
+                perspective = article,
+                vm = vm,
+                onBack = { openArticle = null },
+                onShare = onShare,
+                onOpenBrowser = onOpenUrl,
+            )
+        }
+        return
+    }
 
     val story = openStory
     if (story != null) {
@@ -72,7 +93,7 @@ fun PrizmaApp(onShare: (String) -> Unit, onOpenUrl: (String) -> Unit) {
                 .fillMaxSize()
                 .background(Prizma.backgroundBrush)
         ) {
-            DetailScreen(story, vm, onShare, onOpenUrl)
+            DetailScreen(story, vm, onShare) { perspective -> openArticle = perspective }
         }
         LaunchedEffect(story.id) { vm.markRead(story) }
         return

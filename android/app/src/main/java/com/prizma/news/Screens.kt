@@ -27,6 +27,7 @@ import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Share
 import androidx.compose.material.icons.filled.Star
 import androidx.compose.material.icons.outlined.Star
+import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -35,6 +36,7 @@ import androidx.compose.material3.OutlinedTextFieldDefaults
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.input.nestedscroll.nestedScroll
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -177,6 +179,7 @@ fun StoryCard(story: Story, vm: AppViewModel, onOpen: (Story) -> Unit) {
 
 // ─── Лента ───────────────────────────────────────────────────────────────────
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
     Column(modifier = Modifier.fillMaxSize()) {
@@ -257,30 +260,51 @@ fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
         Spacer(Modifier.height(8.dp))
 
         val list = vm.displayedStories
-        if (list.isEmpty()) {
-            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                Text(
-                    vm.error ?: if (vm.isLoading) "Загружаем новости…" else "Ничего не найдено",
-                    color = Prizma.textSecondary
-                )
-            }
-        } else {
-            LazyColumn(
-                verticalArrangement = Arrangement.spacedBy(10.dp),
-                contentPadding = androidx.compose.foundation.layout.PaddingValues(
-                    start = 16.dp, end = 16.dp, bottom = 16.dp
-                )
-            ) {
-                item {
+        val ptrState = androidx.compose.material3.pulltorefresh.rememberPullToRefreshState()
+        if (ptrState.isRefreshing) {
+            androidx.compose.runtime.LaunchedEffect(true) { vm.refresh() }
+        }
+        androidx.compose.runtime.LaunchedEffect(vm.isLoading) {
+            if (!vm.isLoading && ptrState.isRefreshing) ptrState.endRefresh()
+        }
+
+        Box(
+            Modifier
+                .fillMaxSize()
+                .nestedScroll(ptrState.nestedScrollConnection)
+        ) {
+            if (list.isEmpty()) {
+                Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                     Text(
-                        "Обновлено ${relativeTime(vm.collectedAt)}",
-                        fontSize = 11.sp, color = Prizma.textTertiary
+                        vm.error ?: if (vm.isLoading) "Загружаем новости…" else "Ничего не найдено",
+                        color = Prizma.textSecondary
                     )
                 }
-                items(list) { story ->
-                    StoryCard(story, vm, onOpen)
+            } else {
+                LazyColumn(
+                    verticalArrangement = Arrangement.spacedBy(10.dp),
+                    contentPadding = androidx.compose.foundation.layout.PaddingValues(
+                        start = 16.dp, end = 16.dp, bottom = 16.dp
+                    ),
+                    modifier = Modifier.fillMaxSize()
+                ) {
+                    item {
+                        Text(
+                            "Обновлено ${relativeTime(vm.collectedAt)} · потяните вниз, чтобы обновить",
+                            fontSize = 11.sp, color = Prizma.textTertiary
+                        )
+                    }
+                    items(list) { story ->
+                        StoryCard(story, vm, onOpen)
+                    }
                 }
             }
+            androidx.compose.material3.pulltorefresh.PullToRefreshContainer(
+                state = ptrState,
+                containerColor = Prizma.card,
+                contentColor = Prizma.accent,
+                modifier = Modifier.align(Alignment.TopCenter)
+            )
         }
     }
 }
@@ -321,7 +345,7 @@ fun DetailScreen(
     story: Story,
     vm: AppViewModel,
     onShare: (String) -> Unit,
-    onOpenUrl: (String) -> Unit,
+    onRead: (Perspective) -> Unit,
 ) {
     LazyColumn(
         verticalArrangement = Arrangement.spacedBy(14.dp),
@@ -438,7 +462,7 @@ fun DetailScreen(
                 modifier = Modifier
                     .fillMaxWidth()
                     .prizmaCard()
-                    .clickable { if (perspective.url.isNotEmpty()) onOpenUrl(perspective.url) }
+                    .clickable { if (perspective.url.isNotEmpty()) onRead(perspective) }
                     .padding(14.dp)
             ) {
                 Row(verticalAlignment = Alignment.CenterVertically) {
@@ -475,7 +499,7 @@ fun DetailScreen(
                 }
                 Spacer(Modifier.height(6.dp))
                 Text(
-                    "Читать в источнике ↗",
+                    "Читать в приложении →",
                     fontSize = 12.sp, fontWeight = FontWeight.SemiBold,
                     color = Prizma.accent
                 )
@@ -607,6 +631,67 @@ fun SettingsScreen(vm: AppViewModel) {
                             modifier = Modifier.weight(1f)
                         )
                         IconButton(onClick = { vm.unfollowTopic(topic) }) {
+                            Icon(Icons.Filled.Clear, "Удалить", tint = Prizma.textTertiary)
+                        }
+                    }
+                }
+            }
+        }
+        item {
+            val newFeed = androidx.compose.runtime.remember {
+                androidx.compose.runtime.mutableStateOf("")
+            }
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .prizmaCard()
+                    .padding(14.dp)
+            ) {
+                Text(
+                    "Мои RSS-источники",
+                    fontSize = 16.sp, fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.onSurface
+                )
+                Spacer(Modifier.height(4.dp))
+                Text(
+                    "Записи из ваших лент появятся в категории «Мои источники»",
+                    fontSize = 12.sp, color = Prizma.textSecondary
+                )
+                Spacer(Modifier.height(8.dp))
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    OutlinedTextField(
+                        value = newFeed.value,
+                        onValueChange = { newFeed.value = it },
+                        placeholder = {
+                            Text("https://site.ru/rss", color = Prizma.textTertiary)
+                        },
+                        singleLine = true,
+                        shape = RoundedCornerShape(12.dp),
+                        colors = OutlinedTextFieldDefaults.colors(
+                            focusedContainerColor = Prizma.chip,
+                            unfocusedContainerColor = Prizma.chip,
+                            focusedBorderColor = Prizma.accent,
+                            unfocusedBorderColor = Prizma.cardStroke,
+                        ),
+                        modifier = Modifier.weight(1f)
+                    )
+                    IconButton(onClick = {
+                        vm.addCustomFeed(newFeed.value)
+                        newFeed.value = ""
+                    }) {
+                        Icon(Icons.Filled.Add, "Добавить", tint = Prizma.accent)
+                    }
+                }
+                vm.customFeeds.forEach { feedUrl ->
+                    Spacer(Modifier.height(6.dp))
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Text(
+                            feedUrl, fontSize = 12.sp,
+                            color = MaterialTheme.colorScheme.onSurface,
+                            maxLines = 1, overflow = TextOverflow.Ellipsis,
+                            modifier = Modifier.weight(1f)
+                        )
+                        IconButton(onClick = { vm.removeCustomFeed(feedUrl) }) {
                             Icon(Icons.Filled.Clear, "Удалить", tint = Prizma.textTertiary)
                         }
                     }

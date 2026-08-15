@@ -69,7 +69,10 @@ FEEDS = [
     ("ТАСС",               3, "ru", "Россия",      "https://tass.ru/rss/v2.xml"),
     ("Интерфакс",          3, "ru", "Россия",      "https://www.interfax.ru/rss.asp"),
     ("Lenta.ru",           2, "ru", "Россия",      "https://lenta.ru/rss"),
-    ("Газета.Ru",          2, "ru", "Россия",      "https://www.gazeta.ru/export/rss/lenta.xml"),
+    ("Газета.Ru",          2, "ru", "Россия",      "https://www.gazeta.ru/export/rss/first.xml"),
+    ("Аргументы и Факты",  1, "ru", "Россия",      "https://aif.ru/rss/all.php"),
+    ("Комсомольская правда", 1, "ru", "Россия",    "https://www.kp.ru/rss/allsections.xml"),
+    ("Москва 24",          1, "ru", "Россия",      "https://www.m24.ru/rss.xml"),
     ("Известия",           2, "ru", "Россия",      "https://iz.ru/xml/rss/all.xml"),
     ("Российская газета",  2, "ru", "Россия",      "https://rg.ru/xml/index.xml"),
     ("Фонтанка",           2, "ru", "Россия",      "https://www.fontanka.ru/fontanka.rss"),
@@ -78,7 +81,8 @@ FEEDS = [
     ("DW на русском",      2, "ru", "Мир",         "https://rss.dw.com/xml/rss-ru-all"),
     ("Euronews RU",        2, "ru", "Мир",         "https://ru.euronews.com/rss"),
     ("RTVI",               2, "ru", "Мир",         "https://rtvi.com/feed/"),
-    ("Новая газета",       2, "ru", "Мир",         "https://novayagazeta.ru/rss/all.xml"),
+    ("Новая газета Европа", 2, "ru", "Мир",        "https://novayagazeta.eu/feed/rss"),
+    ("Холод",              1, "ru", "Мир",         "https://holod.media/feed/"),
     # ── Русскоязычные: экономика и бизнес ──
     ("РБК",                3, "ru", "Экономика",   "https://rssexport.rbc.ru/rbcnews/news/30/full.rss"),
     ("Коммерсант",         3, "ru", "Экономика",   "https://www.kommersant.ru/RSS/news.xml"),
@@ -86,11 +90,10 @@ FEEDS = [
     ("Forbes.ru",          2, "ru", "Бизнес",      "https://www.forbes.ru/newrss.xml"),
     ("The Bell",           2, "ru", "Экономика",   "https://thebell.io/feed"),
     ("BFM.ru",             2, "ru", "Экономика",   "https://www.bfm.ru/news.rss"),
-    ("Банки.ру",           1, "ru", "Экономика",   "https://www.banki.ru/xml/news.rss"),
     ("Финам",              1, "ru", "Экономика",   "https://www.finam.ru/analysis/conews/rsspoint/"),
     ("Inc. Russia",        1, "ru", "Бизнес",      "https://incrussia.ru/feed/"),
     ("RB.ru",              1, "ru", "Бизнес",      "https://rb.ru/feeds/all/"),
-    ("Тинькофф Журнал",    1, "ru", "Бизнес",      "https://journal.tinkoff.ru/feed/"),
+    ("Нож",                1, "ru", "Культура",    "https://knife.media/feed/"),
     # ── Русскоязычные: технологии ──
     ("vc.ru",              2, "ru", "Технологии",  "https://vc.ru/rss"),
     ("Habr",               2, "ru", "Технологии",  "https://habr.com/ru/rss/news/"),
@@ -103,14 +106,15 @@ FEEDS = [
     # ── Русскоязычные: наука ──
     ("N+1",                2, "ru", "Наука",       "https://nplus1.ru/rss"),
     ("Naked Science",      2, "ru", "Наука",       "https://naked-science.ru/feed"),
-    ("Элементы",           1, "ru", "Наука",       "https://elementy.ru/rss/news"),
     # ── Русскоязычные: спорт ──
     ("Sports.ru",          2, "ru", "Спорт",       "https://www.sports.ru/rss/main.xml"),
     ("Чемпионат",          2, "ru", "Спорт",       "https://www.championat.com/rss/news/"),
     ("Спорт-Экспресс",     2, "ru", "Спорт",       "https://www.sport-express.ru/services/materials/news/se/"),
     # ── Русскоязычные: культура ──
     ("Афиша Daily",        1, "ru", "Культура",    "https://daily.afisha.ru/rss/"),
-    ("Film.ru",            1, "ru", "Культура",    "https://www.film.ru/rss/all"),
+    ("Игромания",          1, "ru", "Культура",    "https://www.igromania.ru/rss/news.rss"),
+    ("StopGame",           1, "ru", "Культура",    "https://rss.stopgame.ru/rss_news.xml"),
+    ("Motor.ru",           1, "ru", "Технологии",  "https://motor.ru/exports/rss"),
     # ── Англоязычные: мир ──
     ("BBC World",          3, "en", "Мир",         "http://feeds.bbci.co.uk/news/world/rss.xml"),
     ("The Guardian",       3, "en", "Мир",         "https://www.theguardian.com/world/rss"),
@@ -121,7 +125,7 @@ FEEDS = [
     ("DW English",         2, "en", "Мир",         "https://rss.dw.com/rdf/rss-en-all"),
     ("France 24",          2, "en", "Мир",         "https://www.france24.com/en/rss"),
     ("Euronews",           2, "en", "Мир",         "https://www.euronews.com/rss?format=mrss&level=theme&name=news"),
-    ("Politico",           2, "en", "Мир",         "https://www.politico.com/rss/politicopicks.xml"),
+    ("The Independent",    1, "en", "Мир",         "https://www.independent.co.uk/rss"),
     ("Time",               1, "en", "Мир",         "https://time.com/feed/"),
     ("The Atlantic",       1, "en", "Мир",         "https://www.theatlantic.com/feed/all/"),
     ("NBC News",           1, "en", "Мир",         "https://feeds.nbcnews.com/nbcnews/public/news"),
@@ -133,7 +137,7 @@ FEEDS = [
     ("FT",                 3, "en", "Экономика",   "https://www.ft.com/rss/home/uk"),
     ("The Economist",      3, "en", "Экономика",   "https://www.economist.com/finance-and-economics/rss.xml"),
     ("The Economist Biz",  2, "en", "Бизнес",      "https://www.economist.com/business/rss.xml"),
-    ("WSJ",                3, "en", "Экономика",   "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"),
+    ("MarketWatch",        2, "en", "Экономика",   "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
     ("CNBC",               2, "en", "Экономика",   "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
     ("Axios",              2, "en", "Экономика",   "https://api.axios.com/feed/"),
     ("Yahoo Finance",      1, "en", "Экономика",   "https://finance.yahoo.com/news/rssindex"),
@@ -152,10 +156,10 @@ FEEDS = [
     ("ZDNet",              1, "en", "Технологии",  "https://www.zdnet.com/news/rss.xml"),
     ("Nature News",        2, "en", "Наука",       "https://www.nature.com/nature.rss"),
     ("Science Daily",      1, "en", "Наука",       "https://www.sciencedaily.com/rss/all.xml"),
-    ("New Scientist",      1, "en", "Наука",       "https://www.newscientist.com/feed/home/"),
+    ("Phys.org",           1, "en", "Наука",       "https://phys.org/rss-feed/"),
     # ── Англоязычные: спорт и культура ──
     ("BBC Sport",          2, "en", "Спорт",       "https://feeds.bbci.co.uk/sport/rss.xml"),
-    ("ESPN",               1, "en", "Спорт",       "https://www.espn.com/espn/rss/news"),
+    ("Sky Sports",         1, "en", "Спорт",       "https://www.skysports.com/rss/12040"),
     ("Variety",            1, "en", "Культура",    "https://variety.com/feed/"),
     ("Rolling Stone",      1, "en", "Культура",    "https://www.rollingstone.com/feed/"),
 ]
@@ -634,6 +638,48 @@ def story_freshness_bonus(published_iso: str | None) -> float:
         return 0.0
 
 
+# Ключевые слова для уточнения категории: универсальные фиды (ТАСС, РИА,
+# Lenta…) помечены «Россия»/«Мир», из-за чего почти все сюжеты падали в две
+# категории. Порядок проверки — от специфичных тем к общим.
+_CATEGORY_KEYWORDS = [
+    ("Спорт", ["матч", "гол ", "футбол", "хокке", "теннис", "чемпион", "турнир",
+               "сборная", "олимпи", "лига", "плей-офф", "тренер", "бокс", "ufc",
+               "league", "match", "olympic", "nba", "nfl", "tennis", "soccer",
+               "football", "playoff", "grand slam"]),
+    ("Наука", ["учены", "учён", "исследовани", "астроном", "космос", "спутник",
+               "телескоп", "физик", "биолог", "археолог", "днк", "экзопланет",
+               "затмени", "scientist", "study finds", "researchers", "nasa",
+               "telescope", "quantum", "dna", "space station"]),
+    ("Культура", ["фильм", "сериал", "кино", "премьер", "актер", "актёр", "актрис",
+                  "режиссер", "режиссёр", "концерт", "альбом", "певец", "певиц",
+                  "театр", "выставк", "фестивал", "box office", "movie", "film",
+                  "series", "actor", "album", "festival"]),
+    ("Технологии", ["нейросет", "искусственн", " ии ", "смартфон", "приложени",
+                    "google", "apple", "microsoft", "openai", "чип", "процессор",
+                    "робот", "гаджет", "айфон", "iphone", "android", "кибер",
+                    "телеграм", "telegram", " ai ", "chip", "software", "startup",
+                    "robot", "cyber"]),
+    ("Экономика", ["ставк", "инфляц", "рубл", "доллар", "банк", "бюджет", "налог",
+                   " цб ", "биржа", "акци", "нефт", "экспорт", "тариф", "ипотек",
+                   "валют", "inflation", "interest rate", "stocks", "market",
+                   "economy", "oil price", "gdp", "tariff"]),
+    ("Бизнес", ["компани", "стартап", "выручк", "прибыл", "сделк", " ipo",
+                "акционер", "ритейл", "маркетплейс", "merger", "revenue",
+                "profit", "acquisition", "retail"]),
+]
+
+
+def refine_category(category: str, text: str) -> str:
+    """Уточняем категорию по содержанию, если фид дал только общую."""
+    if category not in ("Россия", "Мир", "Новости"):
+        return category
+    t = f" {text.lower()} "
+    for cat, keywords in _CATEGORY_KEYWORDS:
+        if any(kw in t for kw in keywords):
+            return cat
+    return category
+
+
 def build_story(cluster: list[dict], allow_single: bool = False) -> dict | None:
     sorted_c = sorted(cluster, key=lambda e: -e["weight"])
 
@@ -667,6 +713,10 @@ def build_story(cluster: list[dict], allow_single: bool = False) -> dict | None:
     headline_ru = ru_entries[0]["title"] if ru_entries else ""
     headline_en = en_entries[0]["title"] if en_entries else ""
     category = Counter(e["category"] for e in cluster).most_common(1)[0][0]
+    category = refine_category(
+        category,
+        " ".join(e["title"] for e in cluster[:4]) + " " + perspectives[0]["excerpt"][:300],
+    )
     image = next((e["image"] for e in sorted_c if e.get("image")), "")
     published = max((e["published_at"] for e in cluster if e["published_at"]),
                     default=None)

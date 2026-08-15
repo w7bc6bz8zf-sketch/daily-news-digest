@@ -49,6 +49,9 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         private set
     var bookmarks by mutableStateOf<List<Story>>(loadBookmarks())
         private set
+    var customFeeds by mutableStateOf<List<String>>(loadStringList("customFeeds"))
+        private set
+    private var customStories by mutableStateOf<List<Story>>(emptyList())
     private var categoryWeights: MutableMap<String, Double> = loadWeights()
 
     // MARK: загрузка ленты
@@ -65,11 +68,7 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         error = null
         viewModelScope.launch(Dispatchers.IO) {
             try {
-                val request = Request.Builder().url(FEED_URL).build()
-                val body = http.newCall(request).execute().use { resp ->
-                    if (!resp.isSuccessful) throw RuntimeException("HTTP ${resp.code}")
-                    resp.body!!.string()
-                }
+                val body = fetch(FEED_URL)
                 val digest = json.decodeFromString<NewsDigest>(body)
                 cacheFile.writeText(body)
                 withContext(Dispatchers.Main) { applyDigest(digest) }
@@ -77,9 +76,28 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
                 withContext(Dispatchers.Main) {
                     if (stories.isEmpty()) error = "Не удалось загрузить новости. Проверьте соединение."
                 }
-            } finally {
-                withContext(Dispatchers.Main) { isLoading = false }
             }
+            // Пользовательские RSS-ленты — каждая независимо, ошибки не мешают
+            val custom = mutableListOf<Story>()
+            for (feedUrl in customFeeds) {
+                runCatching {
+                    custom += RssParser.parse(fetch(feedUrl), feedUrl)
+                }
+            }
+            withContext(Dispatchers.Main) {
+                customStories = custom
+                isLoading = false
+            }
+        }
+    }
+
+    fun fetch(url: String): String {
+        val request = Request.Builder().url(url)
+            .header("User-Agent", "Mozilla/5.0 (Linux; Android 14) PrizmaNews/1.0")
+            .build()
+        return http.newCall(request).execute().use { resp ->
+            if (!resp.isSuccessful) throw RuntimeException("HTTP ${resp.code}")
+            resp.body!!.string()
         }
     }
 
@@ -91,11 +109,11 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     // MARK: фильтрация и «Для вас»
 
     val availableCategories: List<String>
-        get() = stories.map { it.category }.distinct()
+        get() = (stories + customStories).map { it.category }.distinct()
 
     val displayedStories: List<Story>
         get() {
-            var list = stories.filter { story ->
+            var list = (stories + customStories).filter { story ->
                 if (russianOnly && story.lang != "ru") return@filter false
                 selectedCategory?.let { if (story.category != it) return@filter false }
                 if (searchText.isNotBlank()) {
@@ -174,6 +192,23 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     fun unfollowTopic(topic: String) {
         topics = topics.filterNot { it == topic }
         saveStringList("topics", topics)
+    }
+
+    fun addCustomFeed(raw: String) {
+        var url = raw.trim()
+        if (url.isEmpty()) return
+        if (!url.startsWith("http")) url = "https://$url"
+        if (customFeeds.any { it.equals(url, ignoreCase = true) }) return
+        customFeeds = customFeeds + url
+        saveStringList("customFeeds", customFeeds)
+        refresh()
+    }
+
+    fun removeCustomFeed(url: String) {
+        customFeeds = customFeeds.filterNot { it == url }
+        saveStringList("customFeeds", customFeeds)
+        customStories = emptyList()   // пересоберётся в refresh() из оставшихся лент
+        refresh()
     }
 
     // MARK: persistence
