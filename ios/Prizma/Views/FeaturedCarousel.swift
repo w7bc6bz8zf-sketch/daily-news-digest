@@ -13,55 +13,57 @@ struct FeaturedCarousel: View {
                 .buttonStyle(.plain)
             }
         }
-        .tabViewStyle(.page(indexDisplayMode: stories.count > 1 ? .automatic : .never))
-        .frame(height: 240)
+        .tabViewStyle(.page(indexDisplayMode: .never))
+        .frame(height: 252)
     }
 }
 
+// Текст не накладывается на фото: многие издания впечатывают заголовок
+// прямо в картинку, поэтому текстовая часть живёт в подложке под изображением.
 private struct FeaturedSlide: View {
     let story: Story
 
     var body: some View {
-        ZStack(alignment: .bottomLeading) {
+        VStack(spacing: 0) {
             StoryImage(url: story.image)
-                .frame(height: 224)
+                .frame(height: 136)
                 .frame(maxWidth: .infinity)
                 .clipped()
 
-            LinearGradient(
-                colors: [.clear, .black.opacity(0.15), .black.opacity(0.82)],
-                startPoint: .top, endPoint: .bottom
-            )
-
-            VStack(alignment: .leading, spacing: 7) {
+            VStack(alignment: .leading, spacing: 6) {
                 HStack(spacing: 6) {
-                    Text(story.categoryClean)
-                        .font(.caption2.weight(.bold))
-                        .padding(.horizontal, 9)
-                        .padding(.vertical, 4)
-                        .background(Theme.color(for: story.categoryClean).opacity(0.92),
-                                    in: Capsule())
-                        .foregroundStyle(.white)
+                    CategoryPill(category: story.categoryClean)
                     if story.coverage > 1 {
                         Text(sourcesCountText(story.coverage))
                             .font(.caption2.weight(.semibold))
-                            .foregroundStyle(.white.opacity(0.85))
+                            .foregroundStyle(.secondary)
+                    }
+                    Spacer()
+                    if let date = story.publishedDate {
+                        Text(DateParser.relative(date))
+                            .font(.caption2)
+                            .foregroundStyle(.secondary)
                     }
                 }
                 Text(story.headline)
-                    .font(.system(.title3, design: .rounded, weight: .bold))
-                    .foregroundStyle(.white)
-                    .lineLimit(3)
+                    .font(.system(.headline, design: .rounded, weight: .bold))
+                    .lineLimit(2)
                     .multilineTextAlignment(.leading)
+                    .foregroundStyle(.primary)
                 Text(story.sourceNames.prefix(3).joined(separator: " · "))
                     .font(.caption2)
-                    .foregroundStyle(.white.opacity(0.7))
+                    .foregroundStyle(.tertiary)
                     .lineLimit(1)
             }
-            .padding(14)
+            .padding(12)
+            .frame(maxWidth: .infinity, minHeight: 104, alignment: .topLeading)
+            .background(Theme.card)
         }
-        .frame(height: 224)
         .clipShape(RoundedRectangle(cornerRadius: 18))
+        .overlay(
+            RoundedRectangle(cornerRadius: 18)
+                .strokeBorder(Theme.cardStroke, lineWidth: 1)
+        )
         .padding(.horizontal, 16)
     }
 }

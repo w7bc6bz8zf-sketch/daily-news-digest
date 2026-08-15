@@ -7,20 +7,30 @@ struct StoryDetailView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
+                // Заголовок не накладываем на фото: многие издания впечатывают
+                // текст прямо в картинку, и оверлей превращается в кашу
                 if !story.image.isEmpty {
-                    heroHeader
-                } else {
-                    HStack(spacing: 8) {
-                        CategoryPill(category: story.categoryClean)
-                        if let date = story.publishedDate {
-                            Text(DateParser.relative(date))
-                                .font(.caption)
-                                .foregroundStyle(.secondary)
-                        }
-                    }
-                    Text(story.headline)
-                        .font(.system(.title2, design: .rounded, weight: .bold))
+                    StoryImage(url: story.image)
+                        .frame(height: 200)
+                        .frame(maxWidth: .infinity)
+                        .clipShape(RoundedRectangle(cornerRadius: 18))
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 18)
+                                .strokeBorder(Theme.cardStroke, lineWidth: 1)
+                        )
                 }
+
+                HStack(spacing: 8) {
+                    CategoryPill(category: story.categoryClean)
+                    if let date = story.publishedDate {
+                        Text(DateParser.relative(date))
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                    }
+                }
+
+                Text(story.headline)
+                    .font(.system(.title2, design: .rounded, weight: .bold))
 
                 if !story.headlineEn.isEmpty && story.headlineEn != story.headline {
                     Text(story.headlineEn)
@@ -69,44 +79,6 @@ struct StoryDetailView: View {
             }
         }
         .onAppear { state.markRead(story) }
-    }
-
-    /// Обложка: фото с градиентом, категорией и заголовком поверх
-    private var heroHeader: some View {
-        ZStack(alignment: .bottomLeading) {
-            StoryImage(url: story.image)
-                .frame(height: 250)
-                .frame(maxWidth: .infinity)
-                .clipped()
-
-            LinearGradient(
-                colors: [.clear, .black.opacity(0.2), .black.opacity(0.85)],
-                startPoint: .top, endPoint: .bottom
-            )
-
-            VStack(alignment: .leading, spacing: 8) {
-                HStack(spacing: 8) {
-                    Text(story.categoryClean)
-                        .font(.caption2.weight(.bold))
-                        .padding(.horizontal, 9)
-                        .padding(.vertical, 4)
-                        .background(Theme.color(for: story.categoryClean).opacity(0.92),
-                                    in: Capsule())
-                        .foregroundStyle(.white)
-                    if let date = story.publishedDate {
-                        Text(DateParser.relative(date))
-                            .font(.caption)
-                            .foregroundStyle(.white.opacity(0.8))
-                    }
-                }
-                Text(story.headline)
-                    .font(.system(.title2, design: .rounded, weight: .bold))
-                    .foregroundStyle(.white)
-            }
-            .padding(14)
-        }
-        .frame(height: 250)
-        .clipShape(RoundedRectangle(cornerRadius: 18))
     }
 
     private var summaryCard: some View {
