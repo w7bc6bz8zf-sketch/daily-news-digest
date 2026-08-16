@@ -768,6 +768,61 @@ def collect_stories(candidates: list[list[dict]], target: int,
     return stories
 
 
+# ── Накопительная лента ──────────────────────────────────────────────────────
+# Новый выпуск не стирает предыдущий: непрочитанные сюжеты живут ARCHIVE_HOURS
+# часов. Дубликаты не плодим — сюжет о том же событии в свежем выпуске
+# вытесняет старую версию (сравнение по id и по стеммам заголовка).
+
+ARCHIVE_HOURS = int(os.environ.get("ARCHIVE_HOURS", "72"))
+ARCHIVE_MAX   = int(os.environ.get("ARCHIVE_MAX", "240"))
+
+
+def _headline_stems(story: dict) -> set:
+    words = re.findall(r"[а-яёa-z0-9]{3,}", story.get("headline", "").lower())
+    return {ru_stem(w) for w in words if w not in RUSSIAN_STOP_WORDS}
+
+
+def merge_with_archive(new_stories: list[dict], started: datetime) -> list[dict]:
+    for s in new_stories:
+        s["first_seen"] = started.isoformat()
+
+    try:
+        with open("news_data.json", encoding="utf-8") as f:
+            previous = json.load(f).get("stories", [])
+    except Exception:
+        previous = []
+    if not previous:
+        return new_stories
+
+    cutoff = started - timedelta(hours=ARCHIVE_HOURS)
+    new_ids = {s["id"] for s in new_stories}
+    new_sets = [_headline_stems(s) for s in new_stories]
+
+    kept = []
+    for s in previous:
+        if s.get("id") in new_ids:
+            continue
+        seen_iso = s.get("first_seen") or s.get("published_at")
+        if seen_iso:
+            try:
+                if datetime.fromisoformat(seen_iso) < cutoff:
+                    continue
+            except Exception:
+                pass
+        else:
+            s["first_seen"] = started.isoformat()
+        stems = _headline_stems(s)
+        if any(len(stems & ns) / max(len(stems | ns), 1) > 0.4 for ns in new_sets):
+            continue   # та же история в свежем выпуске — старую версию убираем
+        kept.append(s)
+
+    kept.sort(key=lambda s: s.get("first_seen") or "", reverse=True)
+    merged = new_stories + kept
+    print(f"[INFO] Архив: {len(new_stories)} свежих + {len(kept)} прошлых "
+          f"(окно {ARCHIVE_HOURS}ч, лимит {ARCHIVE_MAX})")
+    return merged[:ARCHIVE_MAX]
+
+
 # ── Выгрузка ──────────────────────────────────────────────────────────────────
 
 def write_output(stories: list[dict], total_entries: int, started: datetime) -> None:
@@ -832,6 +887,7 @@ def main() -> None:
 
     stories = sorted(ru_stories + en_stories, key=lambda s: -s["score"])
     ai_enrich_stories(stories)
+    stories = merge_with_archive(stories, started)
     write_output(stories, len(entries), started)
 
     elapsed = (datetime.now(timezone.utc) - started).total_seconds()
