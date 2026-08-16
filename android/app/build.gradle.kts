@@ -50,6 +50,8 @@ dependencies {
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.foundation:foundation")
     implementation("androidx.compose.material3:material3")
+    // M2 — только ради стабильного pullRefresh (в M3 1.2 он экспериментальный и глючный)
+    implementation("androidx.compose.material:material")
     implementation("androidx.activity:activity-compose:1.9.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.3")
     implementation("io.coil-kt:coil-compose:2.6.0")

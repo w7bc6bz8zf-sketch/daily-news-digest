@@ -27,7 +27,8 @@ import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Share
 import androidx.compose.material.icons.filled.Star
 import androidx.compose.material.icons.outlined.Star
-import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material.ExperimentalMaterialApi
+import androidx.compose.material.pullrefresh.pullRefresh
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -36,7 +37,6 @@ import androidx.compose.material3.OutlinedTextFieldDefaults
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.input.nestedscroll.nestedScroll
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -179,7 +179,7 @@ fun StoryCard(story: Story, vm: AppViewModel, onOpen: (Story) -> Unit) {
 
 // ─── Лента ───────────────────────────────────────────────────────────────────
 
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterialApi::class)
 @Composable
 fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
     Column(modifier = Modifier.fillMaxSize()) {
@@ -260,18 +260,17 @@ fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
         Spacer(Modifier.height(8.dp))
 
         val list = vm.displayedStories
-        val ptrState = androidx.compose.material3.pulltorefresh.rememberPullToRefreshState()
-        if (ptrState.isRefreshing) {
-            androidx.compose.runtime.LaunchedEffect(true) {
-                vm.refreshAndWait()      // ждём полного окончания загрузки…
-                ptrState.endRefresh()    // …и гарантированно убираем индикатор
-            }
-        }
+        // M2 pullRefresh: индикатор напрямую привязан к vm.isLoading —
+        // без внутреннего автомата состояний, которому можно зависнуть
+        val pullState = androidx.compose.material.pullrefresh.rememberPullRefreshState(
+            refreshing = vm.isLoading,
+            onRefresh = { vm.refresh() }
+        )
 
         Box(
             Modifier
                 .fillMaxSize()
-                .nestedScroll(ptrState.nestedScrollConnection)
+                .pullRefresh(pullState)
         ) {
             if (list.isEmpty()) {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
@@ -299,9 +298,10 @@ fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
                     }
                 }
             }
-            androidx.compose.material3.pulltorefresh.PullToRefreshContainer(
-                state = ptrState,
-                containerColor = Prizma.card,
+            androidx.compose.material.pullrefresh.PullRefreshIndicator(
+                refreshing = vm.isLoading,
+                state = pullState,
+                backgroundColor = Prizma.card,
                 contentColor = Prizma.accent,
                 modifier = Modifier.align(Alignment.TopCenter)
             )
@@ -503,6 +503,66 @@ fun DetailScreen(
                     fontSize = 12.sp, fontWeight = FontWeight.SemiBold,
                     color = Prizma.accent
                 )
+            }
+        }
+    }
+}
+
+// ─── Мои источники ───────────────────────────────────────────────────────────
+
+@Composable
+fun MySourcesScreen(vm: AppViewModel, onOpen: (Story) -> Unit) {
+    Column(Modifier.fillMaxSize()) {
+        Text(
+            "Мои источники",
+            fontSize = 28.sp, fontWeight = FontWeight.ExtraBold,
+            color = MaterialTheme.colorScheme.onBackground,
+            modifier = Modifier.padding(16.dp)
+        )
+        if (vm.customFeeds.isEmpty()) {
+            Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
+                Text(
+                    "Здесь появятся записи из ваших RSS-лент.\n\nДобавьте адрес ленты в Настройках → «Мои RSS-источники» — подойдёт и просто адрес сайта, RSS найдётся автоматически.",
+                    color = Prizma.textSecondary, fontSize = 14.sp, lineHeight = 21.sp
+                )
+            }
+        } else {
+            val stories = vm.customStoriesSorted
+            LazyColumn(
+                verticalArrangement = Arrangement.spacedBy(10.dp),
+                contentPadding = androidx.compose.foundation.layout.PaddingValues(
+                    start = 16.dp, end = 16.dp, bottom = 16.dp
+                )
+            ) {
+                item {
+                    Column(
+                        modifier = Modifier.fillMaxWidth().prizmaCard().padding(12.dp)
+                    ) {
+                        vm.customFeeds.forEach { feedUrl ->
+                            val status = vm.customFeedStatus[feedUrl] ?: "загружается…"
+                            Text(
+                                "${feedUrl.removePrefix("https://").removePrefix("http://").take(40)} — $status",
+                                fontSize = 11.sp,
+                                maxLines = 1, overflow = TextOverflow.Ellipsis,
+                                color = if (status.startsWith("ошибка") || status.startsWith("RSS не"))
+                                    androidx.compose.ui.graphics.Color(0xFFFF6B6B)
+                                else Prizma.textTertiary
+                            )
+                        }
+                    }
+                }
+                if (stories.isEmpty()) {
+                    item {
+                        Text(
+                            "Записей пока нет — потяните ленту вниз на вкладке «Лента» или проверьте статус выше",
+                            fontSize = 13.sp, color = Prizma.textSecondary,
+                            modifier = Modifier.padding(top = 12.dp)
+                        )
+                    }
+                }
+                items(stories) { story ->
+                    StoryCard(story, vm, onOpen)
+                }
             }
         }
     }

@@ -10,6 +10,7 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.List
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Star
@@ -108,8 +109,9 @@ fun PrizmaApp(onShare: (String) -> Unit, onOpenUrl: (String) -> Unit) {
             NavigationBar(containerColor = Prizma.card) {
                 val items = listOf(
                     Triple("Лента", Icons.Filled.Home, 0),
-                    Triple("Закладки", Icons.Filled.Star, 1),
-                    Triple("Настройки", Icons.Filled.Settings, 2),
+                    Triple("Источники", Icons.AutoMirrored.Filled.List, 1),
+                    Triple("Закладки", Icons.Filled.Star, 2),
+                    Triple("Настройки", Icons.Filled.Settings, 3),
                 )
                 items.forEach { (title, icon, index) ->
                     NavigationBarItem(
@@ -132,7 +134,8 @@ fun PrizmaApp(onShare: (String) -> Unit, onOpenUrl: (String) -> Unit) {
         androidx.compose.foundation.layout.Box(Modifier.padding(padding)) {
             when (tab) {
                 0 -> FeedScreen(vm, briefing) { openStory = it }
-                1 -> BookmarksScreen(vm) { openStory = it }
+                1 -> MySourcesScreen(vm) { openStory = it }
+                2 -> BookmarksScreen(vm) { openStory = it }
                 else -> SettingsScreen(vm)
             }
         }
