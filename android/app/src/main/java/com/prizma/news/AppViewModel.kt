@@ -79,43 +79,70 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         }
         isLoading = true
         error = null
-        withContext(Dispatchers.IO) {
-            try {
-                val body = fetch(FEED_URL)
-                val digest = json.decodeFromString<NewsDigest>(body)
-                cacheFile.writeText(body)
-                withContext(Dispatchers.Main) { applyDigest(digest) }
-            } catch (e: Exception) {
-                withContext(Dispatchers.Main) {
-                    if (stories.isEmpty()) error = "Не удалось загрузить новости. Проверьте соединение."
-                }
-            }
-            // Пользовательские RSS-ленты — каждая независимо, со статусом
-            val custom = mutableListOf<Story>()
-            val status = mutableMapOf<String, String>()
-            for (feedUrl in customFeeds) {
+        try {
+            withContext(Dispatchers.IO) {
                 try {
-                    val items = RssParser.parse(fetch(feedUrl), feedUrl)
-                    custom += items
-                    status[feedUrl] = if (items.isEmpty())
-                        "лента пуста или это не RSS-адрес"
-                    else
-                        "✓ записей: ${items.size}"
+                    val body = fetch(FEED_URL)
+                    val digest = json.decodeFromString<NewsDigest>(body)
+                    cacheFile.writeText(body)
+                    withContext(Dispatchers.Main) { applyDigest(digest) }
                 } catch (e: Exception) {
-                    status[feedUrl] = "ошибка загрузки — проверьте адрес"
+                    withContext(Dispatchers.Main) {
+                        if (stories.isEmpty()) error = "Не удалось загрузить новости. Проверьте соединение."
+                    }
+                }
+                // Пользовательские RSS-ленты — каждая независимо, со статусом
+                val custom = mutableListOf<Story>()
+                val status = mutableMapOf<String, String>()
+                for (feedUrl in customFeeds) {
+                    try {
+                        val (items, note) = loadCustomFeed(feedUrl)
+                        custom += items
+                        status[feedUrl] = if (items.isEmpty())
+                            "RSS не найден по этому адресу"
+                        else
+                            "✓ записей: ${items.size}$note"
+                    } catch (e: Exception) {
+                        status[feedUrl] = "ошибка: ${e.message?.take(60) ?: e.javaClass.simpleName}"
+                    }
+                }
+                withContext(Dispatchers.Main) {
+                    customStories = custom
+                    customFeedStatus = status
                 }
             }
-            withContext(Dispatchers.Main) {
-                customStories = custom
-                customFeedStatus = status
-                isLoading = false
-            }
+        } finally {
+            isLoading = false   // гарантированно, что бы ни случилось
         }
+    }
+
+    /// Загрузка пользовательской ленты. Если по адресу оказалась обычная
+    /// страница сайта — ищем в её HTML ссылку на RSS и берём её.
+    private fun loadCustomFeed(feedUrl: String): Pair<List<Story>, String> {
+        val body = fetch(feedUrl)
+        var items = RssParser.parse(body, feedUrl)
+        if (items.isNotEmpty()) return items to ""
+
+        val discovered =
+            Regex("""<link[^>]+type=["']application/(?:rss|atom)\+xml["'][^>]*href=["']([^"']+)""",
+                  RegexOption.IGNORE_CASE).find(body)?.groupValues?.get(1)
+                ?: Regex("""<link[^>]+href=["']([^"']+)["'][^>]*type=["']application/(?:rss|atom)\+xml""",
+                         RegexOption.IGNORE_CASE).find(body)?.groupValues?.get(1)
+        if (discovered != null) {
+            val resolved = java.net.URL(java.net.URL(feedUrl), discovered).toString()
+            items = RssParser.parse(fetch(resolved), resolved)
+            if (items.isNotEmpty()) return items to " (RSS найден автоматически)"
+        }
+        return emptyList<Story>() to ""
     }
 
     fun fetch(url: String): String {
         val request = Request.Builder().url(url)
-            .header("User-Agent", "Mozilla/5.0 (Linux; Android 14) PrizmaNews/1.0")
+            .header(
+                "User-Agent",
+                "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 " +
+                    "(KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+            )
             .build()
         return http.newCall(request).execute().use { resp ->
             if (!resp.isSuccessful) throw RuntimeException("HTTP ${resp.code}")
@@ -159,6 +186,10 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
             }
             return list
         }
+
+    /// Для вкладки «Мои источники»: записи пользовательских лент, свежие сверху
+    val customStoriesSorted: List<Story>
+        get() = customStories.sortedByDescending { it.publishedAt ?: "" }
 
     fun matchedTopics(story: Story): List<String> {
         if (topics.isEmpty()) return emptyList()
