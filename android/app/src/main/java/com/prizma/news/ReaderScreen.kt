@@ -47,32 +47,46 @@ fun ReaderScreen(
 ) {
     var article by remember { mutableStateOf<Reader.Article?>(null) }
     var failed by remember { mutableStateOf(false) }
+    var stage by remember { mutableStateOf("Загружаем статью…") }
+    val context = androidx.compose.ui.platform.LocalContext.current
 
     LaunchedEffect(perspective.url) {
-        withContext(Dispatchers.IO) {
-            // 1) Полный текст уже пришёл в RSS (content:encoded) — сеть не нужна
-            if (perspective.content.length > 300) {
-                val extracted = Reader.extract(
-                    perspective.content, perspective.url, perspective.headline
-                )
-                val paragraphs = extracted.paragraphs.ifEmpty {
-                    listOf(RssParser.stripHtml(perspective.content))
-                }
-                withContext(Dispatchers.Main) {
-                    article = Reader.Article(perspective.headline, paragraphs)
-                }
-                return@withContext
+        // 1) Полный текст уже пришёл в RSS (content:encoded) — сеть не нужна
+        if (perspective.content.length > 300) {
+            val extracted = withContext(Dispatchers.IO) {
+                Reader.extract(perspective.content, perspective.url, perspective.headline)
             }
-            // 2) Иначе скачиваем страницу и вычищаем
-            try {
-                val html = vm.fetch(perspective.url)
-                val extracted = Reader.extract(html, perspective.url, perspective.headline)
-                withContext(Dispatchers.Main) {
-                    if (extracted.paragraphs.isEmpty()) failed = true else article = extracted
-                }
-            } catch (e: Exception) {
-                withContext(Dispatchers.Main) { failed = true }
+            val paragraphs = extracted.paragraphs.ifEmpty {
+                listOf(RssParser.stripHtml(perspective.content))
             }
+            article = Reader.Article(perspective.headline, paragraphs)
+            return@LaunchedEffect
+        }
+
+        // 2) Быстрый путь: прямое скачивание страницы
+        var extracted: Reader.Article? = withContext(Dispatchers.IO) {
+            runCatching {
+                Reader.extract(vm.fetch(perspective.url), perspective.url, perspective.headline)
+            }.getOrNull()
+        }
+
+        // 3) Сайт отдал заглушку — рендерим настоящим браузерным движком
+        if (extracted == null || extracted.paragraphs.size < 2) {
+            stage = "Сайт защищается — открываем браузерным движком…"
+            val html = WebFetcher.fetch(context, perspective.url)
+            if (html.length > 500) {
+                val fromWebView = withContext(Dispatchers.IO) {
+                    Reader.extract(html, perspective.url, perspective.headline)
+                }
+                if (fromWebView.paragraphs.isNotEmpty()) extracted = fromWebView
+            }
+        }
+
+        val result = extracted
+        if (result != null && result.paragraphs.isNotEmpty()) {
+            article = result
+        } else {
+            failed = true
         }
     }
 
@@ -165,8 +179,18 @@ fun ReaderScreen(
                 }
             }
             else -> {
-                Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Column(
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                    modifier = Modifier.fillMaxSize()
+                ) {
+                    Spacer(Modifier.weight(1f))
                     CircularProgressIndicator(color = Prizma.accent)
+                    Text(
+                        stage,
+                        color = Prizma.textTertiary, fontSize = 13.sp,
+                        modifier = Modifier.padding(top = 14.dp)
+                    )
+                    Spacer(Modifier.weight(1f))
                 }
             }
         }
