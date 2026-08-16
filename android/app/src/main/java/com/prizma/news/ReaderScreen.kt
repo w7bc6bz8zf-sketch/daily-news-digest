@@ -50,6 +50,20 @@ fun ReaderScreen(
 
     LaunchedEffect(perspective.url) {
         withContext(Dispatchers.IO) {
+            // 1) Полный текст уже пришёл в RSS (content:encoded) — сеть не нужна
+            if (perspective.content.length > 300) {
+                val extracted = Reader.extract(
+                    perspective.content, perspective.url, perspective.headline
+                )
+                val paragraphs = extracted.paragraphs.ifEmpty {
+                    listOf(RssParser.stripHtml(perspective.content))
+                }
+                withContext(Dispatchers.Main) {
+                    article = Reader.Article(perspective.headline, paragraphs)
+                }
+                return@withContext
+            }
+            // 2) Иначе скачиваем страницу и вычищаем
             try {
                 val html = vm.fetch(perspective.url)
                 val extracted = Reader.extract(html, perspective.url, perspective.headline)
@@ -121,26 +135,33 @@ fun ReaderScreen(
             }
             failed -> {
                 Column(
-                    horizontalAlignment = Alignment.CenterHorizontally,
                     modifier = Modifier
                         .fillMaxSize()
-                        .padding(24.dp)
+                        .padding(horizontal = 20.dp, vertical = 12.dp)
                 ) {
-                    Spacer(Modifier.weight(1f))
                     Text(
-                        "Не удалось извлечь текст статьи",
-                        color = Prizma.textSecondary, fontSize = 15.sp
+                        perspective.headline,
+                        fontSize = 21.sp, fontWeight = FontWeight.ExtraBold,
+                        lineHeight = 27.sp,
+                        color = MaterialTheme.colorScheme.onBackground
                     )
-                    Spacer(Modifier.width(8.dp))
+                    if (perspective.excerpt.isNotEmpty()) {
+                        Spacer(Modifier.width(1.dp))
+                        Text(
+                            perspective.excerpt,
+                            fontSize = 15.sp, lineHeight = 22.sp,
+                            color = MaterialTheme.colorScheme.onSurface,
+                            modifier = Modifier.padding(top = 12.dp)
+                        )
+                    }
                     Text(
-                        "Открыть в браузере",
-                        color = Prizma.accent, fontSize = 16.sp,
+                        "Сайт не отдаёт полный текст — открыть в браузере →",
+                        color = Prizma.accent, fontSize = 15.sp,
                         fontWeight = FontWeight.Bold,
                         modifier = Modifier
-                            .padding(top = 12.dp)
+                            .padding(top = 16.dp)
                             .clickable { onOpenBrowser(perspective.url) }
                     )
-                    Spacer(Modifier.weight(1f))
                 }
             }
             else -> {
