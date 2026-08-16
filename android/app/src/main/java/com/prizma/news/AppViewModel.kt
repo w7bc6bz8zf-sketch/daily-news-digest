@@ -63,10 +63,23 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         refresh()
     }
 
+    var customFeedStatus by mutableStateOf<Map<String, String>>(emptyMap())
+        private set
+
     fun refresh() {
+        viewModelScope.launch { refreshAndWait() }
+    }
+
+    /// Для pull-to-refresh: возвращается только после полного окончания
+    /// загрузки, чтобы индикатор гарантированно закрылся
+    suspend fun refreshAndWait() {
+        if (isLoading) {
+            while (isLoading) kotlinx.coroutines.delay(100)
+            return
+        }
         isLoading = true
         error = null
-        viewModelScope.launch(Dispatchers.IO) {
+        withContext(Dispatchers.IO) {
             try {
                 val body = fetch(FEED_URL)
                 val digest = json.decodeFromString<NewsDigest>(body)
@@ -77,15 +90,24 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
                     if (stories.isEmpty()) error = "Не удалось загрузить новости. Проверьте соединение."
                 }
             }
-            // Пользовательские RSS-ленты — каждая независимо, ошибки не мешают
+            // Пользовательские RSS-ленты — каждая независимо, со статусом
             val custom = mutableListOf<Story>()
+            val status = mutableMapOf<String, String>()
             for (feedUrl in customFeeds) {
-                runCatching {
-                    custom += RssParser.parse(fetch(feedUrl), feedUrl)
+                try {
+                    val items = RssParser.parse(fetch(feedUrl), feedUrl)
+                    custom += items
+                    status[feedUrl] = if (items.isEmpty())
+                        "лента пуста или это не RSS-адрес"
+                    else
+                        "✓ записей: ${items.size}"
+                } catch (e: Exception) {
+                    status[feedUrl] = "ошибка загрузки — проверьте адрес"
                 }
             }
             withContext(Dispatchers.Main) {
                 customStories = custom
+                customFeedStatus = status
                 isLoading = false
             }
         }
@@ -110,6 +132,7 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
 
     val availableCategories: List<String>
         get() = (stories + customStories).map { it.category }.distinct()
+            .sortedByDescending { it == "Мои источники" }   // свои ленты — первым чипом
 
     val displayedStories: List<Story>
         get() {
@@ -128,6 +151,7 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
                 list = list.withIndex().sortedByDescending { (idx, story) ->
                     var score = -idx * 0.1
                     score += matchedTopics(story).size * 6.0
+                    if (story.category == "Мои источники") score += 2.0
                     if (total > 0) score += (categoryWeights[story.category] ?: 0.0) / total * 3.0
                     if (readIds.contains(story.id)) score -= 12.0
                     score

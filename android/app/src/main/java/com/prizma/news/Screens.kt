@@ -262,10 +262,10 @@ fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
         val list = vm.displayedStories
         val ptrState = androidx.compose.material3.pulltorefresh.rememberPullToRefreshState()
         if (ptrState.isRefreshing) {
-            androidx.compose.runtime.LaunchedEffect(true) { vm.refresh() }
-        }
-        androidx.compose.runtime.LaunchedEffect(vm.isLoading) {
-            if (!vm.isLoading && ptrState.isRefreshing) ptrState.endRefresh()
+            androidx.compose.runtime.LaunchedEffect(true) {
+                vm.refreshAndWait()      // ждём полного окончания загрузки…
+                ptrState.endRefresh()    // …и гарантированно убираем индикатор
+            }
         }
 
         Box(
@@ -685,16 +685,31 @@ fun SettingsScreen(vm: AppViewModel) {
                 vm.customFeeds.forEach { feedUrl ->
                     Spacer(Modifier.height(6.dp))
                     Row(verticalAlignment = Alignment.CenterVertically) {
-                        Text(
-                            feedUrl, fontSize = 12.sp,
-                            color = MaterialTheme.colorScheme.onSurface,
-                            maxLines = 1, overflow = TextOverflow.Ellipsis,
-                            modifier = Modifier.weight(1f)
-                        )
+                        Column(modifier = Modifier.weight(1f)) {
+                            Text(
+                                feedUrl, fontSize = 12.sp,
+                                color = MaterialTheme.colorScheme.onSurface,
+                                maxLines = 1, overflow = TextOverflow.Ellipsis
+                            )
+                            val status = vm.customFeedStatus[feedUrl] ?: "загружается…"
+                            Text(
+                                status, fontSize = 11.sp,
+                                color = if (status.startsWith("ошибка") || status.startsWith("лента пуста"))
+                                    androidx.compose.ui.graphics.Color(0xFFFF6B6B)
+                                else Prizma.textTertiary
+                            )
+                        }
                         IconButton(onClick = { vm.removeCustomFeed(feedUrl) }) {
                             Icon(Icons.Filled.Clear, "Удалить", tint = Prizma.textTertiary)
                         }
                     }
+                }
+                if (vm.customFeeds.isNotEmpty()) {
+                    Spacer(Modifier.height(6.dp))
+                    Text(
+                        "Записи из ваших лент — в чипе «Мои источники» в начале списка категорий",
+                        fontSize = 11.sp, color = Prizma.textTertiary
+                    )
                 }
             }
         }
