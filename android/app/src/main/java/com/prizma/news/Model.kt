@@ -41,6 +41,9 @@ data class Perspective(
     val excerpt: String = "",
     val url: String = "",
     @SerialName("published_at") val publishedAt: String? = null,
+    // Полный HTML статьи из RSS (content:encoded) — читалка показывает его
+    // без похода на сайт. В основной ленте поля нет — остаётся пустым.
+    val content: String = "",
 )
 
 fun relativeTime(iso: String?): String {

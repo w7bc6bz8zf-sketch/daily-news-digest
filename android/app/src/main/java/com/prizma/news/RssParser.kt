@@ -18,17 +18,22 @@ object RssParser {
         var channelTitleSet = false
         var inItem = false
         var current = ""
-        var title = ""; var link = ""; var desc = ""; var pub: String? = null; var img = ""
+        var title = ""; var link = ""; var desc = ""; var pub: String? = null
+        var img = ""; var contentHtml = ""
         val stories = mutableListOf<Story>()
 
         var event = parser.eventType
         while (event != XmlPullParser.END_DOCUMENT) {
             when (event) {
                 XmlPullParser.START_TAG -> {
-                    current = parser.name?.lowercase() ?: ""
+                    // Без обработки неймспейсов имя тега приходит с префиксом
+                    // («media:content», «content:encoded») — берём локальную часть
+                    current = parser.name?.substringAfterLast(':')?.lowercase() ?: ""
                     when (current) {
                         "item", "entry" -> {
-                            inItem = true; title = ""; link = ""; desc = ""; pub = null; img = ""
+                            inItem = true
+                            title = ""; link = ""; desc = ""; pub = null
+                            img = ""; contentHtml = ""
                         }
                         "enclosure", "content", "thumbnail" -> if (inItem && img.isEmpty()) {
                             parser.getAttributeValue(null, "url")?.let {
@@ -53,6 +58,8 @@ object RssParser {
                                 "link" -> if (link.isEmpty()) link = text
                                 "description", "summary" ->
                                     if (desc.length < 100) desc = stripHtml(text)
+                                "encoded" ->   // content:encoded — полный HTML статьи
+                                    if (contentHtml.length < 40000) contentHtml += text
                                 "pubdate", "published", "date" -> pub = text
                             }
                         }
@@ -79,8 +86,10 @@ object RssParser {
                                         source = channelTitle,
                                         lang = lang,
                                         headline = cleanTitle,
-                                        excerpt = desc.take(400),
+                                        excerpt = desc.take(400)
+                                            .ifEmpty { stripHtml(contentHtml).take(400) },
                                         url = link,
+                                        content = contentHtml.take(40000),
                                     )
                                 ),
                             )

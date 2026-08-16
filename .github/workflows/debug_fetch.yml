@@ -1,0 +1,53 @@
+name: Debug Fetch
+
+# Диагностика проблемной RSS-ленты или страницы на реальной сети:
+# Actions → Debug Fetch → Run workflow → вставить адрес.
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Адрес RSS-ленты или страницы"
+        required: true
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -q requests feedparser trafilatura
+
+      - name: Probe
+        env:
+          URL: ${{ inputs.url }}
+        run: |
+          python3 - <<'EOF'
+          import os, requests, feedparser, trafilatura
+          ua = {"User-Agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"}
+          url = os.environ["URL"]
+          r = requests.get(url, headers=ua, timeout=20, allow_redirects=True)
+          print(f"=== {url}\nstatus={r.status_code} final_url={r.url}")
+          print(f"content-type={r.headers.get('content-type')}")
+          feed = feedparser.parse(r.content)
+          print(f"\nRSS: entries={len(feed.entries)} feed_title={feed.feed.get('title')}")
+          for e in feed.entries[:3]:
+              print(f"  - title: {e.get('title','')[:70]}")
+              print(f"    link:  {e.get('link','')}")
+              has_content = bool(e.get('content')) or bool(e.get('summary'))
+              clen = sum(len(c.get('value','')) for c in e.get('content', []) or [])
+              print(f"    content:encoded len={clen} summary len={len(e.get('summary',''))}")
+          if feed.entries:
+              link = feed.entries[0].get("link", "")
+              if link:
+                  ar = requests.get(link, headers=ua, timeout=20, allow_redirects=True)
+                  print(f"\nСтатья: status={ar.status_code} final={ar.url[:90]}")
+                  text = trafilatura.extract(ar.text) or ""
+                  print(f"Извлечено символов: {len(text)}")
+                  print(text[:400])
+          EOF
