@@ -48,6 +48,7 @@ fun ReaderScreen(
     var article by remember { mutableStateOf<Reader.Article?>(null) }
     var failed by remember { mutableStateOf(false) }
     var stage by remember { mutableStateOf("Загружаем статью…") }
+    var diagnostics by remember { mutableStateOf("") }
     val context = androidx.compose.ui.platform.LocalContext.current
 
     LaunchedEffect(perspective.url) {
@@ -64,28 +65,41 @@ fun ReaderScreen(
         }
 
         // 2) Быстрый путь: прямое скачивание страницы
-        var extracted: Reader.Article? = withContext(Dispatchers.IO) {
-            runCatching {
-                Reader.extract(vm.fetch(perspective.url), perspective.url, perspective.headline)
-            }.getOrNull()
+        val report = StringBuilder()
+        var extracted: Reader.Article? = null
+        val directResult = withContext(Dispatchers.IO) {
+            runCatching { vm.fetch(perspective.url) }
         }
-
-        // 3) Сайт отдал заглушку — рендерим настоящим браузерным движком
-        if (extracted == null || extracted.paragraphs.size < 2) {
-            stage = "Сайт защищается — открываем браузерным движком…"
-            // Страховочный таймаут снаружи: что бы ни случилось внутри,
-            // через 20с показываем фолбэк-экран, а не вечный спиннер
-            val html = kotlinx.coroutines.withTimeoutOrNull(20_000) {
-                WebFetcher.fetch(context, perspective.url)
-            } ?: ""
-            if (html.length > 500) {
-                val fromWebView = withContext(Dispatchers.IO) {
+        directResult.fold(
+            onSuccess = { html ->
+                val e = withContext(Dispatchers.IO) {
                     Reader.extract(html, perspective.url, perspective.headline)
                 }
-                if (fromWebView.paragraphs.isNotEmpty()) extracted = fromWebView
+                report.append("прямое: ${html.length} симв., абзацев ${e.paragraphs.size}")
+                if (e.paragraphs.size >= 2) extracted = e
+            },
+            onFailure = { report.append("прямое: ${it.message?.take(50) ?: "ошибка"}") }
+        )
+
+        // 3) Сайт отдал заглушку — рендерим настоящим браузерным движком
+        if (extracted == null) {
+            stage = "Сайт защищается — открываем браузерным движком…"
+            // Страховка снаружи: вечный спиннер невозможен
+            val html = kotlinx.coroutines.withTimeoutOrNull(25_000) {
+                WebFetcher.fetch(context, perspective.url)
+            } ?: ""
+            val fromWebView = if (html.length > 500) {
+                withContext(Dispatchers.IO) {
+                    Reader.extract(html, perspective.url, perspective.headline)
+                }
+            } else null
+            report.append(" · движок: ${html.length} симв., абзацев ${fromWebView?.paragraphs?.size ?: 0}")
+            if (fromWebView != null && fromWebView.paragraphs.isNotEmpty()) {
+                extracted = fromWebView
             }
         }
 
+        diagnostics = report.toString()
         val result = extracted
         if (result != null && result.paragraphs.isNotEmpty()) {
             article = result
@@ -180,6 +194,13 @@ fun ReaderScreen(
                             .padding(top = 16.dp)
                             .clickable { onOpenBrowser(perspective.url) }
                     )
+                    if (diagnostics.isNotEmpty()) {
+                        Text(
+                            diagnostics,
+                            color = Prizma.textTertiary, fontSize = 11.sp,
+                            modifier = Modifier.padding(top = 10.dp)
+                        )
+                    }
                 }
             }
             else -> {
