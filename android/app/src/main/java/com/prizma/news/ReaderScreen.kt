@@ -73,7 +73,11 @@ fun ReaderScreen(
         // 3) Сайт отдал заглушку — рендерим настоящим браузерным движком
         if (extracted == null || extracted.paragraphs.size < 2) {
             stage = "Сайт защищается — открываем браузерным движком…"
-            val html = WebFetcher.fetch(context, perspective.url)
+            // Страховочный таймаут снаружи: что бы ни случилось внутри,
+            // через 20с показываем фолбэк-экран, а не вечный спиннер
+            val html = kotlinx.coroutines.withTimeoutOrNull(20_000) {
+                WebFetcher.fetch(context, perspective.url)
+            } ?: ""
             if (html.length > 500) {
                 val fromWebView = withContext(Dispatchers.IO) {
                     Reader.extract(html, perspective.url, perspective.headline)
