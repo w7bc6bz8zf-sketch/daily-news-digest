@@ -27,8 +27,21 @@ import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Share
 import androidx.compose.material.icons.filled.Star
 import androidx.compose.material.icons.outlined.Star
+import androidx.compose.animation.Crossfade
+import androidx.compose.animation.animateColorAsState
+import androidx.compose.animation.core.Animatable
+import androidx.compose.animation.core.RepeatMode
+import androidx.compose.animation.core.Spring
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.animation.core.infiniteRepeatable
+import androidx.compose.animation.core.rememberInfiniteTransition
+import androidx.compose.animation.core.spring
+import androidx.compose.animation.core.tween
 import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.material.pullrefresh.pullRefresh
+import androidx.compose.material.icons.filled.Close
+import androidx.compose.ui.draw.alpha
+import androidx.compose.ui.draw.scale
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -197,10 +210,13 @@ fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
             )
             Spacer(Modifier.weight(1f))
             IconButton(onClick = { briefing.toggle(vm.displayedStories) }) {
-                Icon(
-                    Icons.Filled.PlayArrow, contentDescription = "Аудио-брифинг",
-                    tint = Prizma.accent
-                )
+                Crossfade(targetState = briefing.isPlaying, label = "briefing") { playing ->
+                    Icon(
+                        if (playing) Icons.Filled.Close else Icons.Filled.PlayArrow,
+                        contentDescription = if (playing) "Остановить брифинг" else "Аудио-брифинг",
+                        tint = if (playing) Color(0xFFFF6B6B) else Prizma.accent
+                    )
+                }
             }
         }
 
@@ -272,10 +288,20 @@ fun FeedScreen(vm: AppViewModel, briefing: Briefing, onOpen: (Story) -> Unit) {
                 .fillMaxSize()
                 .pullRefresh(pullState)
         ) {
-            if (list.isEmpty()) {
+            if (list.isEmpty() && vm.isLoading) {
+                // Скелетоны на время первой загрузки
+                Column(
+                    verticalArrangement = Arrangement.spacedBy(10.dp),
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(horizontal = 16.dp)
+                ) {
+                    repeat(6) { SkeletonCard() }
+                }
+            } else if (list.isEmpty()) {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                     Text(
-                        vm.error ?: if (vm.isLoading) "Загружаем новости…" else "Ничего не найдено",
+                        vm.error ?: "Ничего не найдено",
                         color = Prizma.textSecondary
                     )
                 }
@@ -326,15 +352,39 @@ private fun ModeChip(title: String, selected: Boolean, onClick: () -> Unit) {
 @Composable
 private fun CategoryChip(title: String, selected: Boolean, onClick: () -> Unit) {
     val color = if (title == "Все") Prizma.accent else Prizma.categoryColor(title)
+    val bg by animateColorAsState(
+        if (selected) color else Prizma.chip, tween(220), label = "chipBg"
+    )
+    val fg by animateColorAsState(
+        if (selected) Color.White else Prizma.textSecondary, tween(220), label = "chipFg"
+    )
     Text(
         title,
         fontSize = 12.sp,
         fontWeight = FontWeight.Medium,
-        color = if (selected) Color.White else Prizma.textSecondary,
+        color = fg,
         modifier = Modifier
             .clickable(onClick = onClick)
-            .background(if (selected) color else Prizma.chip, CircleShape)
+            .background(bg, CircleShape)
             .padding(horizontal = 12.dp, vertical = 6.dp)
+    )
+}
+
+/// Мерцающая карточка-заглушка на время загрузки
+@Composable
+fun SkeletonCard() {
+    val transition = rememberInfiniteTransition(label = "skeleton")
+    val alpha by transition.animateFloat(
+        initialValue = 0.35f, targetValue = 0.8f,
+        animationSpec = infiniteRepeatable(tween(700), RepeatMode.Reverse),
+        label = "skeletonAlpha"
+    )
+    Box(
+        Modifier
+            .fillMaxWidth()
+            .height(110.dp)
+            .alpha(alpha)
+            .background(Prizma.card, RoundedCornerShape(18.dp))
     )
 }
 
@@ -376,11 +426,24 @@ fun DetailScreen(
                         fontSize = 12.sp, color = Prizma.textTertiary
                     )
                     Spacer(Modifier.weight(1f))
+                    val bookmarked = vm.isBookmarked(story)
+                    val bookmarkScale = androidx.compose.runtime.remember {
+                        Animatable(1f)
+                    }
+                    androidx.compose.runtime.LaunchedEffect(bookmarked) {
+                        if (bookmarked) {
+                            bookmarkScale.snapTo(1.4f)
+                            bookmarkScale.animateTo(
+                                1f, spring(dampingRatio = Spring.DampingRatioMediumBouncy)
+                            )
+                        }
+                    }
                     IconButton(onClick = { vm.toggleBookmark(story) }) {
                         Icon(
-                            if (vm.isBookmarked(story)) Icons.Filled.Star else Icons.Outlined.Star,
+                            if (bookmarked) Icons.Filled.Star else Icons.Outlined.Star,
                             contentDescription = "Закладка",
-                            tint = Prizma.accent
+                            tint = if (bookmarked) Color(0xFFFFC94F) else Prizma.accent,
+                            modifier = Modifier.scale(bookmarkScale.value)
                         )
                     }
                     IconButton(onClick = {
@@ -770,6 +833,42 @@ fun SettingsScreen(vm: AppViewModel) {
                         "Записи из ваших лент — в чипе «Мои источники» в начале списка категорий",
                         fontSize = 11.sp, color = Prizma.textTertiary
                     )
+                }
+            }
+        }
+        item {
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .prizmaCard()
+                    .padding(14.dp)
+            ) {
+                Text(
+                    "Издания дайджеста",
+                    fontSize = 16.sp, fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.onSurface
+                )
+                Spacer(Modifier.height(4.dp))
+                Text(
+                    "Выключенное издание скрывается из ленты (сюжет исчезает, только если выключены все его источники)",
+                    fontSize = 12.sp, color = Prizma.textSecondary
+                )
+                Spacer(Modifier.height(4.dp))
+                vm.allSources.forEach { source ->
+                    Row(
+                        verticalAlignment = Alignment.CenterVertically,
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text(
+                            source, fontSize = 13.sp,
+                            color = MaterialTheme.colorScheme.onSurface,
+                            modifier = Modifier.weight(1f)
+                        )
+                        Switch(
+                            checked = source !in vm.hiddenSources,
+                            onCheckedChange = { vm.toggleSourceHidden(source) }
+                        )
+                    }
                 }
             }
         }

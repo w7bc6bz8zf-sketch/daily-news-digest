@@ -6,7 +6,16 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
+import androidx.compose.animation.AnimatedContent
+import androidx.compose.animation.Crossfade
+import androidx.compose.animation.core.tween
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.slideInHorizontally
+import androidx.compose.animation.slideOutHorizontally
+import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
@@ -66,40 +75,67 @@ fun PrizmaApp(onShare: (String) -> Unit, onOpenUrl: (String) -> Unit) {
 
     LaunchedEffect(Unit) { vm.loadInitial() }
 
-    // Встроенная читалка поверх всего
-    val article = openArticle
-    if (article != null) {
-        BackHandler { openArticle = null }
-        androidx.compose.foundation.layout.Box(
-            Modifier
-                .fillMaxSize()
-                .background(Prizma.backgroundBrush)
-        ) {
-            ReaderScreen(
-                perspective = article,
-                vm = vm,
-                onBack = { openArticle = null },
-                onShare = onShare,
-                onOpenBrowser = onOpenUrl,
-            )
-        }
-        return
-    }
+    Crossfade(targetState = vm.hasOnboarded, label = "root") { onboarded ->
+        if (!onboarded) {
+            OnboardingScreen(vm)
+        } else {
+            BackHandler(enabled = openArticle != null || openStory != null) {
+                if (openArticle != null) openArticle = null else openStory = null
+            }
 
-    val story = openStory
-    if (story != null) {
-        BackHandler { openStory = null }
-        androidx.compose.foundation.layout.Box(
-            Modifier
-                .fillMaxSize()
-                .background(Prizma.backgroundBrush)
-        ) {
-            DetailScreen(story, vm, onShare) { perspective -> openArticle = perspective }
-        }
-        LaunchedEffect(story.id) { vm.markRead(story) }
-        return
-    }
+            AnimatedContent(
+                targetState = Pair(openStory, openArticle),
+                transitionSpec = {
+                    (slideInHorizontally(tween(260)) { it / 3 } + fadeIn(tween(260)))
+                        .togetherWith(
+                            slideOutHorizontally(tween(200)) { -it / 4 } + fadeOut(tween(200))
+                        )
+                },
+                label = "nav"
+            ) { (story, article) ->
+                when {
+                    article != null -> Box(
+                        Modifier
+                            .fillMaxSize()
+                            .background(Prizma.backgroundBrush)
+                    ) {
+                        ReaderScreen(
+                            perspective = article,
+                            vm = vm,
+                            onBack = { openArticle = null },
+                            onShare = onShare,
+                            onOpenBrowser = onOpenUrl,
+                        )
+                    }
 
+                    story != null -> Box(
+                        Modifier
+                            .fillMaxSize()
+                            .background(Prizma.backgroundBrush)
+                    ) {
+                        DetailScreen(story, vm, onShare) { perspective ->
+                            openArticle = perspective
+                        }
+                        LaunchedEffect(story.id) { vm.markRead(story) }
+                    }
+
+                    else -> MainTabs(vm, briefing, tab,
+                        onTab = { tab = it },
+                        onOpen = { openStory = it })
+                }
+            }
+        }
+    }
+}
+
+@Composable
+private fun MainTabs(
+    vm: AppViewModel,
+    briefing: Briefing,
+    tab: Int,
+    onTab: (Int) -> Unit,
+    onOpen: (Story) -> Unit,
+) {
     Scaffold(
         containerColor = Color.Transparent,
         modifier = Modifier
@@ -116,7 +152,7 @@ fun PrizmaApp(onShare: (String) -> Unit, onOpenUrl: (String) -> Unit) {
                 items.forEach { (title, icon, index) ->
                     NavigationBarItem(
                         selected = tab == index,
-                        onClick = { tab = index },
+                        onClick = { onTab(index) },
                         icon = { Icon(icon, contentDescription = title) },
                         label = { Text(title) },
                         colors = NavigationBarItemDefaults.colors(
@@ -131,12 +167,14 @@ fun PrizmaApp(onShare: (String) -> Unit, onOpenUrl: (String) -> Unit) {
             }
         }
     ) { padding ->
-        androidx.compose.foundation.layout.Box(Modifier.padding(padding)) {
-            when (tab) {
-                0 -> FeedScreen(vm, briefing) { openStory = it }
-                1 -> MySourcesScreen(vm) { openStory = it }
-                2 -> BookmarksScreen(vm) { openStory = it }
-                else -> SettingsScreen(vm)
+        Box(Modifier.padding(padding)) {
+            Crossfade(targetState = tab, label = "tabs") { current ->
+                when (current) {
+                    0 -> FeedScreen(vm, briefing, onOpen)
+                    1 -> MySourcesScreen(vm, onOpen)
+                    2 -> BookmarksScreen(vm, onOpen)
+                    else -> SettingsScreen(vm)
+                }
             }
         }
     }

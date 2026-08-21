@@ -51,6 +51,12 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         private set
     var customFeeds by mutableStateOf<List<String>>(loadStringList("customFeeds"))
         private set
+    var hasOnboarded by mutableStateOf(prefs.getBoolean("hasOnboarded", false))
+        private set
+    var hiddenSources by mutableStateOf<Set<String>>(
+        prefs.getStringSet("hiddenSources", emptySet())!!.toSet()
+    )
+        private set
     private var customStories by mutableStateOf<List<Story>>(emptyList())
     private var categoryWeights: MutableMap<String, Double> = loadWeights()
 
@@ -167,6 +173,9 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         get() {
             var list = (stories + customStories).filter { story ->
                 if (russianOnly && story.lang != "ru") return@filter false
+                if (hiddenSources.isNotEmpty() && story.sourceNames.isNotEmpty()
+                    && story.sourceNames.all { it in hiddenSources }
+                ) return@filter false
                 selectedCategory?.let { if (story.category != it) return@filter false }
                 if (searchText.isNotBlank()) {
                     val haystack = (story.headline + " " + story.headlineEn + " " + story.preview)
@@ -249,6 +258,21 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     fun unfollowTopic(topic: String) {
         topics = topics.filterNot { it == topic }
         saveStringList("topics", topics)
+    }
+
+    fun completeOnboarding() {
+        hasOnboarded = true
+        prefs.edit().putBoolean("hasOnboarded", true).apply()
+    }
+
+    /// Все издания основной ленты — для экрана скрытия источников
+    val allSources: List<String>
+        get() = stories.flatMap { it.sourceNames }.distinct().sorted()
+
+    fun toggleSourceHidden(source: String) {
+        hiddenSources = if (source in hiddenSources) hiddenSources - source
+                        else hiddenSources + source
+        prefs.edit().putStringSet("hiddenSources", hiddenSources).apply()
     }
 
     fun addCustomFeed(raw: String) {
