@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Спектральные лучи из правой грани призмы -->
+    <path
+        android:pathData="M54,56 L88,38 L88,46 Z"
+        android:fillColor="#6659E6" />
+    <path
+        android:pathData="M54,56 L88,50 L88,58 Z"
+        android:fillColor="#9E52DE" />
+    <path
+        android:pathData="M54,56 L88,62 L88,70 Z"
+        android:fillColor="#E55999" />
+    <!-- Белый входящий луч слева -->
+    <path
+        android:pathData="M20,64 L54,55 L54,58 L20,67 Z"
+        android:fillColor="#F0F0FF" />
+    <!-- Треугольник призмы -->
+    <path
+        android:pathData="M54,34 L38,68 L70,68 Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M54,40 L43,64 L65,64 Z"
+        android:fillColor="#241D4E" />
+</vector>
